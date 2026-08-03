@@ -21,18 +21,16 @@ tags:
 
 # Como usar este curso
 
-<div class="lesson-header" markdown>
+<section class="lesson-goal">
+  <h2>Nesta aula você vai aprender</h2>
+  <p>mostrar exatamente o que você deve fazer para estudar sem se perder.</p>
+</section>
 
-**Guia do candidato**
-
-Módulo 1 • Primeiros passos
-
-Aula 1 de 1
-
-**Tempo estimado:** cerca de 25 minutos
-
-**Objetivo:** mostrar exatamente o que você deve fazer para estudar sem se perder.
-
+<div class="lesson-meta-grid">
+  <div class="lesson-meta-card"><span>Disciplina</span><strong>Guia do candidato</strong></div>
+  <div class="lesson-meta-card"><span>Módulo</span><strong>1 • Primeiros passos</strong></div>
+  <div class="lesson-meta-card"><span>Aula</span><strong>1 de 1</strong></div>
+  <div class="lesson-meta-card"><span>Tempo estimado</span><strong>Cerca de 25 minutos</strong></div>
 </div>
 
 ## Oi! Vamos começar?

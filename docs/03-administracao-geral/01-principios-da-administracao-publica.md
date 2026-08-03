@@ -24,18 +24,16 @@ tags:
 
 # Princípios da Administração Pública
 
-<div class="lesson-header" markdown>
+<section class="lesson-goal">
+  <h2>Nesta aula você vai aprender</h2>
+  <p>entender os cinco cuidados básicos que todo órgão público deve seguir e conhecer os nomes usados na prova.</p>
+</section>
 
-**Administração Geral**
-
-Módulo 1 • Fundamentos da Administração Pública
-
-Aula 1 de 5
-
-**Tempo estimado:** cerca de 90 minutos
-
-**Objetivo:** entender os cinco cuidados básicos que todo órgão público deve seguir e conhecer os nomes usados na prova.
-
+<div class="lesson-meta-grid">
+  <div class="lesson-meta-card"><span>Disciplina</span><strong>Administração Geral</strong></div>
+  <div class="lesson-meta-card"><span>Módulo</span><strong>1 • Fundamentos da Administração Pública</strong></div>
+  <div class="lesson-meta-card"><span>Aula</span><strong>1 de 5</strong></div>
+  <div class="lesson-meta-card"><span>Tempo estimado</span><strong>Cerca de 90 minutos</strong></div>
 </div>
 
 ## Objetivos da aula
