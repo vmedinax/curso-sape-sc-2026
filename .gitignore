@@ -1,0 +1,38 @@
+# Ambientes e dependências
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.python-version
+
+# MkDocs e artefatos gerados
+site/
+build/
+dist/
+*.pdf
+*.docx
+*.zip
+
+# Ferramentas e caches
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Editores e sistema operacional
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.temp
+~$*

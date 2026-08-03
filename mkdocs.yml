@@ -1,0 +1,81 @@
+site_name: Curso Preparatório SAPE/SC 2026
+site_description: Plataforma editorial do curso preparatório para o concurso SAPE/SC
+site_author: Equipe do Curso SAPE/SC
+site_url: https://vmedinax.github.io/curso-sape-sc-2026/
+repo_name: vmedinax/curso-sape-sc-2026
+repo_url: https://github.com/vmedinax/curso-sape-sc-2026
+edit_uri: edit/develop/docs/
+docs_dir: docs
+site_dir: site
+use_directory_urls: true
+strict: true
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - content.action.edit
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Usar tema escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Usar tema claro
+
+plugins:
+  - search:
+      lang: pt
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      title: Nesta página
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Início: index.md
+  - Guia do candidato: 00-guia-do-candidato/index.md
+  - Disciplinas:
+      - Português: 01-portugues/index.md
+      - Raciocínio lógico: 02-raciocinio-logico/index.md
+      - Administração geral: 03-administracao-geral/index.md
+      - Administração pública: 04-administracao-publica/index.md
+      - Direito constitucional: 05-direito-constitucional/index.md
+      - Direito administrativo: 06-direito-administrativo/index.md
+      - Administração financeira e orçamentária: 07-afo/index.md
+      - Licitações: 08-licitacoes/index.md
+      - Informática: 09-informatica/index.md
+      - Legislação: 10-legislacao/index.md
+      - Conhecimentos específicos: 11-conhecimentos-especificos/index.md
+
+copyright: Copyright © 2026 — direitos e licença em definição
