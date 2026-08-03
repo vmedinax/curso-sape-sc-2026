@@ -148,7 +148,7 @@ Para verificar competência, observe alguns limites.
 
 **Tradução:** a autoridade só pode agir enquanto possui legitimamente aquela função.
 
-!!! tip "Dica"
+!!! tip "Dica VX"
     Use quatro perguntas: “sobre o quê?”, “onde?”, “em qual nível?” e “quando?”. Elas localizam os limites da competência.
 
 ## Características gerais
@@ -175,7 +175,7 @@ Ela é **específica**: existe para matérias e finalidades determinadas.
 
 Ela também é **limitada**: não existe autoridade administrativa sem fronteira jurídica.
 
-!!! warning "Ponto de atenção"
+!!! warning "Isso costuma confundir"
     Irrenunciável não significa que todo ato deve ser praticado pessoalmente pelo titular. A lei pode permitir delegação. Nesse caso, muda o exercício de parte da competência, não sua origem normativa.
 
 ## Delegação
@@ -225,7 +225,7 @@ No modelo da Lei Federal nº 9.784/1999, a avocação deve ser:
 
 **Excepcional** significa fora da rotina comum e dependente de razão adequada.
 
-!!! warning "Ponto de atenção"
+!!! warning "Isso costuma confundir"
     Delegação e avocação não são opostos perfeitos em qualquer situação. Delegação pode ocorrer, no modelo federal, até sem subordinação hierárquica. Avocação exige relação hierárquica e ocorre de baixo para cima.
 
 ## Hierarquia, vinculação e coordenação
@@ -273,6 +273,12 @@ Isso mostra uma regra prática: o nome da unidade ajuda, mas a competência prec
 5. Confirme se houve delegação ou avocação.
 6. Leia os limites do ato de delegação ou da norma aplicável.
 7. Verifique se a finalidade pública foi respeitada.
+
+!!! note "Traduzindo"
+    **Capacidade jurídica** pertence à pessoa e permite ter direitos e deveres. **Competência** indica quem pode agir. **Delegação** permite que outro exerça parte da competência. **Avocação** chama temporariamente a tarefa para a autoridade superior.
+
+!!! question "Pausa para refletir"
+    Uma autoridade superior chama temporariamente uma tarefa de unidade inferior. Em outro caso, duas unidades apenas combinam esforços. Quais são os termos? Resposta esperada: avocação e coordenação.
 
 ## Resumo
 
@@ -400,4 +406,4 @@ E. avocação regular.
 
 [← Aula anterior](04-administracao-publica-de-santa-catarina.md){ .md-button }
 
-**Próxima aula → Em preparação**
+[Próxima etapa • Questões comentadas →](modulo-01-questoes-comentadas.md){ .md-button .md-button--primary }

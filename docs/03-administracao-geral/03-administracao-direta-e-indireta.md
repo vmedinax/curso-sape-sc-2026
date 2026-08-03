@@ -121,7 +121,7 @@ Uma entidade é uma pessoa jurídica. Ela pode adquirir direitos, assumir devere
 
 **Personalidade jurídica** é a capacidade reconhecida pelo Direito para ter direitos e deveres.
 
-!!! tip "Dica"
+!!! tip "Dica VX"
     Pergunte: “Essa estrutura é parte de alguém ou é uma pessoa jurídica própria?”. Parte interna indica órgão. Pessoa própria indica entidade.
 
 ## Autarquia
@@ -161,7 +161,7 @@ Em Santa Catarina, a LC nº 741/2019 reconhece fundações públicas de direito 
 - Fundação de direito público segue regime próximo ao das autarquias.
 - Fundação de direito privado possui personalidade privada, mas continua sujeita a deveres públicos aplicáveis.
 
-!!! warning "Ponto de atenção"
+!!! warning "Isso costuma confundir"
     “Direito privado” não transforma a fundação pública em empresa particular. Ela continua integrando a Administração Indireta.
 
 ## Empresa pública
@@ -220,7 +220,7 @@ Primeiro, em linguagem simples:
 - na criação por lei, a própria lei faz nascer a entidade pública;
 - na autorização, a lei permite a criação, que será completada pelos atos jurídicos necessários.
 
-!!! warning "Ponto de atenção"
+!!! warning "Isso costuma confundir"
     Não troque “criada” por “autorizada”. A Constituição usa verbos diferentes. Autarquia é criada por lei. Empresa pública e sociedade de economia mista têm a criação autorizada por lei.
 
 ## Vinculação não é hierarquia
@@ -251,6 +251,12 @@ Hierarquia ocorre dentro da mesma pessoa jurídica. Vinculação conecta pessoas
 4. Verifique o modo de criação.
 5. Se for empresa estatal, examine capital e forma societária.
 6. Não confunda vinculação com subordinação hierárquica.
+
+!!! note "Traduzindo"
+    **Personalidade jurídica** é poder ter direitos e deveres em nome próprio. **Capital social** é o valor colocado pelos proprietários. **Sociedade anônima** é a empresa cujo capital se divide em ações. **Vinculação** é supervisão limitada entre pessoas jurídicas diferentes.
+
+!!! question "Pausa para refletir"
+    Uma entidade tem capital totalmente público. Outra possui ações privadas, mas o Estado controla os votos. Como você classifica cada uma? Resposta esperada: empresa pública e sociedade de economia mista.
 
 ## Resumo
 

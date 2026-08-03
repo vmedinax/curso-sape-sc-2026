@@ -121,7 +121,7 @@ Na vida privada, uma pessoa pode fazer tudo que a lei não proíbe. Na atuação
 !!! example "Exemplo"
     Um setor público não pode criar uma taxa por mensagem interna. Cobrar dinheiro do cidadão exige base jurídica adequada. A vontade do gestor, sozinha, não basta.
 
-!!! warning "Ponto de atenção"
+!!! warning "Isso costuma confundir"
     Legalidade não significa procurar apenas uma lei com esse nome. A Administração deve respeitar todo o conjunto jurídico aplicável. Também não significa que o agente pode escolher qualquer medida que a lei não proíba de forma expressa.
 
 ## Impessoalidade
@@ -145,7 +145,7 @@ Ele aparece em três ideias práticas:
 !!! example "Exemplo"
     Uma campanha paga com recursos públicos deve informar ou orientar a população. Se ela usa nome, símbolo ou imagem para promover pessoalmente uma autoridade, perde a finalidade informativa e entra em conflito com a impessoalidade.
 
-!!! tip "Dica"
+!!! tip "Dica VX"
     Diante de um caso, pergunte: “A decisão mudou por causa de quem é a pessoa?” e “O agente usou o cargo para interesse próprio?”. Se a resposta for sim, investigue impessoalidade.
 
 ## Moralidade
@@ -165,7 +165,7 @@ Não se trata do gosto pessoal de cada pessoa sobre o que é certo. Trata-se de 
 !!! example "Exemplo"
     Um gestor organiza uma contratação para favorecer uma empresa, mas cria documentos que dão aparência de regularidade. Mesmo que tente esconder a preferência dentro de formulários, a deslealdade com a finalidade pública aponta para violação da moralidade.
 
-!!! warning "Ponto de atenção"
+!!! warning "Isso costuma confundir"
     Moralidade administrativa não é sinônimo de moral pessoal. A prova pode apresentar uma conduta de que alguém não gosta, mas isso não basta. Procure desonestidade, deslealdade, má-fé ou uso indevido da função.
 
 ## Publicidade
@@ -207,7 +207,7 @@ Eficiência exige uma relação responsável entre os recursos usados e o result
 !!! example "Exemplo"
     Um setor reduz etapas repetidas, mantém a conferência necessária e entrega a mesma resposta em menos tempo. A mudança melhora o uso dos recursos sem abandonar a qualidade nem a lei.
 
-!!! warning "Ponto de atenção"
+!!! warning "Isso costuma confundir"
     Eficiência não autoriza cortar garantias ou ignorar regras. Fazer rápido uma atividade ilegal não é atuação eficiente. A Administração deve buscar desempenho dentro do Direito.
 
 ## Comparação dos cinco princípios
@@ -233,6 +233,12 @@ Uma única conduta pode atingir vários princípios.
 4. Procure a palavra decisiva: base jurídica, favoritismo, desonestidade, transparência ou desempenho.
 5. Verifique se mais de um princípio aparece.
 6. Escolha a alternativa que descreve o caso sem exagerar.
+
+!!! note "Traduzindo"
+    **Princípio** é uma orientação básica para agir. **LIMPE** reúne legalidade, impessoalidade, moralidade, publicidade e eficiência. Os nomes técnicos permanecem na prova; as perguntas do quadro comparativo mostram o significado simples de cada um.
+
+!!! question "Pausa para refletir"
+    Sem olhar o quadro, imagine um atendimento que favorece um amigo e ainda esconde o resultado. Quais princípios aparecem? Resposta esperada: impessoalidade, pelo favorecimento, e publicidade, pela falta de transparência.
 
 ## Resumo
 
