@@ -47,7 +47,7 @@ Leia `AGENTS.md`, `CONTRIBUTING.md` e `STYLE_GUIDE.md` antes de propor alteraç�
 
 ## Publicação e formatos
 
-Markdown será a fonte canônica. O site será preparado para GitHub Pages; PDF e Word serão gerados futuramente a partir da mesma fonte, sem manter exportações no Git.
+Markdown será a fonte canônica. O site será publicado no Cloudflare Pages a partir do repositório privado e protegido por autenticação HTTP Basic executada no servidor. Consulte o [guia de implantação no Cloudflare](CLOUDFLARE_DEPLOY.md). PDF e Word serão gerados futuramente a partir da mesma fonte, sem manter exportações no Git.
 
 ## Licença
 

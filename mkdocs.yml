@@ -1,7 +1,7 @@
 site_name: Curso Preparatório SAPE/SC 2026
 site_description: Plataforma editorial do curso preparatório para o concurso SAPE/SC
 site_author: Equipe do Curso SAPE/SC
-site_url: https://vmedinax.github.io/curso-sape-sc-2026/
+site_url: https://curso-sape-sc-2026.pages.dev/
 repo_name: vmedinax/curso-sape-sc-2026
 repo_url: https://github.com/vmedinax/curso-sape-sc-2026
 edit_uri: edit/main/docs/
@@ -64,6 +64,7 @@ markdown_extensions:
 
 nav:
   - Página inicial: index.md
+  - Mapa do curso: MAPA_DO_CURSO.md
   - Guia do candidato:
       - Visão geral: 00-guia-do-candidato/index.md
       - Como usar este curso: 00-guia-do-candidato/01-como-usar-este-curso.md
