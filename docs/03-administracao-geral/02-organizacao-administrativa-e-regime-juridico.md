@@ -106,7 +106,7 @@ Três palavras aparecem muitas vezes:
 
 As aulas 1.3 e 1.5 aprofundarão essas diferenças.
 
-!!! tip "Dica"
+!!! tip "Dica VX"
     Use a imagem de uma árvore. A pessoa jurídica é a árvore. Os órgãos são os galhos que fazem parte dela. Uma entidade não é um galho de outra pessoa: ela é outra árvore, com personalidade própria.
 
 ## Duas formas básicas de distribuir a atividade
@@ -141,7 +141,7 @@ Na descentralização:
 
 **Hierarquia** é uma relação interna de comando, revisão e organização entre níveis da mesma estrutura.
 
-!!! warning "Ponto de atenção"
+!!! warning "Isso costuma confundir"
     Desconcentração divide tarefas dentro da mesma pessoa jurídica. Descentralização envolve pessoas diferentes. A semelhança dos nomes não muda esse critério.
 
 ## Explicação simples: por que a Administração tem regras próprias
@@ -208,7 +208,7 @@ O agente não é dono da prerrogativa. Ele só pode usá-la quando houver fundam
 
 A Administração nem sempre atua somente com regras de Direito Público. Empresas estatais, contratos e relações de trabalho podem envolver normas privadas. Mesmo nesses casos, a presença estatal mantém deveres constitucionais e controles públicos aplicáveis.
 
-!!! warning "Ponto de atenção"
+!!! warning "Isso costuma confundir"
     “Pessoa de direito privado” não significa “fora da Administração Pública”. Empresas públicas e sociedades de economia mista possuem personalidade de direito privado e podem integrar a Administração Indireta.
 
 ## Quadro de tradução técnica
@@ -233,6 +233,12 @@ A Administração nem sempre atua somente com regras de Direito Público. Empres
 4. Procure o fundamento da atuação.
 5. Separe a ferramenta pública da finalidade que justifica seu uso.
 6. Verifique os limites e controles aplicáveis.
+
+!!! note "Traduzindo"
+    **Prerrogativa** é uma ferramenta da função pública. **Indisponibilidade** significa que o agente não é dono do interesse administrado. **Regime jurídico-administrativo** é o conjunto desses poderes e limites quando a Administração age sob regras de Direito Público.
+
+!!! question "Pausa para refletir"
+    Uma Secretaria cria duas diretorias. Depois, o Estado entrega outra atividade a uma autarquia. Qual medida é interna? Resposta esperada: a criação das diretorias é desconcentração; a atuação da autarquia envolve descentralização.
 
 ## Resumo
 

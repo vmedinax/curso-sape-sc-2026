@@ -127,7 +127,7 @@ A Secretaria Executiva da Aquicultura e Pesca integra a estrutura da SAPE na red
 
 **Secretaria Executiva** é uma unidade interna com tarefas específicas. Sua presença dentro da SAPE não cria outra pessoa jurídica.
 
-!!! tip "Dica"
+!!! tip "Dica VX"
     A palavra “Secretaria” indica, neste contexto, um órgão da Administração Direta. Não trate a SAPE como empresa, autarquia ou pessoa jurídica separada do Estado.
 
 ## Administração Indireta de Santa Catarina
@@ -161,7 +161,7 @@ Uma empresa pública possui personalidade jurídica própria. Uma Secretaria nã
 !!! example "Exemplo"
     A lei atribui à SAPE funções de planejamento e interação com CIDASC e EPAGRI. Isso não transforma as empresas em departamentos internos da Secretaria. A SAPE continua sendo órgão. CIDASC e EPAGRI continuam sendo entidades.
 
-!!! warning "Ponto de atenção"
+!!! warning "Isso costuma confundir"
     Interação, coordenação e vinculação não significam que as entidades perderam personalidade. Também não criam hierarquia ilimitada entre a Secretaria e a empresa pública.
 
 ## Modelo de gestão estadual
@@ -204,7 +204,7 @@ Cada sistema possui:
 - **Supervisionar:** acompanhar de forma geral.
 - **Fiscalizar:** verificar se regras e deveres estão sendo cumpridos.
 
-!!! warning "Ponto de atenção"
+!!! warning "Isso costuma confundir"
     Órgão central do sistema não significa que ele executará sozinho todas as atividades. A lei distribui coordenação e execução entre unidades centrais, setoriais e seccionais.
 
 ## Um roteiro para classificar estruturas estaduais
@@ -216,6 +216,12 @@ Cada sistema possui:
 5. Se houver, identifique a espécie da Administração Indireta.
 6. Se o caso falar em sistema administrativo, verifique se a unidade é central, setorial ou seccional.
 7. Separe vinculação de hierarquia.
+
+!!! note "Traduzindo"
+    **Órgão central** coordena o sistema. **Órgão setorial** executa atividades em órgão da Administração Direta. **Órgão seccional** executa atividades em entidade da Administração Indireta. A posição no sistema não muda a personalidade da estrutura.
+
+!!! question "Pausa para refletir"
+    Onde você colocaria SAPE, CIDASC e EPAGRI? Resposta esperada: SAPE é órgão da Administração Direta; CIDASC e EPAGRI são empresas públicas da Administração Indireta.
 
 ## Resumo
 

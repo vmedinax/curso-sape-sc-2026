@@ -59,6 +59,10 @@ markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
+  - pymdownx.snippets:
+      base_path:
+        - .
+      check_paths: true
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
@@ -77,5 +81,8 @@ nav:
           - Aula 3 • Administração direta e indireta: 03-administracao-geral/03-administracao-direta-e-indireta.md
           - Aula 4 • Administração Pública de Santa Catarina: 03-administracao-geral/04-administracao-publica-de-santa-catarina.md
           - Aula 5 • Competências dos órgãos e entidades: 03-administracao-geral/05-competencias-dos-orgaos-e-entidades.md
+          - Questões comentadas do Módulo 1: 03-administracao-geral/modulo-01-questoes-comentadas.md
+          - Revisão de 5 minutos do Módulo 1: 03-administracao-geral/modulo-01-revisao.md
+          - Simulado final do Módulo 1: 03-administracao-geral/modulo-01-simulado.md
 
 copyright: Copyright © 2026 — direitos e licença em definição
