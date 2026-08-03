@@ -2,7 +2,7 @@
 
 ## Escopo e fonte
 
-Este mapa cobre o programa do cargo de **Analista Técnico Administrativo II** do Concurso Público SAPE/SC, Edital 001/2026, consolidado com os Termos de Retificação nº 01, nº 02 e nº 03. A fonte normativa e a transcrição integral do programa estão em [`EDITAL.md`](../EDITAL.md).
+Este mapa cobre o programa do cargo de **Analista Técnico Administrativo II** do Concurso Público SAPE/SC, Edital 001/2026, consolidado com os Termos de Retificação nº 01, nº 02 e nº 03. A fonte normativa e a transcrição integral do programa estão no [`EDITAL.md` do repositório](https://github.com/vmedinax/curso-sape-sc-2026/blob/main/EDITAL.md).
 
 O mapa define módulos e títulos de aulas; ele **não contém aulas**. A divisão pedagógica não altera nem amplia o conteúdo oficial. Tópicos próximos foram ordenados para construir pré-requisitos antes de aplicações integradas.
 

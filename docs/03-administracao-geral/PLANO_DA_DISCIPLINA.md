@@ -4,7 +4,7 @@
 
 Este é o projeto pedagógico da disciplina. Ele define cobertura, sequência, objetivos e estratégias de aprendizagem. Não contém aulas nem acrescenta assuntos ao programa oficial.
 
-**Fonte de escopo:** Edital 001/2026 da SAPE/SC, Anexo 2, página 28, consolidado com os Termos de Retificação nº 01, nº 02 e nº 03. A transcrição está em [`EDITAL.md`](../../EDITAL.md), e a arquitetura geral está em [`MAPA_DO_CURSO.md`](../MAPA_DO_CURSO.md).
+**Fonte de escopo:** Edital 001/2026 da SAPE/SC, Anexo 2, página 28, consolidado com os Termos de Retificação nº 01, nº 02 e nº 03. A transcrição está no [`EDITAL.md` do repositório](https://github.com/vmedinax/curso-sape-sc-2026/blob/main/EDITAL.md), e a arquitetura geral está em [`MAPA_DO_CURSO.md`](../MAPA_DO_CURSO.md).
 
 O edital inclui esta disciplina no conjunto de Conhecimentos Específicos. Esse conjunto tem 35 questões, vale 7,00 pontos e representa 70% da prova. O edital não informa quantas questões serão destinadas a Administração Geral e Gestão Organizacional. Portanto, qualquer prioridade individual é editorial, não oficial.
 

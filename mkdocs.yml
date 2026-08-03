@@ -4,7 +4,7 @@ site_author: Equipe do Curso SAPE/SC
 site_url: https://vmedinax.github.io/curso-sape-sc-2026/
 repo_name: vmedinax/curso-sape-sc-2026
 repo_url: https://github.com/vmedinax/curso-sape-sc-2026
-edit_uri: edit/develop/docs/
+edit_uri: edit/main/docs/
 docs_dir: docs
 site_dir: site
 use_directory_urls: true
@@ -63,12 +63,22 @@ markdown_extensions:
       custom_checkbox: true
 
 nav:
-  - Início: index.md
-  - Guia do candidato: 00-guia-do-candidato/index.md
+  - Página inicial: index.md
+  - Guia do candidato:
+      - Visão geral: 00-guia-do-candidato/index.md
+      - Como usar este curso: 00-guia-do-candidato/01-como-usar-este-curso.md
   - Disciplinas:
       - Português: 01-portugues/index.md
       - Raciocínio lógico: 02-raciocinio-logico/index.md
-      - Administração geral: 03-administracao-geral/index.md
+      - Administração Geral:
+          - Visão geral: 03-administracao-geral/index.md
+          - Plano da disciplina: 03-administracao-geral/PLANO_DA_DISCIPLINA.md
+          - Módulo 1 — Fundamentos da Administração Pública:
+              - Princípios da Administração Pública: 03-administracao-geral/01-principios-da-administracao-publica.md
+              - Organização administrativa e regime jurídico: 03-administracao-geral/02-organizacao-administrativa-e-regime-juridico.md
+              - Administração direta e indireta: 03-administracao-geral/03-administracao-direta-e-indireta.md
+              - Administração Pública de Santa Catarina: 03-administracao-geral/04-administracao-publica-de-santa-catarina.md
+              - Competências dos órgãos e entidades: 03-administracao-geral/05-competencias-dos-orgaos-e-entidades.md
       - Administração pública: 04-administracao-publica/index.md
       - Direito constitucional: 05-direito-constitucional/index.md
       - Direito administrativo: 06-direito-administrativo/index.md
