@@ -7,7 +7,7 @@ lesson: 1
 status: draft
 edital_refs: []
 prerequisites: []
-estimated_minutes: 45
+estimated_minutes: 25
 authors:
   - Equipe do Curso SAPE/SC
 reviewers: []
@@ -21,302 +21,298 @@ tags:
 
 # Como usar este curso
 
-- **Disciplina:** Guia do candidato
-- **Módulo:** 1 • Orientação inicial
-- **Aula:** 1 de 1
+<div class="lesson-header" markdown>
 
----
+**Guia do candidato**
 
-Um curso preparatório não deve funcionar como uma pilha de páginas que você percorre até o fim. Ele precisa funcionar como um sistema: o plano de estudos define **o que fazer**; as aulas ajudam a **compreender**; as questões mostram se você consegue **aplicar**; os flashcards reforçam o que precisa ser **lembrado**; e as revisões evitam que o aprendizado se perca com o tempo.
+Módulo 1 • Primeiros passos
 
-Esta unidade apresenta esse sistema e transforma cada sessão de estudo em um ciclo com início, execução e controle. Ao terminar, você terá um procedimento claro para estudar, registrar resultados e decidir o próximo passo.
+Aula 1 de 1
 
-## Objetivos da aula
+**Tempo estimado:** cerca de 25 minutos
 
-Ao concluir esta unidade, você deverá ser capaz de:
+**Objetivo:** mostrar exatamente o que você deve fazer para estudar sem se perder.
 
-- localizar a função de cada parte do curso;
-- executar uma sessão de estudo completa, da preparação ao registro final;
-- usar questões como instrumento de diagnóstico, e não apenas como teste;
-- usar flashcards para recuperar informações essenciais sem reler a aula inteira;
-- programar revisões com base em dificuldade, erros e tempo disponível;
-- acompanhar o plano de estudos sem confundir atividade realizada com aprendizagem comprovada.
+</div>
 
-## Vínculo com o edital
+## Oi! Vamos começar?
 
-Esta é uma unidade de orientação e **não corresponde a item de conteúdo do edital**. Por isso, o campo `edital_refs` permanece vazio. Sua finalidade é ensinar o método de uso do curso antes do início das disciplinas cobradas.
+Talvez esta seja sua primeira vez estudando para concurso.
 
-## Pré-requisitos
+Talvez você tenha aberto o curso e pensado:
 
-Não há pré-requisitos de conteúdo. Para aplicar o método desde o primeiro dia, separe:
+> “Tem tanta coisa aqui. Por onde eu começo?”
 
-- um calendário ou agenda;
-- um registro de estudo, em papel ou formato digital;
-- um ambiente no qual seja possível estudar sem interrupções durante o bloco planejado;
-- acesso às aulas e, quando forem publicados, às questões, aos flashcards e ao plano de estudos.
+Comece por esta página.
 
-O registro não precisa ser sofisticado. Uma tabela com data, disciplina, unidade, minutos líquidos, resultado das questões e próxima revisão já é suficiente.
+Você não precisa montar um sistema complicado.
 
-## Como o curso está organizado
+Também não precisa entender todas as matérias hoje.
 
-O curso possui componentes diferentes porque cada um resolve um problema específico de aprendizagem.
+Vamos combinar um caminho simples.
 
-| Componente | Função principal | Resultado esperado |
-|---|---|---|
-| Guia do candidato | Ensinar a usar o sistema e orientar decisões de estudo | Rotina organizada |
-| Disciplinas | Desenvolver os conhecimentos previstos na matriz do curso | Compreensão estruturada |
-| Questões | Exigir aplicação e revelar lacunas | Diagnóstico objetivo |
-| Flashcards | Exercitar a recuperação de informações essenciais | Retenção mais estável |
-| Revisões | Retomar pontos importantes antes do esquecimento | Manutenção do aprendizado |
-| Simulados | Integrar conteúdos sob restrições semelhantes às da prova | Controle de desempenho e estratégia |
-| Plano de estudos | Distribuir prioridades, carga e revisões ao longo do tempo | Execução acompanhável |
+Você abre uma aula. Entende uma ideia. Tenta explicar. Faz algumas questões. Depois volta para revisar.
 
-As disciplinas são divididas em unidades progressivas. A página inicial de cada disciplina funciona como um mapa: apresenta a ordem recomendada e, futuramente, os módulos disponíveis. Dentro de uma aula, os objetivos indicam o que você deve conseguir fazer; o vínculo com o edital mostra por que aquela unidade existe; e o resumo final concentra os pontos que merecem retorno posterior.
+É isso que vamos fazer juntas.
 
-Você não precisa consumir todos os componentes no mesmo momento. Eles formam uma sequência:
+## Onde encontro as aulas?
+
+O menu tem três partes:
+
+1. a disciplina;
+2. o módulo;
+3. a aula.
+
+Pense em uma série.
+
+A disciplina é a série inteira.
+
+O módulo é uma temporada.
+
+A aula é um episódio.
+
+Você não precisa decorar o menu. Basta seguir os números.
 
 ```text
-planejar → estudar → recuperar → aplicar → corrigir → revisar → registrar
+Administração Geral
+└── Módulo 1
+    ├── Aula 1
+    ├── Aula 2
+    └── Aula 3
 ```
 
-Se uma etapa revelar dificuldade, volte ao ponto exato que precisa de correção. Recomeçar uma disciplina inteira costuma esconder o problema em vez de resolvê-lo.
+No celular, toque no botão do menu no alto da tela. A árvore do curso vai abrir.
 
-## Como estudar cada disciplina
+## O que faço quando abro uma aula?
 
-Use o mesmo ciclo básico em todas as disciplinas e ajuste apenas a duração dos blocos e o tipo de prática.
+Faça estas cinco coisas.
 
-### 1. Prepare a sessão
+### 1. Olhe o cartão do começo
 
-Antes de abrir a aula:
+Ele mostra:
 
-1. identifique a unidade prevista no plano de estudos;
-2. defina o tempo disponível em minutos líquidos;
-3. leia os objetivos da aula;
-4. confira os pré-requisitos;
-5. elimine tarefas concorrentes e deixe aberto somente o material necessário.
+- a disciplina;
+- o módulo;
+- o número da aula;
+- o tempo aproximado;
+- o que você vai aprender.
 
-Transforme o título da aula em uma pergunta de partida. Se a unidade se chama “Como usar este curso”, por exemplo, pergunte: “Que sequência devo executar em uma sessão de estudo?”. Essa pergunta cria um alvo para a leitura.
+Assim, você sabe onde está antes de começar.
 
-### 2. Faça uma primeira leitura ativa
+### 2. Leia um pedaço de cada vez
 
-Avance por uma seção de cada vez. Ao terminar uma seção, tire os olhos do texto e formule, com suas palavras, a ideia central. Se você não consegue explicá-la de forma simples, marque o ponto e releia apenas o trecho necessário.
+Não corra até o final.
 
-Não transcreva a aula. Anote somente o que tiver uma função posterior, como:
+Leia uma parte. Pare por alguns segundos. Pergunte:
 
-- uma distinção que você costuma confundir;
-- uma regra que precisará recuperar sem consulta;
-- um passo de procedimento;
-- uma dúvida específica;
-- a causa de um erro cometido.
+> “Como eu explicaria isso para alguém?”
 
-Uma anotação útil reduz trabalho futuro. Uma cópia extensa apenas transfere texto de lugar.
+Se conseguir explicar, continue.
 
-### 3. Feche o material e recupere
+Se não conseguir, leia aquele pedaço mais uma vez.
 
-No fim da aula, feche ou minimize a página por alguns minutos. Sem consultar, responda:
+Só aquele pedaço. Não volte para o começo inteiro.
 
-- Qual era o objetivo desta unidade?
-- Quais são as três ideias mais importantes?
-- O que eu ainda não conseguiria explicar a outra pessoa?
-- Em que situação eu aplicaria o que estudei?
+### 3. Responda antes de olhar
 
-Em seguida, confira suas respostas. A diferença entre o que você tentou recuperar e o que a aula efetivamente apresenta indica onde concentrar a revisão.
+As aulas têm perguntas durante a explicação.
 
-### 4. Aplique e registre
+Pare e tente responder.
 
-Quando houver questões vinculadas à unidade, resolva um bloco curto após o estudo. Registre o resultado e classifique os erros. Quando ainda não houver questões publicadas, encerre com a recuperação escrita ou oral e marque a prática como pendente; não substitua questões por exercícios sem origem ou gabarito confiável.
+Não tem problema errar.
 
-Ao finalizar, registre no mínimo:
+Na verdade, o erro mostra exatamente onde eu preciso ajudar você mais um pouco.
 
-- data e unidade estudada;
-- minutos líquidos;
-- nível de segurança: baixo, médio ou alto;
-- quantidade de questões resolvidas e acertos, quando aplicável;
-- principal dificuldade encontrada;
-- data ou condição da próxima revisão.
+!!! example "Vamos testar agora"
+    Se uma aula diz “Aula 2 de 5”, quantas aulas vieram antes dela?
 
-!!! tip "Meça evidências, não presença"
-    “Estudei por uma hora” descreve esforço. “Expliquei os objetivos sem consulta e acertei 8 de 10 questões” descreve uma evidência de aprendizagem. Registre os dois, mas use a evidência para decidir o próximo passo.
+    **Resposta:** uma aula. Ainda faltam três depois da atual.
 
-## Como utilizar questões
+### 4. Faça os exercícios
 
-Questões cumprem três funções distintas. Antes de começar um bloco, decida qual delas você está usando:
+Primeiro, responda sozinha.
 
-- **aprendizagem:** poucas questões logo após a aula, com correção detalhada;
-- **diagnóstico:** questões de assuntos já estudados para localizar lacunas;
-- **desempenho:** bloco com tempo e condições controladas para medir resultado.
+Depois, abra as respostas comentadas.
 
-Misturar essas funções produz conclusões ruins. Consultar a teoria durante um bloco de aprendizagem pode ser válido; fazer o mesmo em um bloco de desempenho invalida a medida.
+Leia o comentário mesmo quando acertar.
 
-### Procedimento de resolução
+Às vezes, a resposta está certa, mas o motivo está errado. O comentário ajuda a perceber isso.
 
-Para cada questão:
+### 5. Use os botões do final
 
-1. leia o comando antes de examinar as alternativas;
-2. identifique exatamente o que precisa ser julgado ou encontrado;
-3. formule uma resposta preliminar, quando o formato permitir;
-4. analise todas as alternativas;
-5. marque a resposta e o grau de confiança;
-6. só então consulte o gabarito e o comentário.
+Toda aula termina com:
 
-Use três graus de confiança: **alta**, **média** e **baixa**. Um acerto com confiança baixa pode ter ocorrido por eliminação incompleta ou acaso e merece verificação. Um erro com confiança alta revela uma compreensão equivocada e deve receber prioridade.
+```text
+← Aula anterior
+Próxima aula →
+```
 
-### Como corrigir
+Se terminou e entendeu a ideia principal, avance.
 
-Não encerre a questão ao ver o gabarito. Classifique o resultado:
+Se ficou com uma dúvida, anote a dúvida antes de sair.
 
-| Resultado | O que significa | Próxima ação |
-|---|---|---|
-| Acerto fundamentado | Você escolheu pela razão correta | Avançar e revisar no ciclo normal |
-| Acerto inseguro | Houve dúvida relevante ou eliminação parcial | Rever a distinção central |
-| Erro de conteúdo | Faltou conhecimento ou houve compreensão incorreta | Voltar ao trecho preciso e registrar a correção |
-| Erro de leitura | O comando, uma condição ou uma negação passou despercebida | Reescrever o comando e definir uma regra de atenção |
-| Erro de procedimento | Você conhecia o conteúdo, mas aplicou uma sequência inadequada | Refazer o procedimento passo a passo |
-| Erro de gestão | Pressa, tempo excessivo ou troca indevida de resposta | Ajustar a estratégia do próximo bloco |
+## Como saber se eu realmente entendi?
 
-O caderno de erros deve guardar a **causa corrigível**, não uma coleção de enunciados. Em vez de anotar apenas “errei a questão 12”, registre o que levou ao erro e qual sinal permitirá evitá-lo novamente.
+Feche os olhos por alguns segundos ou tire a página da tela.
 
-!!! warning "Percentual sem contexto engana"
-    Compare resultados apenas quando disciplina, dificuldade, quantidade de questões e condições de resolução forem semelhantes. Um percentual isolado não mede evolução com segurança.
+Depois, responda:
 
-## Como utilizar flashcards
+- O que esta aula quis me ensinar?
+- Consigo dar um exemplo?
+- Qual parte ainda está confusa?
 
-Flashcards servem para praticar recuperação rápida de informações delimitadas. Eles não substituem explicações, exemplos nem resolução de questões.
+Não tente repetir palavras bonitas.
 
-Um bom cartão deve:
+Explique do seu jeito.
 
-- testar uma ideia principal;
-- apresentar uma pergunta inequívoca;
-- permitir resposta curta e verificável;
-- incluir contexto suficiente para não depender de adivinhação;
-- apontar para a unidade de origem quando houver dúvida.
+!!! tip "Dica VX"
+    Imagine que você está mandando um áudio para uma amiga. Se consegue explicar em um áudio curto, sem ler a página, já entendeu a base.
 
-Ao revisar um cartão, leia a frente, responda **antes** de revelar o verso e só depois compare. Classifique a lembrança com honestidade:
+## E quando eu errar uma questão?
 
-- **não lembrei:** a resposta não veio ou estava errada;
-- **lembrei com dificuldade:** a resposta correta veio de forma incompleta ou muito lenta;
-- **lembrei com segurança:** a resposta veio completa e sem pistas.
+Primeiro: não se assuste.
 
-Cartões não lembrados devem reaparecer mais cedo; cartões dominados podem retornar mais tarde. Se um cartão falha repetidamente, não aumente a resposta no verso. Verifique se ele testa mais de uma ideia, se a pergunta é ambígua ou se o conteúdo de origem não foi compreendido.
+Errar durante o estudo é normal.
 
-Evite três usos inadequados:
+O importante é descobrir por que aconteceu.
 
-1. criar cartões para cada frase da aula;
-2. apenas reler frente e verso, sem tentar responder;
-3. memorizar uma fórmula verbal sem compreender quando ela se aplica.
+Pergunte:
 
-## Como revisar
+- Eu não lembrava a regra?
+- Confundi duas ideias?
+- Li rápido demais?
+- Marquei uma resposta sem entender?
 
-Revisar não é reler tudo. É tentar recuperar, verificar e corrigir. Use três camadas complementares.
+Veja este caso.
 
-### Revisão de encerramento
+!!! example "Exemplo"
+    A questão pede a alternativa **incorreta**, mas você lê rápido e marca a correta.
 
-Ao terminar a sessão, faça uma recuperação de dois a cinco minutos. Liste as ideias centrais sem consulta, confira o material e marque a dificuldade principal.
+    O problema não foi falta de estudo. Foi a leitura do comando.
 
-### Revisão programada
+    Na próxima questão, marque palavras como “correta”, “incorreta”, “sempre” e “nunca”.
 
-Reserve blocos futuros no plano de estudos. A distância entre revisões deve considerar:
+Não basta anotar “errei”.
 
-- dificuldade percebida;
-- resultado e confiança nas questões;
-- desempenho nos flashcards;
-- proximidade da prova;
-- importância do assunto na matriz do curso.
+Anote o motivo.
 
-Como ponto operacional inicial, você pode agendar retornos após **1 dia, 7 dias e 30 dias**. Esses intervalos não são uma regra rígida: antecipe quando houver erro ou baixa segurança e amplie quando a recuperação estiver consistente.
+Isso mostra o que fazer diferente na próxima vez.
 
-Em cada retorno, siga esta ordem:
+## Como usar os flashcards?
 
-1. tente explicar ou escrever os pontos principais sem consulta;
-2. revise os flashcards previstos;
-3. resolva questões compatíveis com o que já foi estudado;
-4. consulte a aula apenas para corrigir lacunas identificadas;
-5. registre o resultado e programe o próximo contato.
+Flashcards são cartões de pergunta e resposta.
 
-### Revisão por erro
+Você lê a pergunta. Tenta responder. Só depois olha o verso.
 
-Erros de alta confiança e erros repetidos não devem esperar o ciclo normal. Volte à causa, produza uma explicação correta com suas palavras e teste novamente em outra questão ou recuperação posterior.
+Exemplo:
 
-## Como acompanhar o plano de estudos
+```text
+Pergunta: Quais princípios formam a palavra LIMPE?
 
-O plano de estudos será o painel de controle do curso, não uma sentença imutável. Ele deverá indicar prioridades e distribuir estudo novo, questões e revisões. Enquanto a versão oficial não estiver publicada, use o procedimento abaixo como modelo de acompanhamento, sem presumir disciplinas ou cargas ainda não confirmadas.
+Resposta: Legalidade, impessoalidade, moralidade,
+publicidade e eficiência.
+```
 
-No início da semana:
+Se não lembrar, tudo bem.
 
-1. calcule quantos blocos de estudo cabem de forma realista na sua agenda;
-2. reserve primeiro compromissos fixos e descanso;
-3. distribua os blocos previstos, incluindo revisões;
-4. mantenha uma pequena margem para imprevistos;
-5. defina o resultado esperado de cada bloco.
+Marque o cartão para ver de novo mais cedo.
 
-Durante a semana, registre o executado sem apagar o planejado. A diferença entre ambos é informação útil. Se uma sessão não acontecer, não comprima automaticamente duas sessões no próximo horário. Reposicione pela prioridade e pela capacidade real.
+Se lembrar com facilidade, ele pode esperar mais tempo.
 
-Ao encerrar a semana, responda:
+!!! warning "Isso costuma confundir"
+    Virar o cartão sem tentar responder não ajuda muito. O momento importante é a tentativa antes de olhar.
 
-- Quantos blocos estavam planejados e quantos foram concluídos?
-- Quais unidades produziram evidência satisfatória de aprendizagem?
-- Onde houve erro recorrente ou baixa confiança?
-- Quais revisões venceram sem ser realizadas?
-- O plano falhou por falta de tempo, estimativa inadequada ou dificuldade de conteúdo?
-- Qual ajuste concreto será feito na próxima semana?
+## Como faço uma revisão?
 
-Use indicadores simples:
+Revisar não significa ler a aula inteira outra vez.
 
-| Indicador | Cálculo ou registro | Uso |
-|---|---|---|
-| Execução | blocos concluídos ÷ blocos planejados | Ajustar a carga semanal |
-| Tempo líquido | minutos efetivamente estudados | Melhorar estimativas |
-| Desempenho | acertos ÷ questões válidas | Detectar lacunas comparáveis |
-| Confiança | baixa, média ou alta | Identificar acertos frágeis |
-| Revisões pendentes | quantidade e atraso | Reordenar prioridades |
+Comece tentando lembrar.
 
-Não tente compensar uma semana difícil criando um plano impossível para a seguinte. Um plano profissional precisa ser exigente o bastante para gerar progresso e realista o bastante para ser executado.
+Depois:
 
-## Tempo estimado de estudo
+1. leia o resumo;
+2. responda aos flashcards;
+3. faça algumas questões;
+4. volte apenas ao trecho que ainda causa dúvida.
 
-Reserve **45 minutos** para esta primeira leitura e configuração do seu método:
+Você pode fazer uma revisão curta no dia seguinte.
 
-- 10 minutos para compreender a organização do curso;
-- 15 minutos para montar o registro de estudo;
-- 10 minutos para definir como questões, flashcards e revisões serão registrados;
-- 10 minutos para executar a recuperação final e completar o checklist.
+Depois, pode voltar uma semana mais tarde.
 
-Se o seu sistema de registro já estiver pronto, use o tempo restante para simular uma sessão: escolha uma unidade fictícia, registre início e fim, atribua um nível de segurança e agende uma revisão. O objetivo é testar o procedimento, não estudar conteúdo do concurso.
+Se esquecer antes disso, revise antes. O calendário serve para ajudar você, não para mandar em você.
 
-## Resumo para revisão
+## Quanto tempo preciso estudar?
 
-- O curso funciona como um ciclo: planejar, estudar, recuperar, aplicar, corrigir, revisar e registrar.
-- Uma aula termina quando você verifica o que consegue explicar sem consulta, não quando chega à última linha.
-- Questões devem ser corrigidas pela causa do erro e pelo grau de confiança.
-- Flashcards servem para recuperar informações delimitadas; não substituem compreensão nem aplicação.
-- Revisões começam pela tentativa de lembrar e são antecipadas quando há erro ou insegurança.
-- O plano de estudos deve ser acompanhado por execução e evidências de aprendizagem.
+O cartão de cada aula mostra uma estimativa.
 
-## Checklist final
+É apenas uma ajuda.
 
-Antes de avançar para uma disciplina, confirme:
+Você pode precisar de mais tempo. Pode precisar de menos.
 
-- [ ] Sei onde localizar a página inicial de cada disciplina.
-- [ ] Tenho um local para registrar data, unidade e minutos líquidos.
-- [ ] Consigo descrever o ciclo completo de uma sessão de estudo.
-- [ ] Sei diferenciar questão de aprendizagem, diagnóstico e desempenho.
-- [ ] Vou registrar a causa dos erros, e não apenas o gabarito.
-- [ ] Vou responder aos flashcards antes de revelar o verso.
-- [ ] Defini como programarei e registrarei revisões.
-- [ ] Sei comparar o planejado com o executado sem apagar o histórico.
-- [ ] Entendo que percentual de acertos precisa de contexto.
-- [ ] Concluí a recuperação desta aula sem consultar o texto.
+Também pode dividir uma aula em dois dias.
 
-Se algum item ficou sem marcação, retorne à seção correspondente e transforme a pendência em uma ação concreta. Só então inicie a primeira disciplina prevista no plano.
+O que importa é saber onde parou.
 
-## Referências e revisão
+Quando terminar, anote:
 
-Esta unidade é uma orientação operacional original do curso e não utiliza fontes externas. Ela não interpreta o edital nem apresenta conteúdo normativo.
+- a aula;
+- o dia;
+- quanto tempo você estudou de verdade;
+- a principal dúvida;
+- quando pretende voltar.
 
-**Última revisão:** pendente de revisão editorial.
+Não precisa criar uma planilha enorme.
 
----
+Um caderno ou uma nota no celular já funciona.
 
-[**← Aula anterior** Página inicial](../index.md)
+## E se eu perder um dia?
 
-[**Próxima aula →** Princípios da Administração Pública](../03-administracao-geral/01-principios-da-administracao-publica.md)
+Você continua no dia seguinte.
+
+Sem castigo.
+
+Sem tentar estudar o dobro de uma vez.
+
+Olhe o que ficou pendente. Escolha o ponto mais importante. Recomece dali.
+
+Um plano bom ajuda você a continuar. Ele não serve para fazer você se sentir mal.
+
+## Seu caminho, a partir de agora
+
+Quando abrir uma aula:
+
+1. veja onde está;
+2. leia o objetivo;
+3. estude uma parte de cada vez;
+4. responda às perguntas;
+5. faça os exercícios;
+6. anote a dúvida principal;
+7. programe uma revisão curta;
+8. use o botão para continuar.
+
+Pronto.
+
+Você não precisa descobrir mais nada antes de começar.
+
+## Antes de seguir
+
+- [ ] Sei abrir o menu no celular.
+- [ ] Sei encontrar disciplina, módulo e aula.
+- [ ] Vou ler uma parte de cada vez.
+- [ ] Vou tentar responder antes de olhar a resposta.
+- [ ] Sei o que fazer quando errar.
+- [ ] Sei como usar os flashcards.
+- [ ] Sei que posso dividir uma aula em dois dias.
+- [ ] Sei qual aula abrir agora.
+
+Se você marcou tudo, está pronta.
+
+Se deixou algum item vazio, volte apenas à parte que fala sobre ele.
+
+Agora vamos para Administração Geral. Eu explicarei tudo desde o começo.
+
+## Continue estudando
+
+[← Aula anterior](../index.md){ .md-button }
+
+[Próxima aula →](../03-administracao-geral/01-principios-da-administracao-publica.md){ .md-button .md-button--primary }

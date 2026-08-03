@@ -25,11 +25,19 @@ tags:
 
 # Organização administrativa e regime jurídico-administrativo
 
-- **Disciplina:** Administração Geral e Gestão Organizacional
-- **Módulo:** 1 • Fundamentos da Administração Pública
-- **Aula:** 2 de 5
+<div class="lesson-header" markdown>
 
----
+**Administração Geral**
+
+Módulo 1 • Fundamentos da Administração Pública
+
+Aula 2 de 5
+
+**Tempo estimado:** cerca de 90 minutos
+
+**Objetivo:** entender por que o Estado divide o trabalho e por que o serviço público segue regras próprias.
+
+</div>
 
 ## Objetivos da aula
 
@@ -338,8 +346,8 @@ E. subordinação interna.
 
 **Última revisão:** pendente de revisão técnica, pedagógica e de questões oficiais da FEPESE.
 
----
+## Continue estudando
 
-[**← Aula anterior** Princípios da Administração Pública](01-principios-da-administracao-publica.md)
+[← Aula anterior](01-principios-da-administracao-publica.md){ .md-button }
 
-[**Próxima aula →** Administração direta e indireta](03-administracao-direta-e-indireta.md)
+[Próxima aula →](03-administracao-direta-e-indireta.md){ .md-button .md-button--primary }

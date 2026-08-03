@@ -56,7 +56,7 @@ Não se recomenda concluir uma disciplina inteira antes de iniciar a seguinte. A
 ### Módulo 1 — Compreensão, gêneros e tipologia textual
 
 1. Compreensão e interpretação de textos de diferentes gêneros
-2. Estratégias de leitura, inferência e informação explícita
+2. Como encontrar informações ditas no texto e entender informações sugeridas
 3. Tipologia textual
 4. Níveis de linguagem e variação linguística
 5. Coesão e coerência textual
@@ -438,7 +438,7 @@ Manter Português e Lógica em prática semanal; avançar Legislação e Adminis
 
 Intercalar AFO, políticas públicas gerais e políticas agropecuárias. Relacionar planejamento, programas, indicadores, orçamento, transparência e competências institucionais sem fundir os conteúdos em uma única disciplina.
 
-### Ciclo de consolidação
+### Ciclo de revisão final
 
 Reduzir estudo novo, ampliar questões mistas, revisar atos normativos e executar simulados de 50 questões em 4 horas. A distribuição dos blocos de conhecimentos específicos nos simulados deve variar, pois o edital não fixa sua proporção interna.
 
@@ -462,7 +462,7 @@ flowchart TD
     AG --> RURAL
     AFO --> RURAL
 
-    LP -. prática contínua .-> CONS[Consolidação e simulados]
+    LP -. prática contínua .-> CONS[Revisão final e simulados]
     RL -. prática contínua .-> CONS
     LE --> CONS
     AG --> CONS

@@ -25,11 +25,19 @@ tags:
 
 # Competências dos órgãos e entidades públicas
 
-- **Disciplina:** Administração Geral e Gestão Organizacional
-- **Módulo:** 1 • Fundamentos da Administração Pública
-- **Aula:** 5 de 5
+<div class="lesson-header" markdown>
 
----
+**Administração Geral**
+
+Módulo 1 • Fundamentos da Administração Pública
+
+Aula 5 de 5
+
+**Tempo estimado:** cerca de 90 minutos
+
+**Objetivo:** entender quem pode tomar cada decisão e o que acontece quando uma tarefa passa para outra autoridade.
+
+</div>
 
 ## Objetivos da aula
 
@@ -390,8 +398,8 @@ E. avocação regular.
 
 **Última revisão:** pendente de revisão técnica, pedagógica e de questões oficiais da FEPESE.
 
----
+## Continue estudando
 
-[**← Aula anterior** Administração Pública de Santa Catarina](04-administracao-publica-de-santa-catarina.md)
+[← Aula anterior](04-administracao-publica-de-santa-catarina.md){ .md-button }
 
-[**Próxima aula →** Voltar à página inicial](../index.md)
+**Próxima aula → Em preparação**
