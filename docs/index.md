@@ -1,36 +1,38 @@
-# Curso Preparatório SAPE/SC 2026
+<div class="course-hero" markdown>
 
-## Bem-vindo ao curso
+# Bem-vinda ao seu curso SAPE/SC
 
-Este curso foi organizado para conduzir seu estudo em uma ordem clara. Você não precisa descobrir sozinha por onde começar. Siga os módulos na sequência, estude uma aula por vez e use os exercícios para confirmar o que aprendeu.
+Você não precisa saber nada antes de começar.
 
-[Começar a estudar](00-guia-do-candidato/01-como-usar-este-curso.md){ .md-button .md-button--primary }
+Eu vou mostrar o caminho, uma aula de cada vez.
 
-## Como estudar
+[COMEÇAR A ESTUDAR](00-guia-do-candidato/01-como-usar-este-curso.md){ .md-button .md-button--primary .course-start-button }
 
-1. Comece pelo **Guia do candidato** para conhecer o método do curso.
-2. Abra a disciplina indicada no seu plano de estudos.
-3. Siga a ordem numérica dos módulos e das aulas.
-4. Responda às perguntas antes de consultar as explicações.
-5. Faça os exercícios e leia o gabarito comentado.
-6. Revise o resumo e os flashcards nos dias programados.
+</div>
 
-!!! tip "Seu próximo passo"
-    Se esta é sua primeira visita, clique em **Começar a estudar**. O guia mostrará como usar aulas, questões, revisões e flashcards.
+## Comece por aqui
+
+Seu primeiro passo é a aula **Como usar este curso**.
+
+Ela mostra o que fazer quando você abre uma aula, como praticar e quando revisar.
+
+Depois, você começa Administração Geral.
 
 ## Módulo disponível
 
-### Administração Geral e Gestão Organizacional
+<div class="grid cards" markdown>
 
-**Módulo 1 • Fundamentos da Administração Pública** está disponível. Ele apresenta as bases necessárias para compreender como a Administração Pública se organiza e atua.
+-   **Administração Geral**
 
-## Aulas publicadas
+    **Módulo 1 • Fundamentos da Administração Pública**
 
-### Guia do candidato — Módulo 1
+    Cinco aulas para entender como o serviço público se organiza e funciona.
 
-1. [Aula 1 • Como usar este curso](00-guia-do-candidato/01-como-usar-este-curso.md)
+    [Abrir o módulo](03-administracao-geral/01-principios-da-administracao-publica.md)
 
-### Administração Geral — Módulo 1
+</div>
+
+## Aulas disponíveis
 
 1. [Aula 1 • Princípios da Administração Pública](03-administracao-geral/01-principios-da-administracao-publica.md)
 2. [Aula 2 • Organização administrativa e regime jurídico](03-administracao-geral/02-organizacao-administrativa-e-regime-juridico.md)
@@ -38,4 +40,15 @@ Este curso foi organizado para conduzir seu estudo em uma ordem clara. Você nã
 4. [Aula 4 • Administração Pública de Santa Catarina](03-administracao-geral/04-administracao-publica-de-santa-catarina.md)
 5. [Aula 5 • Competências dos órgãos e entidades](03-administracao-geral/05-competencias-dos-orgaos-e-entidades.md)
 
-As demais disciplinas serão adicionadas ao menu conforme seus módulos forem preparados e revisados.
+!!! tip "Já começou?"
+    Abra a última aula que você terminou e use o botão **Próxima aula →** no final da página.
+
+## Disciplinas em preparação
+
+- Língua Portuguesa;
+- Raciocínio Lógico;
+- Legislação e Ética;
+- Administração Financeira e Orçamentária;
+- Políticas Públicas para o Desenvolvimento Rural e Agropecuário.
+
+Essas disciplinas vão aparecer como disponíveis quando as aulas estiverem prontas e conferidas.

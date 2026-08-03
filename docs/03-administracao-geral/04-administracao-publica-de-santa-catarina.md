@@ -25,11 +25,17 @@ tags:
 
 # Administração Pública do Estado de Santa Catarina
 
-- **Disciplina:** Administração Geral e Gestão Organizacional
-- **Módulo:** 1 • Fundamentos da Administração Pública
-- **Aula:** 4 de 5
+<section class="lesson-goal">
+  <h2>Nesta aula você vai aprender</h2>
+  <p>conhecer a organização do serviço público em Santa Catarina e localizar a SAPE nessa estrutura.</p>
+</section>
 
----
+<div class="lesson-meta-grid">
+  <div class="lesson-meta-card"><span>Disciplina</span><strong>Administração Geral</strong></div>
+  <div class="lesson-meta-card"><span>Módulo</span><strong>1 • Fundamentos da Administração Pública</strong></div>
+  <div class="lesson-meta-card"><span>Aula</span><strong>4 de 5</strong></div>
+  <div class="lesson-meta-card"><span>Tempo estimado</span><strong>Cerca de 90 minutos</strong></div>
+</div>
 
 ## Objetivos da aula
 
@@ -320,8 +326,8 @@ E. Eliminar a autonomia das entidades
 
 **Última revisão:** pendente de revisão técnica, pedagógica e de questões oficiais da FEPESE.
 
----
+## Continue estudando
 
-[**← Aula anterior** Administração direta e indireta](03-administracao-direta-e-indireta.md)
+[← Aula anterior](03-administracao-direta-e-indireta.md){ .md-button }
 
-[**Próxima aula →** Competências dos órgãos e entidades](05-competencias-dos-orgaos-e-entidades.md)
+[Próxima aula →](05-competencias-dos-orgaos-e-entidades.md){ .md-button .md-button--primary }

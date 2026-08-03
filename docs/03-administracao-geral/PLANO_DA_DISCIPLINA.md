@@ -146,7 +146,7 @@ Cada objetivo descreve o que o aluno deverá conseguir fazer ao final da aula. O
 
 ### Módulo 3 — Modelos de gestão pública
 
-**Objetivo do módulo:** comparar modelos de Administração Pública e reconhecer seus pressupostos, instrumentos e limites.
+**Objetivo do módulo:** comparar modelos de Administração Pública e reconhecer suas ideias de base, ferramentas e limites.
 
 | Aula | Título planejado | Tempo | Objetivo de aprendizagem |
 |---|---|---:|---|

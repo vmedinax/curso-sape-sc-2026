@@ -25,11 +25,17 @@ tags:
 
 # Organização administrativa e regime jurídico-administrativo
 
-- **Disciplina:** Administração Geral e Gestão Organizacional
-- **Módulo:** 1 • Fundamentos da Administração Pública
-- **Aula:** 2 de 5
+<section class="lesson-goal">
+  <h2>Nesta aula você vai aprender</h2>
+  <p>entender por que o Estado divide o trabalho e por que o serviço público segue regras próprias.</p>
+</section>
 
----
+<div class="lesson-meta-grid">
+  <div class="lesson-meta-card"><span>Disciplina</span><strong>Administração Geral</strong></div>
+  <div class="lesson-meta-card"><span>Módulo</span><strong>1 • Fundamentos da Administração Pública</strong></div>
+  <div class="lesson-meta-card"><span>Aula</span><strong>2 de 5</strong></div>
+  <div class="lesson-meta-card"><span>Tempo estimado</span><strong>Cerca de 90 minutos</strong></div>
+</div>
 
 ## Objetivos da aula
 
@@ -338,8 +344,8 @@ E. subordinação interna.
 
 **Última revisão:** pendente de revisão técnica, pedagógica e de questões oficiais da FEPESE.
 
----
+## Continue estudando
 
-[**← Aula anterior** Princípios da Administração Pública](01-principios-da-administracao-publica.md)
+[← Aula anterior](01-principios-da-administracao-publica.md){ .md-button }
 
-[**Próxima aula →** Administração direta e indireta](03-administracao-direta-e-indireta.md)
+[Próxima aula →](03-administracao-direta-e-indireta.md){ .md-button .md-button--primary }

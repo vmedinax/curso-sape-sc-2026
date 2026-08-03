@@ -27,11 +27,17 @@ tags:
 
 # Administração direta e indireta
 
-- **Disciplina:** Administração Geral e Gestão Organizacional
-- **Módulo:** 1 • Fundamentos da Administração Pública
-- **Aula:** 3 de 5
+<section class="lesson-goal">
+  <h2>Nesta aula você vai aprender</h2>
+  <p>entender as duas formas usadas pelo Estado para organizar seus órgãos e suas entidades.</p>
+</section>
 
----
+<div class="lesson-meta-grid">
+  <div class="lesson-meta-card"><span>Disciplina</span><strong>Administração Geral</strong></div>
+  <div class="lesson-meta-card"><span>Módulo</span><strong>1 • Fundamentos da Administração Pública</strong></div>
+  <div class="lesson-meta-card"><span>Aula</span><strong>3 de 5</strong></div>
+  <div class="lesson-meta-card"><span>Tempo estimado</span><strong>Cerca de 90 minutos</strong></div>
+</div>
 
 ## Objetivos da aula
 
@@ -357,8 +363,8 @@ E. passa a integrar a Administração Direta.
 
 **Última revisão:** pendente de revisão técnica, pedagógica e de questões oficiais da FEPESE.
 
----
+## Continue estudando
 
-[**← Aula anterior** Organização administrativa e regime jurídico](02-organizacao-administrativa-e-regime-juridico.md)
+[← Aula anterior](02-organizacao-administrativa-e-regime-juridico.md){ .md-button }
 
-[**Próxima aula →** Administração Pública de Santa Catarina](04-administracao-publica-de-santa-catarina.md)
+[Próxima aula →](04-administracao-publica-de-santa-catarina.md){ .md-button .md-button--primary }

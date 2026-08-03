@@ -24,11 +24,17 @@ tags:
 
 # Princípios da Administração Pública
 
-- **Disciplina:** Administração Geral e Gestão Organizacional
-- **Módulo:** 1 • Fundamentos da Administração Pública
-- **Aula:** 1 de 5
+<section class="lesson-goal">
+  <h2>Nesta aula você vai aprender</h2>
+  <p>entender os cinco cuidados básicos que todo órgão público deve seguir e conhecer os nomes usados na prova.</p>
+</section>
 
----
+<div class="lesson-meta-grid">
+  <div class="lesson-meta-card"><span>Disciplina</span><strong>Administração Geral</strong></div>
+  <div class="lesson-meta-card"><span>Módulo</span><strong>1 • Fundamentos da Administração Pública</strong></div>
+  <div class="lesson-meta-card"><span>Aula</span><strong>1 de 5</strong></div>
+  <div class="lesson-meta-card"><span>Tempo estimado</span><strong>Cerca de 90 minutos</strong></div>
+</div>
 
 ## Objetivos da aula
 
@@ -337,8 +343,8 @@ E. Autotutela
 
 **Última revisão:** pendente de revisão técnica, pedagógica e de questões oficiais da FEPESE.
 
----
+## Continue estudando
 
-[**← Aula anterior** Como usar este curso](../00-guia-do-candidato/01-como-usar-este-curso.md)
+[← Aula anterior](../00-guia-do-candidato/01-como-usar-este-curso.md){ .md-button }
 
-[**Próxima aula →** Organização administrativa e regime jurídico](02-organizacao-administrativa-e-regime-juridico.md)
+[Próxima aula →](02-organizacao-administrativa-e-regime-juridico.md){ .md-button .md-button--primary }
