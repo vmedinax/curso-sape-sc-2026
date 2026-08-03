@@ -21,6 +21,12 @@ tags:
 
 # Como usar este curso
 
+- **Disciplina:** Guia do candidato
+- **Módulo:** 1 • Orientação inicial
+- **Aula:** 1 de 1
+
+---
+
 Um curso preparatório não deve funcionar como uma pilha de páginas que você percorre até o fim. Ele precisa funcionar como um sistema: o plano de estudos define **o que fazer**; as aulas ajudam a **compreender**; as questões mostram se você consegue **aplicar**; os flashcards reforçam o que precisa ser **lembrado**; e as revisões evitam que o aprendizado se perca com o tempo.
 
 Esta unidade apresenta esse sistema e transforma cada sessão de estudo em um ciclo com início, execução e controle. Ao terminar, você terá um procedimento claro para estudar, registrar resultados e decidir o próximo passo.
@@ -308,3 +314,9 @@ Se algum item ficou sem marcação, retorne à seção correspondente e transfor
 Esta unidade é uma orientação operacional original do curso e não utiliza fontes externas. Ela não interpreta o edital nem apresenta conteúdo normativo.
 
 **Última revisão:** pendente de revisão editorial.
+
+---
+
+[**← Aula anterior** Página inicial](../index.md)
+
+[**Próxima aula →** Princípios da Administração Pública](../03-administracao-geral/01-principios-da-administracao-publica.md)

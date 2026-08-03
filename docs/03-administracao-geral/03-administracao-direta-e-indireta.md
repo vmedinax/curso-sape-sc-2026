@@ -27,6 +27,12 @@ tags:
 
 # Administração direta e indireta
 
+- **Disciplina:** Administração Geral e Gestão Organizacional
+- **Módulo:** 1 • Fundamentos da Administração Pública
+- **Aula:** 3 de 5
+
+---
+
 ## Objetivos da aula
 
 ### O que você vai aprender
@@ -350,3 +356,9 @@ E. passa a integrar a Administração Direta.
 - SAPE/SC; FEPESE. Edital 001/2026, Anexo 2, página 28. Versão consolidada com TR01, TR02 e TR03.
 
 **Última revisão:** pendente de revisão técnica, pedagógica e de questões oficiais da FEPESE.
+
+---
+
+[**← Aula anterior** Organização administrativa e regime jurídico](02-organizacao-administrativa-e-regime-juridico.md)
+
+[**Próxima aula →** Administração Pública de Santa Catarina](04-administracao-publica-de-santa-catarina.md)

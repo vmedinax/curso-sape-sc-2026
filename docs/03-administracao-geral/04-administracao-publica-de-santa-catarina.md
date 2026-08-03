@@ -25,6 +25,12 @@ tags:
 
 # Administração Pública do Estado de Santa Catarina
 
+- **Disciplina:** Administração Geral e Gestão Organizacional
+- **Módulo:** 1 • Fundamentos da Administração Pública
+- **Aula:** 4 de 5
+
+---
+
 ## Objetivos da aula
 
 ### O que você vai aprender
@@ -313,3 +319,9 @@ E. Eliminar a autonomia das entidades
 - SAPE/SC; FEPESE. Edital 001/2026, Anexo 2, página 28. Versão consolidada com TR01, TR02 e TR03.
 
 **Última revisão:** pendente de revisão técnica, pedagógica e de questões oficiais da FEPESE.
+
+---
+
+[**← Aula anterior** Administração direta e indireta](03-administracao-direta-e-indireta.md)
+
+[**Próxima aula →** Competências dos órgãos e entidades](05-competencias-dos-orgaos-e-entidades.md)

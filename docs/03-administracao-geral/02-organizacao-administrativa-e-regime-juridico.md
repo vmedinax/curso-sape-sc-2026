@@ -25,6 +25,12 @@ tags:
 
 # Organização administrativa e regime jurídico-administrativo
 
+- **Disciplina:** Administração Geral e Gestão Organizacional
+- **Módulo:** 1 • Fundamentos da Administração Pública
+- **Aula:** 2 de 5
+
+---
+
 ## Objetivos da aula
 
 ### O que você vai aprender
@@ -331,3 +337,9 @@ E. subordinação interna.
 - SAPE/SC; FEPESE. Edital 001/2026, Anexo 2, página 28. Versão consolidada com TR01, TR02 e TR03.
 
 **Última revisão:** pendente de revisão técnica, pedagógica e de questões oficiais da FEPESE.
+
+---
+
+[**← Aula anterior** Princípios da Administração Pública](01-principios-da-administracao-publica.md)
+
+[**Próxima aula →** Administração direta e indireta](03-administracao-direta-e-indireta.md)

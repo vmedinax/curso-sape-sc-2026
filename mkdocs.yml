@@ -66,27 +66,33 @@ nav:
   - Página inicial: index.md
   - Mapa do curso: MAPA_DO_CURSO.md
   - Guia do candidato:
-      - Visão geral: 00-guia-do-candidato/index.md
-      - Como usar este curso: 00-guia-do-candidato/01-como-usar-este-curso.md
+      - Módulo 1 • Orientação inicial:
+          - Aula 1 • Como usar este curso: 00-guia-do-candidato/01-como-usar-este-curso.md
   - Disciplinas:
-      - Português: 01-portugues/index.md
-      - Raciocínio lógico: 02-raciocinio-logico/index.md
-      - Administração Geral:
-          - Visão geral: 03-administracao-geral/index.md
-          - Plano da disciplina: 03-administracao-geral/PLANO_DA_DISCIPLINA.md
-          - Módulo 1 — Fundamentos da Administração Pública:
-              - Princípios da Administração Pública: 03-administracao-geral/01-principios-da-administracao-publica.md
-              - Organização administrativa e regime jurídico: 03-administracao-geral/02-organizacao-administrativa-e-regime-juridico.md
-              - Administração direta e indireta: 03-administracao-geral/03-administracao-direta-e-indireta.md
-              - Administração Pública de Santa Catarina: 03-administracao-geral/04-administracao-publica-de-santa-catarina.md
-              - Competências dos órgãos e entidades: 03-administracao-geral/05-competencias-dos-orgaos-e-entidades.md
-      - Administração pública: 04-administracao-publica/index.md
-      - Direito constitucional: 05-direito-constitucional/index.md
-      - Direito administrativo: 06-direito-administrativo/index.md
-      - Administração financeira e orçamentária: 07-afo/index.md
-      - Licitações: 08-licitacoes/index.md
-      - Informática: 09-informatica/index.md
-      - Legislação: 10-legislacao/index.md
-      - Conhecimentos específicos: 11-conhecimentos-especificos/index.md
+      - Língua Portuguesa:
+          - Módulo 1 • Em preparação:
+              - Aula 1 • Apresentação da disciplina: 01-portugues/index.md
+      - Raciocínio Lógico:
+          - Módulo 1 • Em preparação:
+              - Aula 1 • Apresentação da disciplina: 02-raciocinio-logico/index.md
+      - Legislação e Ética na Administração Pública:
+          - Módulo 1 • Em preparação:
+              - Aula 1 • Apresentação da disciplina: 10-legislacao/index.md
+      - Administração Geral e Gestão Organizacional:
+          - Módulo 0 • Conheça a disciplina:
+              - Aula 1 • Visão geral: 03-administracao-geral/index.md
+              - Aula 2 • Plano da disciplina: 03-administracao-geral/PLANO_DA_DISCIPLINA.md
+          - Módulo 1 • Fundamentos da Administração Pública:
+              - Aula 1 • Princípios da Administração Pública: 03-administracao-geral/01-principios-da-administracao-publica.md
+              - Aula 2 • Organização administrativa e regime jurídico: 03-administracao-geral/02-organizacao-administrativa-e-regime-juridico.md
+              - Aula 3 • Administração direta e indireta: 03-administracao-geral/03-administracao-direta-e-indireta.md
+              - Aula 4 • Administração Pública de Santa Catarina: 03-administracao-geral/04-administracao-publica-de-santa-catarina.md
+              - Aula 5 • Competências dos órgãos e entidades: 03-administracao-geral/05-competencias-dos-orgaos-e-entidades.md
+      - Administração Financeira e Orçamentária:
+          - Módulo 1 • Em preparação:
+              - Aula 1 • Apresentação da disciplina: 07-afo/index.md
+      - Políticas Públicas para o Desenvolvimento Rural e Agropecuário:
+          - Módulo 1 • Em preparação:
+              - Aula 1 • Apresentação da disciplina: 11-conhecimentos-especificos/index.md
 
 copyright: Copyright © 2026 — direitos e licença em definição

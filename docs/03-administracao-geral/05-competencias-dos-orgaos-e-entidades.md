@@ -25,6 +25,12 @@ tags:
 
 # Competências dos órgãos e entidades públicas
 
+- **Disciplina:** Administração Geral e Gestão Organizacional
+- **Módulo:** 1 • Fundamentos da Administração Pública
+- **Aula:** 5 de 5
+
+---
+
 ## Objetivos da aula
 
 ### O que você vai aprender
@@ -383,3 +389,9 @@ E. avocação regular.
 - SAPE/SC; FEPESE. Edital 001/2026, Anexo 2, página 28. Versão consolidada com TR01, TR02 e TR03.
 
 **Última revisão:** pendente de revisão técnica, pedagógica e de questões oficiais da FEPESE.
+
+---
+
+[**← Aula anterior** Administração Pública de Santa Catarina](04-administracao-publica-de-santa-catarina.md)
+
+[**Próxima aula →** Voltar à página inicial](../index.md)
