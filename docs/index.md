@@ -167,7 +167,7 @@ Quando todas as disciplinas estiverem publicadas, esta será a ordem recomendada
 
 Português e Raciocínio Lógico formam uma base útil para interpretar enunciados, tabelas e cálculos. Legislação prepara o caminho para entender as regras do serviço público. Administração Geral organiza os conceitos usados nas matérias seguintes.
 
-Como o material disponível agora é o Módulo 1 de Administração Geral, você pode começar por ele depois do guia. As demais disciplinas entrarão na trilha assim que estiverem prontas e conferidas.
+Administração Geral está disponível por completo, com nove módulos. Depois do guia, comece pelo Módulo 1 e avance na ordem indicada. As demais disciplinas entrarão na trilha quando estiverem prontas e conferidas.
 
 ### Onde colocar mais atenção
 
@@ -193,9 +193,9 @@ Se tiver pouco tempo, prefira um estudo curto e frequente. Termine uma parte, pr
 
 Com base no edital deste concurso, podemos afirmar com segurança que a FEPESE usará questões de múltipla escolha com cinco alternativas e uma única resposta correta. Também sabemos a quantidade de questões, a divisão entre as três partes da prova e o programa que pode ser cobrado.
 
-Ainda não existe, neste projeto, uma análise concluída de provas anteriores oficiais e comparáveis para afirmar que a FEPESE repete certos formatos de enunciado ou certas formas de confundir o candidato.
+O projeto analisou quatro questões oficiais adaptadas, provenientes de três concursos. Duas questões, de dois concursos, trabalharam princípios por comparação ou aplicação. Órgãos e hierarquia apareceram uma vez cada. A amostra é pequena e não permite afirmar um padrão amplo da FEPESE nem prever a próxima prova.
 
-Por isso, o curso não vai inventar um “jeito da banca”. Quando uma orientação vier de uma prova oficial anterior, a prova e a questão serão identificadas. Enquanto essa conferência não estiver pronta, as questões do curso serão apresentadas como exercícios próprios.
+Por isso, o curso não inventa um “jeito da banca”. Quando uma orientação vem de uma prova oficial anterior, a origem é identificada. As demais questões são apresentadas como autorais.
 
 !!! tip "O que fazer agora"
     Treine leitura atenta. Cada questão terá cinco alternativas, mas apenas uma será correta. Leia o comando, responda e só depois confira a explicação.
@@ -208,11 +208,11 @@ Por isso, o curso não vai inventar um “jeito da banca”. Quando uma orienta�
 
 -   **Administração Geral**
 
-    **Módulo 1 • Fundamentos da Administração Pública**
+    **9 módulos • 46 aulas**
 
-    Cinco aulas para entender como o serviço público se organiza e funciona.
+    A disciplina completa, dos fundamentos da Administração Pública à revisão final.
 
-    [Abrir o módulo](03-administracao-geral/01-principios-da-administracao-publica.md)
+    [Abrir a disciplina](03-administracao-geral/index.md)
 
 </div>
 
@@ -221,6 +221,9 @@ Por isso, o curso não vai inventar um “jeito da banca”. Quando uma orienta�
 3. [Aula 3 • Administração direta e indireta](03-administracao-geral/03-administracao-direta-e-indireta.md)
 4. [Aula 4 • Administração Pública de Santa Catarina](03-administracao-geral/04-administracao-publica-de-santa-catarina.md)
 5. [Aula 5 • Competências dos órgãos e entidades](03-administracao-geral/05-competencias-dos-orgaos-e-entidades.md)
+6. [Questões comentadas do Módulo 1](03-administracao-geral/modulo-01-questoes-comentadas.md)
+7. [Revisão de 5 minutos do Módulo 1](03-administracao-geral/modulo-01-revisao.md)
+8. [Simulado final do Módulo 1](03-administracao-geral/modulo-01-simulado.md)
 
 !!! tip "Já começou?"
     Abra a última aula que você terminou e use o botão **Próxima aula →** no final da página.

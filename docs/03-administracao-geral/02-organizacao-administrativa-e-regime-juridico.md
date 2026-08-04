@@ -14,7 +14,7 @@ estimated_minutes: 90
 authors:
   - Equipe do Curso SAPE/SC
 reviewers: []
-last_reviewed: null
+last_reviewed: 2026-08-04
 sources:
   - https://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm
   - https://leis.alesc.sc.gov.br/ato-normativo/20438/compilado
@@ -55,7 +55,7 @@ O edital menciona expressamente “organização administrativa” e “regime j
 
 ### Como a FEPESE cobra
 
-O padrão ainda será validado em questões oficiais identificadas. Os exercícios desta aula são autorais. Nenhuma confusão apresentada será chamada de pegadinha da FEPESE.
+O banco oficial adaptado contém uma questão de 2010 sobre órgão público e desconcentração. Ela exige reconhecer que o órgão é um centro de competências sem personalidade própria. É uma ocorrência isolada, não um padrão da FEPESE. Não há questão oficial validada no banco sobre regime jurídico-administrativo.
 
 ### Como identificar pontos de atenção
 
@@ -325,22 +325,45 @@ E. subordinação interna.
 
 ## Flashcards da aula
 
-1. **Frente:** O que é organização administrativa?  
-   **Verso:** A forma como a Administração distribui órgãos, entidades e competências para realizar suas funções.
-2. **Frente:** O que é órgão?  
-   **Verso:** Uma parte interna de uma pessoa jurídica.
-3. **Frente:** O que é entidade?  
-   **Verso:** Uma pessoa jurídica com existência própria perante o Direito.
-4. **Frente:** Qual é o critério da desconcentração?  
-   **Verso:** A divisão ocorre dentro da mesma pessoa jurídica.
-5. **Frente:** Qual é o critério da descentralização?  
-   **Verso:** A atividade é atribuída a outra pessoa.
-6. **Frente:** O que é regime jurídico-administrativo?  
-   **Verso:** O conjunto de regras e princípios próprios da atuação administrativa sob o Direito Público.
-7. **Frente:** O que é prerrogativa administrativa?  
-   **Verso:** Uma ferramenta jurídica dada à Administração para cumprir uma função pública.
-8. **Frente:** O que significa indisponibilidade do interesse público?  
-   **Verso:** O agente administra interesses que não são propriedade dele e não pode usá-los livremente.
+1. **O que é organização administrativa?**
+
+    ??? question "Mostrar resposta"
+        A forma como a Administração distribui órgãos, entidades e competências para realizar suas funções.
+
+2. **O que é órgão?**
+
+    ??? question "Mostrar resposta"
+        Uma parte interna de uma pessoa jurídica.
+
+3. **O que é entidade?**
+
+    ??? question "Mostrar resposta"
+        Uma pessoa jurídica com existência própria perante o Direito.
+
+4. **Qual é o critério da desconcentração?**
+
+    ??? question "Mostrar resposta"
+        A divisão ocorre dentro da mesma pessoa jurídica.
+
+5. **Qual é o critério da descentralização?**
+
+    ??? question "Mostrar resposta"
+        A atividade é atribuída a outra pessoa.
+
+6. **O que é regime jurídico-administrativo?**
+
+    ??? question "Mostrar resposta"
+        O conjunto de regras e princípios próprios da atuação administrativa sob o Direito Público.
+
+7. **O que é prerrogativa administrativa?**
+
+    ??? question "Mostrar resposta"
+        Uma ferramenta jurídica dada à Administração para cumprir uma função pública.
+
+8. **O que significa indisponibilidade do interesse público?**
+
+    ??? question "Mostrar resposta"
+        O agente administra interesses que não são propriedade dele e não pode usá-los livremente.
 
 ## Referências
 
@@ -348,7 +371,7 @@ E. subordinação interna.
 - SANTA CATARINA. Lei Complementar nº 741/2019, artigos 1º a 4º. Texto oficial compilado pela Assembleia Legislativa. Consulta em 3 de agosto de 2026.
 - SAPE/SC; FEPESE. Edital 001/2026, Anexo 2, página 28. Versão consolidada com TR01, TR02 e TR03.
 
-**Última revisão:** pendente de revisão técnica, pedagógica e de questões oficiais da FEPESE.
+**Última revisão:** 4 de agosto de 2026. Mantida a pendência de revisão técnica e pedagógica.
 
 ## Continue estudando
 
