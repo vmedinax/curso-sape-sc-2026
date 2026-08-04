@@ -3,12 +3,12 @@ id: administracao-geral-modulo-01-questoes-comentadas
 title: "Questões comentadas do Módulo 1"
 discipline: 03-administracao-geral
 module: 1
-lesson: 6
+lesson: 9
 status: pedagogical-review
 edital_refs:
   - anexo-2-administracao-geral-fundamentos-da-administracao-publica
 prerequisites:
-  - administracao-geral-modulo-01-aula-05
+  - administracao-geral-modulo-01-flashcards
 estimated_minutes: 180
 authors:
   - Equipe do Curso SAPE/SC
@@ -104,6 +104,6 @@ Se acertou por chute, marque como ponto de revisão. Depois, refaça somente as 
 
 ## Continue estudando
 
-[← Voltar à Aula 5](05-competencias-dos-orgaos-e-entidades.md){ .md-button }
+[← Flashcards do módulo](modulo-01-flashcards.md){ .md-button }
 
-[Fazer a revisão de 5 minutos →](modulo-01-revisao.md){ .md-button .md-button--primary }
+[Fazer o simulado →](modulo-01-simulado.md){ .md-button .md-button--primary }

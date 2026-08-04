@@ -8,7 +8,7 @@ status: pedagogical-review
 edital_refs:
   - anexo-2-administracao-geral-fundamentos-da-administracao-publica
 prerequisites:
-  - administracao-geral-modulo-01-questoes-comentadas
+  - administracao-geral-modulo-01-resumo
 estimated_minutes: 5
 authors:
   - Equipe do Curso SAPE/SC
@@ -110,6 +110,6 @@ Se marcou “ainda não”, volte apenas ao ponto indicado. Depois faça esta re
 
 ## Continue estudando
 
-[← Questões comentadas](modulo-01-questoes-comentadas.md){ .md-button }
+[← Resumo do módulo](modulo-01-resumo.md){ .md-button }
 
-[Fazer o simulado do módulo →](modulo-01-simulado.md){ .md-button .md-button--primary }
+[Treinar com flashcards →](modulo-01-flashcards.md){ .md-button .md-button--primary }

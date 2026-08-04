@@ -1,437 +1,841 @@
 # Plano da disciplina — Administração Geral e Gestão Organizacional
 
-## Natureza do documento
+## Controle do plano
 
-Este é o projeto pedagógico da disciplina. Ele define cobertura, sequência, objetivos e estratégias de aprendizagem. Não contém aulas nem acrescenta assuntos ao programa oficial.
+| Campo | Definição |
+|---|---|
+| Concurso | SAPE/SC — Edital nº 001/2026 |
+| Cargo | Analista Técnico Administrativo II |
+| Fonte do conteúdo | Anexo 2, página 28, do edital consolidado pelas Retificações nº 01, nº 02 e nº 03 |
+| Quantidade de módulos | 9 |
+| Quantidade estimada de aulas | 46 |
+| Carga total estimada | 92 horas |
+| Situação | Disciplina produzida em 9 módulos, com 46 aulas e recursos de fechamento |
 
-**Fonte de escopo:** Edital 001/2026 da SAPE/SC, Anexo 2, página 28, consolidado com os Termos de Retificação nº 01, nº 02 e nº 03. A transcrição está no [`EDITAL.md` do repositório](https://github.com/vmedinax/curso-sape-sc-2026/blob/main/EDITAL.md), e a arquitetura geral está em [`MAPA_DO_CURSO.md`](../MAPA_DO_CURSO.md).
+Este documento registra a organização da disciplina completa. O edital é o limite do conteúdo. As normas citadas nas aulas servem para explicar os itens expressos no programa. Elas não autorizam a inclusão de uma disciplina paralela de Direito Administrativo.
 
-O edital inclui esta disciplina no conjunto de Conhecimentos Específicos. Esse conjunto tem 35 questões, vale 7,00 pontos e representa 70% da prova. O edital não informa quantas questões serão destinadas a Administração Geral e Gestão Organizacional. Portanto, qualquer prioridade individual é editorial, não oficial.
+## Decisão de escopo
 
-## 1. Objetivo da disciplina
+O nome da disciplina no edital é **Administração Geral e Gestão Organizacional**. O programa inclui fundamentos da Administração Pública, teorias administrativas, gestão, planejamento, projetos, processos, políticas públicas, dados e documentos.
 
-Levar o aluno, mesmo sem formação prévia em Administração, a compreender como organizações públicas são estruturadas, dirigidas, planejadas, acompanhadas e melhoradas. Ao final, ele deverá reconhecer conceitos, comparar modelos, analisar situações administrativas e selecionar instrumentos adequados para estratégia, processos, projetos, políticas públicas, informação, documentos e apoio à decisão.
+Atos administrativos, poderes administrativos, agentes públicos, responsabilidade civil do Estado e serviços públicos não aparecem nesse programa. Licitações e contratos aparecem em outra disciplina: **Legislação e Ética na Administração Pública**. Por isso, esses assuntos não foram transformados em módulos de Administração Geral.
 
-A disciplina será construída do concreto para o técnico. Cada aula partirá de uma situação plausível de organização pública ou empresa. Depois, apresentará o conceito, suas diferenças em relação a conceitos próximos e sua aplicação em questões.
+Essa escolha evita três problemas:
 
-## 2. Dimensão e carga planejada
+- estudar conteúdo que não foi pedido neste bloco;
+- reduzir o tempo disponível para assuntos expressamente previstos;
+- fazer a aluna confundir Administração Geral com Direito Administrativo.
 
-| Elemento | Planejamento |
-|---|---:|
-| Módulos | 9 |
-| Aulas | 42 |
-| Duração média por aula | 90 minutos |
-| Estudo inicial | 63 horas |
-| Revisões, exercícios cumulativos e simulado da disciplina | 21 horas sugeridas |
-| Carga total sugerida | 84 horas |
-| Dificuldade relativa | 4 de 5 |
+!!! note "A palavra que pode confundir"
+    O edital menciona **processo administrativo** ao lado de planejamento, organização, direção e controle. Nesse contexto, trata-se do trabalho de administrar uma organização. Não se trata do processo jurídico regulado pela Lei nº 9.784/1999.
 
-Os 90 minutos de cada aula abrangem leitura ativa, recuperação sem consulta e exercícios iniciais. A carga adicional cobre revisões espaçadas e blocos cumulativos.
+## Objetivo da disciplina
 
-## 3. Relação completa entre edital, módulos e aulas
+Levar a aluna do primeiro contato com a Administração Pública até a capacidade de analisar organizações, planos, projetos, processos, políticas, indicadores e documentos públicos. Ao final, ela deverá reconhecer os conceitos do edital em situações concretas e escolher respostas sem depender apenas de palavras decoradas.
 
-| Conteúdo literal ou unidade de sentido do edital | Módulo | Aula(s) |
-|---|---:|---|
-| Princípios da Administração Pública | 1 | 1.1 |
-| Organização administrativa | 1 | 1.2 |
-| Regime jurídico-administrativo | 1 | 1.2 |
-| Administração direta e indireta | 1 | 1.3 |
-| Administração Pública do Estado de Santa Catarina | 1 | 1.4 |
-| Competências dos órgãos e entidades públicas | 1 | 1.5 |
-| Teorias da administração | 2 | 2.1 |
-| Processo administrativo | 2 | 2.2 e 2.3 |
-| Planejamento, organização, direção e controle | 2 | 2.2 e 2.3 |
-| Estruturas organizacionais | 2 | 2.4 |
-| Centralização e descentralização | 2 | 2.5 |
-| Modelos de administração pública | 3 | 3.1 |
-| Administração pública burocrática, gerencial e societária | 3 | 3.2 |
-| Nova Gestão Pública | 3 | 3.3 |
-| Governança pública | 3 | 3.4 |
-| Planejamento estratégico | 4 | 4.1 |
-| Planejamento governamental | 4 | 4.2 |
-| Instrumentos de planejamento da Administração Pública | 4 | 4.2 |
-| Gestão estratégica no setor público | 4 | 4.3 |
-| Gestão orientada para resultados | 4 | 4.4 |
-| Monitoramento e avaliação da ação governamental | 4 | 4.5 |
-| Gestão por processos | 5 | 5.1 |
-| Gestão da qualidade | 5 | 5.2 |
-| Gestão da mudança organizacional | 5 | 5.3 |
-| Eficiência, eficácia e efetividade | 5 | 5.4 |
-| Conceitos, características e ciclo de vida de programas e projetos | 6 | 6.1 |
-| Planejamento, execução, monitoramento e avaliação | 6 | 6.2 e 6.3 |
-| Metas, indicadores e resultados | 6 | 6.3 |
-| Mapeamento, análise e melhoria de processos organizacionais | 6 | 6.4 |
-| Gestão de portfólio de projetos | 6 | 6.5 |
-| Políticas públicas: conceitos, fundamentos e tipologias | 7 | 7.1 |
-| Ciclo das políticas públicas | 7 | 7.2 |
-| Formulação e implementação | 7 | 7.3 |
-| Monitoramento e avaliação | 7 | 7.4 |
-| Diagnóstico de problemas públicos | 7 | 7.5 |
-| Instrumentos de intervenção estatal | 7 | 7.5 |
-| Avaliação de resultados e impactos das políticas públicas | 7 | 7.6 |
-| Coleta, organização, tratamento e interpretação de dados | 8 | 8.1 |
-| Indicadores gerenciais | 8 | 8.2 |
-| Estatística descritiva aplicada à gestão pública | 8 | 8.2 |
-| Elaboração de relatórios, painéis gerenciais e instrumentos de acompanhamento | 8 | 8.3 |
-| Apoio à tomada de decisão baseada em evidências | 8 | 8.4 |
-| Gestão de documentos e informações | 9 | 9.1 |
-| Protocolo | 9 | 9.2 |
-| Arquivologia aplicada à Administração Pública | 9 | 9.2 |
-| Produção de relatórios, pareceres, notas técnicas e documentos administrativos | 9 | 9.3 |
-| Gestão do conhecimento organizacional | 9 | 9.4 |
+## Resultado esperado
 
-Esta matriz é o controle de cobertura. Uma aula só poderá ser aprovada quando seus itens estiverem efetivamente ensinados e verificados. A mera menção ao termo não comprova cobertura.
+Ao concluir a disciplina, a aluna deverá ser capaz de:
 
-## 4. Ordem pedagógica ideal
+- explicar como a Administração Pública se organiza e atua;
+- reconhecer as principais teorias e funções da Administração;
+- comparar modelos de Administração Pública e governança;
+- relacionar planejamento, metas, indicadores e resultados;
+- analisar processos, projetos, programas e portfólios;
+- compreender o ciclo das políticas públicas;
+- ler dados, relatórios e painéis sem tirar conclusões apressadas;
+- reconhecer os documentos administrativos previstos no edital;
+- resolver questões que combinem dois ou mais desses assuntos.
 
-A ordem foi definida pelas dependências conceituais, não pela ordem aleatória de possíveis questões.
+## Visão geral da trilha
 
-1. **Fundamentos da Administração Pública:** estabelece o que é a organização pública e como competências são distribuídas.
-2. **Teorias e processo administrativo:** apresenta as funções básicas de administrar e as formas de estruturar o trabalho.
-3. **Modelos de gestão pública:** permite comparar formas históricas e contemporâneas de organizar a atuação estatal.
-4. **Planejamento e gestão governamental:** transforma finalidade institucional em direção, objetivos e acompanhamento.
-5. **Gestão organizacional:** mostra como processos, qualidade e mudança afetam desempenho.
-6. **Programas, projetos e processos:** apresenta unidades práticas de execução, controle e melhoria.
-7. **Políticas públicas:** amplia a análise para problemas públicos, intervenção estatal e resultados sociais.
-8. **Informação e apoio à decisão:** ensina a produzir evidência para acompanhar e decidir.
-9. **Gestão documental e comunicação administrativa:** fecha o ciclo com registro, fluxo, comunicação e preservação do conhecimento.
+| Ordem | Módulo | Aulas | Tempo estimado | Função na trilha |
+|---:|---|---:|---:|---|
+| 1 | Fundamentos da Administração Pública | 5 | 10 h | Construir o vocabulário básico |
+| 2 | Teorias, funções e estruturas administrativas | 5 | 10 h | Entender como as organizações são administradas |
+| 3 | Modelos de Administração Pública e governança | 4 | 8 h | Comparar formas de atuação do Estado |
+| 4 | Planejamento e gestão pública por resultados | 5 | 10 h | Ligar estratégia, execução e avaliação |
+| 5 | Gestão organizacional, processos, qualidade e mudança | 5 | 10 h | Melhorar o funcionamento da organização |
+| 6 | Programas, projetos e portfólios | 4 | 8 h | Organizar entregas temporárias e conjuntos de iniciativas |
+| 7 | Políticas públicas | 6 | 12 h | Compreender problemas públicos e respostas do Estado |
+| 8 | Informação, decisão, documentos e conhecimento | 8 | 16 h | Transformar dados e registros em decisões e memória institucional |
+| 9 | Revisão final da disciplina | 4 | 8 h | Integrar, testar e preparar a semana da prova |
+| **Total** |  | **46** | **92 h** |  |
 
-### Dependências internas
+O tempo inclui leitura orientada, pausas, revisão, flashcards e exercícios. Não é uma promessa de tempo exato. A aluna pode dividir uma aula em mais de um dia.
+
+## Ordem pedagógica e dependências
 
 ```mermaid
 flowchart LR
-    M1[1. Fundamentos públicos] --> M2[2. Teorias e processo administrativo]
-    M1 --> M3[3. Modelos de gestão pública]
-    M2 --> M3
-    M2 --> M4[4. Planejamento e gestão governamental]
-    M3 --> M4
-    M2 --> M5[5. Gestão organizacional]
-    M4 --> M6[6. Programas, projetos e processos]
-    M5 --> M6
-    M4 --> M7[7. Políticas públicas]
-    M6 --> M7
-    M6 --> M8[8. Informação e apoio à decisão]
+    M1["Módulo 1<br>Fundamentos"] --> M2["Módulo 2<br>Teorias e funções"]
+    M2 --> M3["Módulo 3<br>Modelos e governança"]
+    M2 --> M4["Módulo 4<br>Planejamento e resultados"]
+    M4 --> M5["Módulo 5<br>Organização e processos"]
+    M4 --> M6["Módulo 6<br>Programas e projetos"]
+    M3 --> M7["Módulo 7<br>Políticas públicas"]
+    M4 --> M7
+    M5 --> M8["Módulo 8<br>Informação e documentos"]
+    M6 --> M8
     M7 --> M8
-    M5 --> M9[9. Gestão documental e comunicação]
-    M8 --> M9
+    M8 --> M9["Módulo 9<br>Revisão final"]
 ```
 
-## 5. Módulos, aulas, tempos e objetivos
+Os módulos devem ser estudados na ordem indicada. O Módulo 3 e o Módulo 4 podem ser revistos em paralelo depois da primeira leitura. O Módulo 9 não apresenta matéria nova.
 
-Cada objetivo descreve o que o aluno deverá conseguir fazer ao final da aula. Os títulos são planejamento editorial, não aulas produzidas.
+---
 
-### Módulo 1 — Fundamentos da Administração Pública
+## Módulo 1 — Fundamentos da Administração Pública
 
-**Objetivo do módulo:** construir a base institucional necessária para compreender organização, regime e distribuição de competências na Administração Pública.
+### Objetivo
 
-| Aula | Título planejado | Tempo | Objetivo de aprendizagem |
-|---|---|---:|---|
-| 1.1 | Princípios da Administração Pública | 90 min | Identificar os princípios aplicáveis a uma situação administrativa e explicar a função de cada um. |
-| 1.2 | Organização administrativa e regime jurídico-administrativo | 90 min | Explicar como a Administração se organiza e distinguir o regime jurídico-administrativo das relações comuns entre particulares. |
-| 1.3 | Administração direta e indireta | 90 min | Classificar estruturas como integrantes da Administração direta ou indireta e justificar a classificação. |
-| 1.4 | Administração Pública do Estado de Santa Catarina | 90 min | Reconhecer a organização administrativa estadual no limite exigido pelo edital e relacioná-la à estrutura pública geral. |
-| 1.5 | Competências dos órgãos e entidades públicas | 90 min | Distinguir órgão de entidade e analisar a distribuição de competências em uma situação administrativa. |
+Construir a base necessária para compreender quem integra a Administração Pública, como suas partes se relacionam e quem pode tomar cada decisão.
 
-### Módulo 2 — Teorias e processo administrativo
+### Competências desenvolvidas
 
-**Objetivo do módulo:** apresentar as principais lentes da Administração e o ciclo formado por planejamento, organização, direção e controle.
+- explicar os princípios da Administração Pública em linguagem simples;
+- reconhecer a organização administrativa e o regime jurídico-administrativo;
+- diferenciar Administração Direta, Administração Indireta, órgão e entidade;
+- localizar a SAPE, a CIDASC e a EPAGRI na estrutura catarinense;
+- analisar competência, delegação, avocação, hierarquia, vinculação e coordenação.
 
-| Aula | Título planejado | Tempo | Objetivo de aprendizagem |
-|---|---|---:|---|
-| 2.1 | Teorias da administração | 90 min | Comparar as teorias previstas no escopo da disciplina e reconhecer o problema organizacional enfatizado por cada abordagem. |
-| 2.2 | Processo administrativo: planejamento e organização | 90 min | Distinguir planejamento de organização e selecionar a função adequada para cada decisão administrativa. |
-| 2.3 | Processo administrativo: direção e controle | 90 min | Distinguir direção de controle e explicar como as quatro funções administrativas se conectam. |
-| 2.4 | Estruturas organizacionais | 90 min | Ler uma representação organizacional e comparar estruturas conforme divisão do trabalho, autoridade e coordenação. |
-| 2.5 | Centralização e descentralização | 90 min | Identificar onde se encontra o poder de decisão e diferenciar centralização de descentralização em exemplos organizacionais. |
+### Pré-requisitos
 
-### Módulo 3 — Modelos de gestão pública
+Nenhum. Este é o ponto de entrada da disciplina.
 
-**Objetivo do módulo:** comparar modelos de Administração Pública e reconhecer suas ideias de base, ferramentas e limites.
+### Aulas
 
-| Aula | Título planejado | Tempo | Objetivo de aprendizagem |
-|---|---|---:|---|
-| 3.1 | Modelos de administração pública | 90 min | Explicar por que modelos de gestão pública são usados e comparar seus critérios centrais. |
-| 3.2 | Administração pública burocrática, gerencial e societária | 90 min | Distinguir os três modelos a partir de foco, controle, participação e resultados. |
-| 3.3 | Nova Gestão Pública | 90 min | Identificar características da Nova Gestão Pública e relacioná-las à orientação para desempenho. |
-| 3.4 | Governança pública | 90 min | Explicar governança pública e distingui-la de gestão em situações de direção, supervisão e prestação de contas. |
+| Aula | Título | Tempo | Objetivo de aprendizagem |
+|---:|---|---:|---|
+| 1 | Princípios da Administração Pública | 90 min | Aplicar legalidade, impessoalidade, moralidade, publicidade e eficiência a situações concretas. |
+| 2 | Organização administrativa e regime jurídico-administrativo | 90 min | Entender prerrogativas, limites e indisponibilidade do interesse público. |
+| 3 | Administração direta e indireta | 90 min | Distinguir órgãos, autarquias, fundações, empresas públicas e sociedades de economia mista. |
+| 4 | Administração Pública do Estado de Santa Catarina | 90 min | Reconhecer a estrutura estadual, a SAPE e os sistemas centrais, setoriais e seccionais. |
+| 5 | Competências dos órgãos e entidades públicas | 90 min | Identificar quem pode agir e diferenciar competência, capacidade, delegação, avocação e coordenação. |
 
-### Módulo 4 — Planejamento e gestão governamental
+As cinco aulas já existentes ficam preservadas. A revisão, os flashcards, as questões comentadas e o simulado do módulo também permanecem como produtos de fechamento.
 
-**Objetivo do módulo:** mostrar como o setor público define direção, organiza instrumentos e acompanha resultados.
+### Tempo estimado
 
-| Aula | Título planejado | Tempo | Objetivo de aprendizagem |
-|---|---|---:|---|
-| 4.1 | Planejamento estratégico | 90 min | Relacionar diagnóstico, objetivos, escolhas e execução em um processo de planejamento estratégico. |
-| 4.2 | Planejamento governamental e seus instrumentos | 90 min | Identificar a função dos instrumentos de planejamento público e explicar sua articulação sem avançar além do escopo do edital. |
-| 4.3 | Gestão estratégica no setor público | 90 min | Converter objetivos estratégicos em iniciativas acompanháveis e reconhecer limites próprios do setor público. |
-| 4.4 | Gestão orientada para resultados | 90 min | Distinguir atividade, entrega e resultado e avaliar se uma prática está orientada para resultados. |
-| 4.5 | Monitoramento e avaliação da ação governamental | 90 min | Distinguir monitoramento de avaliação e escolher informações adequadas para cada finalidade. |
+10 horas: 7 horas e 30 minutos de aulas e 2 horas e 30 minutos de revisão e prática.
 
-### Módulo 5 — Gestão organizacional
+### Principais dificuldades
 
-**Objetivo do módulo:** analisar desempenho organizacional por meio de processos, qualidade, mudança e critérios de eficiência, eficácia e efetividade.
+- aprender muitos nomes novos no início;
+- separar órgão de entidade;
+- compreender que uma vantagem jurídica da Administração também possui limites;
+- localizar estruturas estaduais sem decorar siglas soltas.
 
-| Aula | Título planejado | Tempo | Objetivo de aprendizagem |
-|---|---|---:|---|
-| 5.1 | Gestão por processos | 90 min | Reconhecer um processo de ponta a ponta e distingui-lo de uma unidade funcional. |
-| 5.2 | Gestão da qualidade | 90 min | Relacionar requisitos, padronização, controle e melhoria a uma situação de prestação de serviço. |
-| 5.3 | Gestão da mudança organizacional | 90 min | Identificar fatores que exigem gestão da mudança e organizar uma resposta coerente à transição. |
-| 5.4 | Eficiência, eficácia e efetividade | 90 min | Diferenciar os três critérios e classificar corretamente resultados apresentados em situações práticas. |
+### Pontos normalmente confundidos
 
-### Módulo 6 — Programas, projetos e processos
+- interesse público não significa vontade pessoal do agente;
+- descentralização não é desconcentração;
+- vinculação não é hierarquia;
+- autarquia é criada por lei; empresa pública e sociedade de economia mista têm a criação autorizada por lei;
+- capacidade jurídica não é competência administrativa.
 
-**Objetivo do módulo:** distinguir unidades de gestão e aplicar planejamento, execução, monitoramento, avaliação e melhoria.
+Esses são pontos de confusão conceitual. Só poderão ser chamados de “pegadinhas da FEPESE” quando a análise prevista no `FEPESE_GUIDE.md` fornecer evidência suficiente.
 
-| Aula | Título planejado | Tempo | Objetivo de aprendizagem |
-|---|---|---:|---|
-| 6.1 | Programas e projetos: conceitos, características e ciclo de vida | 90 min | Distinguir programa de projeto e reconhecer as fases de seu ciclo de vida. |
-| 6.2 | Planejamento e execução de programas e projetos | 90 min | Relacionar objetivos, entregas, atividades, recursos e execução em um plano coerente. |
-| 6.3 | Monitoramento, avaliação, metas, indicadores e resultados | 90 min | Distinguir esses elementos e selecionar a medida adequada para acompanhar uma ação. |
-| 6.4 | Mapeamento, análise e melhoria de processos | 90 min | Representar um processo, localizar problemas e propor melhoria compatível com o diagnóstico. |
-| 6.5 | Gestão de portfólio de projetos | 90 min | Comparar projetos como conjunto e justificar decisões de seleção e priorização. |
+### Estratégia pedagógica
 
-### Módulo 7 — Políticas públicas
+Começar por situações comuns de atendimento público. Apresentar cada palavra técnica somente depois da explicação simples. Usar comparações visuais, exemplos de Santa Catarina e perguntas curtas durante a leitura.
 
-**Objetivo do módulo:** compreender políticas públicas como respostas organizadas a problemas públicos e analisar suas etapas, instrumentos e efeitos.
+### Produtos sugeridos
 
-| Aula | Título planejado | Tempo | Objetivo de aprendizagem |
-|---|---|---:|---|
-| 7.1 | Conceitos, fundamentos e tipologias de políticas públicas | 90 min | Reconhecer uma política pública e classificar exemplos segundo tipologias apresentadas na aula. |
-| 7.2 | Ciclo das políticas públicas | 90 min | Ordenar e explicar as etapas do ciclo sem tratá-las como uma sequência sempre rígida. |
-| 7.3 | Formulação e implementação | 90 min | Distinguir formulação de implementação e analisar como decisões se transformam em ação. |
-| 7.4 | Monitoramento e avaliação de políticas públicas | 90 min | Escolher procedimentos de monitoramento ou avaliação conforme a pergunta de gestão. |
-| 7.5 | Diagnóstico de problemas e instrumentos de intervenção estatal | 90 min | Formular um problema público e relacioná-lo a um instrumento de intervenção coerente. |
-| 7.6 | Avaliação de resultados e impactos | 90 min | Distinguir produto, resultado e impacto e interpretar uma conclusão avaliativa dentro de seus limites. |
+- 40 questões de treino, distribuídas pelas cinco aulas;
+- 40 flashcards curtos;
+- 1 simulado de módulo;
+- 1 revisão de 5 minutos;
+- 1 mapa mental.
 
-### Módulo 8 — Informação e apoio à decisão
+### Critérios de conclusão
 
-**Objetivo do módulo:** transformar dados em informações úteis para acompanhar a gestão e apoiar escolhas fundamentadas.
+- obter pelo menos 80% nas questões essenciais;
+- explicar, sem consultar o texto, as diferenças entre órgão e entidade, Direta e Indireta, delegação e avocação;
+- refazer todos os erros e indicar a aula que resolve cada um;
+- concluir a revisão e o simulado.
 
-| Aula | Título planejado | Tempo | Objetivo de aprendizagem |
-|---|---|---:|---|
-| 8.1 | Coleta, organização, tratamento e interpretação de dados | 90 min | Organizar as etapas do trabalho com dados e identificar falhas que comprometem a interpretação. |
-| 8.2 | Indicadores gerenciais e estatística descritiva aplicada | 90 min | Interpretar medidas descritivas e avaliar se um indicador responde à pergunta de gestão. |
-| 8.3 | Relatórios, painéis e instrumentos de acompanhamento | 90 min | Selecionar o formato de apresentação adequado ao público, à decisão e à informação disponível. |
-| 8.4 | Tomada de decisão baseada em evidências | 90 min | Avaliar a qualidade e os limites de evidências usadas para justificar uma decisão administrativa. |
+---
 
-### Módulo 9 — Gestão documental e comunicação administrativa
+## Módulo 2 — Teorias, funções e estruturas administrativas
 
-**Objetivo do módulo:** organizar documentos e informações, compreender fluxos de protocolo e produzir comunicações adequadas à decisão e à memória organizacional.
+### Objetivo
 
-| Aula | Título planejado | Tempo | Objetivo de aprendizagem |
-|---|---|---:|---|
-| 9.1 | Gestão de documentos e informações | 90 min | Explicar o papel da gestão documental e organizar documentos conforme sua função no trabalho administrativo. |
-| 9.2 | Protocolo e arquivologia aplicada à Administração Pública | 90 min | Reconhecer operações de protocolo e relacioná-las ao fluxo e à recuperação de documentos públicos. |
-| 9.3 | Relatórios, pareceres, notas técnicas e documentos administrativos | 90 min | Distinguir os documentos por finalidade, estrutura funcional e destinatário. |
-| 9.4 | Gestão do conhecimento organizacional | 90 min | Distinguir dado, informação e conhecimento e propor formas de preservar e compartilhar conhecimento organizacional. |
+Mostrar como as ideias sobre Administração evoluíram e como planejar, organizar, dirigir e controlar aparecem no trabalho diário.
 
-## 6. Principais dificuldades dos alunos
+### Competências desenvolvidas
 
-As dificuldades abaixo são hipóteses pedagógicas. Elas orientarão exemplos, exercícios diagnósticos e revisão. Não são padrões atribuídos à FEPESE.
+- reconhecer contribuições e limites das principais teorias administrativas;
+- identificar cada função do processo administrativo;
+- comparar estruturas organizacionais;
+- explicar centralização e descentralização da decisão;
+- relacionar teoria, estrutura e prática.
 
-### Vocabulário abstrato no início
+### Pré-requisitos
 
-Termos como regime, competência, governança, efetividade e portfólio podem parecer autoexplicativos. Não são. Cada primeira ocorrência deverá ter uma explicação simples e um exemplo concreto.
+Módulo 1, especialmente organização, hierarquia e competência.
 
-### Conceitos próximos
+### Aulas
 
-Há pares ou grupos que exigem comparação direta:
+| Aula | Título | Tempo | Objetivo de aprendizagem |
+|---:|---|---:|---|
+| 1 | Por que surgiram as teorias da Administração | 90 min | Entender o problema que cada teoria tentou resolver. |
+| 2 | Abordagens clássica, científica e burocrática | 90 min | Comparar eficiência do trabalho, estrutura e regras formais. |
+| 3 | Relações humanas, comportamento e visão sistêmica | 90 min | Reconhecer pessoas, grupos, ambiente e interação entre as partes. |
+| 4 | Processo administrativo: planejar, organizar, dirigir e controlar | 90 min | Identificar as quatro funções em casos concretos. |
+| 5 | Estruturas organizacionais, centralização e descentralização | 90 min | Comparar formas de distribuir unidades e decisões. |
 
-- órgão e entidade;
-- Administração direta e indireta;
-- centralização e descentralização;
-- planejamento, organização, direção e controle;
-- governança e gestão;
-- eficiência, eficácia e efetividade;
-- programa, projeto, processo e portfólio;
-- meta, indicador, produto, resultado e impacto;
-- monitoramento e avaliação;
-- formulação e implementação;
-- dado, informação e conhecimento;
-- relatório, parecer e nota técnica.
+### Tempo estimado
 
-As aulas deverão usar quadros comparativos e casos com justificativa. Decorar uma lista sem aplicar a diferença não será considerado domínio.
+10 horas: 7 horas e 30 minutos de aulas e 2 horas e 30 minutos de revisão e prática.
 
-### Mudança de nível de análise
+### Principais dificuldades
 
-O edital alterna entre organização, governo, projeto, processo e política pública. O aluno pode aplicar uma ideia correta no nível errado. Cada exemplo deverá indicar qual é a unidade analisada.
+- decorar nomes sem entender o problema resolvido;
+- misturar teoria burocrática com Administração Pública burocrática;
+- confundir o processo de administrar com processo jurídico;
+- separar desenho da estrutura e distribuição da decisão.
 
-### Modelos tratados como fases rígidas
+### Pontos normalmente confundidos
 
-Modelos administrativos e ciclos são instrumentos de análise. O aluno pode interpretá-los como etapas lineares e obrigatórias. As aulas deverão mostrar o que o modelo simplifica e quais limites devem ser preservados.
+- eficiência do trabalho e atenção às pessoas não são explicações idênticas;
+- planejar vem antes de executar, mas controle acompanha a execução;
+- estrutura funcional, divisional e matricial usam critérios diferentes;
+- descentralização decisória neste módulo não muda, por si só, a personalidade jurídica.
 
-### Indicadores sem pergunta de gestão
+### Estratégia pedagógica
 
-Um número não é útil apenas por estar disponível. Os exercícios deverão partir de uma pergunta, verificar a qualidade dos dados e só então avaliar o indicador.
+Apresentar uma organização fictícia que cresce e enfrenta novos problemas. Cada teoria entra como resposta a um desses problemas. Depois, usar o mesmo caso para mostrar funções, estrutura e distribuição das decisões.
 
-### Interdisciplinaridade
+### Produtos sugeridos
 
-Princípios públicos se relacionam a Legislação; estatística, a Raciocínio Lógico; planejamento público, a AFO; políticas públicas, ao bloco rural. As referências cruzadas devem ajudar o aluno sem repetir ou antecipar conteúdo fora do escopo desta disciplina.
+- 40 questões;
+- 36 flashcards;
+- 1 simulado de módulo;
+- 1 revisão de 5 minutos;
+- 1 quadro comparativo das teorias.
 
-## 7. Pegadinhas da FEPESE
+### Critérios de conclusão
 
-### Estado da evidência
+- reconhecer a teoria ou função descrita sem depender do nome no enunciado;
+- montar a sequência planejar, organizar, dirigir e controlar para um caso simples;
+- comparar ao menos três estruturas;
+- alcançar 80% nas questões essenciais e revisar os erros.
 
-**Ainda não validado.** O edital define temas, quantidade global de questões e forma da prova, mas não revela como a FEPESE formula alternativas nesta disciplina. O repositório não contém, até este plano, um conjunto identificado de questões oficiais anteriores que permita afirmar padrões de cobrança ou “pegadinhas da FEPESE”.
+---
 
-Por isso, nenhuma dificuldade conceitual deste documento deve receber esse rótulo neste momento.
+## Módulo 3 — Modelos de Administração Pública e governança
 
-### Protocolo de validação durante a elaboração das questões
+### Objetivo
 
-Antes de publicar qualquer caixa `!!! warning "Pegadinha da FEPESE"`, a equipe deverá:
+Explicar como diferentes modelos organizam a relação entre Estado, resultados, controle e participação social.
 
-1. identificar concurso, órgão, cargo, ano, caderno e número da questão oficial;
-2. guardar o enunciado ou referência conforme a política de direitos autorais;
-3. registrar o gabarito definitivo, inclusive anulação ou alteração;
-4. classificar o tópico exato do edital;
-5. explicar qual raciocínio leva à alternativa correta;
-6. demonstrar a armadilha com base no texto da questão;
-7. buscar recorrência antes de descrever o caso como comportamento frequente da banca.
+### Competências desenvolvidas
 
-Até essa validação, os pares conceituais listados na seção anterior serão tratados como **pontos de atenção**, não como pegadinhas comprovadas da FEPESE.
+- comparar os modelos patrimonialista, burocrático, gerencial e societal;
+- compreender a Nova Gestão Pública;
+- explicar governança pública em linguagem simples;
+- analisar a convivência de características de modelos diferentes.
 
-## 8. Estratégia de revisão
+### Pré-requisitos
 
-### Revisão ao final da aula
+Módulos 1 e 2, com atenção à teoria burocrática, princípios e funções administrativas.
 
-Sem consultar o texto, o aluno deverá:
+### Aulas
 
-1. responder aos objetivos de aprendizagem;
-2. explicar os termos novos em linguagem simples;
-3. resolver o exercício de fechamento;
-4. registrar dúvidas e erros por causa.
+| Aula | Título | Tempo | Objetivo de aprendizagem |
+|---:|---|---:|---|
+| 1 | Modelos patrimonialista e burocrático | 90 min | Diferenciar confusão entre público e privado de formalização e controle. |
+| 2 | Modelo gerencial e Nova Gestão Pública | 90 min | Relacionar desempenho, resultados, autonomia e responsabilização. |
+| 3 | Modelo societal e participação | 90 min | Entender a presença da sociedade na construção e no controle da ação pública. |
+| 4 | Governança pública | 90 min | Reconhecer direção, estratégia, supervisão e prestação de contas. |
 
-### Revisão de curto prazo
+### Tempo estimado
 
-No dia seguinte, fazer recuperação rápida com flashcards e duas a quatro questões do tópico. Voltar à aula apenas nos pontos que não puderam ser recuperados.
+8 horas: 6 horas de aulas e 2 horas de revisão e prática.
 
-### Revisão semanal
+### Principais dificuldades
 
-A cada sete dias, misturar assuntos de módulos já iniciados. Priorizar:
+- tratar os modelos como fases que desaparecem completamente;
+- confundir gestão com governança;
+- concluir que foco em resultados elimina regras e controles.
 
-- erros com alta confiança;
-- conceitos confundidos;
-- flashcards com falhas repetidas;
-- objetivos de aula que o aluno ainda não consegue executar.
+### Pontos normalmente confundidos
 
-### Revisão de fim de módulo
+- burocracia como modelo técnico e “burocracia” como demora cotidiana;
+- governança e governabilidade;
+- participação social e transferência integral da decisão estatal;
+- autonomia administrativa e ausência de responsabilidade.
 
-Cada módulo terminará com:
+### Estratégia pedagógica
 
-- mapa dos conceitos e relações;
-- quadro das diferenças essenciais;
-- bloco cumulativo de questões;
-- análise dos erros;
-- checklist dos objetivos do módulo.
+Usar a evolução de um mesmo serviço público. Mostrar como cada modelo mudaria regras, decisões, resultados e participação. Fechar com uma tabela que compare finalidade, instrumentos, força e limite de cada modelo.
 
-### Revisão cumulativa
+### Produtos sugeridos
 
-Após os módulos 3, 6 e 9, aplicar revisão que combine módulos anteriores. Trinta dias após a primeira exposição, retomar os objetivos, os erros registrados e um bloco misto. O intervalo deverá ser antecipado quando houver baixo desempenho.
+- 30 questões;
+- 28 flashcards;
+- 1 simulado de módulo;
+- 1 revisão de 5 minutos;
+- 1 mapa mental comparativo.
 
-## 9. Estratégia de exercícios
+### Critérios de conclusão
 
-Os exercícios serão planejados em camadas. Nenhuma aula será considerada completa apenas com perguntas de memorização.
+- identificar o modelo a partir de um comportamento concreto;
+- explicar por que características de mais de um modelo podem coexistir;
+- diferenciar gestão e governança;
+- obter 80% nas questões essenciais.
 
-### Camada 1 — Reconhecimento
+---
 
-- identificar conceitos em exemplos curtos;
-- classificar uma situação;
-- associar termo e função;
-- localizar a diferença que torna uma alternativa incorreta.
+## Módulo 4 — Planejamento e gestão pública por resultados
 
-### Camada 2 — Comparação
+### Objetivo
 
-- contrastar conceitos próximos;
-- justificar por que uma situação pertence a uma categoria e não a outra;
-- corrigir afirmações parcialmente verdadeiras.
+Ensinar como uma intenção pública se transforma em objetivos, ações, metas, indicadores, acompanhamento e avaliação.
 
-### Camada 3 — Aplicação
+### Competências desenvolvidas
 
-- analisar casos de Administração Pública ou empresas;
-- selecionar instrumento de planejamento, gestão ou acompanhamento;
-- interpretar estruturas, processos, indicadores, relatórios e decisões.
+- diferenciar níveis estratégico, tático e operacional;
+- compreender planejamento governamental e instrumentos de planejamento público;
+- formular objetivos, metas e indicadores coerentes;
+- acompanhar execução e avaliar resultados;
+- reconhecer a gestão estratégica no setor público.
 
-### Camada 4 — Integração
+### Pré-requisitos
 
-- resolver questões que combinem dois ou mais módulos;
-- distinguir o nível de análise: organização, política, programa, projeto ou processo;
-- trabalhar com tempo controlado e grau de confiança.
+Módulo 2, especialmente planejamento e controle; Módulo 3, especialmente modelo gerencial e governança.
 
-### Distribuição sugerida
+### Aulas
 
-| Momento | Quantidade | Finalidade |
-|---|---:|---|
-| Durante a aula | 3 a 5 itens curtos | Verificar compreensão imediata |
-| Fechamento da aula | 5 a 8 questões | Aplicar o objetivo da aula |
-| Fim do módulo | 15 a 25 questões | Integrar conceitos do módulo |
-| Revisão cumulativa | 30 a 40 questões | Misturar módulos e diagnosticar retenção |
-| Simulado da disciplina | Quantidade variável | Evitar presumir distribuição não informada pelo edital |
+| Aula | Título | Tempo | Objetivo de aprendizagem |
+|---:|---|---:|---|
+| 1 | Planejamento estratégico | 90 min | Relacionar missão, visão, diagnóstico, objetivos e escolhas. |
+| 2 | Níveis estratégico, tático e operacional | 90 min | Transformar uma direção geral em planos de áreas e tarefas. |
+| 3 | Planejamento governamental e instrumentos públicos | 90 min | Entender a função dos instrumentos sem antecipar a disciplina de orçamento. |
+| 4 | Gestão estratégica e gestão por resultados | 90 min | Ligar prioridades públicas a entregas e efeitos esperados. |
+| 5 | Metas, indicadores, monitoramento e avaliação | 90 min | Escolher medidas úteis e interpretar o acompanhamento de um plano. |
 
-Toda questão deverá ter resposta justificada. O comentário deverá explicar a alternativa correta e o erro das demais quando isso for necessário para a aprendizagem. Questões oficiais da FEPESE deverão manter metadados de origem e gabarito definitivo.
+### Tempo estimado
 
-## 10. Estratégia de flashcards
+10 horas: 7 horas e 30 minutos de aulas e 2 horas e 30 minutos de revisão e prática.
 
-Flashcards serão usados para recuperação, não para substituir explicações ou exercícios.
+### Principais dificuldades
 
-### O que deve virar cartão
+- confundir objetivo, meta e indicador;
+- tratar planejamento como documento parado;
+- misturar monitoramento e avaliação;
+- aprofundar regras orçamentárias que pertencem a outra disciplina.
 
-- definição curta que precise ser recuperada com precisão;
-- diferença entre dois conceitos;
-- sequência funcional, quando a ordem for relevante;
-- relação entre instrumento e finalidade;
-- critério usado para classificar uma situação;
-- causa de erro recorrente identificada nas questões.
+### Pontos normalmente confundidos
 
-### O que não deve virar cartão
+- missão, visão e objetivo;
+- produto entregue e resultado produzido;
+- indicador e meta;
+- monitorar durante a execução e avaliar o valor do resultado;
+- planejamento público e orçamento público.
 
-- parágrafos inteiros;
-- listas sem contexto;
-- casos que exigem análise longa;
-- afirmações sobre a FEPESE sem questão oficial;
-- conteúdo de outra disciplina apenas porque foi mencionado.
+### Estratégia pedagógica
 
-### Padrões de cartão
+Usar um plano público simples, como reduzir o tempo de atendimento rural. Construir com a aluna o diagnóstico, o objetivo, a meta, as ações, o indicador e a forma de acompanhar.
 
-1. **Conceito → explicação simples:** o aluno explica o termo sem copiar definição.
-2. **Situação → classificação:** o aluno identifica o conceito aplicado e justifica.
-3. **Conceito A × conceito B:** o aluno informa a diferença decisiva.
-4. **Finalidade → instrumento:** o aluno escolhe o recurso administrativo adequado.
-5. **Erro → correção:** o aluno recupera a regra que corrige um erro real.
+### Produtos sugeridos
 
-Cada aula deverá propor de 5 a 12 cartões candidatos. Apenas cartões atômicos, claros e úteis serão incorporados ao conjunto final. Cartões errados repetidamente deverão ser reescritos ou devolvidos à aula de origem para nova compreensão.
+- 40 questões;
+- 36 flashcards;
+- 1 simulado de módulo;
+- 1 revisão de 5 minutos;
+- 1 quadro “objetivo, meta, indicador e resultado”.
 
-## 11. Competências ao concluir a disciplina
+### Critérios de conclusão
 
-Ao terminar Administração Geral e Gestão Organizacional, o aluno deverá ser capaz de:
+- transformar um problema em objetivo e meta mensurável;
+- escolher um indicador coerente;
+- separar os três níveis de planejamento;
+- obter 80% nas questões essenciais e corrigir todos os erros.
 
-- explicar os termos do programa sem depender de conhecimento prévio implícito;
-- reconhecer princípios, estruturas e competências na Administração Pública;
-- distinguir Administração direta e indireta, órgão e entidade e centralização e descentralização;
-- comparar teorias, modelos e funções administrativas;
-- diferenciar administração burocrática, gerencial e societária, Nova Gestão Pública e governança;
-- relacionar planejamento estratégico, planejamento governamental, gestão e resultados;
-- distinguir monitoramento de avaliação;
-- analisar processos e propor melhoria coerente com o problema;
+---
+
+## Módulo 5 — Gestão organizacional, processos, qualidade e mudança
+
+### Objetivo
+
+Ensinar a observar como o trabalho flui, encontrar falhas e melhorar a organização sem perder a finalidade pública.
+
+### Competências desenvolvidas
+
+- compreender gestão por processos;
+- mapear, analisar e melhorar um processo;
+- aplicar noções de gestão da qualidade;
+- diferenciar eficiência, eficácia e efetividade;
+- compreender mudança organizacional e suas resistências.
+
+### Pré-requisitos
+
+Módulo 2, especialmente estruturas e funções; Módulo 4, especialmente metas, indicadores e avaliação.
+
+### Aulas
+
+| Aula | Título | Tempo | Objetivo de aprendizagem |
+|---:|---|---:|---|
+| 1 | Gestão por processos | 90 min | Enxergar o fluxo de trabalho de ponta a ponta. |
+| 2 | Mapeamento e análise de processos | 90 min | Registrar etapas, responsáveis, entradas, saídas e problemas. |
+| 3 | Melhoria de processos e gestão da qualidade | 90 min | Escolher mudanças e verificar se elas melhoraram a entrega. |
+| 4 | Eficiência, eficácia e efetividade | 90 min | Diferenciar uso de recursos, alcance da meta e efeito produzido. |
+| 5 | Gestão da mudança organizacional | 90 min | Reconhecer causas de resistência e planejar uma mudança possível. |
+
+### Tempo estimado
+
+10 horas: 7 horas e 30 minutos de aulas e 2 horas e 30 minutos de revisão e prática.
+
+### Principais dificuldades
+
+- olhar apenas para departamentos e não para o fluxo completo;
+- pensar que qualidade significa perfeição sem medida;
+- confundir eficiência, eficácia e efetividade;
+- tratar resistência como simples má vontade.
+
+### Pontos normalmente confundidos
+
+- processo, projeto e rotina;
+- mapear o processo e melhorar o processo;
+- fazer com menos recursos e produzir o efeito social desejado;
+- comunicar a mudança e realmente preparar pessoas e trabalho.
+
+### Estratégia pedagógica
+
+Acompanhar um pedido desde a entrada até a entrega. Marcar espera, retrabalho e decisão. Só depois apresentar os termos técnicos e as ferramentas de melhoria.
+
+### Produtos sugeridos
+
+- 40 questões;
+- 36 flashcards;
+- 1 simulado de módulo;
+- 1 revisão de 5 minutos;
+- 1 mapa de processo comentado.
+
+### Critérios de conclusão
+
+- desenhar um processo simples com começo, etapas e resultado;
+- propor uma melhoria ligada a um problema observado;
+- diferenciar eficiência, eficácia e efetividade em novos exemplos;
+- obter 80% nas questões essenciais.
+
+---
+
+## Módulo 6 — Programas, projetos e portfólios
+
+### Objetivo
+
+Mostrar como a Administração organiza iniciativas com objetivos, prazos, recursos e acompanhamento.
+
+### Competências desenvolvidas
+
 - diferenciar programa, projeto, processo e portfólio;
-- formular metas e avaliar indicadores dentro de sua finalidade;
-- explicar o ciclo de políticas públicas sem tratá-lo como sequência inflexível;
-- distinguir formulação, implementação, monitoramento, avaliação, resultado e impacto;
-- organizar e interpretar dados para apoiar uma decisão;
-- selecionar relatórios, painéis e instrumentos de acompanhamento adequados;
-- reconhecer as funções da gestão documental, do protocolo e da arquivologia aplicada;
-- diferenciar relatório, parecer, nota técnica e outros documentos administrativos;
-- explicar como a gestão do conhecimento preserva e compartilha saber organizacional;
-- resolver questões integradas, justificar a resposta e identificar a causa de seus erros.
+- reconhecer características e ciclo de vida de um projeto;
+- planejar execução, prazos, recursos, riscos e responsáveis;
+- monitorar metas, indicadores e resultados;
+- compreender a gestão de portfólio.
 
-## 12. Critérios para autorizar a produção das aulas
+### Pré-requisitos
 
-Antes de iniciar a redação, a equipe deverá aprovar:
+Módulos 4 e 5.
 
-- a matriz de cobertura deste plano;
-- os 9 módulos e 42 aulas;
-- a duração média e os objetivos de cada aula;
-- o protocolo de análise de questões oficiais da FEPESE;
-- o padrão de exercícios e flashcards;
-- as fontes técnicas que sustentarão cada módulo.
+### Aulas
 
-Nenhum título deste plano equivale a conteúdo pronto. A produção deverá seguir `STYLE_GUIDE.md` e manter rastreabilidade entre edital, aula, exemplo, questão, fonte e revisão.
+| Aula | Título | Tempo | Objetivo de aprendizagem |
+|---:|---|---:|---|
+| 1 | Programas, projetos, processos e ciclo de vida | 90 min | Distinguir os conceitos e reconhecer as etapas de um projeto. |
+| 2 | Planejamento e execução de projetos | 90 min | Organizar objetivo, entrega, prazo, responsáveis, recursos e riscos. |
+| 3 | Monitoramento, avaliação, metas, indicadores e resultados | 90 min | Acompanhar o andamento e avaliar a entrega do projeto. |
+| 4 | Gestão de portfólio | 90 min | Priorizar e acompanhar um conjunto de projetos e programas. |
+
+### Tempo estimado
+
+8 horas: 6 horas de aulas e 2 horas de revisão e prática.
+
+### Principais dificuldades
+
+- chamar qualquer atividade de projeto;
+- confundir programa e portfólio;
+- acompanhar apenas prazo e esquecer resultado;
+- tratar risco como problema que já aconteceu.
+
+### Pontos normalmente confundidos
+
+- projeto temporário e processo contínuo;
+- entrega, meta e resultado;
+- programa formado por iniciativas relacionadas e portfólio guiado por prioridade estratégica;
+- monitoramento e avaliação.
+
+### Estratégia pedagógica
+
+Planejar um projeto público curto do início ao encerramento. Depois ampliar a visão para um programa e um portfólio, mostrando por que a decisão muda em cada nível.
+
+### Produtos sugeridos
+
+- 35 questões;
+- 32 flashcards;
+- 1 simulado de módulo;
+- 1 revisão de 5 minutos;
+- 1 quadro comparativo de programa, projeto, processo e portfólio.
+
+### Critérios de conclusão
+
+- classificar corretamente exemplos de programa, projeto, processo e portfólio;
+- montar um plano básico de projeto;
+- escolher medidas de acompanhamento coerentes;
+- obter 80% nas questões essenciais.
+
+---
+
+## Módulo 7 — Políticas públicas
+
+### Objetivo
+
+Explicar como um problema coletivo entra na agenda, recebe uma resposta do Estado e tem seus resultados avaliados.
+
+### Competências desenvolvidas
+
+- explicar conceitos, fundamentos e tipos de políticas públicas;
+- reconhecer as etapas do ciclo;
+- formular um problema público com base em diagnóstico;
+- comparar instrumentos de intervenção estatal;
+- compreender implementação, monitoramento e avaliação;
+- diferenciar resultado e impacto.
+
+### Pré-requisitos
+
+Módulo 3, para modelos e governança; Módulo 4, para planejamento e indicadores; Módulo 6, para programas e projetos.
+
+### Aulas
+
+| Aula | Título | Tempo | Objetivo de aprendizagem |
+|---:|---|---:|---|
+| 1 | Conceitos, fundamentos e tipos de políticas públicas | 90 min | Reconhecer o que caracteriza uma política pública e suas classificações. |
+| 2 | Ciclo das políticas públicas e formação da agenda | 90 min | Entender por que alguns problemas recebem atenção do governo. |
+| 3 | Diagnóstico e formulação | 90 min | Definir o problema, suas causas, o público e as opções de resposta. |
+| 4 | Implementação e instrumentos de intervenção estatal | 90 min | Comparar formas de colocar a política em prática. |
+| 5 | Monitoramento e avaliação | 90 min | Acompanhar execução e julgar resultados com critérios claros. |
+| 6 | Avaliação de resultados e de impacto | 90 min | Diferenciar mudança observada de mudança causada pela política. |
+
+### Tempo estimado
+
+12 horas: 9 horas de aulas e 3 horas de revisão e prática.
+
+### Principais dificuldades
+
+- confundir problema público com a solução preferida;
+- tratar o ciclo como sequência rígida;
+- misturar política, programa e projeto;
+- afirmar que uma política causou um efeito apenas porque os dois ocorreram juntos.
+
+### Pontos normalmente confundidos
+
+- agenda pública e agenda governamental;
+- formulação e implementação;
+- instrumento e objetivo;
+- resultado e impacto;
+- associação entre fatos e relação de causa.
+
+### Estratégia pedagógica
+
+Usar um problema próximo da atuação da SAPE, sem antecipar a disciplina específica de desenvolvimento rural. Percorrer o ciclo e perguntar, em cada etapa, quem decide, que informação falta e como saber se a ação funcionou.
+
+### Produtos sugeridos
+
+- 50 questões;
+- 44 flashcards;
+- 1 simulado de módulo;
+- 1 revisão de 5 minutos;
+- 1 mapa do ciclo com alertas sobre idas e voltas.
+
+### Critérios de conclusão
+
+- formular um problema sem esconder nele uma solução;
+- localizar uma situação em uma etapa do ciclo;
+- comparar instrumentos de intervenção;
+- explicar a diferença entre resultado e impacto;
+- obter 80% nas questões essenciais.
+
+---
+
+## Módulo 8 — Informação, decisão, documentos e conhecimento
+
+### Objetivo
+
+Ensinar a organizar dados e documentos, produzir informação útil e apoiar decisões responsáveis na Administração Pública.
+
+### Competências desenvolvidas
+
+- coletar, organizar, tratar e interpretar dados;
+- ler indicadores e noções de estatística descritiva;
+- compreender relatórios, painéis e ferramentas de acompanhamento;
+- tomar decisões apoiadas em evidências e reconhecer limites dos dados;
+- organizar documentos, informações e protocolos;
+- aplicar noções de arquivologia;
+- distinguir relatório, parecer, nota técnica e outros documentos administrativos;
+- compreender gestão do conhecimento.
+
+### Pré-requisitos
+
+Módulos 4 a 7, que fornecem metas, processos, projetos e políticas para os exemplos.
+
+### Aulas
+
+| Aula | Título | Tempo | Objetivo de aprendizagem |
+|---:|---|---:|---|
+| 1 | Coleta, organização e tratamento de dados | 90 min | Preparar dados para uso sem esconder falhas ou mudar seu sentido. |
+| 2 | Interpretação de dados, indicadores e estatística descritiva | 90 min | Ler medidas simples e evitar conclusões além do que os dados permitem. |
+| 3 | Relatórios, painéis e ferramentas de acompanhamento | 90 min | Escolher a apresentação adequada para monitorar ações e resultados. |
+| 4 | Tomada de decisão baseada em evidências | 90 min | Combinar dados, contexto, limites e responsabilidade decisória. |
+| 5 | Gestão de documentos e informações | 90 min | Organizar o ciclo dos documentos e permitir acesso seguro à informação. |
+| 6 | Protocolo e noções de arquivologia | 90 min | Registrar a movimentação e reconhecer funções básicas dos arquivos. |
+| 7 | Relatórios, pareceres, notas técnicas e documentos administrativos | 90 min | Escolher o documento adequado e entender sua função. |
+| 8 | Gestão do conhecimento | 90 min | Preservar e compartilhar o que a organização aprende. |
+
+### Tempo estimado
+
+16 horas: 12 horas de aulas e 4 horas de revisão e prática.
+
+### Principais dificuldades
+
+- confundir dado com informação pronta;
+- calcular uma medida sem saber interpretá-la;
+- acreditar que um painel decide sozinho;
+- misturar os usos de parecer, relatório e nota técnica;
+- decorar termos de arquivo sem compreender o caminho do documento.
+
+### Pontos normalmente confundidos
+
+- média, mediana e moda;
+- indicador e dado isolado;
+- relação entre dois fatos e prova de causa;
+- protocolo e arquivo;
+- relatório descritivo, parecer opinativo e nota técnica fundamentada;
+- informação registrada e conhecimento usado pelas pessoas.
+
+### Estratégia pedagógica
+
+Começar com uma pequena planilha e um conjunto de documentos de um caso fictício. Transformar registros em indicador, relatório e decisão. Depois acompanhar o documento do recebimento ao arquivamento e mostrar como o aprendizado pode ser preservado.
+
+### Produtos sugeridos
+
+- 60 questões;
+- 52 flashcards;
+- 1 simulado de módulo;
+- 1 revisão de 5 minutos;
+- 2 mapas mentais: dados e decisão; documentos e conhecimento.
+
+### Critérios de conclusão
+
+- interpretar tabelas e medidas descritivas simples;
+- apontar limites de uma conclusão baseada em dados;
+- escolher o documento administrativo adequado para um caso;
+- explicar o caminho básico de um documento;
+- obter 80% nas questões essenciais.
+
+---
+
+## Módulo 9 — Revisão final da disciplina
+
+### Objetivo
+
+Integrar toda a disciplina, localizar pontos frágeis e chegar à prova com um plano curto e seguro de revisão.
+
+### Competências desenvolvidas
+
+- conectar assuntos de módulos diferentes;
+- recuperar conceitos sem consultar a resposta;
+- identificar e corrigir padrões pessoais de erro;
+- administrar tempo e atenção em um simulado;
+- preparar a revisão da semana da prova.
+
+### Pré-requisitos
+
+Módulos 1 a 8 concluídos, com registros de acertos e erros.
+
+### Aulas
+
+| Aula | Título | Tempo | Objetivo de aprendizagem |
+|---:|---|---:|---|
+| 1 | Revisão geral e mapas mentais | 90 min | Reconstruir a disciplina em blocos conectados, sem apresentar conteúdo novo. |
+| 2 | Flashcards finais e pontos comprovados em provas da FEPESE | 90 min | Revisar conceitos essenciais e separar evidência de impressão sobre a banca. |
+| 3 | Normas essenciais, checklist final e correção de erros | 90 min | Retomar apenas os trechos normativos ligados ao edital e fechar lacunas pessoais. |
+| 4 | Simulado final e plano da semana da prova | 90 min | Testar a integração dos assuntos e montar uma revisão realista. |
+
+### Tempo estimado
+
+8 horas: 6 horas de encontros de revisão e 2 horas para simulado e correção complementar.
+
+### Principais dificuldades
+
+- reler tudo sem testar a memória;
+- gastar o mesmo tempo em assuntos fortes e fracos;
+- decorar uma lista de “pegadinhas” sem fonte;
+- estudar matéria nova na semana da prova.
+
+### Pontos normalmente confundidos
+
+O módulo retomará apenas confusões demonstradas pelos erros da aluna e pelas questões oficiais analisadas. Uma característica só será atribuída à FEPESE quando cumprir os critérios do `FEPESE_GUIDE.md`. Se a amostra for pequena, o material dirá isso de forma clara.
+
+### Estratégia pedagógica
+
+Alternar recuperação sem consulta, mapas, questões mistas e retorno direcionado à aula de origem. A revisão começa pelos erros registrados, não pela releitura integral do curso.
+
+### Produtos sugeridos
+
+- 80 flashcards finais selecionados dos módulos, sem duplicação desnecessária;
+- 40 questões mistas de revisão;
+- 1 simulado diagnóstico curto;
+- 1 simulado final de 40 questões, identificado como exercício da disciplina e não como reprodução da distribuição oficial da prova;
+- 1 checklist final;
+- 1 plano para os sete dias anteriores à prova.
+
+### Critérios de conclusão
+
+- obter pelo menos 80% no simulado final;
+- explicar cada erro e indicar o módulo de retorno;
+- revisar todos os cartões marcados como difíceis;
+- concluir o checklist sem lacunas essenciais;
+- ter um plano da semana da prova que inclua descanso.
+
+---
+
+## Matriz integral: edital, módulo e aula
+
+| Conteúdo do edital | Cobertura planejada |
+|---|---|
+| Princípios da Administração Pública | M1, Aula 1 |
+| Organização Administrativa | M1, Aula 2 |
+| Regime jurídico-administrativo | M1, Aula 2 |
+| Administração direta e indireta | M1, Aula 3 |
+| Administração Pública do Estado de Santa Catarina | M1, Aula 4 |
+| Competências dos órgãos e entidades públicas | M1, Aula 5 |
+| Teorias administrativas | M2, Aulas 1 a 3 |
+| Processo administrativo: planejamento, organização, direção e controle | M2, Aula 4 |
+| Estruturas organizacionais | M2, Aula 5 |
+| Centralização e descentralização | M2, Aula 5, com base conceitual no M1 |
+| Modelos de Administração Pública | M3, Aulas 1 a 3 |
+| Modelos burocrático, gerencial e societal | M3, Aulas 1 a 3 |
+| Nova Gestão Pública | M3, Aula 2 |
+| Governança pública | M3, Aula 4 |
+| Planejamento estratégico | M4, Aulas 1 e 2 |
+| Planejamento governamental | M4, Aula 3 |
+| Instrumentos de planejamento público | M4, Aula 3 |
+| Gestão estratégica no setor público | M4, Aula 4 |
+| Gestão por resultados | M4, Aula 4 |
+| Monitoramento e avaliação | M4, Aula 5; aplicado também nos M6 e M7 |
+| Gestão por processos | M5, Aula 1 |
+| Gestão da qualidade | M5, Aula 3 |
+| Gestão da mudança | M5, Aula 5 |
+| Eficiência, eficácia e efetividade | M5, Aula 4 |
+| Conceitos, características e ciclo de vida de programas, projetos e processos | M6, Aula 1; processos aprofundados no M5 |
+| Planejamento e execução | M6, Aula 2 |
+| Monitoramento e avaliação | M6, Aula 3 |
+| Metas, indicadores e resultados | M6, Aula 3 |
+| Mapeamento, análise e melhoria de processos | M5, Aulas 2 e 3 |
+| Gestão de portfólio | M6, Aula 4 |
+| Conceitos e fundamentos de políticas públicas | M7, Aula 1 |
+| Tipos de políticas públicas | M7, Aula 1 |
+| Ciclo das políticas públicas | M7, Aula 2 |
+| Formulação, implementação, monitoramento e avaliação | M7, Aulas 3 a 5 |
+| Diagnóstico de problemas públicos | M7, Aula 3 |
+| Instrumentos de intervenção estatal | M7, Aula 4 |
+| Avaliação de resultados e de impacto | M7, Aula 6 |
+| Coleta, organização, tratamento e interpretação de dados | M8, Aulas 1 e 2 |
+| Indicadores | M8, Aula 2, com base no M4 |
+| Noções de estatística descritiva | M8, Aula 2 |
+| Relatórios, painéis e ferramentas de acompanhamento | M8, Aula 3 |
+| Tomada de decisão baseada em evidências | M8, Aula 4 |
+| Gestão de documentos e informações | M8, Aula 5 |
+| Protocolo | M8, Aula 6 |
+| Noções de arquivologia | M8, Aula 6 |
+| Relatórios, pareceres, notas técnicas e documentos administrativos | M8, Aula 7 |
+| Gestão do conhecimento | M8, Aula 8 |
+
+## Validação contra o edital
+
+### Tópicos cobertos
+
+Todos os itens de **Administração Geral e Gestão Organizacional** do Anexo 2, página 28, possuem destino explícito na matriz acima. A cobertura planejada é de **100% dos tópicos expressos**.
+
+### Tópicos sem módulo
+
+Não há tópico expresso da disciplina sem módulo ou aula planejada.
+
+### Conteúdo que ficaria além do edital
+
+| Tema sugerido inicialmente | Situação no edital | Decisão |
+|---|---|---|
+| Atos administrativos | Não consta em Administração Geral | Não incluir nesta disciplina |
+| Poderes administrativos | Não consta em Administração Geral | Não incluir; hierarquia será tratada apenas no limite necessário à organização |
+| Agentes públicos | Não consta em Administração Geral | Não incluir; normas de servidores pertencem ao bloco de Legislação e Ética |
+| Licitações e contratos; Lei nº 14.133/2021 | Consta em Legislação e Ética, não em Administração Geral | Planejar na disciplina correta |
+| Controle administrativo, judicial e social | Não consta como bloco jurídico em Administração Geral | Tratar somente monitoramento, avaliação, governança e participação previstos |
+| Responsabilidade civil do Estado | Não consta em Administração Geral | Não incluir nesta disciplina |
+| Serviços públicos, concessão, permissão e autorização | Não constam em Administração Geral | Não incluir nesta disciplina |
+
+Essas exclusões não afirmam que os temas sejam pouco importantes em outros concursos. Significam apenas que não integram este programa específico de Administração Geral.
+
+### Oportunidades de reorganização adotadas
+
+- O antigo conteúdo de mapeamento e melhoria de processos foi reunido à gestão organizacional no Módulo 5. Assim, a aluna estuda o fluxo antes de estudar projetos e portfólios.
+- Informação, documentos e conhecimento foram reunidos no Módulo 8. A sequência passa do dado recebido à decisão, ao registro e à memória da organização.
+- O Módulo 9 tornou-se uma revisão final verdadeira. Ele não reduz a cobertura porque os dois antigos blocos finais foram integrados ao Módulo 8.
+- Planejamento público será apresentado sem repetir o aprofundamento jurídico e financeiro de Administração Financeira e Orçamentária.
+- Os exemplos rurais poderão aproximar a matéria do cargo, mas não substituirão o estudo próprio de Políticas Públicas para o Desenvolvimento Rural e Agropecuário.
+
+## Estratégia geral de revisão
+
+- **Após cada aula:** resumo, checklist, exercícios e flashcards da própria aula.
+- **Após cada módulo:** revisão de 5 minutos, mapa mental, questões mistas e simulado curto.
+- **Depois de 7 e 30 dias:** retorno guiado pelos erros e pelos cartões difíceis, sem releitura automática de tudo.
+- **Ao final da disciplina:** Módulo 9, com integração, simulado e plano da semana da prova.
+
+Os intervalos são recomendações. O plano deve ser adaptado ao tempo real da aluna sem transformar atraso em culpa.
+
+## Estratégia geral de questões
+
+As questões devem seguir o `QUESTION_GUIDE.md` e o `FEPESE_GUIDE.md`:
+
+- priorizar questões oficiais verificáveis e realmente relacionadas ao item estudado;
+- identificar adaptações com clareza;
+- criar questões autorais somente para completar cobertura ou treinar uma habilidade;
+- comentar cada alternativa com motivo concreto;
+- distribuir dificuldade e letras corretas sem formar padrões;
+- registrar a aula que resolve cada erro;
+- não atribuir comportamento à FEPESE com base em uma única questão.
+
+## Estratégia geral de flashcards
+
+- uma pergunta por cartão;
+- resposta curta e suficiente;
+- prioridade para conceitos confundidos, sequências e comparações;
+- poucos cartões para listas; mais cartões para decisões que a aluna precisa tomar;
+- retirada de cartões dominados e reforço dos que continuam difíceis;
+- seleção final de até 80 cartões essenciais no Módulo 9.
+
+## Critério de conclusão da disciplina
+
+A disciplina estará concluída quando a aluna:
+
+- tiver completado os nove módulos;
+- alcançar 80% ou mais no simulado final;
+- conseguir explicar os erros sem apenas repetir o gabarito;
+- não deixar tópico da matriz sem revisão;
+- souber onde retornar quando surgir uma dúvida;
+- terminar com um plano simples para a semana da prova.
+
+## Justificativa pedagógica
+
+A ordem vai do concreto para o integrado. Primeiro, a aluna entende quem compõe a Administração e quem pode agir. Depois, aprende como organizações funcionam, como o Estado escolhe modelos, como planeja, como melhora processos e como executa projetos. Só então estuda políticas públicas, dados e documentos. A revisão final reúne tudo sem introduzir matéria nova.
+
+Essa sequência reduz a quantidade de palavras novas apresentadas de uma vez. Também cria dependências claras: indicadores aparecem depois de metas; avaliação de impacto aparece depois de políticas; documentos e relatórios aparecem depois das decisões que precisam apoiar e registrar.
+
+## Limites deste planejamento
+
+- O edital informa 40 questões de Conhecimentos Específicos com peso 0,15 cada, mas não informa quantas serão de cada uma das quatro disciplinas específicas. Portanto, não existe percentual oficial exclusivo para Administração Geral.
+- A quantidade de aulas, horas, questões e flashcards é uma decisão pedagógica do curso, não uma regra do edital.
+- Padrões de cobrança e pegadinhas da FEPESE só serão incluídos após análise de amostra oficial suficiente.
+- A produção das aulas futuras deverá conferir novamente legislação, referências e eventuais novas retificações antes da publicação.
