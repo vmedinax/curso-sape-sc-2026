@@ -30,4 +30,4 @@ Pontuar não é marcar toda pausa da fala. Na prova, você precisa reconhecer re
 !!! info "FEPESE: limite da afirmação"
     Só serão atribuídos padrões à banca quando a amostra documentada atender ao `FEPESE_GUIDE.md`. Os treinos autorais não são apresentados como questões oficiais.
 
-[← Módulo 6](modulo-06-index.md){ .md-button } [Começar a Aula 1 →](modulo-07-aula-01-virgula-periodo-simples.md){ .md-button .md-button--primary }
+[← Checklist do Módulo 6](modulo-06-checklist.md){ .md-button } [Começar a Aula 1 →](modulo-07-aula-01-virgula-periodo-simples.md){ .md-button .md-button--primary }

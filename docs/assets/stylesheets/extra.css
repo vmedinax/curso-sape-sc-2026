@@ -166,12 +166,12 @@
 .md-sidebar--primary .md-nav__link {
   position: relative;
   min-width: 0;
-  min-height: 2.15rem;
-  margin-top: 0.04rem;
-  padding: 0.43rem 0.58rem;
-  border-radius: 0.25rem;
-  font-size: 0.71rem;
-  line-height: 1.3;
+  min-height: 1.75rem;
+  margin-top: 0;
+  padding: 0.28rem 0.48rem;
+  border-radius: 0.16rem;
+  font-size: 0.69rem;
+  line-height: 1.22;
 }
 
 .md-sidebar--primary .md-nav__link .md-ellipsis {
@@ -184,24 +184,37 @@
   white-space: normal;
 }
 
+/* A página inicial abre a navegação com respiro e clique em toda a largura. */
+.md-sidebar--primary
+  .md-nav--primary
+  > .md-nav__list
+  > .md-nav__item:first-child
+  > a.md-nav__link {
+  width: 100%;
+  min-height: 1.9rem;
+  margin: 0.55rem 0 0.35rem;
+  padding: 0.34rem 0.5rem;
+  font-weight: 600;
+}
+
 /* Nível 1 — disciplina: bloco principal inequívoco. */
 .md-sidebar--primary
   .md-nav--primary
   > .md-nav__list
   > .md-nav__item
   > label.md-nav__link {
-  min-height: 3rem;
-  margin: 1.15rem 0 0.48rem !important;
-  padding: 0.76rem 0.78rem !important;
-  border: 1px solid var(--md-default-fg-color--lightest);
-  border-left: 4px solid color-mix(in srgb, var(--md-default-fg-color) 48%, transparent);
-  border-radius: 0.2rem;
+  min-height: 2rem;
+  margin: 0.68rem 0 0.24rem !important;
+  padding: 0.36rem 0.5rem !important;
+  border: 0;
+  border-left: 2px solid color-mix(in srgb, var(--md-default-fg-color) 42%, transparent);
+  border-radius: 0.12rem;
   background: var(--course-nav-discipline-bg) !important;
   color: var(--md-default-fg-color) !important;
-  font-size: 0.88rem !important;
-  font-weight: 800 !important;
-  letter-spacing: 0.018em;
-  box-shadow: 0 0.08rem 0.2rem rgb(0 0 0 / 4%);
+  font-size: 0.76rem !important;
+  font-weight: 650 !important;
+  letter-spacing: 0.01em;
+  box-shadow: none;
 }
 
 /* Nível 2 — módulo: filho da disciplina. */
@@ -210,22 +223,31 @@
   > .md-nav__list
   > .md-nav__item
   > label.md-nav__link {
-  min-height: 2.55rem;
-  margin: 0.56rem 0 0.28rem 0.48rem !important;
-  padding: 0.59rem 0.55rem 0.59rem 0.72rem !important;
-  border: 1px solid var(--md-default-fg-color--lightest);
-  border-left: 3px solid color-mix(in srgb, var(--md-primary-fg-color) 38%, transparent);
-  border-radius: 0.18rem;
+  min-height: 1.9rem;
+  margin: 0.34rem 0 0.14rem 0.42rem !important;
+  padding: 0.31rem 0.38rem 0.31rem 0.55rem !important;
+  border: 0;
+  border-left: 1px solid color-mix(in srgb, var(--md-primary-fg-color) 34%, transparent);
+  border-radius: 0.1rem;
   background: var(--course-nav-module-bg) !important;
   color: var(--md-default-fg-color) !important;
-  font-size: 0.76rem !important;
-  font-weight: 650 !important;
+  font-size: 0.7rem !important;
+  font-weight: 600 !important;
+}
+
+.md-sidebar--primary
+  .md-nav[data-md-level="1"]
+  > .md-nav__list
+  > .md-nav__item
+  > label.md-nav__link
+  > .md-nav__icon {
+  margin-left: auto;
 }
 
 /* Nível 3 — páginas: trilho vertical do módulo. */
 .md-sidebar--primary .md-nav[data-md-level="2"] > .md-nav__list {
-  margin: 0 0 0.7rem 1.12rem;
-  padding-left: 0.62rem;
+  margin: 0 0 0.42rem 0.94rem;
+  padding-left: 0.5rem;
   border-left: 1px solid var(--course-nav-line);
 }
 
@@ -234,11 +256,11 @@
   > .md-nav__list
   > .md-nav__item
   > a.md-nav__link {
-  min-height: 2rem;
-  padding: 0.38rem 0.48rem 0.38rem 0.62rem;
+  min-height: 1.68rem;
+  padding: 0.24rem 0.38rem 0.24rem 0.5rem;
   background: transparent;
   color: var(--md-default-fg-color--light);
-  font-size: 0.7rem;
+  font-size: 0.68rem;
   font-weight: 400;
 }
 
@@ -254,8 +276,8 @@
   > label.md-nav__link::before {
   position: absolute;
   top: 50%;
-  left: -0.64rem;
-  width: 0.55rem;
+  left: -0.52rem;
+  width: 0.43rem;
   border-top: 1px solid var(--course-nav-line);
   content: "";
 }
@@ -263,7 +285,7 @@
 /* Apresentação é página do módulo, não um quarto nível. */
 .md-sidebar--primary a.md-nav__link[href*="modulo-"][href$="-index/"] {
   color: var(--md-default-fg-color--light) !important;
-  font-size: 0.68rem !important;
+  font-size: 0.67rem !important;
   font-weight: 600 !important;
 }
 
@@ -273,22 +295,22 @@
   > .md-nav__list
   > .md-nav__item
   > label.md-nav__link {
-  min-height: 2.25rem;
-  margin: 0.62rem 0 0.1rem !important;
-  padding: 0.47rem 0.5rem 0.47rem 0.62rem !important;
+  min-height: 1.72rem;
+  margin: 0.34rem 0 0.05rem !important;
+  padding: 0.26rem 0.38rem 0.26rem 0.5rem !important;
   border-top: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 0;
   background: transparent !important;
   color: var(--md-default-fg-color--light) !important;
-  font-size: 0.68rem !important;
-  font-weight: 700 !important;
-  letter-spacing: 0.025em;
+  font-size: 0.67rem !important;
+  font-weight: 650 !important;
+  letter-spacing: 0.012em;
 }
 
 /* Materiais de encerramento: segundo trilho, mais profundo. */
 .md-sidebar--primary .md-nav[data-md-level="3"] > .md-nav__list {
-  margin-left: 0.78rem;
-  padding-left: 0.58rem;
+  margin-left: 0.64rem;
+  padding-left: 0.48rem;
   border-left: 1px solid var(--course-nav-line);
 }
 
@@ -297,10 +319,10 @@
   > .md-nav__list
   > .md-nav__item
   > a.md-nav__link {
-  min-height: 1.95rem;
-  padding: 0.36rem 0.42rem 0.36rem 0.56rem;
+  min-height: 1.62rem;
+  padding: 0.22rem 0.34rem 0.22rem 0.45rem;
   color: var(--md-default-fg-color--light) !important;
-  font-size: 0.68rem !important;
+  font-size: 0.66rem !important;
   font-weight: 400;
 }
 
@@ -311,8 +333,8 @@
   > a.md-nav__link::before {
   position: absolute;
   top: 50%;
-  left: -0.59rem;
-  width: 0.5rem;
+  left: -0.5rem;
+  width: 0.41rem;
   border-top: 1px solid var(--course-nav-line);
   content: "";
 }
@@ -380,7 +402,7 @@
     > .md-nav__list
     > .md-nav__item
     > a.md-nav__link {
-    min-height: 2.4rem;
+    min-height: 2rem;
   }
 }
 
@@ -397,34 +419,40 @@
   }
 
   .md-sidebar--primary {
-    width: min(18rem, calc(100vw - 2.5rem));
+    width: min(17rem, calc(100vw - 2.5rem));
     max-width: calc(100vw - 2.5rem);
     overflow-x: hidden;
   }
 
   .md-sidebar--primary .md-nav__link {
-    min-height: 2.75rem;
-    padding-top: 0.65rem;
-    padding-bottom: 0.65rem;
-    font-size: 0.76rem;
+    min-height: 2.05rem;
+    padding-top: 0.36rem;
+    padding-bottom: 0.36rem;
+    font-size: 0.72rem;
+  }
+
+  .md-sidebar--primary .md-nav__title {
+    min-height: 2.2rem;
+    padding: 0.42rem 0.6rem;
+    line-height: 1.22;
   }
 
   .md-sidebar--primary
     .md-nav[data-md-level="1"]
     > .md-nav__title {
-    border-left: 4px solid color-mix(in srgb, var(--md-default-fg-color) 48%, transparent);
+    border-left: 2px solid color-mix(in srgb, var(--md-default-fg-color) 42%, transparent);
     background: var(--course-nav-discipline-bg);
-    font-size: 0.86rem;
-    font-weight: 800;
+    font-size: 0.78rem;
+    font-weight: 650;
   }
 
   .md-sidebar--primary
     .md-nav[data-md-level="2"]
     > .md-nav__title {
-    border-left: 3px solid color-mix(in srgb, var(--md-primary-fg-color) 38%, transparent);
+    border-left: 1px solid color-mix(in srgb, var(--md-primary-fg-color) 34%, transparent);
     background: var(--course-nav-module-bg);
-    font-size: 0.78rem;
-    font-weight: 700;
+    font-size: 0.72rem;
+    font-weight: 600;
   }
 
   .md-sidebar--primary
@@ -432,8 +460,8 @@
     > .md-nav__title {
     border-bottom: 1px solid var(--course-nav-line);
     background: var(--md-default-bg-color);
-    font-size: 0.74rem;
-    font-weight: 700;
+    font-size: 0.7rem;
+    font-weight: 650;
   }
 
   .md-sidebar--primary
@@ -441,7 +469,7 @@
     > .md-nav__list
     > .md-nav__item
     > label.md-nav__link {
-    font-size: 0.78rem;
+    font-size: 0.72rem;
   }
 
   .md-sidebar--primary
@@ -459,10 +487,10 @@
     > .md-nav__list
     > .md-nav__item
     > a.md-nav__link {
-    min-height: 2.65rem;
-    padding-top: 0.58rem;
-    padding-bottom: 0.58rem;
-    font-size: 0.74rem !important;
+    min-height: 2rem;
+    padding-top: 0.34rem;
+    padding-bottom: 0.34rem;
+    font-size: 0.7rem !important;
   }
 
   .md-typeset > h1 {

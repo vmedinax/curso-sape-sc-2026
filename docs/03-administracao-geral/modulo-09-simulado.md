@@ -68,4 +68,4 @@ Chegar até aqui significa que você construiu a disciplina inteira desde a base
 
 [← Questões mistas](modulo-09-questoes-comentadas.md){ .md-button }
 
-[Voltar para Administração Geral →](index.md){ .md-button .md-button--primary }
+[Próxima: Língua Portuguesa →](../01-portugues/index.md){ .md-button .md-button--primary }

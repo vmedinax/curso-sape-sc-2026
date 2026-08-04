@@ -24,4 +24,4 @@ Este módulo não acrescenta matéria ao edital. Ele recupera procedimentos dos 
 
 Não releia tudo em sequência. Tente recuperar, resolva, classifique o erro e volte à aula exata.
 
-[← Módulo 8](modulo-08-index.md){ .md-button } [Começar a Aula 1 →](modulo-09-aula-01-revisao-integrada.md){ .md-button .md-button--primary }
+[← Checklist do Módulo 8](modulo-08-checklist.md){ .md-button } [Começar a Aula 1 →](modulo-09-aula-01-revisao-integrada.md){ .md-button .md-button--primary }

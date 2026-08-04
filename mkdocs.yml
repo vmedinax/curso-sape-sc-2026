@@ -19,6 +19,7 @@ theme:
   features:
     - navigation.instant
     - navigation.sections
+    - navigation.footer
     - navigation.top
     - navigation.tracking
     - search.highlight
@@ -73,6 +74,128 @@ nav:
   - Guia do Candidato:
       - Módulo 1 — Orientação inicial:
           - Aula 1 — Como usar este curso: 00-guia-do-candidato/01-como-usar-este-curso.md
+  - Administração Geral:
+      - Apresentação: 03-administracao-geral/index.md
+      - Plano da disciplina: 03-administracao-geral/PLANO_DA_DISCIPLINA.md
+      - Módulo 1 — Fundamentos:
+          - Apresentação: 03-administracao-geral/modulo-01-index.md
+          - Aula 1 — Princípios: 03-administracao-geral/01-principios-da-administracao-publica.md
+          - Aula 2 — Organização e regime jurídico: 03-administracao-geral/02-organizacao-administrativa-e-regime-juridico.md
+          - Aula 3 — Administração direta e indireta: 03-administracao-geral/03-administracao-direta-e-indireta.md
+          - Aula 4 — Administração Pública de SC: 03-administracao-geral/04-administracao-publica-de-santa-catarina.md
+          - Aula 5 — Competências de órgãos e entidades: 03-administracao-geral/05-competencias-dos-orgaos-e-entidades.md
+          - Revisão e prática:
+              - Resumo: 03-administracao-geral/modulo-01-resumo.md
+              - Revisão de 5 minutos: 03-administracao-geral/modulo-01-revisao.md
+              - Flashcards: 03-administracao-geral/modulo-01-flashcards.md
+              - Questões comentadas: 03-administracao-geral/modulo-01-questoes-comentadas.md
+              - Simulado: 03-administracao-geral/modulo-01-simulado.md
+      - Módulo 2 — Teorias e estruturas:
+          - Apresentação: 03-administracao-geral/modulo-02-index.md
+          - Aula 1 — Origem das teorias: 03-administracao-geral/modulo-02-aula-01-por-que-surgiram-as-teorias.md
+          - Aula 2 — Abordagens clássicas e burocracia: 03-administracao-geral/modulo-02-aula-02-abordagens-classica-cientifica-burocratica.md
+          - Aula 3 — Relações humanas e sistemas: 03-administracao-geral/modulo-02-aula-03-relacoes-humanas-comportamento-sistemas.md
+          - Aula 4 — Processo administrativo: 03-administracao-geral/modulo-02-aula-04-processo-administrativo.md
+          - Aula 5 — Estruturas e descentralização: 03-administracao-geral/modulo-02-aula-05-estruturas-centralizacao-descentralizacao.md
+          - Revisão e prática:
+              - Resumo: 03-administracao-geral/modulo-02-resumo.md
+              - Revisão de 5 minutos: 03-administracao-geral/modulo-02-revisao.md
+              - Flashcards: 03-administracao-geral/modulo-02-flashcards.md
+              - Questões comentadas: 03-administracao-geral/modulo-02-questoes-comentadas.md
+              - Simulado: 03-administracao-geral/modulo-02-simulado.md
+      - Módulo 3 — Modelos e governança:
+          - Apresentação: 03-administracao-geral/modulo-03-index.md
+          - Aula 1 — Patrimonialismo e burocracia: 03-administracao-geral/modulo-03-aula-01-modelos-patrimonialista-burocratico.md
+          - Aula 2 — Modelo gerencial: 03-administracao-geral/modulo-03-aula-02-modelo-gerencial-nova-gestao-publica.md
+          - Aula 3 — Modelo societal: 03-administracao-geral/modulo-03-aula-03-modelo-societal-participacao.md
+          - Aula 4 — Governança pública: 03-administracao-geral/modulo-03-aula-04-governanca-publica.md
+          - Revisão e prática:
+              - Resumo: 03-administracao-geral/modulo-03-resumo.md
+              - Revisão de 5 minutos: 03-administracao-geral/modulo-03-revisao.md
+              - Flashcards: 03-administracao-geral/modulo-03-flashcards.md
+              - Questões comentadas: 03-administracao-geral/modulo-03-questoes-comentadas.md
+              - Simulado: 03-administracao-geral/modulo-03-simulado.md
+      - Módulo 4 — Planejamento e resultados:
+          - Apresentação: 03-administracao-geral/modulo-04-index.md
+          - Aula 1 — Planejamento estratégico: 03-administracao-geral/modulo-04-aula-01-planejamento-estrategico.md
+          - Aula 2 — Níveis de planejamento: 03-administracao-geral/modulo-04-aula-02-niveis-planejamento.md
+          - Aula 3 — Planejamento governamental: 03-administracao-geral/modulo-04-aula-03-planejamento-governamental-instrumentos.md
+          - Aula 4 — Gestão por resultados: 03-administracao-geral/modulo-04-aula-04-gestao-estrategica-resultados.md
+          - Aula 5 — Metas e indicadores: 03-administracao-geral/modulo-04-aula-05-metas-indicadores-monitoramento-avaliacao.md
+          - Revisão e prática:
+              - Resumo: 03-administracao-geral/modulo-04-resumo.md
+              - Revisão de 5 minutos: 03-administracao-geral/modulo-04-revisao.md
+              - Flashcards: 03-administracao-geral/modulo-04-flashcards.md
+              - Questões comentadas: 03-administracao-geral/modulo-04-questoes-comentadas.md
+              - Simulado: 03-administracao-geral/modulo-04-simulado.md
+      - Módulo 5 — Processos e qualidade:
+          - Apresentação: 03-administracao-geral/modulo-05-index.md
+          - Aula 1 — Gestão por processos: 03-administracao-geral/modulo-05-aula-01-gestao-por-processos.md
+          - Aula 2 — Mapeamento e análise: 03-administracao-geral/modulo-05-aula-02-mapeamento-analise-processos.md
+          - Aula 3 — Melhoria e qualidade: 03-administracao-geral/modulo-05-aula-03-melhoria-processos-qualidade.md
+          - Aula 4 — Eficiência, eficácia e efetividade: 03-administracao-geral/modulo-05-aula-04-eficiencia-eficacia-efetividade.md
+          - Aula 5 — Mudança organizacional: 03-administracao-geral/modulo-05-aula-05-mudanca-organizacional.md
+          - Revisão e prática:
+              - Resumo: 03-administracao-geral/modulo-05-resumo.md
+              - Revisão de 5 minutos: 03-administracao-geral/modulo-05-revisao.md
+              - Flashcards: 03-administracao-geral/modulo-05-flashcards.md
+              - Questões comentadas: 03-administracao-geral/modulo-05-questoes-comentadas.md
+              - Simulado: 03-administracao-geral/modulo-05-simulado.md
+      - Módulo 6 — Projetos e portfólios:
+          - Apresentação: 03-administracao-geral/modulo-06-index.md
+          - Aula 1 — Conceitos e ciclo de vida: 03-administracao-geral/modulo-06-aula-01-conceitos-ciclo-vida.md
+          - Aula 2 — Planejamento e execução: 03-administracao-geral/modulo-06-aula-02-planejamento-execucao.md
+          - Aula 3 — Monitoramento e avaliação: 03-administracao-geral/modulo-06-aula-03-monitoramento-avaliacao.md
+          - Aula 4 — Gestão de portfólio: 03-administracao-geral/modulo-06-aula-04-gestao-portfolio.md
+          - Revisão e prática:
+              - Resumo: 03-administracao-geral/modulo-06-resumo.md
+              - Revisão de 5 minutos: 03-administracao-geral/modulo-06-revisao.md
+              - Flashcards: 03-administracao-geral/modulo-06-flashcards.md
+              - Questões comentadas: 03-administracao-geral/modulo-06-questoes-comentadas.md
+              - Simulado: 03-administracao-geral/modulo-06-simulado.md
+      - Módulo 7 — Políticas públicas:
+          - Apresentação: 03-administracao-geral/modulo-07-index.md
+          - Aula 1 — Conceitos e tipos: 03-administracao-geral/modulo-07-aula-01-conceitos-tipos.md
+          - Aula 2 — Ciclo e agenda: 03-administracao-geral/modulo-07-aula-02-ciclo-agenda.md
+          - Aula 3 — Diagnóstico e formulação: 03-administracao-geral/modulo-07-aula-03-diagnostico-formulacao.md
+          - Aula 4 — Implementação e instrumentos: 03-administracao-geral/modulo-07-aula-04-implementacao-instrumentos.md
+          - Aula 5 — Monitoramento e avaliação: 03-administracao-geral/modulo-07-aula-05-monitoramento-avaliacao.md
+          - Aula 6 — Resultados e impacto: 03-administracao-geral/modulo-07-aula-06-resultados-impacto.md
+          - Revisão e prática:
+              - Resumo: 03-administracao-geral/modulo-07-resumo.md
+              - Revisão de 5 minutos: 03-administracao-geral/modulo-07-revisao.md
+              - Flashcards: 03-administracao-geral/modulo-07-flashcards.md
+              - Questões comentadas: 03-administracao-geral/modulo-07-questoes-comentadas.md
+              - Simulado: 03-administracao-geral/modulo-07-simulado.md
+      - Módulo 8 — Informação e documentos:
+          - Apresentação: 03-administracao-geral/modulo-08-index.md
+          - Aula 1 — Coleta e tratamento de dados: 03-administracao-geral/modulo-08-aula-01-coleta-tratamento-dados.md
+          - Aula 2 — Interpretação e estatística: 03-administracao-geral/modulo-08-aula-02-interpretacao-estatistica.md
+          - Aula 3 — Relatórios e painéis: 03-administracao-geral/modulo-08-aula-03-relatorios-paineis.md
+          - Aula 4 — Decisão baseada em evidências: 03-administracao-geral/modulo-08-aula-04-decisao-evidencias.md
+          - Aula 5 — Gestão de documentos: 03-administracao-geral/modulo-08-aula-05-gestao-documentos.md
+          - Aula 6 — Protocolo e arquivologia: 03-administracao-geral/modulo-08-aula-06-protocolo-arquivologia.md
+          - Aula 7 — Documentos administrativos: 03-administracao-geral/modulo-08-aula-07-documentos-administrativos.md
+          - Aula 8 — Gestão do conhecimento: 03-administracao-geral/modulo-08-aula-08-gestao-conhecimento.md
+          - Revisão e prática:
+              - Resumo: 03-administracao-geral/modulo-08-resumo.md
+              - Revisão de 5 minutos: 03-administracao-geral/modulo-08-revisao.md
+              - Flashcards: 03-administracao-geral/modulo-08-flashcards.md
+              - Questões comentadas: 03-administracao-geral/modulo-08-questoes-comentadas.md
+              - Simulado: 03-administracao-geral/modulo-08-simulado.md
+      - Módulo 9 — Revisão final:
+          - Apresentação: 03-administracao-geral/modulo-09-index.md
+          - Aula 1 — Revisão e mapas mentais: 03-administracao-geral/modulo-09-aula-01-revisao-mapas.md
+          - Aula 2 — Flashcards e evidências: 03-administracao-geral/modulo-09-aula-02-flashcards-fepese.md
+          - Aula 3 — Normas e correção de erros: 03-administracao-geral/modulo-09-aula-03-normas-erros.md
+          - Aula 4 — Simulado e semana da prova: 03-administracao-geral/modulo-09-aula-04-simulado-semana-prova.md
+          - Revisão e prática:
+              - Resumo: 03-administracao-geral/modulo-09-resumo.md
+              - Revisão de 5 minutos: 03-administracao-geral/modulo-09-revisao.md
+              - Flashcards: 03-administracao-geral/modulo-09-flashcards.md
+              - Questões comentadas: 03-administracao-geral/modulo-09-questoes-comentadas.md
+              - Simulado: 03-administracao-geral/modulo-09-simulado.md
+
   - Língua Portuguesa:
       - Apresentação: 01-portugues/index.md
       - Plano da disciplina: 01-portugues/PLANO_DA_DISCIPLINA.md
@@ -141,7 +264,7 @@ nav:
               - Questões autorais: 01-portugues/modulo-04-questoes-autorais.md
               - Simulado: 01-portugues/modulo-04-simulado.md
               - Checklist: 01-portugues/modulo-04-checklist.md
-      - Módulo 5 — Concordância, regência e crase:
+      - Módulo 5 — Concordância e regência:
           - Apresentação: 01-portugues/modulo-05-index.md
           - Aula 1 — Concordância nominal: 01-portugues/modulo-05-aula-01-concordancia-nominal.md
           - Aula 2 — Concordância verbal: 01-portugues/modulo-05-aula-02-concordancia-verbal.md
@@ -216,124 +339,4 @@ nav:
               - Questões autorais: 01-portugues/modulo-09-questoes-autorais.md
               - Simulado: 01-portugues/modulo-09-simulado.md
               - Checklist: 01-portugues/modulo-09-checklist.md
-  - Administração Geral:
-      - Módulo 1 — Fundamentos:
-          - Apresentação: 03-administracao-geral/modulo-01-index.md
-          - Aula 1 — Princípios: 03-administracao-geral/01-principios-da-administracao-publica.md
-          - Aula 2 — Organização e regime jurídico: 03-administracao-geral/02-organizacao-administrativa-e-regime-juridico.md
-          - Aula 3 — Administração direta e indireta: 03-administracao-geral/03-administracao-direta-e-indireta.md
-          - Aula 4 — Administração Pública de SC: 03-administracao-geral/04-administracao-publica-de-santa-catarina.md
-          - Aula 5 — Competências de órgãos e entidades: 03-administracao-geral/05-competencias-dos-orgaos-e-entidades.md
-          - Revisão e prática:
-              - Resumo: 03-administracao-geral/modulo-01-resumo.md
-              - Revisão de 5 minutos: 03-administracao-geral/modulo-01-revisao.md
-              - Flashcards: 03-administracao-geral/modulo-01-flashcards.md
-              - Questões comentadas: 03-administracao-geral/modulo-01-questoes-comentadas.md
-              - Simulado: 03-administracao-geral/modulo-01-simulado.md
-      - Módulo 2 — Teorias, funções e estruturas:
-          - Apresentação: 03-administracao-geral/modulo-02-index.md
-          - Aula 1 — Origem das teorias: 03-administracao-geral/modulo-02-aula-01-por-que-surgiram-as-teorias.md
-          - Aula 2 — Abordagens clássicas e burocracia: 03-administracao-geral/modulo-02-aula-02-abordagens-classica-cientifica-burocratica.md
-          - Aula 3 — Relações humanas e sistemas: 03-administracao-geral/modulo-02-aula-03-relacoes-humanas-comportamento-sistemas.md
-          - Aula 4 — Processo administrativo: 03-administracao-geral/modulo-02-aula-04-processo-administrativo.md
-          - Aula 5 — Estruturas e descentralização: 03-administracao-geral/modulo-02-aula-05-estruturas-centralizacao-descentralizacao.md
-          - Revisão e prática:
-              - Resumo: 03-administracao-geral/modulo-02-resumo.md
-              - Revisão de 5 minutos: 03-administracao-geral/modulo-02-revisao.md
-              - Flashcards: 03-administracao-geral/modulo-02-flashcards.md
-              - Questões comentadas: 03-administracao-geral/modulo-02-questoes-comentadas.md
-              - Simulado: 03-administracao-geral/modulo-02-simulado.md
-      - Módulo 3 — Modelos e governança:
-          - Apresentação: 03-administracao-geral/modulo-03-index.md
-          - Aula 1 — Patrimonialismo e burocracia: 03-administracao-geral/modulo-03-aula-01-modelos-patrimonialista-burocratico.md
-          - Aula 2 — Modelo gerencial: 03-administracao-geral/modulo-03-aula-02-modelo-gerencial-nova-gestao-publica.md
-          - Aula 3 — Modelo societal: 03-administracao-geral/modulo-03-aula-03-modelo-societal-participacao.md
-          - Aula 4 — Governança pública: 03-administracao-geral/modulo-03-aula-04-governanca-publica.md
-          - Revisão e prática:
-              - Resumo: 03-administracao-geral/modulo-03-resumo.md
-              - Revisão de 5 minutos: 03-administracao-geral/modulo-03-revisao.md
-              - Flashcards: 03-administracao-geral/modulo-03-flashcards.md
-              - Questões comentadas: 03-administracao-geral/modulo-03-questoes-comentadas.md
-              - Simulado: 03-administracao-geral/modulo-03-simulado.md
-      - Módulo 4 — Planejamento e resultados:
-          - Apresentação: 03-administracao-geral/modulo-04-index.md
-          - Aula 1 — Planejamento estratégico: 03-administracao-geral/modulo-04-aula-01-planejamento-estrategico.md
-          - Aula 2 — Níveis de planejamento: 03-administracao-geral/modulo-04-aula-02-niveis-planejamento.md
-          - Aula 3 — Planejamento governamental: 03-administracao-geral/modulo-04-aula-03-planejamento-governamental-instrumentos.md
-          - Aula 4 — Gestão por resultados: 03-administracao-geral/modulo-04-aula-04-gestao-estrategica-resultados.md
-          - Aula 5 — Metas e indicadores: 03-administracao-geral/modulo-04-aula-05-metas-indicadores-monitoramento-avaliacao.md
-          - Revisão e prática:
-              - Resumo: 03-administracao-geral/modulo-04-resumo.md
-              - Revisão de 5 minutos: 03-administracao-geral/modulo-04-revisao.md
-              - Flashcards: 03-administracao-geral/modulo-04-flashcards.md
-              - Questões comentadas: 03-administracao-geral/modulo-04-questoes-comentadas.md
-              - Simulado: 03-administracao-geral/modulo-04-simulado.md
-      - Módulo 5 — Processos, qualidade e mudança:
-          - Apresentação: 03-administracao-geral/modulo-05-index.md
-          - Aula 1 — Gestão por processos: 03-administracao-geral/modulo-05-aula-01-gestao-por-processos.md
-          - Aula 2 — Mapeamento e análise: 03-administracao-geral/modulo-05-aula-02-mapeamento-analise-processos.md
-          - Aula 3 — Melhoria e qualidade: 03-administracao-geral/modulo-05-aula-03-melhoria-processos-qualidade.md
-          - Aula 4 — Eficiência, eficácia e efetividade: 03-administracao-geral/modulo-05-aula-04-eficiencia-eficacia-efetividade.md
-          - Aula 5 — Mudança organizacional: 03-administracao-geral/modulo-05-aula-05-mudanca-organizacional.md
-          - Revisão e prática:
-              - Resumo: 03-administracao-geral/modulo-05-resumo.md
-              - Revisão de 5 minutos: 03-administracao-geral/modulo-05-revisao.md
-              - Flashcards: 03-administracao-geral/modulo-05-flashcards.md
-              - Questões comentadas: 03-administracao-geral/modulo-05-questoes-comentadas.md
-              - Simulado: 03-administracao-geral/modulo-05-simulado.md
-      - Módulo 6 — Programas, projetos e portfólios:
-          - Apresentação: 03-administracao-geral/modulo-06-index.md
-          - Aula 1 — Conceitos e ciclo de vida: 03-administracao-geral/modulo-06-aula-01-conceitos-ciclo-vida.md
-          - Aula 2 — Planejamento e execução: 03-administracao-geral/modulo-06-aula-02-planejamento-execucao.md
-          - Aula 3 — Monitoramento e avaliação: 03-administracao-geral/modulo-06-aula-03-monitoramento-avaliacao.md
-          - Aula 4 — Gestão de portfólio: 03-administracao-geral/modulo-06-aula-04-gestao-portfolio.md
-          - Revisão e prática:
-              - Resumo: 03-administracao-geral/modulo-06-resumo.md
-              - Revisão de 5 minutos: 03-administracao-geral/modulo-06-revisao.md
-              - Flashcards: 03-administracao-geral/modulo-06-flashcards.md
-              - Questões comentadas: 03-administracao-geral/modulo-06-questoes-comentadas.md
-              - Simulado: 03-administracao-geral/modulo-06-simulado.md
-      - Módulo 7 — Políticas públicas:
-          - Apresentação: 03-administracao-geral/modulo-07-index.md
-          - Aula 1 — Conceitos e tipos: 03-administracao-geral/modulo-07-aula-01-conceitos-tipos.md
-          - Aula 2 — Ciclo e agenda: 03-administracao-geral/modulo-07-aula-02-ciclo-agenda.md
-          - Aula 3 — Diagnóstico e formulação: 03-administracao-geral/modulo-07-aula-03-diagnostico-formulacao.md
-          - Aula 4 — Implementação e instrumentos: 03-administracao-geral/modulo-07-aula-04-implementacao-instrumentos.md
-          - Aula 5 — Monitoramento e avaliação: 03-administracao-geral/modulo-07-aula-05-monitoramento-avaliacao.md
-          - Aula 6 — Resultados e impacto: 03-administracao-geral/modulo-07-aula-06-resultados-impacto.md
-          - Revisão e prática:
-              - Resumo: 03-administracao-geral/modulo-07-resumo.md
-              - Revisão de 5 minutos: 03-administracao-geral/modulo-07-revisao.md
-              - Flashcards: 03-administracao-geral/modulo-07-flashcards.md
-              - Questões comentadas: 03-administracao-geral/modulo-07-questoes-comentadas.md
-              - Simulado: 03-administracao-geral/modulo-07-simulado.md
-      - Módulo 8 — Informação e documentos:
-          - Apresentação: 03-administracao-geral/modulo-08-index.md
-          - Aula 1 — Coleta e tratamento de dados: 03-administracao-geral/modulo-08-aula-01-coleta-tratamento-dados.md
-          - Aula 2 — Interpretação e estatística: 03-administracao-geral/modulo-08-aula-02-interpretacao-estatistica.md
-          - Aula 3 — Relatórios e painéis: 03-administracao-geral/modulo-08-aula-03-relatorios-paineis.md
-          - Aula 4 — Decisão baseada em evidências: 03-administracao-geral/modulo-08-aula-04-decisao-evidencias.md
-          - Aula 5 — Gestão de documentos: 03-administracao-geral/modulo-08-aula-05-gestao-documentos.md
-          - Aula 6 — Protocolo e arquivologia: 03-administracao-geral/modulo-08-aula-06-protocolo-arquivologia.md
-          - Aula 7 — Documentos administrativos: 03-administracao-geral/modulo-08-aula-07-documentos-administrativos.md
-          - Aula 8 — Gestão do conhecimento: 03-administracao-geral/modulo-08-aula-08-gestao-conhecimento.md
-          - Revisão e prática:
-              - Resumo: 03-administracao-geral/modulo-08-resumo.md
-              - Revisão de 5 minutos: 03-administracao-geral/modulo-08-revisao.md
-              - Flashcards: 03-administracao-geral/modulo-08-flashcards.md
-              - Questões comentadas: 03-administracao-geral/modulo-08-questoes-comentadas.md
-              - Simulado: 03-administracao-geral/modulo-08-simulado.md
-      - Módulo 9 — Revisão final:
-          - Apresentação: 03-administracao-geral/modulo-09-index.md
-          - Aula 1 — Revisão e mapas mentais: 03-administracao-geral/modulo-09-aula-01-revisao-mapas.md
-          - Aula 2 — Flashcards e evidências: 03-administracao-geral/modulo-09-aula-02-flashcards-fepese.md
-          - Aula 3 — Normas e correção de erros: 03-administracao-geral/modulo-09-aula-03-normas-erros.md
-          - Aula 4 — Simulado e semana da prova: 03-administracao-geral/modulo-09-aula-04-simulado-semana-prova.md
-          - Revisão e prática:
-              - Resumo: 03-administracao-geral/modulo-09-resumo.md
-              - Revisão de 5 minutos: 03-administracao-geral/modulo-09-revisao.md
-              - Flashcards: 03-administracao-geral/modulo-09-flashcards.md
-              - Questões comentadas: 03-administracao-geral/modulo-09-questoes-comentadas.md
-              - Simulado: 03-administracao-geral/modulo-09-simulado.md
-
 copyright: Copyright © 2026 — direitos e licença em definição

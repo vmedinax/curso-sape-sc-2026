@@ -374,6 +374,6 @@ E. Autotutela
 
 ## Continue estudando
 
-[← Aula anterior](../00-guia-do-candidato/01-como-usar-este-curso.md){ .md-button }
+[← Apresentação do módulo](modulo-01-index.md){ .md-button }
 
 [Próxima aula →](02-organizacao-administrativa-e-regime-juridico.md){ .md-button .md-button--primary }

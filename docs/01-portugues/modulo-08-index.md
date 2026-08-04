@@ -25,4 +25,4 @@ O edital cobra aspectos gerais e comunicações oficiais. A parte de elaboraçã
 !!! warning "Atenção à versão"
     Modelos antigos podem trazer distinções que a 3ª edição unificou. Em questão, confira a regra do Manual indicado pelo edital, não o costume isolado de um órgão.
 
-[← Módulo 7](modulo-07-index.md){ .md-button } [Começar a Aula 1 →](modulo-08-aula-01-aspectos-gerais.md){ .md-button .md-button--primary }
+[← Checklist do Módulo 7](modulo-07-checklist.md){ .md-button } [Começar a Aula 1 →](modulo-08-aula-01-aspectos-gerais.md){ .md-button .md-button--primary }

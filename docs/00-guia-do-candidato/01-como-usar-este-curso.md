@@ -313,4 +313,4 @@ Agora vamos para Administração Geral. Eu explicarei tudo desde o começo.
 
 [← Aula anterior](../index.md){ .md-button }
 
-[Próxima aula →](../03-administracao-geral/01-principios-da-administracao-publica.md){ .md-button .md-button--primary }
+[Próxima: Administração Geral →](../03-administracao-geral/index.md){ .md-button .md-button--primary }

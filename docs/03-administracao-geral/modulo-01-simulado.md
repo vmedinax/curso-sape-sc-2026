@@ -89,6 +89,6 @@ Você concluiu o Módulo 1. Isso significa que já consegue enxergar a estrutura
 
 ## Navegação
 
-[← Revisão de 5 minutos](modulo-01-revisao.md){ .md-button }
+[← Questões comentadas](modulo-01-questoes-comentadas.md){ .md-button }
 
 [Seguir para o Módulo 2 →](modulo-02-index.md){ .md-button .md-button--primary }
