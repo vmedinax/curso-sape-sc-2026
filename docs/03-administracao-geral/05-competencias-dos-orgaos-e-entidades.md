@@ -406,4 +406,4 @@ E. avocação regular.
 
 [← Aula anterior](04-administracao-publica-de-santa-catarina.md){ .md-button }
 
-[Próxima etapa • Questões comentadas →](modulo-01-questoes-comentadas.md){ .md-button .md-button--primary }
+[Próxima etapa • Resumo do módulo →](modulo-01-resumo.md){ .md-button .md-button--primary }

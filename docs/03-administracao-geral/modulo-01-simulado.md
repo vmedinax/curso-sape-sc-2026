@@ -3,12 +3,12 @@ id: administracao-geral-modulo-01-simulado
 title: "Simulado final do Módulo 1"
 discipline: 03-administracao-geral
 module: 1
-lesson: 8
+lesson: 10
 status: pedagogical-review
 edital_refs:
   - anexo-2-administracao-geral-fundamentos-da-administracao-publica
 prerequisites:
-  - administracao-geral-modulo-01-revisao
+  - administracao-geral-modulo-01-questoes-comentadas
 estimated_minutes: 40
 authors:
   - Equipe do Curso SAPE/SC
@@ -91,4 +91,4 @@ Você concluiu o Módulo 1. Isso significa que já consegue enxergar a estrutura
 
 [← Revisão de 5 minutos](modulo-01-revisao.md){ .md-button }
 
-[Voltar para Administração Geral](index.md){ .md-button .md-button--primary }
+[Seguir para o Módulo 2 →](modulo-02-index.md){ .md-button .md-button--primary }
