@@ -2,7 +2,7 @@
 
 ## Módulo 1 • Fundamentos da Administração Pública
 
-**Disponível:** cinco aulas, 20 questões comentadas, revisão rápida e simulado final.
+**Disponível:** cinco aulas, resumo, revisão, 32 flashcards, 20 questões comentadas e simulado final.
 
 1. [Aula 1 • Princípios da Administração Pública](01-principios-da-administracao-publica.md)
 2. [Aula 2 • Organização administrativa e regime jurídico](02-organizacao-administrativa-e-regime-juridico.md)

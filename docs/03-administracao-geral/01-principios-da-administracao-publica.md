@@ -12,7 +12,7 @@ estimated_minutes: 90
 authors:
   - Equipe do Curso SAPE/SC
 reviewers: []
-last_reviewed: null
+last_reviewed: 2026-08-04
 sources:
   - https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
   - https://leis.alesc.sc.gov.br/html/constituicao_estadual_1989.html
@@ -53,7 +53,7 @@ Ao final, você deverá conseguir:
 
 ### Como a FEPESE cobra
 
-O formato específico ainda será validado com um conjunto identificado de questões oficiais da FEPESE. Nesta versão, os exercícios são autorais. Eles treinam identificação e comparação sem atribuir um padrão à banca.
+O banco oficial adaptado contém duas questões sobre princípios, provenientes de concursos de 2010 e 2025. Em ambas, a resposta exige relacionar afirmações ou situações ao princípio correto. Essa repetição em dois concursos é uma evidência limitada: ela orienta o treino de identificação e comparação, mas não permite prever um padrão amplo da banca.
 
 ### Como identificar pontos de atenção
 
@@ -324,22 +324,45 @@ E. Autotutela
 
 ## Flashcards da aula
 
-1. **Frente:** O que é um princípio administrativo?  
-   **Verso:** Uma norma básica que orienta a interpretação e a aplicação das regras da Administração Pública.
-2. **Frente:** Quais princípios formam a sigla LIMPE?  
-   **Verso:** Legalidade, impessoalidade, moralidade, publicidade e eficiência.
-3. **Frente:** O que a legalidade exige do agente público?  
-   **Verso:** Fundamento jurídico para sua atuação.
-4. **Frente:** Qual é a ideia simples da impessoalidade?  
-   **Verso:** Agir para a finalidade pública, sem favorecer, perseguir ou promover pessoas.
-5. **Frente:** Moralidade administrativa é moral pessoal?  
-   **Verso:** Não. É um padrão jurídico de honestidade, lealdade e boa-fé no uso da função pública.
-6. **Frente:** Publicidade obriga divulgar tudo?  
-   **Verso:** Não. A regra é permitir conhecimento e controle, mas o sigilo pode existir com fundamento válido.
-7. **Frente:** Eficiência autoriza descumprir a lei?  
-   **Verso:** Não. O bom desempenho deve ocorrer dentro das regras.
-8. **Frente:** Um fato pode violar mais de um princípio?  
-   **Verso:** Sim. Os princípios atuam em conjunto.
+1. **O que é um princípio administrativo?**
+
+    ??? question "Mostrar resposta"
+        Uma norma básica que orienta a interpretação e a aplicação das regras da Administração Pública.
+
+2. **Quais princípios formam a sigla LIMPE?**
+
+    ??? question "Mostrar resposta"
+        Legalidade, impessoalidade, moralidade, publicidade e eficiência.
+
+3. **O que a legalidade exige do agente público?**
+
+    ??? question "Mostrar resposta"
+        Fundamento jurídico para sua atuação.
+
+4. **Qual é a ideia simples da impessoalidade?**
+
+    ??? question "Mostrar resposta"
+        Agir para a finalidade pública, sem favorecer, perseguir ou promover pessoas.
+
+5. **Moralidade administrativa é moral pessoal?**
+
+    ??? question "Mostrar resposta"
+        Não. É um padrão jurídico de honestidade, lealdade e boa-fé no uso da função pública.
+
+6. **Publicidade obriga divulgar tudo?**
+
+    ??? question "Mostrar resposta"
+        Não. A regra é permitir conhecimento e controle, mas o sigilo pode existir com fundamento válido.
+
+7. **Eficiência autoriza descumprir a lei?**
+
+    ??? question "Mostrar resposta"
+        Não. O bom desempenho deve ocorrer dentro das regras.
+
+8. **Um fato pode violar mais de um princípio?**
+
+    ??? question "Mostrar resposta"
+        Sim. Os princípios atuam em conjunto.
 
 ## Referências
 
@@ -347,7 +370,7 @@ E. Autotutela
 - SANTA CATARINA. Constituição do Estado de Santa Catarina de 1989, artigo 16. Texto oficial. Consulta em 3 de agosto de 2026.
 - SAPE/SC; FEPESE. Edital 001/2026, Anexo 2, página 28. Versão consolidada com TR01, TR02 e TR03.
 
-**Última revisão:** pendente de revisão técnica, pedagógica e de questões oficiais da FEPESE.
+**Última revisão:** 4 de agosto de 2026. Mantida a pendência de revisão técnica e pedagógica.
 
 ## Continue estudando
 

@@ -13,7 +13,7 @@ estimated_minutes: 90
 authors:
   - Equipe do Curso SAPE/SC
 reviewers: []
-last_reviewed: null
+last_reviewed: 2026-08-04
 sources:
   - https://leis.alesc.sc.gov.br/ato-normativo/20438/compilado
   - https://leis.alesc.sc.gov.br/html/constituicao_estadual_1989.html
@@ -55,7 +55,7 @@ O edital cita “Administração Pública do Estado de Santa Catarina” dentro 
 
 ### Como a FEPESE cobra
 
-O padrão específico ainda será validado em questões oficiais identificadas. Os exercícios desta aula usam apenas a estrutura estabelecida na legislação estadual e são autorais.
+As quatro questões oficiais adaptadas do banco não tratam da estrutura administrativa de Santa Catarina. Portanto, não há evidência para atribuir à FEPESE uma forma recorrente de cobrança deste tema. Os exercícios da aula são autorais e usam a estrutura estabelecida na legislação estadual.
 
 ### Como identificar pontos de atenção
 
@@ -307,22 +307,45 @@ E. Eliminar a autonomia das entidades
 
 ## Flashcards da aula
 
-1. **Frente:** Qual lei organiza a estrutura básica do Poder Executivo de Santa Catarina?  
-   **Verso:** Lei Complementar nº 741/2019.
-2. **Frente:** Quem forma a Administração Direta estadual segundo o artigo 3º?  
-   **Verso:** Órgãos do Gabinete do Governador, do Gabinete do Vice-Governador e das Secretarias de Estado.
-3. **Frente:** Onde a SAPE se localiza?  
-   **Verso:** Na Administração Direta, como Secretaria de Estado.
-4. **Frente:** Quais espécies formam a Administração Indireta estadual?  
-   **Verso:** Autarquias, fundações públicas, empresas públicas e sociedades de economia mista.
-5. **Frente:** Como a LC nº 741/2019 classifica CIDASC e EPAGRI?  
-   **Verso:** Como empresas públicas estaduais.
-6. **Frente:** O que é um sistema administrativo?  
-   **Verso:** Uma rede de unidades coordenadas em uma atividade comum de apoio.
-7. **Frente:** Onde atua o órgão setorial?  
-   **Verso:** Em órgão da Administração Direta.
-8. **Frente:** Onde atua o órgão seccional?  
-   **Verso:** Em entidade da Administração Indireta.
+1. **Qual lei organiza a estrutura básica do Poder Executivo de Santa Catarina?**
+
+    ??? question "Mostrar resposta"
+        Lei Complementar nº 741/2019.
+
+2. **Quem forma a Administração Direta estadual segundo o artigo 3º?**
+
+    ??? question "Mostrar resposta"
+        Órgãos do Gabinete do Governador, do Gabinete do Vice-Governador e das Secretarias de Estado.
+
+3. **Onde a SAPE se localiza?**
+
+    ??? question "Mostrar resposta"
+        Na Administração Direta, como Secretaria de Estado.
+
+4. **Quais espécies formam a Administração Indireta estadual?**
+
+    ??? question "Mostrar resposta"
+        Autarquias, fundações públicas, empresas públicas e sociedades de economia mista.
+
+5. **Como a LC nº 741/2019 classifica CIDASC e EPAGRI?**
+
+    ??? question "Mostrar resposta"
+        Como empresas públicas estaduais.
+
+6. **O que é um sistema administrativo?**
+
+    ??? question "Mostrar resposta"
+        Uma rede de unidades coordenadas em uma atividade comum de apoio.
+
+7. **Onde atua o órgão setorial?**
+
+    ??? question "Mostrar resposta"
+        Em órgão da Administração Direta.
+
+8. **Onde atua o órgão seccional?**
+
+    ??? question "Mostrar resposta"
+        Em entidade da Administração Indireta.
 
 ## Referências
 
@@ -330,7 +353,7 @@ E. Eliminar a autonomia das entidades
 - SANTA CATARINA. Lei Complementar nº 741/2019, especialmente artigos 1º a 5º, 29, 77, 80, 81 e 126 a 129. Texto oficial compilado. Consulta em 3 de agosto de 2026.
 - SAPE/SC; FEPESE. Edital 001/2026, Anexo 2, página 28. Versão consolidada com TR01, TR02 e TR03.
 
-**Última revisão:** pendente de revisão técnica, pedagógica e de questões oficiais da FEPESE.
+**Última revisão:** 4 de agosto de 2026. Mantida a pendência de revisão técnica e pedagógica.
 
 ## Continue estudando
 

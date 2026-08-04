@@ -13,7 +13,7 @@ estimated_minutes: 90
 authors:
   - Equipe do Curso SAPE/SC
 reviewers: []
-last_reviewed: null
+last_reviewed: 2026-08-04
 sources:
   - https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
   - https://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm
@@ -57,7 +57,7 @@ Ao final, você deverá conseguir:
 
 ### Como a FEPESE cobra
 
-O formato da banca ainda será validado com questões oficiais identificadas. Esta aula não atribui pegadinhas à FEPESE. Os pontos de atenção vêm das diferenças presentes na Constituição e nas leis.
+O banco oficial adaptado contém uma ocorrência de 2010 relacionada a órgão público e desconcentração. Ela ajuda a distinguir órgão de pessoa jurídica, mas não avalia toda a classificação da Administração Direta e Indireta. Não há, no banco atual, questão oficial validada sobre as espécies de entidades ou suas características. Por isso, esta aula não atribui um padrão à FEPESE.
 
 ### Como identificar pontos de atenção
 
@@ -342,22 +342,45 @@ E. passa a integrar a Administração Direta.
 
 ## Flashcards da aula
 
-1. **Frente:** Quem forma a Administração Direta?  
-   **Verso:** Os órgãos integrados às pessoas políticas: União, Estados, Distrito Federal e Municípios.
-2. **Frente:** Quem forma a Administração Indireta?  
-   **Verso:** Autarquias, fundações públicas, empresas públicas e sociedades de economia mista.
-3. **Frente:** Órgão possui personalidade jurídica?  
-   **Verso:** Não. Ele é parte interna de uma pessoa jurídica.
-4. **Frente:** Como nasce uma autarquia?  
-   **Verso:** É criada diretamente por lei específica.
-5. **Frente:** Qual é a personalidade da empresa pública?  
-   **Verso:** Direito privado.
-6. **Frente:** Como é o capital da empresa pública?  
-   **Verso:** Integralmente público.
-7. **Frente:** Qual forma a sociedade de economia mista deve adotar?  
-   **Verso:** Sociedade anônima.
-8. **Frente:** Vinculação é hierarquia?  
-   **Verso:** Não. É ligação de supervisão entre pessoas jurídicas diferentes, nos limites legais.
+1. **Quem forma a Administração Direta?**
+
+    ??? question "Mostrar resposta"
+        Os órgãos integrados às pessoas políticas: União, Estados, Distrito Federal e Municípios.
+
+2. **Quem forma a Administração Indireta?**
+
+    ??? question "Mostrar resposta"
+        Autarquias, fundações públicas, empresas públicas e sociedades de economia mista.
+
+3. **Órgão possui personalidade jurídica?**
+
+    ??? question "Mostrar resposta"
+        Não. Ele é parte interna de uma pessoa jurídica.
+
+4. **Como nasce uma autarquia?**
+
+    ??? question "Mostrar resposta"
+        É criada diretamente por lei específica.
+
+5. **Qual é a personalidade da empresa pública?**
+
+    ??? question "Mostrar resposta"
+        Direito privado.
+
+6. **Como é o capital da empresa pública?**
+
+    ??? question "Mostrar resposta"
+        Integralmente público.
+
+7. **Qual forma a sociedade de economia mista deve adotar?**
+
+    ??? question "Mostrar resposta"
+        Sociedade anônima.
+
+8. **Vinculação é hierarquia?**
+
+    ??? question "Mostrar resposta"
+        Não. É ligação de supervisão entre pessoas jurídicas diferentes, nos limites legais.
 
 ## Referências
 
@@ -367,7 +390,7 @@ E. passa a integrar a Administração Direta.
 - SANTA CATARINA. Lei Complementar nº 741/2019, artigos 2º a 4º. Texto oficial compilado. Consulta em 3 de agosto de 2026.
 - SAPE/SC; FEPESE. Edital 001/2026, Anexo 2, página 28. Versão consolidada com TR01, TR02 e TR03.
 
-**Última revisão:** pendente de revisão técnica, pedagógica e de questões oficiais da FEPESE.
+**Última revisão:** 4 de agosto de 2026. Mantida a pendência de revisão técnica e pedagógica.
 
 ## Continue estudando
 

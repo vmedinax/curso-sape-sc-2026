@@ -13,7 +13,7 @@ estimated_minutes: 90
 authors:
   - Equipe do Curso SAPE/SC
 reviewers: []
-last_reviewed: null
+last_reviewed: 2026-08-04
 sources:
   - https://leis.alesc.sc.gov.br/ato-normativo/20438/compilado
   - https://www.planalto.gov.br/ccivil_03/leis/l9784.htm
@@ -56,7 +56,7 @@ O Anexo 2 inclui “competências dos órgãos e entidades públicas”. O tema 
 
 ### Como a FEPESE cobra
 
-O padrão ainda será validado com questões oficiais identificadas. As questões desta aula são autorais. Delegação e avocação são apresentadas como ferramentas gerais para compreender competência. Sua aplicação concreta sempre depende da norma válida para o caso.
+O banco oficial adaptado contém uma questão de 2015 sobre poder hierárquico, com comando, supervisão, correção e avocação. É uma ocorrência isolada e não permite afirmar um padrão da FEPESE. As demais questões da aula são autorais. A aplicação concreta de delegação e avocação sempre depende da norma válida para o caso.
 
 ### Como identificar pontos de atenção
 
@@ -377,22 +377,45 @@ E. avocação regular.
 
 ## Flashcards da aula
 
-1. **Frente:** O que é competência administrativa?  
-   **Verso:** O conjunto de poderes e deveres que uma norma atribui para cumprir uma função pública.
-2. **Frente:** Por que competência é poder-dever?  
-   **Verso:** Porque a autoridade recebe poder para cumprir uma responsabilidade e não pode abandoná-la livremente.
-3. **Frente:** Qual é a diferença entre capacidade e competência?  
-   **Verso:** Capacidade é a aptidão da pessoa para ter direitos e deveres; competência define qual unidade ou agente pode atuar em determinada matéria.
-4. **Frente:** Quais quatro limites ajudam a localizar competência?  
-   **Verso:** Matéria, território, nível hierárquico e tempo.
-5. **Frente:** O que é delegação?  
-   **Verso:** Permissão para que outro exerça parte da competência dentro de limites definidos.
-6. **Frente:** O que é avocação?  
-   **Verso:** Chamamento excepcional e temporário, pela autoridade superior, de competência atribuída a unidade inferior.
-7. **Frente:** Vinculação cria hierarquia?  
-   **Verso:** Não. Ela conecta entidade e órgão para controle nos limites legais.
-8. **Frente:** O que é coordenação?  
-   **Verso:** Articulação de esforços e informações, sem significar automaticamente hierarquia.
+1. **O que é competência administrativa?**
+
+    ??? question "Mostrar resposta"
+        O conjunto de poderes e deveres que uma norma atribui para cumprir uma função pública.
+
+2. **Por que competência é poder-dever?**
+
+    ??? question "Mostrar resposta"
+        Porque a autoridade recebe poder para cumprir uma responsabilidade e não pode abandoná-la livremente.
+
+3. **Qual é a diferença entre capacidade e competência?**
+
+    ??? question "Mostrar resposta"
+        Capacidade é a aptidão da pessoa para ter direitos e deveres; competência define qual unidade ou agente pode atuar em determinada matéria.
+
+4. **Quais quatro limites ajudam a localizar competência?**
+
+    ??? question "Mostrar resposta"
+        Matéria, território, nível hierárquico e tempo.
+
+5. **O que é delegação?**
+
+    ??? question "Mostrar resposta"
+        Permissão para que outro exerça parte da competência dentro de limites definidos.
+
+6. **O que é avocação?**
+
+    ??? question "Mostrar resposta"
+        Chamamento excepcional e temporário, pela autoridade superior, de competência atribuída a unidade inferior.
+
+7. **Vinculação cria hierarquia?**
+
+    ??? question "Mostrar resposta"
+        Não. Ela conecta entidade e órgão para controle nos limites legais.
+
+8. **O que é coordenação?**
+
+    ??? question "Mostrar resposta"
+        Articulação de esforços e informações, sem significar automaticamente hierarquia.
 
 ## Referências
 
@@ -400,7 +423,7 @@ E. avocação regular.
 - SANTA CATARINA. Lei Complementar nº 741/2019, competências dos órgãos e entidades e artigos 126 a 129. Texto oficial compilado. Consulta em 3 de agosto de 2026.
 - SAPE/SC; FEPESE. Edital 001/2026, Anexo 2, página 28. Versão consolidada com TR01, TR02 e TR03.
 
-**Última revisão:** pendente de revisão técnica, pedagógica e de questões oficiais da FEPESE.
+**Última revisão:** 4 de agosto de 2026. Mantida a pendência de revisão técnica e pedagógica.
 
 ## Continue estudando
 
