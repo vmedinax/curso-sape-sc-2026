@@ -1,19 +1,48 @@
 ---
-title: Aula 4 — Período composto e coordenação
-description: Como delimitar orações e classificar relações coordenadas.
+id: portugues-modulo-06-aula-04
+title: "Aula 4 — Período composto por coordenação"
+description: "Reconhecer relações entre orações coordenadas."
+discipline: 01-portugues
+module: 6
+lesson: 4
 status: draft
-last_reviewed: 2026-08-04
+edital_refs:
+  - "Edital SAPE/SC nº 001/2026, Anexo 2, p. 27"
+prerequisites:
+  - "funções no período simples"
+estimated_minutes: 120
+authors:
+  - Equipe do Curso SAPE/SC
+reviewers: []
+last_reviewed: 2026-08-05
+sources:
+  - "Edital SAPE/SC nº 001/2026, Anexo 2, p. 27. Consulta em 4 ago. 2026."
+tags:
+  - lingua-portuguesa
+  - modulo-06
+  - periodo-composto-coordenacao
 ---
 
 # Aula 4 — Período composto e coordenação
 
-| Disciplina | Módulo | Aula | Tempo |
-|---|---|---:|---:|
-| Língua Portuguesa | Análise sintática e reestruturação | 4 de 7 | 90 min |
+<section class="lesson-goal">
+  <strong>Objetivo da aula:</strong> reconhecer relações entre orações coordenadas.
+</section>
 
-**Objetivos:** delimitar orações, distinguir coordenação e reconhecer relações coordenativas.  
-**Competências:** contar núcleos verbais, interpretar conectivos e identificar oração assindética ou sindética.  
+<div class="lesson-meta-grid">
+  <div class="lesson-meta-card"><span>Disciplina</span><strong>Língua Portuguesa</strong></div>
+  <div class="lesson-meta-card"><span>Módulo</span><strong>6 — Sintaxe da oração e do período</strong></div>
+  <div class="lesson-meta-card"><span>Aula</span><strong>4 de 7</strong></div>
+  <div class="lesson-meta-card"><span>Tempo estimado</span><strong>120 min</strong></div>
+</div>
+
+**Ao final desta aula, você deverá ser capaz de:** delimitar orações, distinguir coordenação e reconhecer relações coordenativas.
+**Competências:** contar núcleos verbais, interpretar conectivos e identificar oração assindética ou sindética.
 **Pré-requisito:** período simples e relações coesivas do Módulo 2.
+
+## Ligação com a aula anterior
+
+A análise parte de funções no período simples. Esse conhecimento permite agora reconhecer relações entre orações coordenadas, mantendo a leitura da frase inteira como unidade de decisão.
 
 ## Situação prática de abertura
 
@@ -52,7 +81,7 @@ Compare “Feche a janela, porque está frio” — a segunda oração justifica
 2. **R**ecorte as orações e verifique dependência.
 3. **A**tribua a relação pelo contexto.
 
-**Cotidiano:** “Ou saímos agora, ou perderemos o ônibus” cria alternância.  
+**Cotidiano:** “Ou saímos agora, ou perderemos o ônibus” cria alternância.
 **Administração Pública:** “o prazo terminou; portanto, o sistema encerrou o recebimento” apresenta conclusão expressa.
 
 !!! warning "Erros comuns"
@@ -82,22 +111,297 @@ Em “Não publique ainda, pois falta uma assinatura”, *pois* introduz que rel
 
 Delimite e classifique “chegou, revisou e publicou, mas não comunicou; portanto, ainda há dúvida”.
 
-## Exercícios autorais
+## Questões
 
-**1.** “Chegou, conferiu, assinou” contém coordenação: A) explicativa. B) assindética. C) adversativa. D) conclusiva. E) subordinada.
+### Questão 1
 
-??? success "Gabarito comentado"
-    **B.** As orações aparecem sem conjunção. A, C e D exigem relações marcadas; E implicaria dependência sintática.
+**Habilidade:** reconhecer coordenação assindética em enunciado autossuficiente
 
-**2.** Em “Revisou, mas não publicou”, a segunda oração é coordenada: A) aditiva. B) alternativa. C) adversativa. D) conclusiva. E) explicativa.
+**Dificuldade:** fácil
 
-??? success "Gabarito comentado"
-    **C.** *Mas* introduz contraste. A, B, D e E indicam relações diferentes.
+Qual alternativa exemplifica corretamente **coordenação assindética**?
 
-**3.** “A equipe analisou e decidiu” contém: A) uma oração porque há um sujeito. B) duas orações coordenadas com sujeito compartilhado. C) oração sem verbo. D) subordinação substantiva. E) oração sem sujeito.
+A. A equipe leu o edital, identificou os prazos, preparou o recurso.
+B. A equipe leu o edital e anotou os prazos.
+C. A equipe leu o edital, mas perdeu o prazo.
+D. Ou revise o texto, ou mantenha a redação original.
+E. O prazo terminou; portanto, o recurso é intempestivo.
 
-??? success "Gabarito comentado"
-    **B.** Há dois núcleos verbais e elipse do sujeito na segunda. A conta sujeito, não orações; C, D e E são incorretas.
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** As orações coordenadas não têm conjunção.
+
+    **B está errada:** a frase exemplifica coordenada aditiva, pois e acrescenta uma ação; não exemplifica coordenação assindética.
+
+    **C está errada:** a frase exemplifica coordenada adversativa, pois mas introduz contraste; não exemplifica coordenação assindética.
+
+    **D está errada:** a frase exemplifica coordenada alternativa, pois ou...ou apresenta alternativas; não exemplifica coordenação assindética.
+
+    **E está errada:** a frase exemplifica coordenada conclusiva, pois portanto introduz conclusão; não exemplifica coordenação assindética.
+
+    **Tópico para revisar:** seção sobre coordenação assindética.
+
+### Questão 2
+
+**Habilidade:** reconhecer coordenada aditiva em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **coordenada aditiva**?
+
+A. A equipe leu o edital, identificou os prazos, preparou o recurso.
+B. A equipe leu o edital e anotou os prazos.
+C. A equipe leu o edital, mas perdeu o prazo.
+D. Ou revise o texto, ou mantenha a redação original.
+E. O prazo terminou; portanto, o recurso é intempestivo.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** a frase exemplifica coordenação assindética, pois as orações coordenadas não têm conjunção; não exemplifica coordenada aditiva.
+
+    **B está certa:** E acrescenta uma ação.
+
+    **C está errada:** a frase exemplifica coordenada adversativa, pois mas introduz contraste; não exemplifica coordenada aditiva.
+
+    **D está errada:** a frase exemplifica coordenada alternativa, pois ou...ou apresenta alternativas; não exemplifica coordenada aditiva.
+
+    **E está errada:** a frase exemplifica coordenada conclusiva, pois portanto introduz conclusão; não exemplifica coordenada aditiva.
+
+    **Tópico para revisar:** seção sobre coordenada aditiva.
+
+### Questão 3
+
+**Habilidade:** reconhecer coordenada adversativa em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **coordenada adversativa**?
+
+A. A equipe leu o edital, identificou os prazos, preparou o recurso.
+B. A equipe leu o edital e anotou os prazos.
+C. A equipe leu o edital, mas perdeu o prazo.
+D. Ou revise o texto, ou mantenha a redação original.
+E. O prazo terminou; portanto, o recurso é intempestivo.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** a frase exemplifica coordenação assindética, pois as orações coordenadas não têm conjunção; não exemplifica coordenada adversativa.
+
+    **B está errada:** a frase exemplifica coordenada aditiva, pois e acrescenta uma ação; não exemplifica coordenada adversativa.
+
+    **C está certa:** Mas introduz contraste.
+
+    **D está errada:** a frase exemplifica coordenada alternativa, pois ou...ou apresenta alternativas; não exemplifica coordenada adversativa.
+
+    **E está errada:** a frase exemplifica coordenada conclusiva, pois portanto introduz conclusão; não exemplifica coordenada adversativa.
+
+    **Tópico para revisar:** seção sobre coordenada adversativa.
+
+### Questão 4
+
+**Habilidade:** reconhecer coordenada alternativa em enunciado autossuficiente
+
+**Dificuldade:** difícil
+
+Qual alternativa exemplifica corretamente **coordenada alternativa**?
+
+A. A equipe leu o edital, identificou os prazos, preparou o recurso.
+B. A equipe leu o edital e anotou os prazos.
+C. A equipe leu o edital, mas perdeu o prazo.
+D. Ou revise o texto, ou mantenha a redação original.
+E. O prazo terminou; portanto, o recurso é intempestivo.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** a frase exemplifica coordenação assindética, pois as orações coordenadas não têm conjunção; não exemplifica coordenada alternativa.
+
+    **B está errada:** a frase exemplifica coordenada aditiva, pois e acrescenta uma ação; não exemplifica coordenada alternativa.
+
+    **C está errada:** a frase exemplifica coordenada adversativa, pois mas introduz contraste; não exemplifica coordenada alternativa.
+
+    **D está certa:** Ou...ou apresenta alternativas.
+
+    **E está errada:** a frase exemplifica coordenada conclusiva, pois portanto introduz conclusão; não exemplifica coordenada alternativa.
+
+    **Tópico para revisar:** seção sobre coordenada alternativa.
+
+### Questão 5
+
+**Habilidade:** reconhecer coordenada conclusiva em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **coordenada conclusiva**?
+
+A. A equipe leu o edital, identificou os prazos, preparou o recurso.
+B. A equipe leu o edital e anotou os prazos.
+C. A equipe leu o edital, mas perdeu o prazo.
+D. Ou revise o texto, ou mantenha a redação original.
+E. O prazo terminou; portanto, o recurso é intempestivo.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** a frase exemplifica coordenação assindética, pois as orações coordenadas não têm conjunção; não exemplifica coordenada conclusiva.
+
+    **B está errada:** a frase exemplifica coordenada aditiva, pois e acrescenta uma ação; não exemplifica coordenada conclusiva.
+
+    **C está errada:** a frase exemplifica coordenada adversativa, pois mas introduz contraste; não exemplifica coordenada conclusiva.
+
+    **D está errada:** a frase exemplifica coordenada alternativa, pois ou...ou apresenta alternativas; não exemplifica coordenada conclusiva.
+
+    **E está certa:** Portanto introduz conclusão.
+
+    **Tópico para revisar:** seção sobre coordenada conclusiva.
+
+### Questão 6
+
+**Habilidade:** reconhecer coordenada explicativa em enunciado autossuficiente
+
+**Dificuldade:** fácil
+
+Qual alternativa exemplifica corretamente **coordenada explicativa**?
+
+A. Leia o edital, pois a prova se aproxima.
+B. A equipe leu o edital, identificou os prazos, preparou o recurso.
+C. A equipe leu o edital e anotou os prazos.
+D. A equipe leu o edital, mas perdeu o prazo.
+E. Ou revise o texto, ou mantenha a redação original.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** Pois apresenta justificativa para a ordem.
+
+    **B está errada:** a frase exemplifica coordenação assindética, pois as orações coordenadas não têm conjunção; não exemplifica coordenada explicativa.
+
+    **C está errada:** a frase exemplifica coordenada aditiva, pois e acrescenta uma ação; não exemplifica coordenada explicativa.
+
+    **D está errada:** a frase exemplifica coordenada adversativa, pois mas introduz contraste; não exemplifica coordenada explicativa.
+
+    **E está errada:** a frase exemplifica coordenada alternativa, pois ou...ou apresenta alternativas; não exemplifica coordenada explicativa.
+
+    **Tópico para revisar:** seção sobre coordenada explicativa.
+
+### Questão 7
+
+**Habilidade:** reconhecer período composto em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **período composto**?
+
+A. A equipe leu o edital, identificou os prazos, preparou o recurso.
+B. A comissão analisou o pedido e publicou a decisão.
+C. A equipe leu o edital e anotou os prazos.
+D. A equipe leu o edital, mas perdeu o prazo.
+E. Ou revise o texto, ou mantenha a redação original.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** a frase exemplifica coordenação assindética, pois as orações coordenadas não têm conjunção; não exemplifica período composto.
+
+    **B está certa:** Há dois núcleos verbais em duas orações.
+
+    **C está errada:** a frase exemplifica coordenada aditiva, pois e acrescenta uma ação; não exemplifica período composto.
+
+    **D está errada:** a frase exemplifica coordenada adversativa, pois mas introduz contraste; não exemplifica período composto.
+
+    **E está errada:** a frase exemplifica coordenada alternativa, pois ou...ou apresenta alternativas; não exemplifica período composto.
+
+    **Tópico para revisar:** seção sobre período composto.
+
+### Questão 8
+
+**Habilidade:** reconhecer valor adversativo de e em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **valor adversativo de e**?
+
+A. A equipe leu o edital, identificou os prazos, preparou o recurso.
+B. A equipe leu o edital e anotou os prazos.
+C. Estudou muito e não foi aprovado.
+D. A equipe leu o edital, mas perdeu o prazo.
+E. Ou revise o texto, ou mantenha a redação original.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** a frase exemplifica coordenação assindética, pois as orações coordenadas não têm conjunção; não exemplifica valor adversativo de e.
+
+    **B está errada:** a frase exemplifica coordenada aditiva, pois e acrescenta uma ação; não exemplifica valor adversativo de e.
+
+    **C está certa:** E assume valor de contraste no contexto.
+
+    **D está errada:** a frase exemplifica coordenada adversativa, pois mas introduz contraste; não exemplifica valor adversativo de e.
+
+    **E está errada:** a frase exemplifica coordenada alternativa, pois ou...ou apresenta alternativas; não exemplifica valor adversativo de e.
+
+    **Tópico para revisar:** seção sobre valor adversativo de e.
+
+### Questão 9
+
+**Habilidade:** reconhecer conjunção conclusiva deslocada em enunciado autossuficiente
+
+**Dificuldade:** difícil
+
+Qual alternativa exemplifica corretamente **conjunção conclusiva deslocada**?
+
+A. A equipe leu o edital, identificou os prazos, preparou o recurso.
+B. A equipe leu o edital e anotou os prazos.
+C. A equipe leu o edital, mas perdeu o prazo.
+D. O prazo acabou; o recurso, portanto, não será conhecido.
+E. Ou revise o texto, ou mantenha a redação original.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** a frase exemplifica coordenação assindética, pois as orações coordenadas não têm conjunção; não exemplifica conjunção conclusiva deslocada.
+
+    **B está errada:** a frase exemplifica coordenada aditiva, pois e acrescenta uma ação; não exemplifica conjunção conclusiva deslocada.
+
+    **C está errada:** a frase exemplifica coordenada adversativa, pois mas introduz contraste; não exemplifica conjunção conclusiva deslocada.
+
+    **D está certa:** Portanto aparece intercalado.
+
+    **E está errada:** a frase exemplifica coordenada alternativa, pois ou...ou apresenta alternativas; não exemplifica conjunção conclusiva deslocada.
+
+    **Tópico para revisar:** seção sobre conjunção conclusiva deslocada.
+
+### Questão 10
+
+**Habilidade:** reconhecer autonomia sintática coordenada em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **autonomia sintática coordenada**?
+
+A. A equipe leu o edital, identificou os prazos, preparou o recurso.
+B. A equipe leu o edital e anotou os prazos.
+C. A equipe leu o edital, mas perdeu o prazo.
+D. Ou revise o texto, ou mantenha a redação original.
+E. A comissão reuniu-se, mas não deliberou.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** a frase exemplifica coordenação assindética, pois as orações coordenadas não têm conjunção; não exemplifica autonomia sintática coordenada.
+
+    **B está errada:** a frase exemplifica coordenada aditiva, pois e acrescenta uma ação; não exemplifica autonomia sintática coordenada.
+
+    **C está errada:** a frase exemplifica coordenada adversativa, pois mas introduz contraste; não exemplifica autonomia sintática coordenada.
+
+    **D está errada:** a frase exemplifica coordenada alternativa, pois ou...ou apresenta alternativas; não exemplifica autonomia sintática coordenada.
+
+    **E está certa:** As orações não exercem função sintática uma da outra.
+
+    **Tópico para revisar:** seção sobre autonomia sintática coordenada.
 
 ## Checklist
 
@@ -106,28 +410,69 @@ Delimite e classifique “chegou, revisou e publicou, mas não comunicou; portan
 - [ ] Distingo assindética e sindética.
 - [ ] Classifico a relação pelo contexto.
 
+- [ ] Justifico a função pela relação entre os termos.
+- [ ] Releio o período completo após a análise.
+
 ## Flashcards da aula
 
-**O que caracteriza coordenação?**
+**Como reconhecer coordenação assindética?**
 
 ??? question "Mostrar resposta"
-    Orações não exercem função sintática interna umas das outras.
+    Observe: “A equipe leu o edital, identificou os prazos, preparou o recurso.” Nesse caso, as orações coordenadas não têm conjunção.
 
-**O que é coordenada assindética?**
-
-??? question "Mostrar resposta"
-    Oração coordenada sem conjunção.
-
-**Quais relações coordenativas foram estudadas?**
+**Como reconhecer coordenada aditiva?**
 
 ??? question "Mostrar resposta"
-    Aditiva, adversativa, alternativa, conclusiva e explicativa.
+    Observe: “A equipe leu o edital e anotou os prazos.” Nesse caso, e acrescenta uma ação.
 
-**Qual é o método ORA?**
+**Como reconhecer coordenada adversativa?**
 
 ??? question "Mostrar resposta"
-    Observar verbos, recortar orações e atribuir relação.
+    Observe: “A equipe leu o edital, mas perdeu o prazo.” Nesse caso, mas introduz contraste.
 
+**Como reconhecer coordenada alternativa?**
+
+??? question "Mostrar resposta"
+    Observe: “Ou revise o texto, ou mantenha a redação original.” Nesse caso, ou...ou apresenta alternativas.
+
+**Como reconhecer coordenada conclusiva?**
+
+??? question "Mostrar resposta"
+    Observe: “O prazo terminou; portanto, o recurso é intempestivo.” Nesse caso, portanto introduz conclusão.
+
+**Como reconhecer coordenada explicativa?**
+
+??? question "Mostrar resposta"
+    Observe: “Leia o edital, pois a prova se aproxima.” Nesse caso, pois apresenta justificativa para a ordem.
+
+**Como reconhecer período composto?**
+
+??? question "Mostrar resposta"
+    Observe: “A comissão analisou o pedido e publicou a decisão.” Nesse caso, há dois núcleos verbais em duas orações.
+
+**Como reconhecer valor adversativo de e?**
+
+??? question "Mostrar resposta"
+    Observe: “Estudou muito e não foi aprovado.” Nesse caso, e assume valor de contraste no contexto.
+
+**Como reconhecer conjunção conclusiva deslocada?**
+
+??? question "Mostrar resposta"
+    Observe: “O prazo acabou; o recurso, portanto, não será conhecido.” Nesse caso, portanto aparece intercalado.
+
+**Como reconhecer autonomia sintática coordenada?**
+
+??? question "Mostrar resposta"
+    Observe: “A comissão reuniu-se, mas não deliberou.” Nesse caso, as orações não exercem função sintática uma da outra.
+
+**Que conhecimento anterior deve ser recuperado?**
+
+??? question "Mostrar resposta"
+    Funções no período simples, porque essa base sustenta a análise desta aula.
+
+## Fechamento
+
+A aula mostrou que a sintaxe nasce das relações entre termos e orações, não de rótulos isolados. O método praticado prepara diretamente subordinação substantiva, próximo passo da sequência.
 ## Referência
 
 - Edital SAPE/SC nº 001/2026, Anexo 2, p. 27. Consulta em 4 ago. 2026.

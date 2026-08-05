@@ -1,19 +1,48 @@
 ---
-title: Aula 3 — Período simples e funções de substantivos, adjetivos e pronomes
-description: Como integrar classes e funções numa oração.
+id: portugues-modulo-06-aula-03
+title: "Aula 3 — Período simples e funções sintáticas"
+description: "Integrar as funções sintáticas na análise do período simples."
+discipline: 01-portugues
+module: 6
+lesson: 3
 status: draft
-last_reviewed: 2026-08-04
+edital_refs:
+  - "Edital SAPE/SC nº 001/2026, Anexo 2, p. 27"
+prerequisites:
+  - "termos essenciais, integrantes e acessórios"
+estimated_minutes: 120
+authors:
+  - Equipe do Curso SAPE/SC
+reviewers: []
+last_reviewed: 2026-08-05
+sources:
+  - "Edital SAPE/SC nº 001/2026, Anexo 2, p. 27. Consulta em 4 ago. 2026."
+tags:
+  - lingua-portuguesa
+  - modulo-06
+  - periodo-simples-funcoes
 ---
 
 # Aula 3 — Período simples e funções de substantivos, adjetivos e pronomes
 
-| Disciplina | Módulo | Aula | Tempo |
-|---|---|---:|---:|
-| Língua Portuguesa | Análise sintática e reestruturação | 3 de 7 | 90 min |
+<section class="lesson-goal">
+  <strong>Objetivo da aula:</strong> integrar as funções sintáticas na análise do período simples.
+</section>
 
-**Objetivos:** analisar período simples e reconhecer funções exercidas por substantivos, adjetivos e pronomes.  
-**Competências:** separar classe e função e representar a estrutura em camadas.  
+<div class="lesson-meta-grid">
+  <div class="lesson-meta-card"><span>Disciplina</span><strong>Língua Portuguesa</strong></div>
+  <div class="lesson-meta-card"><span>Módulo</span><strong>6 — Sintaxe da oração e do período</strong></div>
+  <div class="lesson-meta-card"><span>Aula</span><strong>3 de 7</strong></div>
+  <div class="lesson-meta-card"><span>Tempo estimado</span><strong>120 min</strong></div>
+</div>
+
+**Ao final desta aula, você deverá ser capaz de:** analisar período simples e reconhecer funções exercidas por substantivos, adjetivos e pronomes.
+**Competências:** separar classe e função e representar a estrutura em camadas.
 **Pré-requisito:** Aulas 1 e 2 e classes do Módulo 4.
+
+## Ligação com a aula anterior
+
+A análise parte de termos essenciais, integrantes e acessórios. Esse conhecimento permite agora integrar as funções sintáticas na análise do período simples, mantendo a leitura da frase inteira como unidade de decisão.
 
 ## Situação prática de abertura
 
@@ -55,7 +84,7 @@ Teste com reestruturação: “considerou que o relatório era correto” revela
 4. **L**igação: veja a relação com outros termos.
 5. **O** papel sintático: atribua a função.
 
-**Cotidiano:** em “Achei a sala vazia”, *vazia* não apenas acompanha *sala*; expressa o estado percebido.  
+**Cotidiano:** em “Achei a sala vazia”, *vazia* não apenas acompanha *sala*; expressa o estado percebido.
 **Administração Pública:** “a comissão julgou o recurso improcedente” traz predicativo do objeto; retirar o adjetivo altera o resultado declarado.
 
 !!! warning "Erros comuns"
@@ -85,22 +114,297 @@ Qual a diferença de *eficiente* em “a equipe eficiente trabalhou” e “a eq
 
 Analise classe e função dos destaques: “**Ela** considerou o **parecer** **correto**” e “o **parecer correto** chegou”.
 
-## Exercícios autorais
+## Questões
 
-**1.** Em “Ela revisou o ato”, *ela* é: A) artigo e sujeito. B) pronome e sujeito. C) substantivo e objeto. D) adjetivo e predicativo. E) pronome e objeto.
+### Questão 1
 
-??? success "Gabarito comentado"
-    **B.** Classe pronome; função sujeito. A, C e D erram classe; E erra função.
+**Habilidade:** reconhecer oração absoluta em enunciado autossuficiente
 
-**2.** Em “Consideraram o parecer adequado”, *adequado* é: A) adjunto adverbial. B) predicativo do objeto. C) sujeito. D) objeto indireto. E) vocativo.
+**Dificuldade:** fácil
 
-??? success "Gabarito comentado"
-    **B.** Atribui característica ao objeto *parecer*. A, C, D e E não descrevem a predicação.
+Qual alternativa exemplifica corretamente **oração absoluta**?
 
-**3.** “A equipe deve publicar o resultado” contém: A) duas orações independentes. B) uma oração com locução verbal. C) nenhuma oração. D) sujeito indeterminado. E) oração sem sujeito.
+A. A comissão publicou o resultado.
+B. A comissão deve publicar o resultado.
+C. Os resultados foram divulgados pela banca.
+D. Os resultados parecem corretos.
+E. A banca julgou os recursos improcedentes.
 
-??? success "Gabarito comentado"
-    **B.** *Deve publicar* funciona como unidade verbal. A conta formas mecanicamente; C, D e E ignoram *a equipe*.
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** Há uma única oração no período.
+
+    **B está errada:** a frase exemplifica locução verbal, pois deve publicar forma um único núcleo verbal; não exemplifica oração absoluta.
+
+    **C está errada:** a frase exemplifica sujeito paciente, pois os resultados recebem a ação na voz passiva; não exemplifica oração absoluta.
+
+    **D está errada:** a frase exemplifica predicativo do sujeito, pois corretos atribui estado ao sujeito; não exemplifica oração absoluta.
+
+    **E está errada:** a frase exemplifica predicativo do objeto, pois improcedentes caracteriza o objeto recursos; não exemplifica oração absoluta.
+
+    **Tópico para revisar:** seção sobre oração absoluta.
+
+### Questão 2
+
+**Habilidade:** reconhecer locução verbal em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **locução verbal**?
+
+A. A comissão publicou o resultado.
+B. A comissão deve publicar o resultado.
+C. Os resultados foram divulgados pela banca.
+D. Os resultados parecem corretos.
+E. A banca julgou os recursos improcedentes.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** a frase exemplifica oração absoluta, pois há uma única oração no período; não exemplifica locução verbal.
+
+    **B está certa:** Deve publicar forma um único núcleo verbal.
+
+    **C está errada:** a frase exemplifica sujeito paciente, pois os resultados recebem a ação na voz passiva; não exemplifica locução verbal.
+
+    **D está errada:** a frase exemplifica predicativo do sujeito, pois corretos atribui estado ao sujeito; não exemplifica locução verbal.
+
+    **E está errada:** a frase exemplifica predicativo do objeto, pois improcedentes caracteriza o objeto recursos; não exemplifica locução verbal.
+
+    **Tópico para revisar:** seção sobre locução verbal.
+
+### Questão 3
+
+**Habilidade:** reconhecer sujeito paciente em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **sujeito paciente**?
+
+A. A comissão publicou o resultado.
+B. A comissão deve publicar o resultado.
+C. Os resultados foram divulgados pela banca.
+D. Os resultados parecem corretos.
+E. A banca julgou os recursos improcedentes.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** a frase exemplifica oração absoluta, pois há uma única oração no período; não exemplifica sujeito paciente.
+
+    **B está errada:** a frase exemplifica locução verbal, pois deve publicar forma um único núcleo verbal; não exemplifica sujeito paciente.
+
+    **C está certa:** Os resultados recebem a ação na voz passiva.
+
+    **D está errada:** a frase exemplifica predicativo do sujeito, pois corretos atribui estado ao sujeito; não exemplifica sujeito paciente.
+
+    **E está errada:** a frase exemplifica predicativo do objeto, pois improcedentes caracteriza o objeto recursos; não exemplifica sujeito paciente.
+
+    **Tópico para revisar:** seção sobre sujeito paciente.
+
+### Questão 4
+
+**Habilidade:** reconhecer predicativo do sujeito em enunciado autossuficiente
+
+**Dificuldade:** difícil
+
+Qual alternativa exemplifica corretamente **predicativo do sujeito**?
+
+A. A comissão publicou o resultado.
+B. A comissão deve publicar o resultado.
+C. Os resultados foram divulgados pela banca.
+D. Os resultados parecem corretos.
+E. A banca julgou os recursos improcedentes.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** a frase exemplifica oração absoluta, pois há uma única oração no período; não exemplifica predicativo do sujeito.
+
+    **B está errada:** a frase exemplifica locução verbal, pois deve publicar forma um único núcleo verbal; não exemplifica predicativo do sujeito.
+
+    **C está errada:** a frase exemplifica sujeito paciente, pois os resultados recebem a ação na voz passiva; não exemplifica predicativo do sujeito.
+
+    **D está certa:** Corretos atribui estado ao sujeito.
+
+    **E está errada:** a frase exemplifica predicativo do objeto, pois improcedentes caracteriza o objeto recursos; não exemplifica predicativo do sujeito.
+
+    **Tópico para revisar:** seção sobre predicativo do sujeito.
+
+### Questão 5
+
+**Habilidade:** reconhecer predicativo do objeto em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **predicativo do objeto**?
+
+A. A comissão publicou o resultado.
+B. A comissão deve publicar o resultado.
+C. Os resultados foram divulgados pela banca.
+D. Os resultados parecem corretos.
+E. A banca julgou os recursos improcedentes.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** a frase exemplifica oração absoluta, pois há uma única oração no período; não exemplifica predicativo do objeto.
+
+    **B está errada:** a frase exemplifica locução verbal, pois deve publicar forma um único núcleo verbal; não exemplifica predicativo do objeto.
+
+    **C está errada:** a frase exemplifica sujeito paciente, pois os resultados recebem a ação na voz passiva; não exemplifica predicativo do objeto.
+
+    **D está errada:** a frase exemplifica predicativo do sujeito, pois corretos atribui estado ao sujeito; não exemplifica predicativo do objeto.
+
+    **E está certa:** Improcedentes caracteriza o objeto recursos.
+
+    **Tópico para revisar:** seção sobre predicativo do objeto.
+
+### Questão 6
+
+**Habilidade:** reconhecer adjunto adverbial deslocado em enunciado autossuficiente
+
+**Dificuldade:** fácil
+
+Qual alternativa exemplifica corretamente **adjunto adverbial deslocado**?
+
+A. Após a reunião, a equipe publicou a ata.
+B. A comissão publicou o resultado.
+C. A comissão deve publicar o resultado.
+D. Os resultados foram divulgados pela banca.
+E. Os resultados parecem corretos.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** O termo inicial indica tempo e está deslocado.
+
+    **B está errada:** a frase exemplifica oração absoluta, pois há uma única oração no período; não exemplifica adjunto adverbial deslocado.
+
+    **C está errada:** a frase exemplifica locução verbal, pois deve publicar forma um único núcleo verbal; não exemplifica adjunto adverbial deslocado.
+
+    **D está errada:** a frase exemplifica sujeito paciente, pois os resultados recebem a ação na voz passiva; não exemplifica adjunto adverbial deslocado.
+
+    **E está errada:** a frase exemplifica predicativo do sujeito, pois corretos atribui estado ao sujeito; não exemplifica adjunto adverbial deslocado.
+
+    **Tópico para revisar:** seção sobre adjunto adverbial deslocado.
+
+### Questão 7
+
+**Habilidade:** reconhecer aposto explicativo em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **aposto explicativo**?
+
+A. A comissão publicou o resultado.
+B. O diretor, responsável pelo setor, assinou o ato.
+C. A comissão deve publicar o resultado.
+D. Os resultados foram divulgados pela banca.
+E. Os resultados parecem corretos.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** a frase exemplifica oração absoluta, pois há uma única oração no período; não exemplifica aposto explicativo.
+
+    **B está certa:** O segmento entre vírgulas explica diretor.
+
+    **C está errada:** a frase exemplifica locução verbal, pois deve publicar forma um único núcleo verbal; não exemplifica aposto explicativo.
+
+    **D está errada:** a frase exemplifica sujeito paciente, pois os resultados recebem a ação na voz passiva; não exemplifica aposto explicativo.
+
+    **E está errada:** a frase exemplifica predicativo do sujeito, pois corretos atribui estado ao sujeito; não exemplifica aposto explicativo.
+
+    **Tópico para revisar:** seção sobre aposto explicativo.
+
+### Questão 8
+
+**Habilidade:** reconhecer vocativo em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **vocativo**?
+
+A. A comissão publicou o resultado.
+B. A comissão deve publicar o resultado.
+C. Candidatos, leiam atentamente o edital.
+D. Os resultados foram divulgados pela banca.
+E. Os resultados parecem corretos.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** a frase exemplifica oração absoluta, pois há uma única oração no período; não exemplifica vocativo.
+
+    **B está errada:** a frase exemplifica locução verbal, pois deve publicar forma um único núcleo verbal; não exemplifica vocativo.
+
+    **C está certa:** Candidatos é chamamento.
+
+    **D está errada:** a frase exemplifica sujeito paciente, pois os resultados recebem a ação na voz passiva; não exemplifica vocativo.
+
+    **E está errada:** a frase exemplifica predicativo do sujeito, pois corretos atribui estado ao sujeito; não exemplifica vocativo.
+
+    **Tópico para revisar:** seção sobre vocativo.
+
+### Questão 9
+
+**Habilidade:** reconhecer complemento nominal em enunciado autossuficiente
+
+**Dificuldade:** difícil
+
+Qual alternativa exemplifica corretamente **complemento nominal**?
+
+A. A comissão publicou o resultado.
+B. A comissão deve publicar o resultado.
+C. Os resultados foram divulgados pela banca.
+D. A análise dos recursos foi cuidadosa.
+E. Os resultados parecem corretos.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** a frase exemplifica oração absoluta, pois há uma única oração no período; não exemplifica complemento nominal.
+
+    **B está errada:** a frase exemplifica locução verbal, pois deve publicar forma um único núcleo verbal; não exemplifica complemento nominal.
+
+    **C está errada:** a frase exemplifica sujeito paciente, pois os resultados recebem a ação na voz passiva; não exemplifica complemento nominal.
+
+    **D está certa:** Dos recursos completa o nome de ação análise.
+
+    **E está errada:** a frase exemplifica predicativo do sujeito, pois corretos atribui estado ao sujeito; não exemplifica complemento nominal.
+
+    **Tópico para revisar:** seção sobre complemento nominal.
+
+### Questão 10
+
+**Habilidade:** reconhecer adjunto adnominal em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **adjunto adnominal**?
+
+A. A comissão publicou o resultado.
+B. A comissão deve publicar o resultado.
+C. Os resultados foram divulgados pela banca.
+D. Os resultados parecem corretos.
+E. A decisão da diretoria foi publicada.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** a frase exemplifica oração absoluta, pois há uma única oração no período; não exemplifica adjunto adnominal.
+
+    **B está errada:** a frase exemplifica locução verbal, pois deve publicar forma um único núcleo verbal; não exemplifica adjunto adnominal.
+
+    **C está errada:** a frase exemplifica sujeito paciente, pois os resultados recebem a ação na voz passiva; não exemplifica adjunto adnominal.
+
+    **D está errada:** a frase exemplifica predicativo do sujeito, pois corretos atribui estado ao sujeito; não exemplifica adjunto adnominal.
+
+    **E está certa:** Da diretoria indica o agente ou possuidor ligado ao nome.
+
+    **Tópico para revisar:** seção sobre adjunto adnominal.
 
 ## Checklist
 
@@ -109,31 +413,71 @@ Analise classe e função dos destaques: “**Ela** considerou o **parecer** **c
 - [ ] Reconheço funções nominais e pronominais.
 - [ ] Distingo adjunto adnominal e predicativo.
 
+- [ ] Justifico a função pela relação entre os termos.
+- [ ] Releio o período completo após a análise.
+
 ## Flashcards da aula
 
-**O que é período simples?**
+**Como reconhecer oração absoluta?**
 
 ??? question "Mostrar resposta"
-    Período que contém uma oração.
+    Observe: “A comissão publicou o resultado.” Nesse caso, há uma única oração no período.
 
-**Locução verbal contém quantas orações por si só?**
-
-??? question "Mostrar resposta"
-    Uma, pois auxiliar e principal formam unidade verbal.
-
-**Qual diferença separa adjunto adnominal e predicativo?**
+**Como reconhecer locução verbal?**
 
 ??? question "Mostrar resposta"
-    O adjunto integra o grupo nominal; o predicativo atribui característica por meio do predicado.
+    Observe: “A comissão deve publicar o resultado.” Nesse caso, deve publicar forma um único núcleo verbal.
 
-**Qual é o método DUPLO?**
+**Como reconhecer sujeito paciente?**
 
 ??? question "Mostrar resposta"
-    Delimitar, unidades, palavra/classe, ligação e papel/função.
+    Observe: “Os resultados foram divulgados pela banca.” Nesse caso, os resultados recebem a ação na voz passiva.
 
+**Como reconhecer predicativo do sujeito?**
+
+??? question "Mostrar resposta"
+    Observe: “Os resultados parecem corretos.” Nesse caso, corretos atribui estado ao sujeito.
+
+**Como reconhecer predicativo do objeto?**
+
+??? question "Mostrar resposta"
+    Observe: “A banca julgou os recursos improcedentes.” Nesse caso, improcedentes caracteriza o objeto recursos.
+
+**Como reconhecer adjunto adverbial deslocado?**
+
+??? question "Mostrar resposta"
+    Observe: “Após a reunião, a equipe publicou a ata.” Nesse caso, o termo inicial indica tempo e está deslocado.
+
+**Como reconhecer aposto explicativo?**
+
+??? question "Mostrar resposta"
+    Observe: “O diretor, responsável pelo setor, assinou o ato.” Nesse caso, o segmento entre vírgulas explica diretor.
+
+**Como reconhecer vocativo?**
+
+??? question "Mostrar resposta"
+    Observe: “Candidatos, leiam atentamente o edital.” Nesse caso, candidatos é chamamento.
+
+**Como reconhecer complemento nominal?**
+
+??? question "Mostrar resposta"
+    Observe: “A análise dos recursos foi cuidadosa.” Nesse caso, dos recursos completa o nome de ação análise.
+
+**Como reconhecer adjunto adnominal?**
+
+??? question "Mostrar resposta"
+    Observe: “A decisão da diretoria foi publicada.” Nesse caso, da diretoria indica o agente ou possuidor ligado ao nome.
+
+**Que conhecimento anterior deve ser recuperado?**
+
+??? question "Mostrar resposta"
+    Termos essenciais, integrantes e acessórios, porque essa base sustenta a análise desta aula.
+
+## Fechamento
+
+A aula mostrou que a sintaxe nasce das relações entre termos e orações, não de rótulos isolados. O método praticado prepara diretamente coordenação, próximo passo da sequência.
 ## Referência
 
 - Edital SAPE/SC nº 001/2026, Anexo 2, p. 27. Consulta em 4 ago. 2026.
 
 [← Aula 2](modulo-06-aula-02-termos-integrantes-acessorios.md){ .md-button } [Próxima: Aula 4 →](modulo-06-aula-04-periodo-composto-coordenacao.md){ .md-button .md-button--primary }
-

@@ -1,19 +1,48 @@
 ---
-title: Aula 5 — Crase
-description: Como provar a fusão de preposição a com artigo ou pronome.
+id: portugues-modulo-05-aula-05
+title: "Aula 5 — Crase"
+description: "Como provar a fusão de preposição a com artigo ou pronome."
+discipline: 01-portugues
+module: 5
+lesson: 5
 status: draft
-last_reviewed: 2026-08-04
+edital_refs:
+  - "Edital SAPE/SC nº 001/2026, Anexo 2, p. 27"
+prerequisites:
+  - "Regência nominal e verbal"
+estimated_minutes: 120
+authors:
+  - Equipe do Curso SAPE/SC
+reviewers: []
+last_reviewed: 2026-08-05
+sources:
+  - "Edital SAPE/SC nº 001/2026, Anexo 2, p. 27. Consulta em 4 ago. 2026."
+tags:
+  - lingua-portuguesa
+  - modulo-05
+  - crase
 ---
 
 # Aula 5 — Crase
 
-| Disciplina | Módulo | Aula | Tempo |
-|---|---|---:|---:|
-| Língua Portuguesa | Concordância, regência e crase | 5 de 5 | 90 min |
+<section class="lesson-goal">
+  <strong>Objetivo da aula:</strong> como provar a fusão de preposição a com artigo ou pronome.
+</section>
 
-**Objetivos:** justificar presença, ausência e casos condicionados do acento grave.  
-**Competências:** combinar regência e determinação, aplicar testes compatíveis e evitar regras por aparência.  
+<div class="lesson-meta-grid">
+  <div class="lesson-meta-card"><span>Disciplina</span><strong>Língua Portuguesa</strong></div>
+  <div class="lesson-meta-card"><span>Módulo</span><strong>5 — Concordância, regência e crase</strong></div>
+  <div class="lesson-meta-card"><span>Aula</span><strong>5 de 5</strong></div>
+  <div class="lesson-meta-card"><span>Tempo estimado</span><strong>120 min</strong></div>
+</div>
+
+**Ao final desta aula, você deverá ser capaz de:** justificar presença, ausência e casos condicionados do acento grave.
+**Competências:** combinar regência e determinação, aplicar testes compatíveis e evitar regras por aparência.
 **Pré-requisito:** regência nominal e verbal das Aulas 3 e 4.
+
+## Ligação com a aula anterior
+
+Na etapa anterior, você estudou regência nominal e verbal. Agora, esse conhecimento será usado para decidir provar a fusão de preposição a com artigo ou pronome, sem depender de frases decoradas.
 
 ## Situação prática de abertura
 
@@ -69,7 +98,7 @@ Palavras sem determinação podem rejeitar artigo em usos cristalizados: *voltar
 
 Pode haver opção antes de possessivo feminino singular ou nome próprio feminino quando o artigo é facultativo e a regência exige *a*: *referiu-se a/à sua chefe*; *entregou a/à Ana*, conforme uso do artigo e contexto. Não chame de facultativo se uma das condições estruturais não existir.
 
-**Cotidiano:** “entreguei a ela” não tem artigo; “entreguei à servidora” combina preposição e artigo.  
+**Cotidiano:** “entreguei a ela” não tem artigo; “entreguei à servidora” combina preposição e artigo.
 **Administração Pública:** “referente à decisão” nasce da regência nominal; “visou a decisão” pode significar pôr visto e não recebe crase pela regência dessa acepção.
 
 !!! warning "Erros comuns"
@@ -99,22 +128,297 @@ Por que há crase em “referiu-se àquela decisão”, mas não em “analisou 
 
 Use CASA em *obedeceu à norma*, *começou a revisar*, *entregou a ela*, *à tarde*, *àquela decisão* e *visitou a unidade*.
 
-## Exercícios autorais
+## Questões
 
-**1.** Está correta: A) “Começou à revisar.” B) “Obedeceu à norma.” C) “Entregou à ela.” D) “Visitou à unidade.” E) “Trabalhou frente à frente” obrigatoriamente.
+### Questão 1
 
-??? success "Gabarito comentado"
-    **B.** *Obedecer a* + artigo. A está antes de verbo; C antes de pronome sem artigo; D usa verbo direto; E é expressão repetida sem a fusão indicada.
+**Habilidade:** aplicar equação da crase em contexto
 
-**2.** Completa corretamente “Referiu-se ___quela orientação”: A) aquela. B) àquela. C) háquela. D) a àquela. E) à aquela.
+**Dificuldade:** fácil
 
-??? success "Gabarito comentado"
-    **B.** A preposição funde-se ao início do demonstrativo. A omite a marca; C, D e E duplicam ou usam grafia inexistente.
+Assinale a frase com crase obrigatória.
 
-**3.** A crase pode ser facultativa antes de possessivo feminino singular quando: A) não há regência. B) o artigo é opcional e o termo anterior exige *a*. C) vem antes de verbo. D) a palavra é masculina. E) há repetição.
+A. A comissão dirigiu-se à sala de reuniões.
+B. A comissão começou à revisar o ato.
+C. A comissão entregou o documento à ele.
+D. A comissão caminhou à pé.
+E. A comissão estava à partir das oito.
 
-??? success "Gabarito comentado"
-    **B.** A opção decorre do artigo facultativo. A, C, D e E eliminam condições da fusão.
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** Dirigir-se rege a e sala admite artigo a.
+
+    **B está errada:** “A comissão começou à revisar o ato.” não satisfaz o critério cobrado. Dirigir-se rege a e sala admite artigo a.
+
+    **C está errada:** “A comissão entregou o documento à ele.” não satisfaz o critério cobrado. Dirigir-se rege a e sala admite artigo a.
+
+    **D está errada:** “A comissão caminhou à pé.” não satisfaz o critério cobrado. Dirigir-se rege a e sala admite artigo a.
+
+    **E está errada:** “A comissão estava à partir das oito.” não satisfaz o critério cobrado. Dirigir-se rege a e sala admite artigo a.
+
+    **Tópico para revisar:** seção sobre equação da crase.
+
+### Questão 2
+
+**Habilidade:** aplicar casos sem crase em contexto
+
+**Dificuldade:** média
+
+Assinale a frase sem crase.
+
+A. O relatório foi entregue à diretora.
+B. O relatório foi entregue a Vossa Senhoria.
+C. A equipe voltou à unidade.
+D. A norma aplica-se à candidata.
+E. A reunião ocorreu à tarde.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** “O relatório foi entregue à diretora.” não satisfaz o critério cobrado. Pronomes de tratamento como Vossa Senhoria não admitem artigo.
+
+    **B está certa:** Pronomes de tratamento como Vossa Senhoria não admitem artigo.
+
+    **C está errada:** “A equipe voltou à unidade.” não satisfaz o critério cobrado. Pronomes de tratamento como Vossa Senhoria não admitem artigo.
+
+    **D está errada:** “A norma aplica-se à candidata.” não satisfaz o critério cobrado. Pronomes de tratamento como Vossa Senhoria não admitem artigo.
+
+    **E está errada:** “A reunião ocorreu à tarde.” não satisfaz o critério cobrado. Pronomes de tratamento como Vossa Senhoria não admitem artigo.
+
+    **Tópico para revisar:** seção sobre casos sem crase.
+
+### Questão 3
+
+**Habilidade:** aplicar crase antes de verbo em contexto
+
+**Dificuldade:** média
+
+Complete: A equipe começou ___ analisar os dados.
+
+A. à
+B. há
+C. a
+D. às
+E. àquela
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** “à” não satisfaz o critério cobrado. Não ocorre crase antes de verbo.
+
+    **B está errada:** “há” não satisfaz o critério cobrado. Não ocorre crase antes de verbo.
+
+    **C está certa:** Não ocorre crase antes de verbo.
+
+    **D está errada:** “às” não satisfaz o critério cobrado. Não ocorre crase antes de verbo.
+
+    **E está errada:** “àquela” não satisfaz o critério cobrado. Não ocorre crase antes de verbo.
+
+    **Tópico para revisar:** seção sobre crase antes de verbo.
+
+### Questão 4
+
+**Habilidade:** aplicar crase em horas em contexto
+
+**Dificuldade:** difícil
+
+Assinale o emprego adequado.
+
+A. A reunião ocorrerá as oito horas.
+B. A reunião ocorrerá à oito horas.
+C. A reunião ocorrerá há oito horas no futuro.
+D. A reunião ocorrerá às oito horas.
+E. A reunião ocorrerá às oito hora.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** “A reunião ocorrerá as oito horas.” não satisfaz o critério cobrado. Na indicação de horas determinadas, ocorre crase no plural.
+
+    **B está errada:** “A reunião ocorrerá à oito horas.” não satisfaz o critério cobrado. Na indicação de horas determinadas, ocorre crase no plural.
+
+    **C está errada:** “A reunião ocorrerá há oito horas no futuro.” não satisfaz o critério cobrado. Na indicação de horas determinadas, ocorre crase no plural.
+
+    **D está certa:** Na indicação de horas determinadas, ocorre crase no plural.
+
+    **E está errada:** “A reunião ocorrerá às oito hora.” não satisfaz o critério cobrado. Na indicação de horas determinadas, ocorre crase no plural.
+
+    **Tópico para revisar:** seção sobre crase em horas.
+
+### Questão 5
+
+**Habilidade:** aplicar locuções femininas em contexto
+
+**Dificuldade:** média
+
+Assinale a locução grafada corretamente.
+
+A. O processo foi revisto a medida que surgiam dados.
+B. O processo foi revisto à partir dos dados.
+C. O processo foi revisto à prazo.
+D. O processo foi revisto à pedido.
+E. O processo foi revisto à medida que surgiam dados.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** “O processo foi revisto a medida que surgiam dados.” não satisfaz o critério cobrado. A locução conjuntiva à medida que recebe crase.
+
+    **B está errada:** “O processo foi revisto à partir dos dados.” não satisfaz o critério cobrado. A locução conjuntiva à medida que recebe crase.
+
+    **C está errada:** “O processo foi revisto à prazo.” não satisfaz o critério cobrado. A locução conjuntiva à medida que recebe crase.
+
+    **D está errada:** “O processo foi revisto à pedido.” não satisfaz o critério cobrado. A locução conjuntiva à medida que recebe crase.
+
+    **E está certa:** A locução conjuntiva à medida que recebe crase.
+
+    **Tópico para revisar:** seção sobre locuções femininas.
+
+### Questão 6
+
+**Habilidade:** aplicar crase com demonstrativos em contexto
+
+**Dificuldade:** fácil
+
+Complete: Refiro-me ___ que foi publicada ontem.
+
+A. àquela norma
+B. aquela norma
+C. à aquele ato
+D. háquela norma
+E. à esta norma
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** O a regido funde-se ao a inicial de aquela.
+
+    **B está errada:** “aquela norma” não satisfaz o critério cobrado. O a regido funde-se ao a inicial de aquela.
+
+    **C está errada:** “à aquele ato” não satisfaz o critério cobrado. O a regido funde-se ao a inicial de aquela.
+
+    **D está errada:** “háquela norma” não satisfaz o critério cobrado. O a regido funde-se ao a inicial de aquela.
+
+    **E está errada:** “à esta norma” não satisfaz o critério cobrado. O a regido funde-se ao a inicial de aquela.
+
+    **Tópico para revisar:** seção sobre crase com demonstrativos.
+
+### Questão 7
+
+**Habilidade:** aplicar crase com lugares em contexto
+
+**Dificuldade:** média
+
+Assinale a forma adequada com nome de lugar.
+
+A. Voltamos à Florianópolis após o curso.
+B. Voltamos à Bahia após o curso.
+C. Voltamos à Paris após o curso.
+D. Voltamos à Santa Catarina sem artigo no uso local.
+E. Voltamos há Bahia após o curso.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** “Voltamos à Florianópolis após o curso.” não satisfaz o critério cobrado. Bahia admite artigo no teste voltar da; ocorre crase.
+
+    **B está certa:** Bahia admite artigo no teste voltar da; ocorre crase.
+
+    **C está errada:** “Voltamos à Paris após o curso.” não satisfaz o critério cobrado. Bahia admite artigo no teste voltar da; ocorre crase.
+
+    **D está errada:** “Voltamos à Santa Catarina sem artigo no uso local.” não satisfaz o critério cobrado. Bahia admite artigo no teste voltar da; ocorre crase.
+
+    **E está errada:** “Voltamos há Bahia após o curso.” não satisfaz o critério cobrado. Bahia admite artigo no teste voltar da; ocorre crase.
+
+    **Tópico para revisar:** seção sobre crase com lugares.
+
+### Questão 8
+
+**Habilidade:** aplicar casos sem crase em contexto
+
+**Dificuldade:** média
+
+Assinale a frase adequada.
+
+A. A servidora entregou o documento à uma colega.
+B. A servidora entregou o documento há uma colega.
+C. A servidora entregou o documento a uma colega.
+D. A servidora entregou o documento às uma colega.
+E. A servidora entregou o documento à um colega.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** “A servidora entregou o documento à uma colega.” não satisfaz o critério cobrado. O artigo indefinido uma impede a fusão com artigo definido a.
+
+    **B está errada:** “A servidora entregou o documento há uma colega.” não satisfaz o critério cobrado. O artigo indefinido uma impede a fusão com artigo definido a.
+
+    **C está certa:** O artigo indefinido uma impede a fusão com artigo definido a.
+
+    **D está errada:** “A servidora entregou o documento às uma colega.” não satisfaz o critério cobrado. O artigo indefinido uma impede a fusão com artigo definido a.
+
+    **E está errada:** “A servidora entregou o documento à um colega.” não satisfaz o critério cobrado. O artigo indefinido uma impede a fusão com artigo definido a.
+
+    **Tópico para revisar:** seção sobre casos sem crase.
+
+### Questão 9
+
+**Habilidade:** aplicar método CASA em contexto
+
+**Dificuldade:** difícil
+
+Qual teste ajuda a confirmar crase diante de palavra feminina?
+
+A. Trocar toda preposição por de.
+B. Procurar apenas o gênero da palavra.
+C. Inserir artigo sem verificar a regência.
+D. Substituir por termo masculino e verificar se surge ao.
+E. Usar há sempre que houver ideia de destino.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** “Trocar toda preposição por de.” não satisfaz o critério cobrado. Se a estrutura masculina produz ao, há preposição e artigo.
+
+    **B está errada:** “Procurar apenas o gênero da palavra.” não satisfaz o critério cobrado. Se a estrutura masculina produz ao, há preposição e artigo.
+
+    **C está errada:** “Inserir artigo sem verificar a regência.” não satisfaz o critério cobrado. Se a estrutura masculina produz ao, há preposição e artigo.
+
+    **D está certa:** Se a estrutura masculina produz ao, há preposição e artigo.
+
+    **E está errada:** “Usar há sempre que houver ideia de destino.” não satisfaz o critério cobrado. Se a estrutura masculina produz ao, há preposição e artigo.
+
+    **Tópico para revisar:** seção sobre método CASA.
+
+### Questão 10
+
+**Habilidade:** aplicar crase facultativa em contexto
+
+**Dificuldade:** média
+
+Assinale a construção em que a crase pode ser facultativa.
+
+A. Cheguei à unidade.
+B. Assisti à sessão.
+C. Saí às oito horas.
+D. Refiro-me àquela decisão.
+E. Entreguei o relatório à minha chefe.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** “Cheguei à unidade.” não satisfaz o critério cobrado. Antes de possessivo feminino singular, o artigo pode variar conforme o uso.
+
+    **B está errada:** “Assisti à sessão.” não satisfaz o critério cobrado. Antes de possessivo feminino singular, o artigo pode variar conforme o uso.
+
+    **C está errada:** “Saí às oito horas.” não satisfaz o critério cobrado. Antes de possessivo feminino singular, o artigo pode variar conforme o uso.
+
+    **D está errada:** “Refiro-me àquela decisão.” não satisfaz o critério cobrado. Antes de possessivo feminino singular, o artigo pode variar conforme o uso.
+
+    **E está certa:** Antes de possessivo feminino singular, o artigo pode variar conforme o uso.
+
+    **Tópico para revisar:** seção sobre crase facultativa.
 
 ## Checklist
 
@@ -123,28 +427,69 @@ Use CASA em *obedeceu à norma*, *começou a revisar*, *entregou a ela*, *à tar
 - [ ] Distingo ausência, obrigação e faculdade.
 - [ ] Uso testes somente quando compatíveis.
 
+- [ ] Justifico a escolha pela relação entre os termos.
+- [ ] Releio a frase completa depois de aplicar a regra.
+
 ## Flashcards da aula
 
-**Qual é a equação da crase?**
+**Assinale a frase com crase obrigatória.**
 
 ??? question "Mostrar resposta"
-    Preposição *a* + artigo *a/as* ou pronome compatível iniciado por *a*.
+    A comissão dirigiu-se à sala de reuniões. Dirigir-se rege a e sala admite artigo a.
 
-**Há crase antes de verbo?**
-
-??? question "Mostrar resposta"
-    Não, porque verbo não admite artigo feminino.
-
-**Quando pode haver crase facultativa antes de possessivo?**
+**Assinale a frase sem crase.**
 
 ??? question "Mostrar resposta"
-    Quando a regência exige *a* e o artigo antes do possessivo feminino singular é opcional.
+    O relatório foi entregue a Vossa Senhoria. Pronomes de tratamento como Vossa Senhoria não admitem artigo.
 
-**Qual é o método CASA?**
+**Complete: A equipe começou ___ analisar os dados.**
 
 ??? question "Mostrar resposta"
-    Comando do termo anterior, artigo/pronome, soma e avaliação do caso.
+    a Não ocorre crase antes de verbo.
 
+**Assinale o emprego adequado.**
+
+??? question "Mostrar resposta"
+    A reunião ocorrerá às oito horas. Na indicação de horas determinadas, ocorre crase no plural.
+
+**Assinale a locução grafada corretamente.**
+
+??? question "Mostrar resposta"
+    O processo foi revisto à medida que surgiam dados. A locução conjuntiva à medida que recebe crase.
+
+**Complete: Refiro-me ___ que foi publicada ontem.**
+
+??? question "Mostrar resposta"
+    àquela norma O a regido funde-se ao a inicial de aquela.
+
+**Assinale a forma adequada com nome de lugar.**
+
+??? question "Mostrar resposta"
+    Voltamos à Bahia após o curso. Bahia admite artigo no teste voltar da; ocorre crase.
+
+**Assinale a frase adequada.**
+
+??? question "Mostrar resposta"
+    A servidora entregou o documento a uma colega. O artigo indefinido uma impede a fusão com artigo definido a.
+
+**Qual teste ajuda a confirmar crase diante de palavra feminina?**
+
+??? question "Mostrar resposta"
+    Substituir por termo masculino e verificar se surge ao. Se a estrutura masculina produz ao, há preposição e artigo.
+
+**Assinale a construção em que a crase pode ser facultativa.**
+
+??? question "Mostrar resposta"
+    Entreguei o relatório à minha chefe. Antes de possessivo feminino singular, o artigo pode variar conforme o uso.
+
+**Como recuperar o conhecimento da aula anterior?**
+
+??? question "Mostrar resposta"
+    Retome regência nominal e verbal e use esse conhecimento como ponto de partida para a análise.
+
+## Fechamento
+
+A análise desta aula transforma regras isoladas em decisões justificáveis. Ao localizar os termos relacionados e testar a construção completa, você reduz erros por memória mecânica. O próximo passo é resumo do módulo, assunto que aproveita diretamente o método praticado aqui.
 ## Referências
 
 - Edital SAPE/SC nº 001/2026, Anexo 2, p. 27. Consulta em 4 ago. 2026.

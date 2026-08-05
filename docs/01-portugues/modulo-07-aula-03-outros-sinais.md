@@ -1,19 +1,48 @@
 ---
-title: Aula 3 — Outros sinais e efeitos de sentido
-description: Ponto, ponto e vírgula, dois-pontos, travessão, parênteses e aspas.
+id: portugues-modulo-07-aula-03
+title: "Aula 3 — Outros sinais e efeitos de sentido"
+description: "Empregar ponto, ponto e vírgula, dois-pontos, travessão, parênteses e aspas."
+discipline: 01-portugues
+module: 7
+lesson: 3
 status: draft
-last_reviewed: 2026-08-04
+edital_refs:
+  - "Edital SAPE/SC nº 001/2026, Anexo 2, p. 27"
+prerequisites:
+  - "usos da vírgula"
+estimated_minutes: 120
+authors:
+  - Equipe do Curso SAPE/SC
+reviewers: []
+last_reviewed: 2026-08-05
+sources:
+  - "Edital SAPE/SC nº 001/2026, Anexo 2, p. 27. Consulta em 4 ago. 2026."
+tags:
+  - lingua-portuguesa
+  - modulo-07
+  - pontuacao
 ---
 
 # Aula 3 — Outros sinais e efeitos de sentido
 
-| Disciplina | Módulo | Aula | Tempo |
-|---|---|---:|---:|
-| Língua Portuguesa | Pontuação | 3 de 3 | 90 min |
+<section class="lesson-goal">
+  <strong>Objetivo da aula:</strong> empregar ponto, ponto e vírgula, dois-pontos, travessão, parênteses e aspas.
+</section>
 
-**Objetivos:** escolher sinais adequados e interpretar organização e destaque.  
-**Competências:** comparar funções, reconhecer limites de substituição e avaliar efeitos.  
+<div class="lesson-meta-grid">
+  <div class="lesson-meta-card"><span>Disciplina</span><strong>Língua Portuguesa</strong></div>
+  <div class="lesson-meta-card"><span>Módulo</span><strong>7 — Pontuação</strong></div>
+  <div class="lesson-meta-card"><span>Aula</span><strong>3 de 3</strong></div>
+  <div class="lesson-meta-card"><span>Tempo estimado</span><strong>120 min</strong></div>
+</div>
+
+**Ao final desta aula, você deverá ser capaz de:** escolher sinais adequados e interpretar organização e destaque.
+**Competências:** comparar funções, reconhecer limites de substituição e avaliar efeitos.
 **Pré-requisito:** Aulas 1 e 2.
+
+## Ligação com a aula anterior
+
+Retomamos usos da vírgula. Agora, essa base sustenta decisões de pontuação justificadas pela estrutura e pelo sentido, e não pela simples percepção de pausa.
 
 ## Situação prática de abertura
 
@@ -42,7 +71,7 @@ Nenhum sinal possui um único efeito em todos os contextos. Também não se deve
 4. **A**lternativas: que outro sinal caberia e o que mudaria?
 5. **L**eitura final: estrutura e sentido continuam claros?
 
-**Cotidiano:** “Leve três itens: documento, caneta e água” anuncia enumeração.  
+**Cotidiano:** “Leve três itens: documento, caneta e água” anuncia enumeração.
 **Administração Pública:** “A decisão foi única: arquivar o processo” usa dois-pontos para apresentar o conteúdo anunciado.
 
 !!! warning "Erros comuns"
@@ -72,22 +101,297 @@ Por que o ponto e vírgula ajuda em “O setor A analisou prazo, forma e assinat
 
 Escreva uma enumeração anunciada, dois blocos com vírgulas internas, uma informação intercalada e uma citação curta. Justifique cada sinal.
 
-## Exercícios autorais
+## Questões
 
-**1.** Em “Faltava um documento: a certidão”, os dois-pontos: A) separam sujeito e verbo. B) anunciam especificação. C) marcam pergunta. D) encerram citação. E) indicam omissão verbal.
+### Questão 1
 
-??? success "Gabarito comentado"
-    **B.** *A certidão* especifica o documento anunciado.
+**Habilidade:** reconhecer ponto final em contexto
 
-**2.** O ponto e vírgula é útil principalmente quando: A) se quer separar verbo e objeto. B) há blocos extensos ou com vírgulas internas. C) toda frase é curta. D) se inicia pergunta. E) se marca citação literal.
+**Dificuldade:** fácil
 
-??? success "Gabarito comentado"
-    **B.** Ele evidencia fronteiras maiores sem encerrar completamente a relação.
+Qual alternativa exemplifica corretamente **ponto final**?
 
-**3.** Aspas em “O termo ‘tempestivo’ significa apresentado no prazo” marcam: A) fala obrigatória. B) palavra mencionada como objeto de explicação. C) sujeito oculto. D) enumeração. E) vocativo.
+A. A comissão concluiu a análise. O resultado será publicado amanhã.
+B. Participaram Ana, diretora; Bruno, relator; e Carla, secretária.
+C. A comissão revisou todos os anexos; a diretoria, depois de longa análise, aprovou o texto.
+D. Foram exigidos três documentos: identidade, diploma e certidão.
+E. A decisão foi simples: o prazo havia terminado.
 
-??? success "Gabarito comentado"
-    **B.** O texto fala sobre o próprio termo.
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** O ponto encerra uma unidade declarativa e inicia outra.
+
+    **B está errada:** a construção exemplifica ponto e vírgula em enumeração complexa, pois o sinal separa itens que já contêm vírgula; não exemplifica ponto final.
+
+    **C está errada:** a construção exemplifica ponto e vírgula entre orações extensas, pois o sinal cria separação intermediária entre segmentos complexos; não exemplifica ponto final.
+
+    **D está errada:** a construção exemplifica dois-pontos antes de enumeração, pois os dois-pontos anunciam a lista; não exemplifica ponto final.
+
+    **E está errada:** a construção exemplifica dois-pontos antes de explicação, pois o segundo segmento explica o primeiro; não exemplifica ponto final.
+
+    **Tópico para revisar:** seção sobre ponto final.
+
+### Questão 2
+
+**Habilidade:** reconhecer ponto e vírgula em enumeração complexa em contexto
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **ponto e vírgula em enumeração complexa**?
+
+A. A comissão concluiu a análise. O resultado será publicado amanhã.
+B. Participaram Ana, diretora; Bruno, relator; e Carla, secretária.
+C. A comissão revisou todos os anexos; a diretoria, depois de longa análise, aprovou o texto.
+D. Foram exigidos três documentos: identidade, diploma e certidão.
+E. A decisão foi simples: o prazo havia terminado.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** a construção exemplifica ponto final, pois o ponto encerra uma unidade declarativa e inicia outra; não exemplifica ponto e vírgula em enumeração complexa.
+
+    **B está certa:** O sinal separa itens que já contêm vírgula.
+
+    **C está errada:** a construção exemplifica ponto e vírgula entre orações extensas, pois o sinal cria separação intermediária entre segmentos complexos; não exemplifica ponto e vírgula em enumeração complexa.
+
+    **D está errada:** a construção exemplifica dois-pontos antes de enumeração, pois os dois-pontos anunciam a lista; não exemplifica ponto e vírgula em enumeração complexa.
+
+    **E está errada:** a construção exemplifica dois-pontos antes de explicação, pois o segundo segmento explica o primeiro; não exemplifica ponto e vírgula em enumeração complexa.
+
+    **Tópico para revisar:** seção sobre ponto e vírgula em enumeração complexa.
+
+### Questão 3
+
+**Habilidade:** reconhecer ponto e vírgula entre orações extensas em contexto
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **ponto e vírgula entre orações extensas**?
+
+A. A comissão concluiu a análise. O resultado será publicado amanhã.
+B. Participaram Ana, diretora; Bruno, relator; e Carla, secretária.
+C. A comissão revisou todos os anexos; a diretoria, depois de longa análise, aprovou o texto.
+D. Foram exigidos três documentos: identidade, diploma e certidão.
+E. A decisão foi simples: o prazo havia terminado.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** a construção exemplifica ponto final, pois o ponto encerra uma unidade declarativa e inicia outra; não exemplifica ponto e vírgula entre orações extensas.
+
+    **B está errada:** a construção exemplifica ponto e vírgula em enumeração complexa, pois o sinal separa itens que já contêm vírgula; não exemplifica ponto e vírgula entre orações extensas.
+
+    **C está certa:** O sinal cria separação intermediária entre segmentos complexos.
+
+    **D está errada:** a construção exemplifica dois-pontos antes de enumeração, pois os dois-pontos anunciam a lista; não exemplifica ponto e vírgula entre orações extensas.
+
+    **E está errada:** a construção exemplifica dois-pontos antes de explicação, pois o segundo segmento explica o primeiro; não exemplifica ponto e vírgula entre orações extensas.
+
+    **Tópico para revisar:** seção sobre ponto e vírgula entre orações extensas.
+
+### Questão 4
+
+**Habilidade:** reconhecer dois-pontos antes de enumeração em contexto
+
+**Dificuldade:** difícil
+
+Qual alternativa exemplifica corretamente **dois-pontos antes de enumeração**?
+
+A. A comissão concluiu a análise. O resultado será publicado amanhã.
+B. Participaram Ana, diretora; Bruno, relator; e Carla, secretária.
+C. A comissão revisou todos os anexos; a diretoria, depois de longa análise, aprovou o texto.
+D. Foram exigidos três documentos: identidade, diploma e certidão.
+E. A decisão foi simples: o prazo havia terminado.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** a construção exemplifica ponto final, pois o ponto encerra uma unidade declarativa e inicia outra; não exemplifica dois-pontos antes de enumeração.
+
+    **B está errada:** a construção exemplifica ponto e vírgula em enumeração complexa, pois o sinal separa itens que já contêm vírgula; não exemplifica dois-pontos antes de enumeração.
+
+    **C está errada:** a construção exemplifica ponto e vírgula entre orações extensas, pois o sinal cria separação intermediária entre segmentos complexos; não exemplifica dois-pontos antes de enumeração.
+
+    **D está certa:** Os dois-pontos anunciam a lista.
+
+    **E está errada:** a construção exemplifica dois-pontos antes de explicação, pois o segundo segmento explica o primeiro; não exemplifica dois-pontos antes de enumeração.
+
+    **Tópico para revisar:** seção sobre dois-pontos antes de enumeração.
+
+### Questão 5
+
+**Habilidade:** reconhecer dois-pontos antes de explicação em contexto
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **dois-pontos antes de explicação**?
+
+A. A comissão concluiu a análise. O resultado será publicado amanhã.
+B. Participaram Ana, diretora; Bruno, relator; e Carla, secretária.
+C. A comissão revisou todos os anexos; a diretoria, depois de longa análise, aprovou o texto.
+D. Foram exigidos três documentos: identidade, diploma e certidão.
+E. A decisão foi simples: o prazo havia terminado.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** a construção exemplifica ponto final, pois o ponto encerra uma unidade declarativa e inicia outra; não exemplifica dois-pontos antes de explicação.
+
+    **B está errada:** a construção exemplifica ponto e vírgula em enumeração complexa, pois o sinal separa itens que já contêm vírgula; não exemplifica dois-pontos antes de explicação.
+
+    **C está errada:** a construção exemplifica ponto e vírgula entre orações extensas, pois o sinal cria separação intermediária entre segmentos complexos; não exemplifica dois-pontos antes de explicação.
+
+    **D está errada:** a construção exemplifica dois-pontos antes de enumeração, pois os dois-pontos anunciam a lista; não exemplifica dois-pontos antes de explicação.
+
+    **E está certa:** O segundo segmento explica o primeiro.
+
+    **Tópico para revisar:** seção sobre dois-pontos antes de explicação.
+
+### Questão 6
+
+**Habilidade:** reconhecer travessão em fala em contexto
+
+**Dificuldade:** fácil
+
+Qual alternativa exemplifica corretamente **travessão em fala**?
+
+A. A presidente declarou: — A sessão está encerrada.
+B. A comissão concluiu a análise. O resultado será publicado amanhã.
+C. Participaram Ana, diretora; Bruno, relator; e Carla, secretária.
+D. A comissão revisou todos os anexos; a diretoria, depois de longa análise, aprovou o texto.
+E. Foram exigidos três documentos: identidade, diploma e certidão.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** O travessão introduz a fala reproduzida.
+
+    **B está errada:** a construção exemplifica ponto final, pois o ponto encerra uma unidade declarativa e inicia outra; não exemplifica travessão em fala.
+
+    **C está errada:** a construção exemplifica ponto e vírgula em enumeração complexa, pois o sinal separa itens que já contêm vírgula; não exemplifica travessão em fala.
+
+    **D está errada:** a construção exemplifica ponto e vírgula entre orações extensas, pois o sinal cria separação intermediária entre segmentos complexos; não exemplifica travessão em fala.
+
+    **E está errada:** a construção exemplifica dois-pontos antes de enumeração, pois os dois-pontos anunciam a lista; não exemplifica travessão em fala.
+
+    **Tópico para revisar:** seção sobre travessão em fala.
+
+### Questão 7
+
+**Habilidade:** reconhecer travessões em inserção em contexto
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **travessões em inserção**?
+
+A. A comissão concluiu a análise. O resultado será publicado amanhã.
+B. O resultado — ainda provisório — será divulgado hoje.
+C. Participaram Ana, diretora; Bruno, relator; e Carla, secretária.
+D. A comissão revisou todos os anexos; a diretoria, depois de longa análise, aprovou o texto.
+E. Foram exigidos três documentos: identidade, diploma e certidão.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** a construção exemplifica ponto final, pois o ponto encerra uma unidade declarativa e inicia outra; não exemplifica travessões em inserção.
+
+    **B está certa:** Os travessões destacam uma informação intercalada.
+
+    **C está errada:** a construção exemplifica ponto e vírgula em enumeração complexa, pois o sinal separa itens que já contêm vírgula; não exemplifica travessões em inserção.
+
+    **D está errada:** a construção exemplifica ponto e vírgula entre orações extensas, pois o sinal cria separação intermediária entre segmentos complexos; não exemplifica travessões em inserção.
+
+    **E está errada:** a construção exemplifica dois-pontos antes de enumeração, pois os dois-pontos anunciam a lista; não exemplifica travessões em inserção.
+
+    **Tópico para revisar:** seção sobre travessões em inserção.
+
+### Questão 8
+
+**Habilidade:** reconhecer parênteses em contexto
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **parênteses**?
+
+A. A comissão concluiu a análise. O resultado será publicado amanhã.
+B. Participaram Ana, diretora; Bruno, relator; e Carla, secretária.
+C. O prazo termina amanhã (6 de agosto).
+D. A comissão revisou todos os anexos; a diretoria, depois de longa análise, aprovou o texto.
+E. Foram exigidos três documentos: identidade, diploma e certidão.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** a construção exemplifica ponto final, pois o ponto encerra uma unidade declarativa e inicia outra; não exemplifica parênteses.
+
+    **B está errada:** a construção exemplifica ponto e vírgula em enumeração complexa, pois o sinal separa itens que já contêm vírgula; não exemplifica parênteses.
+
+    **C está certa:** Os parênteses inserem informação acessória.
+
+    **D está errada:** a construção exemplifica ponto e vírgula entre orações extensas, pois o sinal cria separação intermediária entre segmentos complexos; não exemplifica parênteses.
+
+    **E está errada:** a construção exemplifica dois-pontos antes de enumeração, pois os dois-pontos anunciam a lista; não exemplifica parênteses.
+
+    **Tópico para revisar:** seção sobre parênteses.
+
+### Questão 9
+
+**Habilidade:** reconhecer aspas em citação curta em contexto
+
+**Dificuldade:** difícil
+
+Qual alternativa exemplifica corretamente **aspas em citação curta**?
+
+A. A comissão concluiu a análise. O resultado será publicado amanhã.
+B. Participaram Ana, diretora; Bruno, relator; e Carla, secretária.
+C. A comissão revisou todos os anexos; a diretoria, depois de longa análise, aprovou o texto.
+D. O edital emprega a expressão “ampla concorrência”.
+E. Foram exigidos três documentos: identidade, diploma e certidão.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** a construção exemplifica ponto final, pois o ponto encerra uma unidade declarativa e inicia outra; não exemplifica aspas em citação curta.
+
+    **B está errada:** a construção exemplifica ponto e vírgula em enumeração complexa, pois o sinal separa itens que já contêm vírgula; não exemplifica aspas em citação curta.
+
+    **C está errada:** a construção exemplifica ponto e vírgula entre orações extensas, pois o sinal cria separação intermediária entre segmentos complexos; não exemplifica aspas em citação curta.
+
+    **D está certa:** As aspas delimitam a expressão reproduzida.
+
+    **E está errada:** a construção exemplifica dois-pontos antes de enumeração, pois os dois-pontos anunciam a lista; não exemplifica aspas em citação curta.
+
+    **Tópico para revisar:** seção sobre aspas em citação curta.
+
+### Questão 10
+
+**Habilidade:** reconhecer reticências em contexto
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **reticências**?
+
+A. A comissão concluiu a análise. O resultado será publicado amanhã.
+B. Participaram Ana, diretora; Bruno, relator; e Carla, secretária.
+C. A comissão revisou todos os anexos; a diretoria, depois de longa análise, aprovou o texto.
+D. Foram exigidos três documentos: identidade, diploma e certidão.
+E. Se o prazo fosse maior...
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** a construção exemplifica ponto final, pois o ponto encerra uma unidade declarativa e inicia outra; não exemplifica reticências.
+
+    **B está errada:** a construção exemplifica ponto e vírgula em enumeração complexa, pois o sinal separa itens que já contêm vírgula; não exemplifica reticências.
+
+    **C está errada:** a construção exemplifica ponto e vírgula entre orações extensas, pois o sinal cria separação intermediária entre segmentos complexos; não exemplifica reticências.
+
+    **D está errada:** a construção exemplifica dois-pontos antes de enumeração, pois os dois-pontos anunciam a lista; não exemplifica reticências.
+
+    **E está certa:** As reticências marcam suspensão ou incompletude intencional.
+
+    **Tópico para revisar:** seção sobre reticências.
 
 ## Checklist
 
@@ -96,28 +400,69 @@ Escreva uma enumeração anunciada, dois blocos com vírgulas internas, uma info
 - [ ] Organizo blocos com ponto e vírgula.
 - [ ] Interpreto destaque de travessões, parênteses e aspas.
 
+- [ ] Justifico cada sinal pela estrutura e pelo sentido.
+- [ ] Releio o período inteiro após pontuar.
+
 ## Flashcards da aula
 
-**O que os dois-pontos costumam anunciar?**
+**Como reconhecer ponto final?**
 
 ??? question "Mostrar resposta"
-    Explicação, enumeração, citação ou conteúdo especificador.
+    Em “A comissão concluiu a análise. O resultado será publicado amanhã.”, o ponto encerra uma unidade declarativa e inicia outra.
 
-**Quando o ponto e vírgula ajuda?**
-
-??? question "Mostrar resposta"
-    Ao separar blocos extensos ou já pontuados internamente.
-
-**Parênteses e travessões são sempre equivalentes?**
+**Como reconhecer ponto e vírgula em enumeração complexa?**
 
 ??? question "Mostrar resposta"
-    Não. O grau de destaque e a integração ao período podem mudar.
+    Em “Participaram Ana, diretora; Bruno, relator; e Carla, secretária.”, o sinal separa itens que já contêm vírgula.
 
-**Qual é o método SINAL?**
+**Como reconhecer ponto e vírgula entre orações extensas?**
 
 ??? question "Mostrar resposta"
-    Segmentos, intenção, nexo, alternativas e leitura final.
+    Em “A comissão revisou todos os anexos; a diretoria, depois de longa análise, aprovou o texto.”, o sinal cria separação intermediária entre segmentos complexos.
 
+**Como reconhecer dois-pontos antes de enumeração?**
+
+??? question "Mostrar resposta"
+    Em “Foram exigidos três documentos: identidade, diploma e certidão.”, os dois-pontos anunciam a lista.
+
+**Como reconhecer dois-pontos antes de explicação?**
+
+??? question "Mostrar resposta"
+    Em “A decisão foi simples: o prazo havia terminado.”, o segundo segmento explica o primeiro.
+
+**Como reconhecer travessão em fala?**
+
+??? question "Mostrar resposta"
+    Em “A presidente declarou: — A sessão está encerrada.”, o travessão introduz a fala reproduzida.
+
+**Como reconhecer travessões em inserção?**
+
+??? question "Mostrar resposta"
+    Em “O resultado — ainda provisório — será divulgado hoje.”, os travessões destacam uma informação intercalada.
+
+**Como reconhecer parênteses?**
+
+??? question "Mostrar resposta"
+    Em “O prazo termina amanhã (6 de agosto).”, os parênteses inserem informação acessória.
+
+**Como reconhecer aspas em citação curta?**
+
+??? question "Mostrar resposta"
+    Em “O edital emprega a expressão “ampla concorrência”.”, as aspas delimitam a expressão reproduzida.
+
+**Como reconhecer reticências?**
+
+??? question "Mostrar resposta"
+    Em “Se o prazo fosse maior...”, as reticências marcam suspensão ou incompletude intencional.
+
+**Que conhecimento anterior deve ser recuperado?**
+
+??? question "Mostrar resposta"
+    Usos da vírgula.
+
+## Fechamento
+
+Pontuar é tornar visíveis as relações do texto. Os critérios desta aula preparam redação oficial, mantendo a progressão entre sintaxe, sentido e escrita formal.
 ## Referências
 
 - Edital SAPE/SC nº 001/2026, Anexo 2, p. 27. Consulta em 4 ago. 2026.

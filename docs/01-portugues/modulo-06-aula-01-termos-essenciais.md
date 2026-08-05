@@ -1,19 +1,48 @@
 ---
-title: Aula 1 — Termos essenciais da oração
-description: Como reconhecer sujeito, predicado e seus núcleos.
+id: portugues-modulo-06-aula-01
+title: "Aula 1 — Termos essenciais da oração"
+description: "Identificar sujeito e predicado pela relação com o verbo."
+discipline: 01-portugues
+module: 6
+lesson: 1
 status: draft
-last_reviewed: 2026-08-04
+edital_refs:
+  - "Edital SAPE/SC nº 001/2026, Anexo 2, p. 27"
+prerequisites:
+  - "classes de palavras e concordância"
+estimated_minutes: 120
+authors:
+  - Equipe do Curso SAPE/SC
+reviewers: []
+last_reviewed: 2026-08-05
+sources:
+  - "Edital SAPE/SC nº 001/2026, Anexo 2, p. 27. Consulta em 4 ago. 2026."
+tags:
+  - lingua-portuguesa
+  - modulo-06
+  - termos-essenciais
 ---
 
 # Aula 1 — Termos essenciais da oração
 
-| Disciplina | Módulo | Aula | Tempo |
-|---|---|---:|---:|
-| Língua Portuguesa | Análise sintática e reestruturação | 1 de 7 | 90 min |
+<section class="lesson-goal">
+  <strong>Objetivo da aula:</strong> identificar sujeito e predicado pela relação com o verbo.
+</section>
 
-**Objetivos:** localizar verbos, identificar sujeito, predicado e núcleos e reconhecer estruturas sem sujeito expresso.  
-**Competências:** análise estrutural sem depender de ordem ou pergunta mecânica.  
+<div class="lesson-meta-grid">
+  <div class="lesson-meta-card"><span>Disciplina</span><strong>Língua Portuguesa</strong></div>
+  <div class="lesson-meta-card"><span>Módulo</span><strong>6 — Sintaxe da oração e do período</strong></div>
+  <div class="lesson-meta-card"><span>Aula</span><strong>1 de 7</strong></div>
+  <div class="lesson-meta-card"><span>Tempo estimado</span><strong>120 min</strong></div>
+</div>
+
+**Ao final desta aula, você deverá ser capaz de:** localizar verbos, identificar sujeito, predicado e núcleos e reconhecer estruturas sem sujeito expresso.
+**Competências:** análise estrutural sem depender de ordem ou pergunta mecânica.
 **Pré-requisito:** classes, verbos e concordância dos Módulos 4 e 5.
+
+## Ligação com a aula anterior
+
+A análise parte de classes de palavras e concordância. Esse conhecimento permite agora identificar sujeito e predicado pela relação com o verbo, mantendo a leitura da frase inteira como unidade de decisão.
 
 ## Situação prática de abertura
 
@@ -53,7 +82,7 @@ O *se* pode indeterminar sujeito ou participar de voz passiva sintética. Compar
 4. **C**oncordância e sentido.
 5. **E**strutura do predicado.
 
-**Cotidiano:** “Sumiram as chaves” tem sujeito posposto.  
+**Cotidiano:** “Sumiram as chaves” tem sujeito posposto.
 **Administração Pública:** “Publicaram-se as portarias” concorda com sujeito paciente; “Precisa-se de revisão” não permite plural pela mesma análise.
 
 !!! warning "Erros comuns"
@@ -84,22 +113,297 @@ Qual é o sujeito de “Faltam dois documentos”?
 
 Classifique o sujeito e o predicado em “chegaram os servidores”, “chegamos”, “havia dúvidas”, “publicaram-se atos” e “a equipe saiu satisfeita”.
 
-## Exercícios autorais
+## Questões
 
-**1.** Em “Faltam assinaturas”, o sujeito é: A) oculto. B) indeterminado. C) assinaturas. D) inexistente. E) *faltam*.
+### Questão 1
 
-??? success "Gabarito comentado"
-    **C.** O núcleo plural controla o verbo. A, B e D ignoram a concordância; E é o verbo.
+**Habilidade:** reconhecer sujeito simples em enunciado autossuficiente
 
-**2.** Em “Há soluções”, ocorre: A) sujeito simples. B) sujeito composto. C) sujeito oculto. D) oração sem sujeito. E) passiva.
+**Dificuldade:** fácil
 
-??? success "Gabarito comentado"
-    **D.** *Haver* existencial é impessoal. A a C e E atribuem estrutura inexistente.
+Qual alternativa exemplifica corretamente **sujeito simples**?
 
-**3.** “A servidora saiu satisfeita” tem predicado: A) apenas nominal. B) verbo-nominal. C) sem verbo. D) apenas sujeito. E) impessoal.
+A. A comissão publicou o edital.
+B. A comissão e a diretoria publicaram o edital.
+C. Publicamos o resultado ontem.
+D. Precisa-se de servidores experientes.
+E. Havia três recursos pendentes.
 
-??? success "Gabarito comentado"
-    **B.** Há ação de sair e predicativo *satisfeita*. A reduz a ação; C, D e E são incompatíveis.
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** Comissão é o único núcleo do sujeito.
+
+    **B está errada:** a frase exemplifica sujeito composto, pois comissão e diretoria são dois núcleos; não exemplifica sujeito simples.
+
+    **C está errada:** a frase exemplifica sujeito oculto, pois a desinência indica o sujeito nós; não exemplifica sujeito simples.
+
+    **D está errada:** a frase exemplifica sujeito indeterminado, pois o se indetermina o agente com verbo transitivo indireto; não exemplifica sujeito simples.
+
+    **E está errada:** a frase exemplifica oração sem sujeito, pois haver com sentido de existir é impessoal; não exemplifica sujeito simples.
+
+    **Tópico para revisar:** seção sobre sujeito simples.
+
+### Questão 2
+
+**Habilidade:** reconhecer sujeito composto em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **sujeito composto**?
+
+A. A comissão publicou o edital.
+B. A comissão e a diretoria publicaram o edital.
+C. Publicamos o resultado ontem.
+D. Precisa-se de servidores experientes.
+E. Havia três recursos pendentes.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** a frase exemplifica sujeito simples, pois comissão é o único núcleo do sujeito; não exemplifica sujeito composto.
+
+    **B está certa:** Comissão e diretoria são dois núcleos.
+
+    **C está errada:** a frase exemplifica sujeito oculto, pois a desinência indica o sujeito nós; não exemplifica sujeito composto.
+
+    **D está errada:** a frase exemplifica sujeito indeterminado, pois o se indetermina o agente com verbo transitivo indireto; não exemplifica sujeito composto.
+
+    **E está errada:** a frase exemplifica oração sem sujeito, pois haver com sentido de existir é impessoal; não exemplifica sujeito composto.
+
+    **Tópico para revisar:** seção sobre sujeito composto.
+
+### Questão 3
+
+**Habilidade:** reconhecer sujeito oculto em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **sujeito oculto**?
+
+A. A comissão publicou o edital.
+B. A comissão e a diretoria publicaram o edital.
+C. Publicamos o resultado ontem.
+D. Precisa-se de servidores experientes.
+E. Havia três recursos pendentes.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** a frase exemplifica sujeito simples, pois comissão é o único núcleo do sujeito; não exemplifica sujeito oculto.
+
+    **B está errada:** a frase exemplifica sujeito composto, pois comissão e diretoria são dois núcleos; não exemplifica sujeito oculto.
+
+    **C está certa:** A desinência indica o sujeito nós.
+
+    **D está errada:** a frase exemplifica sujeito indeterminado, pois o se indetermina o agente com verbo transitivo indireto; não exemplifica sujeito oculto.
+
+    **E está errada:** a frase exemplifica oração sem sujeito, pois haver com sentido de existir é impessoal; não exemplifica sujeito oculto.
+
+    **Tópico para revisar:** seção sobre sujeito oculto.
+
+### Questão 4
+
+**Habilidade:** reconhecer sujeito indeterminado em enunciado autossuficiente
+
+**Dificuldade:** difícil
+
+Qual alternativa exemplifica corretamente **sujeito indeterminado**?
+
+A. A comissão publicou o edital.
+B. A comissão e a diretoria publicaram o edital.
+C. Publicamos o resultado ontem.
+D. Precisa-se de servidores experientes.
+E. Havia três recursos pendentes.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** a frase exemplifica sujeito simples, pois comissão é o único núcleo do sujeito; não exemplifica sujeito indeterminado.
+
+    **B está errada:** a frase exemplifica sujeito composto, pois comissão e diretoria são dois núcleos; não exemplifica sujeito indeterminado.
+
+    **C está errada:** a frase exemplifica sujeito oculto, pois a desinência indica o sujeito nós; não exemplifica sujeito indeterminado.
+
+    **D está certa:** O se indetermina o agente com verbo transitivo indireto.
+
+    **E está errada:** a frase exemplifica oração sem sujeito, pois haver com sentido de existir é impessoal; não exemplifica sujeito indeterminado.
+
+    **Tópico para revisar:** seção sobre sujeito indeterminado.
+
+### Questão 5
+
+**Habilidade:** reconhecer oração sem sujeito em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **oração sem sujeito**?
+
+A. A comissão publicou o edital.
+B. A comissão e a diretoria publicaram o edital.
+C. Publicamos o resultado ontem.
+D. Precisa-se de servidores experientes.
+E. Havia três recursos pendentes.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** a frase exemplifica sujeito simples, pois comissão é o único núcleo do sujeito; não exemplifica oração sem sujeito.
+
+    **B está errada:** a frase exemplifica sujeito composto, pois comissão e diretoria são dois núcleos; não exemplifica oração sem sujeito.
+
+    **C está errada:** a frase exemplifica sujeito oculto, pois a desinência indica o sujeito nós; não exemplifica oração sem sujeito.
+
+    **D está errada:** a frase exemplifica sujeito indeterminado, pois o se indetermina o agente com verbo transitivo indireto; não exemplifica oração sem sujeito.
+
+    **E está certa:** Haver com sentido de existir é impessoal.
+
+    **Tópico para revisar:** seção sobre oração sem sujeito.
+
+### Questão 6
+
+**Habilidade:** reconhecer predicado verbal em enunciado autossuficiente
+
+**Dificuldade:** fácil
+
+Qual alternativa exemplifica corretamente **predicado verbal**?
+
+A. Os candidatos chegaram cedo.
+B. A comissão publicou o edital.
+C. A comissão e a diretoria publicaram o edital.
+D. Publicamos o resultado ontem.
+E. Precisa-se de servidores experientes.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** O núcleo do predicado é o verbo chegaram.
+
+    **B está errada:** a frase exemplifica sujeito simples, pois comissão é o único núcleo do sujeito; não exemplifica predicado verbal.
+
+    **C está errada:** a frase exemplifica sujeito composto, pois comissão e diretoria são dois núcleos; não exemplifica predicado verbal.
+
+    **D está errada:** a frase exemplifica sujeito oculto, pois a desinência indica o sujeito nós; não exemplifica predicado verbal.
+
+    **E está errada:** a frase exemplifica sujeito indeterminado, pois o se indetermina o agente com verbo transitivo indireto; não exemplifica predicado verbal.
+
+    **Tópico para revisar:** seção sobre predicado verbal.
+
+### Questão 7
+
+**Habilidade:** reconhecer predicado nominal em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **predicado nominal**?
+
+A. A comissão publicou o edital.
+B. O relatório permanece válido.
+C. A comissão e a diretoria publicaram o edital.
+D. Publicamos o resultado ontem.
+E. Precisa-se de servidores experientes.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** a frase exemplifica sujeito simples, pois comissão é o único núcleo do sujeito; não exemplifica predicado nominal.
+
+    **B está certa:** Válido é predicativo ligado por verbo de ligação.
+
+    **C está errada:** a frase exemplifica sujeito composto, pois comissão e diretoria são dois núcleos; não exemplifica predicado nominal.
+
+    **D está errada:** a frase exemplifica sujeito oculto, pois a desinência indica o sujeito nós; não exemplifica predicado nominal.
+
+    **E está errada:** a frase exemplifica sujeito indeterminado, pois o se indetermina o agente com verbo transitivo indireto; não exemplifica predicado nominal.
+
+    **Tópico para revisar:** seção sobre predicado nominal.
+
+### Questão 8
+
+**Habilidade:** reconhecer predicado verbo-nominal em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **predicado verbo-nominal**?
+
+A. A comissão publicou o edital.
+B. A comissão e a diretoria publicaram o edital.
+C. A equipe encerrou a reunião satisfeita.
+D. Publicamos o resultado ontem.
+E. Precisa-se de servidores experientes.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** a frase exemplifica sujeito simples, pois comissão é o único núcleo do sujeito; não exemplifica predicado verbo-nominal.
+
+    **B está errada:** a frase exemplifica sujeito composto, pois comissão e diretoria são dois núcleos; não exemplifica predicado verbo-nominal.
+
+    **C está certa:** Há ação e predicativo do sujeito.
+
+    **D está errada:** a frase exemplifica sujeito oculto, pois a desinência indica o sujeito nós; não exemplifica predicado verbo-nominal.
+
+    **E está errada:** a frase exemplifica sujeito indeterminado, pois o se indetermina o agente com verbo transitivo indireto; não exemplifica predicado verbo-nominal.
+
+    **Tópico para revisar:** seção sobre predicado verbo-nominal.
+
+### Questão 9
+
+**Habilidade:** reconhecer sujeito posposto em enunciado autossuficiente
+
+**Dificuldade:** difícil
+
+Qual alternativa exemplifica corretamente **sujeito posposto**?
+
+A. A comissão publicou o edital.
+B. A comissão e a diretoria publicaram o edital.
+C. Publicamos o resultado ontem.
+D. Chegaram os novos servidores.
+E. Precisa-se de servidores experientes.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** a frase exemplifica sujeito simples, pois comissão é o único núcleo do sujeito; não exemplifica sujeito posposto.
+
+    **B está errada:** a frase exemplifica sujeito composto, pois comissão e diretoria são dois núcleos; não exemplifica sujeito posposto.
+
+    **C está errada:** a frase exemplifica sujeito oculto, pois a desinência indica o sujeito nós; não exemplifica sujeito posposto.
+
+    **D está certa:** Os novos servidores é sujeito depois do verbo.
+
+    **E está errada:** a frase exemplifica sujeito indeterminado, pois o se indetermina o agente com verbo transitivo indireto; não exemplifica sujeito posposto.
+
+    **Tópico para revisar:** seção sobre sujeito posposto.
+
+### Questão 10
+
+**Habilidade:** reconhecer núcleo do sujeito em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **núcleo do sujeito**?
+
+A. A comissão publicou o edital.
+B. A comissão e a diretoria publicaram o edital.
+C. Publicamos o resultado ontem.
+D. Precisa-se de servidores experientes.
+E. As novas regras do edital entraram em vigor.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** a frase exemplifica sujeito simples, pois comissão é o único núcleo do sujeito; não exemplifica núcleo do sujeito.
+
+    **B está errada:** a frase exemplifica sujeito composto, pois comissão e diretoria são dois núcleos; não exemplifica núcleo do sujeito.
+
+    **C está errada:** a frase exemplifica sujeito oculto, pois a desinência indica o sujeito nós; não exemplifica núcleo do sujeito.
+
+    **D está errada:** a frase exemplifica sujeito indeterminado, pois o se indetermina o agente com verbo transitivo indireto; não exemplifica núcleo do sujeito.
+
+    **E está certa:** Regras é o núcleo do grupo sujeito.
+
+    **Tópico para revisar:** seção sobre núcleo do sujeito.
 
 ## Checklist
 
@@ -108,28 +412,74 @@ Classifique o sujeito e o predicado em “chegaram os servidores”, “chegamos
 - [ ] Distingo indeterminação de oração sem sujeito.
 - [ ] Reconheço tipos de predicado e predicativo.
 
+- [ ] Justifico a função pela relação entre os termos.
+- [ ] Releio o período completo após a análise.
+
 ## Flashcards da aula
 
-**Sujeito precisa vir antes do verbo?**
+**Como reconhecer sujeito simples?**
 
 ??? question "Mostrar resposta"
-    Não. Pode aparecer depois ou ficar recuperável pela flexão/contexto.
+    Observe: “A comissão publicou o edital.” Nesse caso, comissão é o único núcleo do sujeito.
 
-**Quais são os tipos de sujeito estudados?**
-
-??? question "Mostrar resposta"
-    Simples, composto, oculto, indeterminado e oração sem sujeito como estrutura distinta.
-
-**O que caracteriza predicado verbo-nominal?**
+**Como reconhecer sujeito composto?**
 
 ??? question "Mostrar resposta"
-    Combina ação verbal e predicação de estado ou característica.
+    Observe: “A comissão e a diretoria publicaram o edital.” Nesse caso, comissão e diretoria são dois núcleos.
 
-**Qual é o método VENCE?**
+**Como reconhecer sujeito oculto?**
 
 ??? question "Mostrar resposta"
-    Verbo, elementos, núcleo, concordância e estrutura do predicado.
+    Observe: “Publicamos o resultado ontem.” Nesse caso, a desinência indica o sujeito nós.
 
+**Como reconhecer sujeito indeterminado?**
+
+??? question "Mostrar resposta"
+    Observe: “Precisa-se de servidores experientes.” Nesse caso, o se indetermina o agente com verbo transitivo indireto.
+
+**Como reconhecer oração sem sujeito?**
+
+??? question "Mostrar resposta"
+    Observe: “Havia três recursos pendentes.” Nesse caso, haver com sentido de existir é impessoal.
+
+**Como reconhecer predicado verbal?**
+
+??? question "Mostrar resposta"
+    Observe: “Os candidatos chegaram cedo.” Nesse caso, o núcleo do predicado é o verbo chegaram.
+
+**Como reconhecer predicado nominal?**
+
+??? question "Mostrar resposta"
+    Observe: “O relatório permanece válido.” Nesse caso, válido é predicativo ligado por verbo de ligação.
+
+**Como reconhecer predicado verbo-nominal?**
+
+??? question "Mostrar resposta"
+    Observe: “A equipe encerrou a reunião satisfeita.” Nesse caso, há ação e predicativo do sujeito.
+
+**Como reconhecer sujeito posposto?**
+
+??? question "Mostrar resposta"
+    Observe: “Chegaram os novos servidores.” Nesse caso, os novos servidores é sujeito depois do verbo.
+
+**Como reconhecer núcleo do sujeito?**
+
+??? question "Mostrar resposta"
+    Observe: “As novas regras do edital entraram em vigor.” Nesse caso, regras é o núcleo do grupo sujeito.
+
+**Qual é o teste geral para confirmar uma função sintática?**
+
+??? question "Mostrar resposta"
+    Relacione o termo ao núcleo de que depende e verifique o sentido produzido.
+
+**Que conhecimento anterior deve ser recuperado?**
+
+??? question "Mostrar resposta"
+    Classes de palavras e concordância, porque essa base sustenta a análise desta aula.
+
+## Fechamento
+
+A aula mostrou que a sintaxe nasce das relações entre termos e orações, não de rótulos isolados. O método praticado prepara diretamente termos integrantes e acessórios, próximo passo da sequência.
 ## Referência
 
 - Edital SAPE/SC nº 001/2026, Anexo 2, p. 27. Consulta em 4 ago. 2026.

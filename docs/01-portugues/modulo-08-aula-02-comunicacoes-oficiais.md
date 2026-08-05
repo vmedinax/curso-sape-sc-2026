@@ -1,19 +1,49 @@
 ---
-title: Aula 2 — Comunicações oficiais
-description: Padrão ofício, exposição de motivos, mensagem e correio eletrônico.
+id: portugues-modulo-08-aula-02
+title: "Aula 2 — Comunicações oficiais"
+description: "Escolher e estruturar padrão ofício, exposição de motivos, mensagem e correio eletrônico."
+discipline: 01-portugues
+module: 8
+lesson: 2
 status: draft
-last_reviewed: 2026-08-04
+edital_refs:
+  - "Edital SAPE/SC nº 001/2026, Anexo 2, p. 27"
+prerequisites:
+  - "atributos da redação oficial"
+estimated_minutes: 120
+authors:
+  - Equipe do Curso SAPE/SC
+reviewers: []
+last_reviewed: 2026-08-05
+sources:
+  - "Manual de Redação da Presidência da República, 3ª edição, 2018. Consulta em 4 ago. 2026."
+  - "Edital SAPE/SC nº 001/2026, Anexo 2, p. 27. Consulta em 4 ago. 2026."
+tags:
+  - lingua-portuguesa
+  - modulo-08
+  - redacao-oficial
 ---
 
 # Aula 2 — Comunicações oficiais
 
-| Disciplina | Módulo | Aula | Tempo |
-|---|---|---:|---:|
-| Língua Portuguesa | Redação oficial | 2 de 3 | 90 min |
+<section class="lesson-goal">
+  <strong>Objetivo da aula:</strong> escolher e estruturar padrão ofício, exposição de motivos, mensagem e correio eletrônico.
+</section>
 
-**Objetivos:** reconhecer finalidade, partes e usos das comunicações tratadas pelo Manual.  
-**Competências:** distinguir padrão ofício, exposição de motivos, mensagem e correio eletrônico.  
+<div class="lesson-meta-grid">
+  <div class="lesson-meta-card"><span>Disciplina</span><strong>Língua Portuguesa</strong></div>
+  <div class="lesson-meta-card"><span>Módulo</span><strong>8 — Redação oficial</strong></div>
+  <div class="lesson-meta-card"><span>Aula</span><strong>2 de 3</strong></div>
+  <div class="lesson-meta-card"><span>Tempo estimado</span><strong>120 min</strong></div>
+</div>
+
+**Ao final desta aula, você deverá ser capaz de:** reconhecer finalidade, partes e usos das comunicações tratadas pelo Manual.
+**Competências:** distinguir padrão ofício, exposição de motivos, mensagem e correio eletrônico.
 **Pré-requisito:** Aula 1.
+
+## Ligação com a aula anterior
+
+Retomamos atributos da redação oficial. Essa base será aplicada agora à comunicação institucional, preservando clareza, correção e finalidade pública.
 
 ## Situação prática de abertura
 
@@ -56,7 +86,7 @@ O Manual prevê **Respeitosamente** para autoridade superior e **Atenciosamente*
 6. **N**ível hierárquico para o fecho.
 7. **O**bjetivo atendido e texto claro.
 
-**Cotidiano:** o assunto de um e-mail deve permitir antecipar seu conteúdo.  
+**Cotidiano:** o assunto de um e-mail deve permitir antecipar seu conteúdo.
 **Administração Pública:** “Assunto: Solicitação de acesso ao processo nº 123” é informativo; “Assunto: Solicitação” perde precisão.
 
 !!! warning "Erros comuns"
@@ -86,22 +116,298 @@ Um Ministro de Estado deseja submeter uma proposta ao Presidente da República. 
 
 Monte uma tabela com remetente, destinatário, finalidade e partes de cada comunicação. Sem consulta, explique os dois fechos.
 
-## Exercícios autorais
+## Questões
 
-**1.** Na 3ª edição, aviso, ofício e memorando: A) mantêm três diagramas obrigatórios. B) foram uniformizados no padrão ofício. C) foram proibidos. D) viraram mensagens. E) dispensam assunto.
+### Questão 1
 
-??? success "Gabarito comentado"
-    **B.** A uniformização é uma mudança central da edição vigente.
+**Habilidade:** reconhecer identificação do expediente em comunicação autossuficiente
 
-**2.** Exposição de motivos é dirigida, nas situações do Manual, por Ministro de Estado: A) a qualquer cidadão. B) ao Presidente ou Vice-Presidente da República. C) apenas a servidor subordinado. D) ao próprio ministro. E) exclusivamente ao Judiciário.
+**Dificuldade:** fácil
 
-??? success "Gabarito comentado"
-    **B.** Remetente e destinatário integram a definição da comunicação.
+Qual alternativa exemplifica corretamente **identificação do expediente**?
 
-**3.** Um assunto adequado deve ser: A) vago. B) ornamental. C) conciso e informativo. D) omitido sempre. E) igual ao vocativo.
+A. OFÍCIO Nº 12/2026/SETOR
+B. Florianópolis, 5 de agosto de 2026.
+C. À Senhora Diretora de Gestão de Pessoas
+D. Assunto: Convocação para reunião
+E. Senhora Diretora,
 
-??? success "Gabarito comentado"
-    **C.** Ele resume o tema e facilita identificação e tramitação.
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** O cabeçalho identifica espécie, número, ano e unidade.
+
+    **B está errada:** o trecho exemplifica local e data, pois o registro situa formalmente a expedição; não exemplifica identificação do expediente.
+
+    **C está errada:** o trecho exemplifica endereçamento, pois o campo identifica a destinatária institucional; não exemplifica identificação do expediente.
+
+    **D está errada:** o trecho exemplifica assunto, pois a síntese permite reconhecer imediatamente o tema; não exemplifica identificação do expediente.
+
+    **E está errada:** o trecho exemplifica vocativo, pois o chamamento é compatível com a destinatária indicada; não exemplifica identificação do expediente.
+
+    **Tópico para revisar:** seção sobre identificação do expediente.
+
+### Questão 2
+
+**Habilidade:** reconhecer local e data em comunicação autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **local e data**?
+
+A. OFÍCIO Nº 12/2026/SETOR
+B. Florianópolis, 5 de agosto de 2026.
+C. À Senhora Diretora de Gestão de Pessoas
+D. Assunto: Convocação para reunião
+E. Senhora Diretora,
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** o trecho exemplifica identificação do expediente, pois o cabeçalho identifica espécie, número, ano e unidade; não exemplifica local e data.
+
+    **B está certa:** O registro situa formalmente a expedição.
+
+    **C está errada:** o trecho exemplifica endereçamento, pois o campo identifica a destinatária institucional; não exemplifica local e data.
+
+    **D está errada:** o trecho exemplifica assunto, pois a síntese permite reconhecer imediatamente o tema; não exemplifica local e data.
+
+    **E está errada:** o trecho exemplifica vocativo, pois o chamamento é compatível com a destinatária indicada; não exemplifica local e data.
+
+    **Tópico para revisar:** seção sobre local e data.
+
+### Questão 3
+
+**Habilidade:** reconhecer endereçamento em comunicação autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **endereçamento**?
+
+A. OFÍCIO Nº 12/2026/SETOR
+B. Florianópolis, 5 de agosto de 2026.
+C. À Senhora Diretora de Gestão de Pessoas
+D. Assunto: Convocação para reunião
+E. Senhora Diretora,
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** o trecho exemplifica identificação do expediente, pois o cabeçalho identifica espécie, número, ano e unidade; não exemplifica endereçamento.
+
+    **B está errada:** o trecho exemplifica local e data, pois o registro situa formalmente a expedição; não exemplifica endereçamento.
+
+    **C está certa:** O campo identifica a destinatária institucional.
+
+    **D está errada:** o trecho exemplifica assunto, pois a síntese permite reconhecer imediatamente o tema; não exemplifica endereçamento.
+
+    **E está errada:** o trecho exemplifica vocativo, pois o chamamento é compatível com a destinatária indicada; não exemplifica endereçamento.
+
+    **Tópico para revisar:** seção sobre endereçamento.
+
+### Questão 4
+
+**Habilidade:** reconhecer assunto em comunicação autossuficiente
+
+**Dificuldade:** difícil
+
+Qual alternativa exemplifica corretamente **assunto**?
+
+A. OFÍCIO Nº 12/2026/SETOR
+B. Florianópolis, 5 de agosto de 2026.
+C. À Senhora Diretora de Gestão de Pessoas
+D. Assunto: Convocação para reunião
+E. Senhora Diretora,
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** o trecho exemplifica identificação do expediente, pois o cabeçalho identifica espécie, número, ano e unidade; não exemplifica assunto.
+
+    **B está errada:** o trecho exemplifica local e data, pois o registro situa formalmente a expedição; não exemplifica assunto.
+
+    **C está errada:** o trecho exemplifica endereçamento, pois o campo identifica a destinatária institucional; não exemplifica assunto.
+
+    **D está certa:** A síntese permite reconhecer imediatamente o tema.
+
+    **E está errada:** o trecho exemplifica vocativo, pois o chamamento é compatível com a destinatária indicada; não exemplifica assunto.
+
+    **Tópico para revisar:** seção sobre assunto.
+
+### Questão 5
+
+**Habilidade:** reconhecer vocativo em comunicação autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **vocativo**?
+
+A. OFÍCIO Nº 12/2026/SETOR
+B. Florianópolis, 5 de agosto de 2026.
+C. À Senhora Diretora de Gestão de Pessoas
+D. Assunto: Convocação para reunião
+E. Senhora Diretora,
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** o trecho exemplifica identificação do expediente, pois o cabeçalho identifica espécie, número, ano e unidade; não exemplifica vocativo.
+
+    **B está errada:** o trecho exemplifica local e data, pois o registro situa formalmente a expedição; não exemplifica vocativo.
+
+    **C está errada:** o trecho exemplifica endereçamento, pois o campo identifica a destinatária institucional; não exemplifica vocativo.
+
+    **D está errada:** o trecho exemplifica assunto, pois a síntese permite reconhecer imediatamente o tema; não exemplifica vocativo.
+
+    **E está certa:** O chamamento é compatível com a destinatária indicada.
+
+    **Tópico para revisar:** seção sobre vocativo.
+
+### Questão 6
+
+**Habilidade:** reconhecer corpo do texto em comunicação autossuficiente
+
+**Dificuldade:** fácil
+
+Qual alternativa exemplifica corretamente **corpo do texto**?
+
+A. Informo que a reunião ocorrerá em 10 de agosto, às 14 horas.
+B. OFÍCIO Nº 12/2026/SETOR
+C. Florianópolis, 5 de agosto de 2026.
+D. À Senhora Diretora de Gestão de Pessoas
+E. Assunto: Convocação para reunião
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** O conteúdo apresenta a comunicação com clareza.
+
+    **B está errada:** o trecho exemplifica identificação do expediente, pois o cabeçalho identifica espécie, número, ano e unidade; não exemplifica corpo do texto.
+
+    **C está errada:** o trecho exemplifica local e data, pois o registro situa formalmente a expedição; não exemplifica corpo do texto.
+
+    **D está errada:** o trecho exemplifica endereçamento, pois o campo identifica a destinatária institucional; não exemplifica corpo do texto.
+
+    **E está errada:** o trecho exemplifica assunto, pois a síntese permite reconhecer imediatamente o tema; não exemplifica corpo do texto.
+
+    **Tópico para revisar:** seção sobre corpo do texto.
+
+### Questão 7
+
+**Habilidade:** reconhecer fecho em comunicação autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **fecho**?
+
+A. OFÍCIO Nº 12/2026/SETOR
+B. Atenciosamente,
+C. Florianópolis, 5 de agosto de 2026.
+D. À Senhora Diretora de Gestão de Pessoas
+E. Assunto: Convocação para reunião
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** o trecho exemplifica identificação do expediente, pois o cabeçalho identifica espécie, número, ano e unidade; não exemplifica fecho.
+
+    **B está certa:** O fecho encerra a comunicação segundo a relação institucional cabível.
+
+    **C está errada:** o trecho exemplifica local e data, pois o registro situa formalmente a expedição; não exemplifica fecho.
+
+    **D está errada:** o trecho exemplifica endereçamento, pois o campo identifica a destinatária institucional; não exemplifica fecho.
+
+    **E está errada:** o trecho exemplifica assunto, pois a síntese permite reconhecer imediatamente o tema; não exemplifica fecho.
+
+    **Tópico para revisar:** seção sobre fecho.
+
+### Questão 8
+
+**Habilidade:** reconhecer identificação do signatário em comunicação autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **identificação do signatário**?
+
+A. OFÍCIO Nº 12/2026/SETOR
+B. Florianópolis, 5 de agosto de 2026.
+C. MARIA SILVA
+Diretora de Gestão
+D. À Senhora Diretora de Gestão de Pessoas
+E. Assunto: Convocação para reunião
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** o trecho exemplifica identificação do expediente, pois o cabeçalho identifica espécie, número, ano e unidade; não exemplifica identificação do signatário.
+
+    **B está errada:** o trecho exemplifica local e data, pois o registro situa formalmente a expedição; não exemplifica identificação do signatário.
+
+    **C está certa:** Nome e cargo identificam quem responde pelo expediente.
+
+    **D está errada:** o trecho exemplifica endereçamento, pois o campo identifica a destinatária institucional; não exemplifica identificação do signatário.
+
+    **E está errada:** o trecho exemplifica assunto, pois a síntese permite reconhecer imediatamente o tema; não exemplifica identificação do signatário.
+
+    **Tópico para revisar:** seção sobre identificação do signatário.
+
+### Questão 9
+
+**Habilidade:** reconhecer assunto de correio eletrônico em comunicação autossuficiente
+
+**Dificuldade:** difícil
+
+Qual alternativa exemplifica corretamente **assunto de correio eletrônico**?
+
+A. OFÍCIO Nº 12/2026/SETOR
+B. Florianópolis, 5 de agosto de 2026.
+C. À Senhora Diretora de Gestão de Pessoas
+D. Assunto: Alteração do horário de atendimento
+E. Assunto: Convocação para reunião
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** o trecho exemplifica identificação do expediente, pois o cabeçalho identifica espécie, número, ano e unidade; não exemplifica assunto de correio eletrônico.
+
+    **B está errada:** o trecho exemplifica local e data, pois o registro situa formalmente a expedição; não exemplifica assunto de correio eletrônico.
+
+    **C está errada:** o trecho exemplifica endereçamento, pois o campo identifica a destinatária institucional; não exemplifica assunto de correio eletrônico.
+
+    **D está certa:** O campo resume de modo informativo o conteúdo da mensagem.
+
+    **E está errada:** o trecho exemplifica assunto, pois a síntese permite reconhecer imediatamente o tema; não exemplifica assunto de correio eletrônico.
+
+    **Tópico para revisar:** seção sobre assunto de correio eletrônico.
+
+### Questão 10
+
+**Habilidade:** reconhecer anexo mencionado em comunicação autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **anexo mencionado**?
+
+A. OFÍCIO Nº 12/2026/SETOR
+B. Florianópolis, 5 de agosto de 2026.
+C. À Senhora Diretora de Gestão de Pessoas
+D. Assunto: Convocação para reunião
+E. Encaminho, em anexo, o relatório de atividades.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** o trecho exemplifica identificação do expediente, pois o cabeçalho identifica espécie, número, ano e unidade; não exemplifica anexo mencionado.
+
+    **B está errada:** o trecho exemplifica local e data, pois o registro situa formalmente a expedição; não exemplifica anexo mencionado.
+
+    **C está errada:** o trecho exemplifica endereçamento, pois o campo identifica a destinatária institucional; não exemplifica anexo mencionado.
+
+    **D está errada:** o trecho exemplifica assunto, pois a síntese permite reconhecer imediatamente o tema; não exemplifica anexo mencionado.
+
+    **E está certa:** O corpo informa com precisão o arquivo enviado.
+
+    **Tópico para revisar:** seção sobre anexo mencionado.
 
 ## Checklist
 
@@ -110,28 +416,65 @@ Monte uma tabela com remetente, destinatário, finalidade e partes de cada comun
 - [ ] Escolho fecho pelo critério do Manual.
 - [ ] Não aplico modelo antigo como regra vigente.
 
+- [ ] Justifico escolhas pelo destinatário e pela finalidade.
+- [ ] Confiro conteúdo, estrutura, linguagem e anexos.
+
 ## Flashcards da aula
 
-**O que ocorreu com aviso, ofício e memorando na 3ª edição?**
+**Como reconhecer identificação do expediente?**
 
 ??? question "Mostrar resposta"
-    Foram uniformizados no padrão ofício.
+    Em “OFÍCIO Nº 12/2026/SETOR”, o cabeçalho identifica espécie, número, ano e unidade.
 
-**Para que serve o assunto?**
-
-??? question "Mostrar resposta"
-    Para resumir de modo conciso e informativo o tema da comunicação.
-
-**Quem encaminha exposição de motivos a quem?**
+**Como reconhecer local e data?**
 
 ??? question "Mostrar resposta"
-    Ministro de Estado ao Presidente ou Vice-Presidente da República, nas finalidades previstas.
+    Em “Florianópolis, 5 de agosto de 2026.”, o registro situa formalmente a expedição.
 
-**Como escolher a comunicação?**
+**Como reconhecer endereçamento?**
 
 ??? question "Mostrar resposta"
-    Identifique remetente, destinatário e finalidade antes da forma.
+    Em “À Senhora Diretora de Gestão de Pessoas”, o campo identifica a destinatária institucional.
 
+**Como reconhecer assunto?**
+
+??? question "Mostrar resposta"
+    Em “Assunto: Convocação para reunião”, a síntese permite reconhecer imediatamente o tema.
+
+**Como reconhecer vocativo?**
+
+??? question "Mostrar resposta"
+    Em “Senhora Diretora,”, o chamamento é compatível com a destinatária indicada.
+
+**Como reconhecer corpo do texto?**
+
+??? question "Mostrar resposta"
+    Em “Informo que a reunião ocorrerá em 10 de agosto, às 14 horas.”, o conteúdo apresenta a comunicação com clareza.
+
+**Como reconhecer fecho?**
+
+??? question "Mostrar resposta"
+    Em “Atenciosamente,”, o fecho encerra a comunicação segundo a relação institucional cabível.
+
+**Como reconhecer identificação do signatário?**
+
+??? question "Mostrar resposta"
+    Em “MARIA SILVA
+Diretora de Gestão”, nome e cargo identificam quem responde pelo expediente.
+
+**Como reconhecer assunto de correio eletrônico?**
+
+??? question "Mostrar resposta"
+    Em “Assunto: Alteração do horário de atendimento”, o campo resume de modo informativo o conteúdo da mensagem.
+
+**Como reconhecer anexo mencionado?**
+
+??? question "Mostrar resposta"
+    Em “Encaminho, em anexo, o relatório de atividades.”, o corpo informa com precisão o arquivo enviado.
+
+## Fechamento
+
+A comunicação oficial combina finalidade pública, estrutura reconhecível e linguagem precisa. Esses critérios preparam análise e correção de comunicações, sem criar fórmulas alheias às fontes indicadas.
 ## Referências oficiais
 
 - [Manual de Redação da Presidência da República — serviço oficial](https://www.gov.br/pt-br/servicos/consultar-o-manual-de-redacao-da-presidencia-da-republica). Consulta em 4 ago. 2026.

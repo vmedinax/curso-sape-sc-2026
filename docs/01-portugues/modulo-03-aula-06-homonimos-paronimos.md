@@ -1,19 +1,55 @@
 ---
-title: Aula 6 — Homônimos e parônimos
-description: Como distinguir palavras iguais ou parecidas pelo contexto.
+id: portugues-modulo-03-aula-06
+title: "Aula 6 — Homônimos e parônimos"
+description: "Como distinguir palavras iguais ou parecidas pelo contexto."
+discipline: 01-portugues
+module: 3
+lesson: 6
 status: draft
+edital_refs:
+  - anexo-2-lingua-portuguesa-homonimos-e-paronimos
+prerequisites:
+  - portugues-modulo-03-aula-03
+  - portugues-modulo-03-aula-05
+estimated_minutes: 120
+authors:
+  - Equipe do Curso SAPE/SC
+reviewers: []
 last_reviewed: 2026-08-04
+sources:
+  - "Edital SAPE/SC nº 001/2026, Anexo 2, p. 27"
+  - "Academia Brasileira de Letras — VOLP, edição digital 2025–2026"
+tags:
+  - homonimos
+  - paronimos
+  - vocabulario
+  - sentido-contextual
 ---
 
 # Aula 6 — Homônimos e parônimos
 
-| Disciplina | Módulo | Aula | Tempo |
-|---|---|---:|---:|
-| Língua Portuguesa | Fonética e ortografia | 6 de 6 | 90 min |
+<section class="lesson-goal">
+  <h2>Nesta aula você vai aprender</h2>
+  <p>a distinguir palavras iguais ou parecidas e escolher a forma que corresponde exatamente ao sentido da frase.</p>
+</section>
 
-**Objetivos:** distinguir homônimos e parônimos e escolher a palavra adequada ao sentido.  
-**Competências:** paráfrase, oposição lexical e revisão contextual.  
-**Pré-requisito:** contexto dos Módulos 1 e 2 e consulta da Aula 3.
+<div class="lesson-meta-grid">
+  <div class="lesson-meta-card"><span>Disciplina</span><strong>Língua Portuguesa</strong></div>
+  <div class="lesson-meta-card"><span>Módulo</span><strong>3 • Fonética e ortografia</strong></div>
+  <div class="lesson-meta-card"><span>Aula</span><strong>6 de 6</strong></div>
+  <div class="lesson-meta-card"><span>Tempo estimado</span><strong>Cerca de 120 minutos</strong></div>
+</div>
+
+## Objetivos da aula
+
+Nas aulas anteriores, você aprendeu que som e grafia não mantêm correspondência simples. Agora verá a consequência lexical dessa relação: duas palavras podem soar igual ou parecer quase iguais e ainda assim exigir decisões de sentido diferentes.
+
+Ao terminar, deverá conseguir distinguir homonímia de paronímia, produzir uma paráfrase antes de preencher uma lacuna e empregar pares frequentes em situações administrativas sem confiar apenas na memória visual.
+
+O tópico está previsto no edital. A amostra oficial validada ainda não sustenta pares favoritos ou frequência específica da FEPESE. As atividades são autorais e treinam a seleção contextual.
+
+!!! note "Objetivo da aula"
+    Transformar o contexto em uma paráfrase simples e escolher a palavra que exprime exatamente essa ideia.
 
 ## Situação prática de abertura
 
@@ -38,14 +74,24 @@ Uma autoridade pode **ratificar** uma decisão, isto é, confirmá-la, ou **reti
 
 A tabela serve como ponto de partida, não como lista completa. A frase e uma paráfrase curta valem mais que decorar pares sem uso.
 
+**Pratique antes de continuar.** Se a frase exige a ideia “corrigir uma informação”, qual forma deve ser escolhida: *ratificar* ou *retificar*?
+
+??? question "Confira sua resposta"
+    *Retificar*. A paráfrase “corrigir” corresponde a essa palavra. *Ratificar* significaria confirmar a informação.
+
 ## Método CEP
 
 1. **C**ontexto: qual ideia a frase constrói?
 2. **E**quivalente: que paráfrase substitui a lacuna?
 3. **P**alavra: qual forma tem exatamente esse sentido?
 
-**Cotidiano:** conserta-se um aparelho; assiste-se a um concerto.  
+**Cotidiano:** conserta-se um aparelho; assiste-se a um concerto.
 **Administração Pública:** um pedido pode ser deferido; uma informação errada, retificada; uma decisão anterior, ratificada.
+
+**Pare e compare.** Complete mentalmente: “O risco era ___, mas o pesquisador era ___ em sua área.”
+
+??? question "Confira sua resposta"
+    “O risco era *iminente*”, isto é, estava prestes a ocorrer; “o pesquisador era *eminente*”, isto é, notável. A troca de uma letra muda o critério temporal para uma avaliação de destaque.
 
 ### Homógrafos e homófonos
 
@@ -75,24 +121,183 @@ Complete: “A comissão precisou ___ o número incorreto.”
 
 ## Revisão de 5 minutos
 
-Sem consulta, diferencie quatro pares da tabela por meio de frases. Depois aplique CEP ao par em que hesitou.
+Sem consulta, diferencie quatro pares da tabela por meio de frases. Depois explique homófono e homógrafo e aplique CEP ao par em que hesitou.
 
-## Exercícios autorais
+Confira o resumo. Se você escolheu pela aparência, volte a “Método CEP”. Se confundiu igualdade com semelhança formal, retome “Relações entre forma e sentido”.
 
-**1.** “A autoridade decidiu ___ a informação incorreta” completa-se com: A) ratificar. B) retificar. C) deferir. D) diferir. E) discriminar.
+## Questões
 
-??? success "Gabarito comentado"
-    **B.** *Retificar* é corrigir. A é confirmar; C é conceder; D é adiar ou diferenciar; E não corresponde à ação.
+As questões são autorais. O gabarito usa cada letra duas vezes, sem sequência regular.
 
-**2.** “O risco de interrupção é ___” completa-se com: A) eminente. B) descrito. C) discreto. D) iminente. E) deferido.
+### Questão 1
 
-??? success "Gabarito comentado"
-    **D.** *Iminente* significa prestes a ocorrer. *Eminente* é notável; as demais formas não exprimem proximidade temporal.
+**Habilidade:** distinguir *ratificar* de *retificar*
 
-**3.** A melhor estratégia para escolher um parônimo é: A) contar letras. B) usar sempre o primeiro. C) produzir paráfrase do sentido exigido. D) ignorar a frase. E) escolher pela frequência imaginada.
+**Dificuldade:** fácil — o contexto apresenta a ideia de correção
 
-??? success "Gabarito comentado"
-    **C.** A paráfrase controla o sentido. A, B, D e E não verificam adequação lexical.
+“A autoridade decidiu ___ a informação incorreta” completa-se com:
+
+A. ratificar. B. retificar. C. deferir. D. diferir. E. discriminar.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** *ratificar* é confirmar. **B está certa:** *retificar* é corrigir. **C está errada:** *deferir* é conceder um pedido. **D está errada:** *diferir* pode significar adiar ou distinguir-se. **E está errada:** não exprime a correção indicada.
+
+    **Tópico para revisar:** seção “Relações entre forma e sentido”.
+
+### Questão 2
+
+**Habilidade:** distinguir *iminente* de *eminente*
+
+**Dificuldade:** fácil — a frase pede proximidade temporal
+
+“O risco de interrupção é ___” completa-se com:
+
+A. eminente. B. descrito. C. discreto. D. iminente. E. deferido.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** *eminente* significa notável. **B está errada:** não expressa proximidade. **C está errada:** significa reservado ou pouco perceptível. **D está certa:** *iminente* é aquilo que está prestes a ocorrer. **E está errada:** *deferido* significa concedido.
+
+    **Tópico para revisar:** seção “Relações entre forma e sentido”.
+
+### Questão 3
+
+**Habilidade:** aplicar o método CEP
+
+**Dificuldade:** fácil — pergunta pelo procedimento de escolha
+
+A melhor estratégia para escolher um parônimo é:
+
+A. contar letras. B. usar sempre o primeiro. C. produzir uma paráfrase do sentido exigido. D. ignorar a frase. E. escolher pela frequência imaginada.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** quantidade de letras não decide o significado. **B está errada:** a ordem de apresentação é irrelevante. **C está certa:** a paráfrase transforma o contexto em critério. **D está errada:** sem a frase não há sentido selecionado. **E está errada:** impressão de frequência não verifica adequação.
+
+    **Tópico para revisar:** seção “Método CEP”.
+
+### Questão 4
+
+**Habilidade:** distinguir *concerto* de *conserto*
+
+**Dificuldade:** fácil — o verbo *reparar* orienta a escolha
+
+Complete: “O equipamento precisa de ___ antes do ___ musical.”
+
+A. conserto; concerto. B. concerto; conserto. C. concerto; concerto. D. conserto; conserto. E. consserto; concerto.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** *conserto* é reparo; *concerto*, apresentação musical. **B está errada:** inverte os sentidos. **C está errada:** equipamento não recebe apresentação como reparo. **D está errada:** o segundo contexto é musical. **E está errada:** *consserto* não é grafia válida.
+
+    **Tópico para revisar:** seção “Relações entre forma e sentido”.
+
+### Questão 5
+
+**Habilidade:** distinguir *descrição* de *discrição*
+
+**Dificuldade:** média — exige preencher dois contextos relacionados
+
+“O relatório apresentou uma ___ detalhada; a servidora tratou os dados com ___.”
+
+A. discrição; descrição. B. descrição; descrição. C. discrição; discrição. D. descrissão; discrição. E. descrição; discrição.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** inverte relato e reserva. **B está errada:** o segundo espaço exige prudência ou reserva. **C está errada:** o primeiro exige ato de descrever. **D está errada:** a primeira grafia é inválida. **E está certa:** *descrição* relata; *discrição* indica reserva.
+
+    **Tópico para revisar:** seção “Relações entre forma e sentido”.
+
+### Questão 6
+
+**Habilidade:** distinguir *deferir* de *diferir*
+
+**Dificuldade:** média — exige reconhecer decisão administrativa
+
+“A autoridade decidiu ___ o pedido” significa que resolveu:
+
+A. corrigi-lo. B. concedê-lo. C. adiá-lo necessariamente. D. descrevê-lo. E. escondê-lo.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** corrigir corresponde a *retificar*. **B está certa:** *deferir* é conceder ou acolher o pedido. **C está errada:** adiar pode corresponder a *diferir*. **D está errada:** descrever é outra ação. **E está errada:** a palavra não tem esse sentido.
+
+    **Tópico para revisar:** seção “Relações entre forma e sentido”.
+
+### Questão 7
+
+**Habilidade:** distinguir *mandato* de *mandado*
+
+**Dificuldade:** média — exige separar representação de ordem escrita
+
+Complete: “O representante iniciou seu ___; o servidor cumpriu o ___ judicial.”
+
+A. mandado; mandato. B. mandato; mandato. C. mandato; mandado. D. mandado; mandado. E. mandato; mandadto.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** inverte os sentidos. **B está errada:** ordem judicial não é período de representação. **C está certa:** *mandato* é representação; *mandado*, ordem escrita. **D está errada:** o primeiro espaço não indica ordem. **E está errada:** a segunda forma é inválida.
+
+    **Tópico para revisar:** seção “Relações entre forma e sentido”.
+
+### Questão 8
+
+**Habilidade:** distinguir homófonos
+
+**Dificuldade:** difícil — exige classificar a relação formal
+
+Em grande parte dos usos brasileiros, *concerto* e *conserto* são homófonos porque:
+
+A. possuem grafia e sentido idênticos. B. têm apenas sentidos parecidos. C. pertencem sempre à mesma classe. D. têm som igual e grafia diferente. E. têm grafia igual e pronúncia diferente.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** grafia e sentido diferem. **B está errada:** apresentação e reparo não são sentidos equivalentes. **C está errada:** classe não define homofonia. **D está certa:** a igualdade sonora convive com diferença gráfica. **E está errada:** essa descrição se aproxima de casos homógrafos.
+
+    **Tópico para revisar:** seção “Homógrafos e homófonos”.
+
+### Questão 9
+
+**Habilidade:** distinguir *tráfego* de *tráfico*
+
+**Dificuldade:** média — exige selecionar circulação em contexto viário
+
+“A obra alterou o ___ de veículos” completa-se com:
+
+A. tráfego. B. tráfico. C. trafego. D. tráfico ilegal. E. concerto.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** *tráfego* é circulação. **B está errada:** *tráfico* indica comércio ilegal. **C está errada:** sem acento, a forma pode corresponder ao verbo *trafego*. **D está errada:** a frase trata de veículos, não de comércio ilícito. **E está errada:** não há relação com apresentação musical.
+
+    **Tópico para revisar:** seção “Relações entre forma e sentido”.
+
+### Questão 10
+
+**Habilidade:** aplicar integralmente o método CEP
+
+**Dificuldade:** difícil — exige decidir por paráfrase e não por aparência
+
+Para completar “A comissão precisou ___ o dado e depois ___ a decisão”, a sequência correta é:
+
+A. ratificar; retificar. B. diferir; deferir. C. deferir; diferir. D. discriminar; descrever. E. retificar; ratificar.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** primeiro é preciso corrigir, não confirmar o dado errado. **B está errada:** adiar e conceder não atendem ao contexto. **C está errada:** conceder e adiar também não. **D está errada:** nenhuma ação corresponde às paráfrases exigidas. **E está certa:** retifica-se o dado e ratifica-se a decisão.
+
+    **Tópico para revisar:** seção “Método CEP”.
 
 ## Checklist
 
@@ -100,6 +305,8 @@ Sem consulta, diferencie quatro pares da tabela por meio de frases. Depois apliq
 - [ ] Produzo paráfrase antes de escolher.
 - [ ] Uso corretamente pares administrativos relevantes.
 - [ ] Consulto fonte quando a memória não basta.
+- [ ] Distingo homógrafo de homófono.
+- [ ] Justifico a palavra escolhida por uma paráfrase.
 
 ## Flashcards da aula
 
@@ -122,6 +329,52 @@ Sem consulta, diferencie quatro pares da tabela por meio de frases. Depois apliq
 
 ??? question "Mostrar resposta"
     Contexto, equivalente e palavra.
+
+**Qual diferença existe entre *sessão*, *seção* e *cessão*?**
+
+??? question "Mostrar resposta"
+    Atividade, divisão ou parte e ato de ceder, respectivamente.
+
+**Qual diferença existe entre *concerto* e *conserto*?**
+
+??? question "Mostrar resposta"
+    *Concerto* é apresentação ou acordo; *conserto* é reparo.
+
+**Qual diferença existe entre *descrição* e *discrição*?**
+
+??? question "Mostrar resposta"
+    *Descrição* é ato de descrever; *discrição* é reserva.
+
+**Qual diferença existe entre *deferir* e *diferir*?**
+
+??? question "Mostrar resposta"
+    *Deferir* é conceder; *diferir* pode ser adiar ou distinguir-se.
+
+**Qual diferença existe entre *tráfego* e *tráfico*?**
+
+??? question "Mostrar resposta"
+    *Tráfego* é circulação; *tráfico* é comércio ilegal.
+
+**O que são homófonos?**
+
+??? question "Mostrar resposta"
+    Palavras de som igual e grafia ou sentido diferente.
+
+**O que são homógrafos?**
+
+??? question "Mostrar resposta"
+    Palavras de mesma grafia que podem ter pronúncia ou sentido diferentes.
+
+**Por que uma lista não basta para escolher a palavra?**
+
+??? question "Mostrar resposta"
+    Porque o contexto seleciona o sentido exigido em cada ocorrência.
+
+## Fechamento
+
+Você conclui o módulo sabendo analisar a palavra por som, sílaba, grafia, acento, estrutura e sentido. Em vez de confiar apenas na aparência, consegue justificar cada decisão e recorrer à fonte oficial quando necessário.
+
+O próximo passo é consolidar o módulo no resumo e na revisão. Depois, o Módulo 4 usará essas bases para estudar como as palavras se organizam em classes, se flexionam e assumem funções dentro do enunciado.
 
 ## Referências
 

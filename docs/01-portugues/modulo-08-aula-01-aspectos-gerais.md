@@ -1,19 +1,49 @@
 ---
-title: Aula 1 — Aspectos gerais da redação oficial
-description: Finalidade, atributos e linguagem das comunicações oficiais.
+id: portugues-modulo-08-aula-01
+title: "Aula 1 — Aspectos gerais da redação oficial"
+description: "Aplicar finalidade, atributos e linguagem das comunicações oficiais."
+discipline: 01-portugues
+module: 8
+lesson: 1
 status: draft
-last_reviewed: 2026-08-04
+edital_refs:
+  - "Edital SAPE/SC nº 001/2026, Anexo 2, p. 27"
+prerequisites:
+  - "pontuação e construção sintática"
+estimated_minutes: 120
+authors:
+  - Equipe do Curso SAPE/SC
+reviewers: []
+last_reviewed: 2026-08-05
+sources:
+  - "Manual de Redação da Presidência da República, 3ª edição, 2018. Consulta em 4 ago. 2026."
+  - "Edital SAPE/SC nº 001/2026, Anexo 2, p. 27. Consulta em 4 ago. 2026."
+tags:
+  - lingua-portuguesa
+  - modulo-08
+  - redacao-oficial
 ---
 
 # Aula 1 — Aspectos gerais da redação oficial
 
-| Disciplina | Módulo | Aula | Tempo |
-|---|---|---:|---:|
-| Língua Portuguesa | Redação oficial | 1 de 3 | 90 min |
+<section class="lesson-goal">
+  <strong>Objetivo da aula:</strong> aplicar finalidade, atributos e linguagem das comunicações oficiais.
+</section>
 
-**Objetivos:** relacionar finalidade pública, linguagem e atributos do Manual vigente.  
-**Competências:** reconhecer clareza, precisão, objetividade, concisão, coesão, coerência, impessoalidade, formalidade e padronização.  
+<div class="lesson-meta-grid">
+  <div class="lesson-meta-card"><span>Disciplina</span><strong>Língua Portuguesa</strong></div>
+  <div class="lesson-meta-card"><span>Módulo</span><strong>8 — Redação oficial</strong></div>
+  <div class="lesson-meta-card"><span>Aula</span><strong>1 de 3</strong></div>
+  <div class="lesson-meta-card"><span>Tempo estimado</span><strong>120 min</strong></div>
+</div>
+
+**Ao final desta aula, você deverá ser capaz de:** relacionar finalidade pública, linguagem e atributos do Manual vigente.
+**Competências:** reconhecer clareza, precisão, objetividade, concisão, coesão, coerência, impessoalidade, formalidade e padronização.
 **Pré-requisito:** leitura, adequação, coesão, sintaxe e pontuação.
+
+## Ligação com a aula anterior
+
+Retomamos pontuação e construção sintática. Essa base será aplicada agora à comunicação institucional, preservando clareza, correção e finalidade pública.
 
 ## Situação prática de abertura
 
@@ -47,7 +77,7 @@ O poder público precisa comunicar decisões, solicitações e informações de 
 6. **C**orreção e padrão.
 7. **O** destinatário compreenderá sem esforço indevido?
 
-**Cotidiano:** uma instrução clara informa ação, responsável e prazo.  
+**Cotidiano:** uma instrução clara informa ação, responsável e prazo.
 **Administração Pública:** “Encaminho o processo para análise até 8 de agosto” identifica ação e prazo sem fórmula vazia.
 
 !!! warning "Erros comuns"
@@ -78,22 +108,297 @@ Por que “Informamos que a reunião ocorrerá às 14h, na sala 2” pode ser ma
 
 Pegue uma frase burocrática e retire fórmulas vazias. Depois confira propósito, dados, relação lógica, impessoalidade e correção.
 
-## Exercícios autorais
+## Questões
 
-**1.** Contraria a concisão: A) informar prazo necessário. B) repetir a mesma justificativa sem função. C) identificar processo. D) apresentar pedido direto. E) indicar anexo.
+### Questão 1
 
-??? success "Gabarito comentado"
-    **B.** Concisão elimina repetição inútil, não informações necessárias.
+**Habilidade:** reconhecer impessoalidade em comunicação autossuficiente
 
-**2.** Formalidade significa: A) palavras raras. B) frases sempre longas. C) adequação respeitosa e observância do padrão. D) linguagem arcaica. E) eliminar clareza.
+**Dificuldade:** fácil
 
-??? success "Gabarito comentado"
-    **C.** As demais confundem contexto formal com dificuldade artificial.
+Qual alternativa exemplifica corretamente **impessoalidade**?
 
-**3.** A impessoalidade busca: A) impedir toda referência ao órgão. B) promover o redator. C) manter foco institucional e interesse público. D) eliminar responsáveis. E) omitir fatos.
+A. O órgão informa que o atendimento será suspenso.
+B. O prazo termina em 10 de agosto, às 18 horas.
+C. O candidato deve anexar o diploma em formato PDF.
+D. O pedido foi indeferido porque foi apresentado após o prazo.
+E. Encaminho o relatório para análise.
 
-??? success "Gabarito comentado"
-    **C.** A comunicação pertence à instituição e deve servir à finalidade pública.
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** A mensagem se concentra na atuação institucional, sem promoção pessoal.
+
+    **B está errada:** o trecho exemplifica clareza, pois a informação é específica e permite uma única leitura relevante; não exemplifica impessoalidade.
+
+    **C está errada:** o trecho exemplifica precisão, pois o enunciado nomeia exatamente o documento e o formato; não exemplifica impessoalidade.
+
+    **D está errada:** o trecho exemplifica objetividade, pois a razão da decisão aparece sem rodeios; não exemplifica impessoalidade.
+
+    **E está errada:** o trecho exemplifica concisão, pois a mensagem transmite o necessário sem repetição inútil; não exemplifica impessoalidade.
+
+    **Tópico para revisar:** seção sobre impessoalidade.
+
+### Questão 2
+
+**Habilidade:** reconhecer clareza em comunicação autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **clareza**?
+
+A. O órgão informa que o atendimento será suspenso.
+B. O prazo termina em 10 de agosto, às 18 horas.
+C. O candidato deve anexar o diploma em formato PDF.
+D. O pedido foi indeferido porque foi apresentado após o prazo.
+E. Encaminho o relatório para análise.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** o trecho exemplifica impessoalidade, pois a mensagem se concentra na atuação institucional, sem promoção pessoal; não exemplifica clareza.
+
+    **B está certa:** A informação é específica e permite uma única leitura relevante.
+
+    **C está errada:** o trecho exemplifica precisão, pois o enunciado nomeia exatamente o documento e o formato; não exemplifica clareza.
+
+    **D está errada:** o trecho exemplifica objetividade, pois a razão da decisão aparece sem rodeios; não exemplifica clareza.
+
+    **E está errada:** o trecho exemplifica concisão, pois a mensagem transmite o necessário sem repetição inútil; não exemplifica clareza.
+
+    **Tópico para revisar:** seção sobre clareza.
+
+### Questão 3
+
+**Habilidade:** reconhecer precisão em comunicação autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **precisão**?
+
+A. O órgão informa que o atendimento será suspenso.
+B. O prazo termina em 10 de agosto, às 18 horas.
+C. O candidato deve anexar o diploma em formato PDF.
+D. O pedido foi indeferido porque foi apresentado após o prazo.
+E. Encaminho o relatório para análise.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** o trecho exemplifica impessoalidade, pois a mensagem se concentra na atuação institucional, sem promoção pessoal; não exemplifica precisão.
+
+    **B está errada:** o trecho exemplifica clareza, pois a informação é específica e permite uma única leitura relevante; não exemplifica precisão.
+
+    **C está certa:** O enunciado nomeia exatamente o documento e o formato.
+
+    **D está errada:** o trecho exemplifica objetividade, pois a razão da decisão aparece sem rodeios; não exemplifica precisão.
+
+    **E está errada:** o trecho exemplifica concisão, pois a mensagem transmite o necessário sem repetição inútil; não exemplifica precisão.
+
+    **Tópico para revisar:** seção sobre precisão.
+
+### Questão 4
+
+**Habilidade:** reconhecer objetividade em comunicação autossuficiente
+
+**Dificuldade:** difícil
+
+Qual alternativa exemplifica corretamente **objetividade**?
+
+A. O órgão informa que o atendimento será suspenso.
+B. O prazo termina em 10 de agosto, às 18 horas.
+C. O candidato deve anexar o diploma em formato PDF.
+D. O pedido foi indeferido porque foi apresentado após o prazo.
+E. Encaminho o relatório para análise.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** o trecho exemplifica impessoalidade, pois a mensagem se concentra na atuação institucional, sem promoção pessoal; não exemplifica objetividade.
+
+    **B está errada:** o trecho exemplifica clareza, pois a informação é específica e permite uma única leitura relevante; não exemplifica objetividade.
+
+    **C está errada:** o trecho exemplifica precisão, pois o enunciado nomeia exatamente o documento e o formato; não exemplifica objetividade.
+
+    **D está certa:** A razão da decisão aparece sem rodeios.
+
+    **E está errada:** o trecho exemplifica concisão, pois a mensagem transmite o necessário sem repetição inútil; não exemplifica objetividade.
+
+    **Tópico para revisar:** seção sobre objetividade.
+
+### Questão 5
+
+**Habilidade:** reconhecer concisão em comunicação autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **concisão**?
+
+A. O órgão informa que o atendimento será suspenso.
+B. O prazo termina em 10 de agosto, às 18 horas.
+C. O candidato deve anexar o diploma em formato PDF.
+D. O pedido foi indeferido porque foi apresentado após o prazo.
+E. Encaminho o relatório para análise.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** o trecho exemplifica impessoalidade, pois a mensagem se concentra na atuação institucional, sem promoção pessoal; não exemplifica concisão.
+
+    **B está errada:** o trecho exemplifica clareza, pois a informação é específica e permite uma única leitura relevante; não exemplifica concisão.
+
+    **C está errada:** o trecho exemplifica precisão, pois o enunciado nomeia exatamente o documento e o formato; não exemplifica concisão.
+
+    **D está errada:** o trecho exemplifica objetividade, pois a razão da decisão aparece sem rodeios; não exemplifica concisão.
+
+    **E está certa:** A mensagem transmite o necessário sem repetição inútil.
+
+    **Tópico para revisar:** seção sobre concisão.
+
+### Questão 6
+
+**Habilidade:** reconhecer coesão em comunicação autossuficiente
+
+**Dificuldade:** fácil
+
+Qual alternativa exemplifica corretamente **coesão**?
+
+A. O processo chegou ontem. Por isso, a análise começa hoje.
+B. O órgão informa que o atendimento será suspenso.
+C. O prazo termina em 10 de agosto, às 18 horas.
+D. O candidato deve anexar o diploma em formato PDF.
+E. O pedido foi indeferido porque foi apresentado após o prazo.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** O conector explicita a relação entre as frases.
+
+    **B está errada:** o trecho exemplifica impessoalidade, pois a mensagem se concentra na atuação institucional, sem promoção pessoal; não exemplifica coesão.
+
+    **C está errada:** o trecho exemplifica clareza, pois a informação é específica e permite uma única leitura relevante; não exemplifica coesão.
+
+    **D está errada:** o trecho exemplifica precisão, pois o enunciado nomeia exatamente o documento e o formato; não exemplifica coesão.
+
+    **E está errada:** o trecho exemplifica objetividade, pois a razão da decisão aparece sem rodeios; não exemplifica coesão.
+
+    **Tópico para revisar:** seção sobre coesão.
+
+### Questão 7
+
+**Habilidade:** reconhecer coerência em comunicação autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **coerência**?
+
+A. O órgão informa que o atendimento será suspenso.
+B. O atendimento ocorrerá das 8h às 12h; nesse período, haverá equipe de plantão.
+C. O prazo termina em 10 de agosto, às 18 horas.
+D. O candidato deve anexar o diploma em formato PDF.
+E. O pedido foi indeferido porque foi apresentado após o prazo.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** o trecho exemplifica impessoalidade, pois a mensagem se concentra na atuação institucional, sem promoção pessoal; não exemplifica coerência.
+
+    **B está certa:** As informações são compatíveis entre si.
+
+    **C está errada:** o trecho exemplifica clareza, pois a informação é específica e permite uma única leitura relevante; não exemplifica coerência.
+
+    **D está errada:** o trecho exemplifica precisão, pois o enunciado nomeia exatamente o documento e o formato; não exemplifica coerência.
+
+    **E está errada:** o trecho exemplifica objetividade, pois a razão da decisão aparece sem rodeios; não exemplifica coerência.
+
+    **Tópico para revisar:** seção sobre coerência.
+
+### Questão 8
+
+**Habilidade:** reconhecer formalidade adequada em comunicação autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **formalidade adequada**?
+
+A. O órgão informa que o atendimento será suspenso.
+B. O prazo termina em 10 de agosto, às 18 horas.
+C. Solicitamos o envio dos documentos até sexta-feira.
+D. O candidato deve anexar o diploma em formato PDF.
+E. O pedido foi indeferido porque foi apresentado após o prazo.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** o trecho exemplifica impessoalidade, pois a mensagem se concentra na atuação institucional, sem promoção pessoal; não exemplifica formalidade adequada.
+
+    **B está errada:** o trecho exemplifica clareza, pois a informação é específica e permite uma única leitura relevante; não exemplifica formalidade adequada.
+
+    **C está certa:** A formulação é profissional sem rebuscamento artificial.
+
+    **D está errada:** o trecho exemplifica precisão, pois o enunciado nomeia exatamente o documento e o formato; não exemplifica formalidade adequada.
+
+    **E está errada:** o trecho exemplifica objetividade, pois a razão da decisão aparece sem rodeios; não exemplifica formalidade adequada.
+
+    **Tópico para revisar:** seção sobre formalidade adequada.
+
+### Questão 9
+
+**Habilidade:** reconhecer padronização em comunicação autossuficiente
+
+**Dificuldade:** difícil
+
+Qual alternativa exemplifica corretamente **padronização**?
+
+A. O órgão informa que o atendimento será suspenso.
+B. O prazo termina em 10 de agosto, às 18 horas.
+C. O candidato deve anexar o diploma em formato PDF.
+D. O documento segue a estrutura e a identificação adotadas pelo órgão.
+E. O pedido foi indeferido porque foi apresentado após o prazo.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** o trecho exemplifica impessoalidade, pois a mensagem se concentra na atuação institucional, sem promoção pessoal; não exemplifica padronização.
+
+    **B está errada:** o trecho exemplifica clareza, pois a informação é específica e permite uma única leitura relevante; não exemplifica padronização.
+
+    **C está errada:** o trecho exemplifica precisão, pois o enunciado nomeia exatamente o documento e o formato; não exemplifica padronização.
+
+    **D está certa:** A apresentação obedece ao padrão institucional.
+
+    **E está errada:** o trecho exemplifica objetividade, pois a razão da decisão aparece sem rodeios; não exemplifica padronização.
+
+    **Tópico para revisar:** seção sobre padronização.
+
+### Questão 10
+
+**Habilidade:** reconhecer linguagem simples em comunicação autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **linguagem simples**?
+
+A. O órgão informa que o atendimento será suspenso.
+B. O prazo termina em 10 de agosto, às 18 horas.
+C. O candidato deve anexar o diploma em formato PDF.
+D. O pedido foi indeferido porque foi apresentado após o prazo.
+E. Use o formulário eletrônico para solicitar a certidão.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** o trecho exemplifica impessoalidade, pois a mensagem se concentra na atuação institucional, sem promoção pessoal; não exemplifica linguagem simples.
+
+    **B está errada:** o trecho exemplifica clareza, pois a informação é específica e permite uma única leitura relevante; não exemplifica linguagem simples.
+
+    **C está errada:** o trecho exemplifica precisão, pois o enunciado nomeia exatamente o documento e o formato; não exemplifica linguagem simples.
+
+    **D está errada:** o trecho exemplifica objetividade, pois a razão da decisão aparece sem rodeios; não exemplifica linguagem simples.
+
+    **E está certa:** A instrução emprega palavras usuais e ação direta.
+
+    **Tópico para revisar:** seção sobre linguagem simples.
 
 ## Checklist
 
@@ -102,28 +407,74 @@ Pegue uma frase burocrática e retire fórmulas vazias. Depois confira propósit
 - [ ] Corto excessos sem eliminar dados essenciais.
 - [ ] Avalio o texto pelo propósito público.
 
+- [ ] Justifico escolhas pelo destinatário e pela finalidade.
+- [ ] Confiro conteúdo, estrutura, linguagem e anexos.
+
 ## Flashcards da aula
 
-**Concisão é escrever o mínimo possível?**
+**Como reconhecer impessoalidade?**
 
 ??? question "Mostrar resposta"
-    Não. É usar somente as palavras necessárias sem omitir conteúdo essencial.
+    Em “O órgão informa que o atendimento será suspenso.”, a mensagem se concentra na atuação institucional, sem promoção pessoal.
 
-**Formalidade exige palavras difíceis?**
-
-??? question "Mostrar resposta"
-    Não. Exige adequação, respeito e observância do padrão.
-
-**O que a impessoalidade evita?**
+**Como reconhecer clareza?**
 
 ??? question "Mostrar resposta"
-    Personalismo e apropriação da comunicação institucional.
+    Em “O prazo termina em 10 de agosto, às 18 horas.”, a informação é específica e permite uma única leitura relevante.
 
-**Qual é o método PÚBLICO?**
+**Como reconhecer precisão?**
 
 ??? question "Mostrar resposta"
-    Propósito, utilidade, base precisa, ligações, instituição, correção e olhar do destinatário.
+    Em “O candidato deve anexar o diploma em formato PDF.”, o enunciado nomeia exatamente o documento e o formato.
 
+**Como reconhecer objetividade?**
+
+??? question "Mostrar resposta"
+    Em “O pedido foi indeferido porque foi apresentado após o prazo.”, a razão da decisão aparece sem rodeios.
+
+**Como reconhecer concisão?**
+
+??? question "Mostrar resposta"
+    Em “Encaminho o relatório para análise.”, a mensagem transmite o necessário sem repetição inútil.
+
+**Como reconhecer coesão?**
+
+??? question "Mostrar resposta"
+    Em “O processo chegou ontem. Por isso, a análise começa hoje.”, o conector explicita a relação entre as frases.
+
+**Como reconhecer coerência?**
+
+??? question "Mostrar resposta"
+    Em “O atendimento ocorrerá das 8h às 12h; nesse período, haverá equipe de plantão.”, as informações são compatíveis entre si.
+
+**Como reconhecer formalidade adequada?**
+
+??? question "Mostrar resposta"
+    Em “Solicitamos o envio dos documentos até sexta-feira.”, a formulação é profissional sem rebuscamento artificial.
+
+**Como reconhecer padronização?**
+
+??? question "Mostrar resposta"
+    Em “O documento segue a estrutura e a identificação adotadas pelo órgão.”, a apresentação obedece ao padrão institucional.
+
+**Como reconhecer linguagem simples?**
+
+??? question "Mostrar resposta"
+    Em “Use o formulário eletrônico para solicitar a certidão.”, a instrução emprega palavras usuais e ação direta.
+
+**Qual fonte orienta o padrão federal de redação oficial usado na aula?**
+
+??? question "Mostrar resposta"
+    O Manual de Redação da Presidência da República, 3ª edição.
+
+**Qual pergunta inicia a revisão de uma comunicação?**
+
+??? question "Mostrar resposta"
+    Quem comunica o quê, a quem e com qual finalidade?
+
+## Fechamento
+
+A comunicação oficial combina finalidade pública, estrutura reconhecível e linguagem precisa. Esses critérios preparam comunicações oficiais, sem criar fórmulas alheias às fontes indicadas.
 ## Referências oficiais
 
 - [Manual de Redação da Presidência da República — serviço oficial](https://www.gov.br/pt-br/servicos/consultar-o-manual-de-redacao-da-presidencia-da-republica). Consulta em 4 ago. 2026.

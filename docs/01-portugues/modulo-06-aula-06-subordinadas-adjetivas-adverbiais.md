@@ -1,19 +1,48 @@
 ---
-title: Aula 6 — Orações subordinadas adjetivas e adverbiais
-description: Como distinguir caracterização, restrição, explicação e circunstância.
+id: portugues-modulo-06-aula-06
+title: "Aula 6 — Orações subordinadas adjetivas e adverbiais"
+description: "Distinguir caracterização nominal e circunstância entre orações."
+discipline: 01-portugues
+module: 6
+lesson: 6
 status: draft
-last_reviewed: 2026-08-04
+edital_refs:
+  - "Edital SAPE/SC nº 001/2026, Anexo 2, p. 27"
+prerequisites:
+  - "orações subordinadas substantivas"
+estimated_minutes: 120
+authors:
+  - Equipe do Curso SAPE/SC
+reviewers: []
+last_reviewed: 2026-08-05
+sources:
+  - "Edital SAPE/SC nº 001/2026, Anexo 2, p. 27. Consulta em 4 ago. 2026."
+tags:
+  - lingua-portuguesa
+  - modulo-06
+  - subordinadas-adjetivas-adverbiais
 ---
 
 # Aula 6 — Orações subordinadas adjetivas e adverbiais
 
-| Disciplina | Módulo | Aula | Tempo |
-|---|---|---:|---:|
-| Língua Portuguesa | Análise sintática e reestruturação | 6 de 7 | 90 min |
+<section class="lesson-goal">
+  <strong>Objetivo da aula:</strong> distinguir caracterização nominal e circunstância entre orações.
+</section>
 
-**Objetivos:** reconhecer subordinadas adjetivas e adverbiais e interpretar seus efeitos.  
-**Competências:** localizar antecedente, definir alcance e identificar relações circunstanciais.  
+<div class="lesson-meta-grid">
+  <div class="lesson-meta-card"><span>Disciplina</span><strong>Língua Portuguesa</strong></div>
+  <div class="lesson-meta-card"><span>Módulo</span><strong>6 — Sintaxe da oração e do período</strong></div>
+  <div class="lesson-meta-card"><span>Aula</span><strong>6 de 7</strong></div>
+  <div class="lesson-meta-card"><span>Tempo estimado</span><strong>120 min</strong></div>
+</div>
+
+**Ao final desta aula, você deverá ser capaz de:** reconhecer subordinadas adjetivas e adverbiais e interpretar seus efeitos.
+**Competências:** localizar antecedente, definir alcance e identificar relações circunstanciais.
 **Pré-requisito:** pronomes relativos, coesão e pontuação básica.
+
+## Ligação com a aula anterior
+
+A análise parte de orações subordinadas substantivas. Esse conhecimento permite agora distinguir caracterização nominal e circunstância entre orações, mantendo a leitura da frase inteira como unidade de decisão.
 
 ## Situação prática de abertura
 
@@ -60,7 +89,7 @@ Conectivos são polissêmicos. *Como* pode introduzir causa, comparação ou con
 6. **C**onfira pontuação.
 7. **E**feito no sentido.
 
-**Cotidiano:** “Se chover, ficaremos” expressa condição; “Embora chova, sairemos” concessão.  
+**Cotidiano:** “Se chover, ficaremos” expressa condição; “Embora chova, sairemos” concessão.
 **Administração Pública:** “Conforme determina o edital, o prazo será contado” apresenta conformidade, não comparação.
 
 !!! warning "Erros comuns"
@@ -90,22 +119,297 @@ Que diferença existe entre “servidores que concluíram avançam” e “servi
 
 Compare as duas versões da abertura e classifique orações com *porque, se, embora, para que, quando, conforme* e *à medida que*.
 
-## Exercícios autorais
+## Questões
 
-**1.** “Os atos que foram revogados perderam efeito” contém adjetiva: A) explicativa. B) restritiva. C) causal. D) subjetiva. E) coordenada.
+### Questão 1
 
-??? success "Gabarito comentado"
-    **B.** Delimita quais atos perderam efeito. A exigiria explicação isolada; C, D e E têm outras relações.
+**Habilidade:** reconhecer adjetiva restritiva em enunciado autossuficiente
 
-**2.** “Embora houvesse tempo, não revisaram” expressa: A) causa. B) condição. C) concessão. D) finalidade. E) conformidade.
+**Dificuldade:** fácil
 
-??? success "Gabarito comentado"
-    **C.** O fato contraria a expectativa. A, B, D e E não recuperam a relação.
+Qual alternativa exemplifica corretamente **adjetiva restritiva**?
 
-**3.** “Conforme estabelece a norma, o setor agiu” expressa: A) comparação. B) consequência. C) conformidade. D) condição. E) proporção.
+A. Os candidatos que estudaram foram aprovados.
+B. Os candidatos, que estudaram, foram aprovados.
+C. Como o prazo terminou, o recurso não foi recebido.
+D. Embora estivesse cansada, a equipe concluiu a análise.
+E. Se houver prazo, apresentaremos recurso.
 
-??? success "Gabarito comentado"
-    **C.** A ação segue a norma. A, B, D e E não correspondem ao valor contextual.
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** Sem vírgulas, a oração delimita quais candidatos.
+
+    **B está errada:** a frase exemplifica adjetiva explicativa, pois entre vírgulas, a oração acrescenta explicação ao conjunto; não exemplifica adjetiva restritiva.
+
+    **C está errada:** a frase exemplifica adverbial causal, pois a oração inicial apresenta causa; não exemplifica adjetiva restritiva.
+
+    **D está errada:** a frase exemplifica adverbial concessiva, pois embora introduz obstáculo que não impede o fato; não exemplifica adjetiva restritiva.
+
+    **E está errada:** a frase exemplifica adverbial condicional, pois se apresenta condição; não exemplifica adjetiva restritiva.
+
+    **Tópico para revisar:** seção sobre adjetiva restritiva.
+
+### Questão 2
+
+**Habilidade:** reconhecer adjetiva explicativa em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **adjetiva explicativa**?
+
+A. Os candidatos que estudaram foram aprovados.
+B. Os candidatos, que estudaram, foram aprovados.
+C. Como o prazo terminou, o recurso não foi recebido.
+D. Embora estivesse cansada, a equipe concluiu a análise.
+E. Se houver prazo, apresentaremos recurso.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** a frase exemplifica adjetiva restritiva, pois sem vírgulas, a oração delimita quais candidatos; não exemplifica adjetiva explicativa.
+
+    **B está certa:** Entre vírgulas, a oração acrescenta explicação ao conjunto.
+
+    **C está errada:** a frase exemplifica adverbial causal, pois a oração inicial apresenta causa; não exemplifica adjetiva explicativa.
+
+    **D está errada:** a frase exemplifica adverbial concessiva, pois embora introduz obstáculo que não impede o fato; não exemplifica adjetiva explicativa.
+
+    **E está errada:** a frase exemplifica adverbial condicional, pois se apresenta condição; não exemplifica adjetiva explicativa.
+
+    **Tópico para revisar:** seção sobre adjetiva explicativa.
+
+### Questão 3
+
+**Habilidade:** reconhecer adverbial causal em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **adverbial causal**?
+
+A. Os candidatos que estudaram foram aprovados.
+B. Os candidatos, que estudaram, foram aprovados.
+C. Como o prazo terminou, o recurso não foi recebido.
+D. Embora estivesse cansada, a equipe concluiu a análise.
+E. Se houver prazo, apresentaremos recurso.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** a frase exemplifica adjetiva restritiva, pois sem vírgulas, a oração delimita quais candidatos; não exemplifica adverbial causal.
+
+    **B está errada:** a frase exemplifica adjetiva explicativa, pois entre vírgulas, a oração acrescenta explicação ao conjunto; não exemplifica adverbial causal.
+
+    **C está certa:** A oração inicial apresenta causa.
+
+    **D está errada:** a frase exemplifica adverbial concessiva, pois embora introduz obstáculo que não impede o fato; não exemplifica adverbial causal.
+
+    **E está errada:** a frase exemplifica adverbial condicional, pois se apresenta condição; não exemplifica adverbial causal.
+
+    **Tópico para revisar:** seção sobre adverbial causal.
+
+### Questão 4
+
+**Habilidade:** reconhecer adverbial concessiva em enunciado autossuficiente
+
+**Dificuldade:** difícil
+
+Qual alternativa exemplifica corretamente **adverbial concessiva**?
+
+A. Os candidatos que estudaram foram aprovados.
+B. Os candidatos, que estudaram, foram aprovados.
+C. Como o prazo terminou, o recurso não foi recebido.
+D. Embora estivesse cansada, a equipe concluiu a análise.
+E. Se houver prazo, apresentaremos recurso.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** a frase exemplifica adjetiva restritiva, pois sem vírgulas, a oração delimita quais candidatos; não exemplifica adverbial concessiva.
+
+    **B está errada:** a frase exemplifica adjetiva explicativa, pois entre vírgulas, a oração acrescenta explicação ao conjunto; não exemplifica adverbial concessiva.
+
+    **C está errada:** a frase exemplifica adverbial causal, pois a oração inicial apresenta causa; não exemplifica adverbial concessiva.
+
+    **D está certa:** Embora introduz obstáculo que não impede o fato.
+
+    **E está errada:** a frase exemplifica adverbial condicional, pois se apresenta condição; não exemplifica adverbial concessiva.
+
+    **Tópico para revisar:** seção sobre adverbial concessiva.
+
+### Questão 5
+
+**Habilidade:** reconhecer adverbial condicional em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **adverbial condicional**?
+
+A. Os candidatos que estudaram foram aprovados.
+B. Os candidatos, que estudaram, foram aprovados.
+C. Como o prazo terminou, o recurso não foi recebido.
+D. Embora estivesse cansada, a equipe concluiu a análise.
+E. Se houver prazo, apresentaremos recurso.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** a frase exemplifica adjetiva restritiva, pois sem vírgulas, a oração delimita quais candidatos; não exemplifica adverbial condicional.
+
+    **B está errada:** a frase exemplifica adjetiva explicativa, pois entre vírgulas, a oração acrescenta explicação ao conjunto; não exemplifica adverbial condicional.
+
+    **C está errada:** a frase exemplifica adverbial causal, pois a oração inicial apresenta causa; não exemplifica adverbial condicional.
+
+    **D está errada:** a frase exemplifica adverbial concessiva, pois embora introduz obstáculo que não impede o fato; não exemplifica adverbial condicional.
+
+    **E está certa:** Se apresenta condição.
+
+    **Tópico para revisar:** seção sobre adverbial condicional.
+
+### Questão 6
+
+**Habilidade:** reconhecer adverbial temporal em enunciado autossuficiente
+
+**Dificuldade:** fácil
+
+Qual alternativa exemplifica corretamente **adverbial temporal**?
+
+A. Quando a sessão terminou, a ata foi publicada.
+B. Os candidatos que estudaram foram aprovados.
+C. Os candidatos, que estudaram, foram aprovados.
+D. Como o prazo terminou, o recurso não foi recebido.
+E. Embora estivesse cansada, a equipe concluiu a análise.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: A.**
+
+    **A está certa:** Quando localiza o fato no tempo.
+
+    **B está errada:** a frase exemplifica adjetiva restritiva, pois sem vírgulas, a oração delimita quais candidatos; não exemplifica adverbial temporal.
+
+    **C está errada:** a frase exemplifica adjetiva explicativa, pois entre vírgulas, a oração acrescenta explicação ao conjunto; não exemplifica adverbial temporal.
+
+    **D está errada:** a frase exemplifica adverbial causal, pois a oração inicial apresenta causa; não exemplifica adverbial temporal.
+
+    **E está errada:** a frase exemplifica adverbial concessiva, pois embora introduz obstáculo que não impede o fato; não exemplifica adverbial temporal.
+
+    **Tópico para revisar:** seção sobre adverbial temporal.
+
+### Questão 7
+
+**Habilidade:** reconhecer adverbial final em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **adverbial final**?
+
+A. Os candidatos que estudaram foram aprovados.
+B. A equipe revisou o texto para que não houvesse ambiguidade.
+C. Os candidatos, que estudaram, foram aprovados.
+D. Como o prazo terminou, o recurso não foi recebido.
+E. Embora estivesse cansada, a equipe concluiu a análise.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: B.**
+
+    **A está errada:** a frase exemplifica adjetiva restritiva, pois sem vírgulas, a oração delimita quais candidatos; não exemplifica adverbial final.
+
+    **B está certa:** Para que indica finalidade.
+
+    **C está errada:** a frase exemplifica adjetiva explicativa, pois entre vírgulas, a oração acrescenta explicação ao conjunto; não exemplifica adverbial final.
+
+    **D está errada:** a frase exemplifica adverbial causal, pois a oração inicial apresenta causa; não exemplifica adverbial final.
+
+    **E está errada:** a frase exemplifica adverbial concessiva, pois embora introduz obstáculo que não impede o fato; não exemplifica adverbial final.
+
+    **Tópico para revisar:** seção sobre adverbial final.
+
+### Questão 8
+
+**Habilidade:** reconhecer adverbial consecutiva em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **adverbial consecutiva**?
+
+A. Os candidatos que estudaram foram aprovados.
+B. Os candidatos, que estudaram, foram aprovados.
+C. O texto estava tão claro que ninguém teve dúvida.
+D. Como o prazo terminou, o recurso não foi recebido.
+E. Embora estivesse cansada, a equipe concluiu a análise.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: C.**
+
+    **A está errada:** a frase exemplifica adjetiva restritiva, pois sem vírgulas, a oração delimita quais candidatos; não exemplifica adverbial consecutiva.
+
+    **B está errada:** a frase exemplifica adjetiva explicativa, pois entre vírgulas, a oração acrescenta explicação ao conjunto; não exemplifica adverbial consecutiva.
+
+    **C está certa:** Que introduz consequência correlacionada a tão.
+
+    **D está errada:** a frase exemplifica adverbial causal, pois a oração inicial apresenta causa; não exemplifica adverbial consecutiva.
+
+    **E está errada:** a frase exemplifica adverbial concessiva, pois embora introduz obstáculo que não impede o fato; não exemplifica adverbial consecutiva.
+
+    **Tópico para revisar:** seção sobre adverbial consecutiva.
+
+### Questão 9
+
+**Habilidade:** reconhecer adverbial conformativa em enunciado autossuficiente
+
+**Dificuldade:** difícil
+
+Qual alternativa exemplifica corretamente **adverbial conformativa**?
+
+A. Os candidatos que estudaram foram aprovados.
+B. Os candidatos, que estudaram, foram aprovados.
+C. Como o prazo terminou, o recurso não foi recebido.
+D. Conforme determina o edital, a prova terá cinco horas.
+E. Embora estivesse cansada, a equipe concluiu a análise.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: D.**
+
+    **A está errada:** a frase exemplifica adjetiva restritiva, pois sem vírgulas, a oração delimita quais candidatos; não exemplifica adverbial conformativa.
+
+    **B está errada:** a frase exemplifica adjetiva explicativa, pois entre vírgulas, a oração acrescenta explicação ao conjunto; não exemplifica adverbial conformativa.
+
+    **C está errada:** a frase exemplifica adverbial causal, pois a oração inicial apresenta causa; não exemplifica adverbial conformativa.
+
+    **D está certa:** Conforme indica conformidade.
+
+    **E está errada:** a frase exemplifica adverbial concessiva, pois embora introduz obstáculo que não impede o fato; não exemplifica adverbial conformativa.
+
+    **Tópico para revisar:** seção sobre adverbial conformativa.
+
+### Questão 10
+
+**Habilidade:** reconhecer adverbial proporcional em enunciado autossuficiente
+
+**Dificuldade:** média
+
+Qual alternativa exemplifica corretamente **adverbial proporcional**?
+
+A. Os candidatos que estudaram foram aprovados.
+B. Os candidatos, que estudaram, foram aprovados.
+C. Como o prazo terminou, o recurso não foi recebido.
+D. Embora estivesse cansada, a equipe concluiu a análise.
+E. À medida que estudava, ganhava segurança.
+
+??? question "Mostrar resposta e comentário"
+    **Resposta: E.**
+
+    **A está errada:** a frase exemplifica adjetiva restritiva, pois sem vírgulas, a oração delimita quais candidatos; não exemplifica adverbial proporcional.
+
+    **B está errada:** a frase exemplifica adjetiva explicativa, pois entre vírgulas, a oração acrescenta explicação ao conjunto; não exemplifica adverbial proporcional.
+
+    **C está errada:** a frase exemplifica adverbial causal, pois a oração inicial apresenta causa; não exemplifica adverbial proporcional.
+
+    **D está errada:** a frase exemplifica adverbial concessiva, pois embora introduz obstáculo que não impede o fato; não exemplifica adverbial proporcional.
+
+    **E está certa:** Os processos variam proporcionalmente.
+
+    **Tópico para revisar:** seção sobre adverbial proporcional.
 
 ## Checklist
 
@@ -114,28 +418,69 @@ Compare as duas versões da abertura e classifique orações com *porque, se, em
 - [ ] Reconheço relações adverbiais pelo contexto.
 - [ ] Relaciono pontuação e alcance.
 
+- [ ] Justifico a função pela relação entre os termos.
+- [ ] Releio o período completo após a análise.
+
 ## Flashcards da aula
 
-**O que distingue adjetiva restritiva e explicativa?**
+**Como reconhecer adjetiva restritiva?**
 
 ??? question "Mostrar resposta"
-    A restritiva delimita subconjunto; a explicativa acrescenta informação ao conjunto apresentado.
+    Observe: “Os candidatos que estudaram foram aprovados.” Nesse caso, sem vírgulas, a oração delimita quais candidatos.
 
-**Pronome relativo exerce função na subordinada?**
-
-??? question "Mostrar resposta"
-    Sim, além de retomar o antecedente e conectar a oração.
-
-**Quais relações adverbiais foram estudadas?**
+**Como reconhecer adjetiva explicativa?**
 
 ??? question "Mostrar resposta"
-    Causa, consequência, condição, concessão, finalidade, tempo, comparação, conformidade e proporção.
+    Observe: “Os candidatos, que estudaram, foram aprovados.” Nesse caso, entre vírgulas, a oração acrescenta explicação ao conjunto.
 
-**Qual é o método ALCANCE?**
+**Como reconhecer adverbial causal?**
 
 ??? question "Mostrar resposta"
-    Antecedente, limite, conectivo, ação/relação, nome, conferência e efeito.
+    Observe: “Como o prazo terminou, o recurso não foi recebido.” Nesse caso, a oração inicial apresenta causa.
 
+**Como reconhecer adverbial concessiva?**
+
+??? question "Mostrar resposta"
+    Observe: “Embora estivesse cansada, a equipe concluiu a análise.” Nesse caso, embora introduz obstáculo que não impede o fato.
+
+**Como reconhecer adverbial condicional?**
+
+??? question "Mostrar resposta"
+    Observe: “Se houver prazo, apresentaremos recurso.” Nesse caso, se apresenta condição.
+
+**Como reconhecer adverbial temporal?**
+
+??? question "Mostrar resposta"
+    Observe: “Quando a sessão terminou, a ata foi publicada.” Nesse caso, quando localiza o fato no tempo.
+
+**Como reconhecer adverbial final?**
+
+??? question "Mostrar resposta"
+    Observe: “A equipe revisou o texto para que não houvesse ambiguidade.” Nesse caso, para que indica finalidade.
+
+**Como reconhecer adverbial consecutiva?**
+
+??? question "Mostrar resposta"
+    Observe: “O texto estava tão claro que ninguém teve dúvida.” Nesse caso, que introduz consequência correlacionada a tão.
+
+**Como reconhecer adverbial conformativa?**
+
+??? question "Mostrar resposta"
+    Observe: “Conforme determina o edital, a prova terá cinco horas.” Nesse caso, conforme indica conformidade.
+
+**Como reconhecer adverbial proporcional?**
+
+??? question "Mostrar resposta"
+    Observe: “À medida que estudava, ganhava segurança.” Nesse caso, os processos variam proporcionalmente.
+
+**Que conhecimento anterior deve ser recuperado?**
+
+??? question "Mostrar resposta"
+    Orações subordinadas substantivas, porque essa base sustenta a análise desta aula.
+
+## Fechamento
+
+A aula mostrou que a sintaxe nasce das relações entre termos e orações, não de rótulos isolados. O método praticado prepara diretamente reestruturação de períodos, próximo passo da sequência.
 ## Referência
 
 - Edital SAPE/SC nº 001/2026, Anexo 2, p. 27. Consulta em 4 ago. 2026.
