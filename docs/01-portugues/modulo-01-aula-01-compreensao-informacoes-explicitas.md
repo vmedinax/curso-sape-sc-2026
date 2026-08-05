@@ -1,6 +1,6 @@
 ---
 id: portugues-modulo-01-aula-01
-title: Aula 1 — Compreensão: informações e relações explícitas
+title: "Aula 1 — Compreensão: informações e relações explícitas"
 description: Método para localizar dados e relações declaradas no texto.
 discipline: 01-portugues
 module: 1
