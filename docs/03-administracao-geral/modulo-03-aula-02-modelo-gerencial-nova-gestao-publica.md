@@ -237,11 +237,11 @@ C. Controle de resultados torna procedimentos desnecessários.
 D. Ferramentas privadas precisam ser adaptadas às finalidades públicas.  
 E. Modelo gerencial impede metas.
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **C.** Desempenho e resultados estão no centro do modelo gerencial.
-2. **B.** A autonomia é limitada por regras, objetivos e acompanhamento.
-3. **D.** A ferramenta precisa respeitar deveres, direitos e finalidades do setor público.
+    1. **C.** Desempenho e resultados estão no centro do modelo gerencial.
+    2. **B.** A autonomia é limitada por regras, objetivos e acompanhamento.
+    3. **D.** A ferramenta precisa respeitar deveres, direitos e finalidades do setor público.
 
 ## Checklist
 

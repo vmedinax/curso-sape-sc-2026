@@ -184,9 +184,7 @@ Resolva as dez questões autorais antes de abrir os comentários.
 
 ### Questão 1
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer pressuposto
-**Dificuldade:** fácil, porque há um gatilho direto
-
+**Dificuldade:** fácil
 “A unidade continua funcionando à noite” pressupõe que ela:
 
 A. nunca funcionou à noite.
@@ -196,6 +194,8 @@ D. funciona somente à noite.
 E. mudou de endereço.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer pressuposto
+
     **Resposta:** B.
     **A:** contradiz a permanência marcada por *continua*.
     **B:** recupera o estado anterior necessário.
@@ -208,9 +208,7 @@ E. mudou de endereço.
 
 ### Questão 2
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** identificar finalidade
-**Dificuldade:** fácil, porque o imperativo orienta ação
-
+**Dificuldade:** fácil
 > Confira seus dados, assine o formulário e entregue-o no balcão 2.
 
 A finalidade predominante é:
@@ -222,6 +220,8 @@ D. orientar.
 E. divertir.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** identificar finalidade
+
     **Resposta:** D.
     **A:** não há sequência de acontecimentos narrados.
     **B:** nenhum valor positivo é atribuído.
@@ -234,9 +234,7 @@ E. divertir.
 
 ### Questão 3
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer gatilho
-**Dificuldade:** média, porque é preciso separar marca e pressuposto
-
+**Dificuldade:** média
 Em “O setor de compras também adotou o sistema”, a palavra que aciona o pressuposto é:
 
 A. também.
@@ -246,6 +244,8 @@ D. adotou.
 E. sistema.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer gatilho
+
     **Resposta:** A.
     **A:** indica que outro setor adotou o sistema.
     **B:** nomeia o agente, mas não aciona a informação anterior.
@@ -258,9 +258,7 @@ E. sistema.
 
 ### Questão 4
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** limitar pressuposto
-**Dificuldade:** média, porque uma causa plausível não está expressa
-
+**Dificuldade:** média
 “Paulo deixou de usar o atendimento presencial” permite afirmar que:
 
 A. o portal é melhor.
@@ -270,6 +268,8 @@ D. Paulo usa apenas telefone.
 E. Paulo usava o atendimento presencial antes.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** limitar pressuposto
+
     **Resposta:** E.
     **A:** acrescenta avaliação.
     **B:** inventa sanção.
@@ -282,9 +282,7 @@ E. Paulo usava o atendimento presencial antes.
 
 ### Questão 5
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** distinguir implícito contextual
-**Dificuldade:** média, porque a frase literal tem outra forma
-
+**Dificuldade:** média
 Durante uma reunião, alguém diz: “A projeção está pequena para quem está no fundo”. No contexto, a fala pode funcionar como:
 
 A. relato de viagem.
@@ -294,6 +292,8 @@ D. prova de que a reunião acabou.
 E. ordem para desligar o projetor.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir implícito contextual
+
     **Resposta:** C.
     **A:** não corresponde à situação.
     **B:** a dificuldade indicada não é elogio.
@@ -306,9 +306,7 @@ E. ordem para desligar o projetor.
 
 ### Questão 6
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** separar assunto e intenção
-**Dificuldade:** difícil, porque textos sobre o mesmo assunto têm finalidades distintas
-
+**Dificuldade:** difícil
 Uma campanha diz “Vacine-se neste sábado: proteja você e sua comunidade”. Sua intenção predominante é:
 
 A. registrar uma reunião.
@@ -318,6 +316,8 @@ D. narrar a história da saúde.
 E. explicar a fabricação de medicamentos.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** separar assunto e intenção
+
     **Resposta:** C.
     **A:** não há registro de evento passado.
     **B:** nenhuma característica visual é descrita.
@@ -330,9 +330,7 @@ E. explicar a fabricação de medicamentos.
 
 ### Questão 7
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** aplicar MFC
-**Dificuldade:** difícil, porque combina solicitação e justificativa
-
+**Dificuldade:** difícil
 > O sistema permanece indisponível desde ontem. Solicitamos suporte técnico para restabelecer o serviço.
 
 Qual análise segue o método MFC?
@@ -344,6 +342,8 @@ D. “Serviço” demonstra elogio.
 E. A finalidade depende da opinião do leitor.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar MFC
+
     **Resposta:** A.
     **A:** identifica marca, função e confirmação.
     **B:** atribui função incompatível.
@@ -356,9 +356,7 @@ E. A finalidade depende da opinião do leitor.
 
 ### Questão 8
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer múltiplas funções
-**Dificuldade:** difícil, porque o alcance do comando muda a resposta
-
+**Dificuldade:** difícil
 > Informamos que o prédio ficará fechado pela manhã. Evite deslocamentos antes das 13h.
 
 Sobre o texto, é correto afirmar:
@@ -370,6 +368,8 @@ D. Informa uma interrupção e orienta o leitor.
 E. Defende uma tese sobre arquitetura.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer múltiplas funções
+
     **Resposta:** D.
     **A:** o fechamento é futuro e há orientação.
     **B:** nenhuma característica física é descrita.
@@ -382,9 +382,7 @@ E. Defende uma tese sobre arquitetura.
 
 ### Questão 9
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** distinguir pressuposto de implícito contextual
-**Dificuldade:** média, porque as duas informações não são literais
-
+**Dificuldade:** média
 Qual opção apresenta um pressuposto acionado por marca linguística?
 
 A. “Está frio aqui”, usado como pedido para fechar a janela.
@@ -394,6 +392,8 @@ D. “A luz está acesa”, usado como lembrete.
 E. “A fila está longa”, usado como reclamação.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir pressuposto de implícito contextual
+
     **Resposta:** B.
     **A:** depende da situação para funcionar como pedido.
     **B:** *voltou a* aciona a ocorrência anterior.
@@ -406,9 +406,7 @@ E. “A fila está longa”, usado como reclamação.
 
 ### Questão 10
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** integrar marca, contexto e finalidade
-**Dificuldade:** difícil, porque o texto informa, adverte e orienta
-
+**Dificuldade:** difícil
 > Atenção: foram identificadas mensagens falsas em nome do órgão. Não forneça sua senha. Consulte apenas os canais oficiais listados no portal.
 
 A finalidade predominante é:
@@ -420,6 +418,8 @@ D. registrar uma reunião de segurança.
 E. advertir sobre risco e orientar uma conduta segura.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** integrar marca, contexto e finalidade
+
     **Resposta:** E.
     **A:** não há avaliação positiva dos canais.
     **B:** nenhuma história institucional é narrada.

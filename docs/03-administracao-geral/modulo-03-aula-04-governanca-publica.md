@@ -262,11 +262,11 @@ C. Governança orienta e monitora; gestão executa para alcançar os objetivos.
 D. Accountability significa apenas publicar qualquer dado.  
 E. Parte interessada é somente quem trabalha no órgão.
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **B.** Liderança, estratégia e controle formam os mecanismos do referencial estudado.
-2. **A.** As três ações correspondem exatamente à sequência do caso.
-3. **C.** Governança e gestão possuem papéis ligados, mas diferentes.
+    1. **B.** Liderança, estratégia e controle formam os mecanismos do referencial estudado.
+    2. **A.** As três ações correspondem exatamente à sequência do caso.
+    3. **C.** Governança e gestão possuem papéis ligados, mas diferentes.
 
 ## Checklist
 

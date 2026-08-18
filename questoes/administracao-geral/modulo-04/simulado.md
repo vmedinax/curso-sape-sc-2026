@@ -78,7 +78,7 @@ A. tempestividade. B. prazo. C. relevância. D. linha de base. E. periodicidade.
 
 Qual atividade representa avaliação, e não apenas monitoramento?
 
-A. Atualizar um painel semanal. B. Registrar entregas diárias. C. Comparar o realizado com a meta todo mês. D. Investigar por que o programa não alcançou o público e se deve ser redesenhado. E. Conferir o prazo de uma tarefa.
+A. Atualizar um painel semanal e usar essa rotina para concluir, sem investigar causas, se o desenho do programa permanece adequado. B. Registrar entregas diárias. C. Comparar o realizado com a meta todo mês. D. Investigar por que o programa não alcançou o público e se deve ser redesenhado. E. Conferir o prazo de uma tarefa.
 
 ??? question "Mostrar resposta e comentário"
     **Resposta: D.** Investigar causas e julgar a adequação é avaliação. A, B, C e E são acompanhamentos contínuos da execução.
@@ -87,7 +87,7 @@ A. Atualizar um painel semanal. B. Registrar entregas diárias. C. Comparar o re
 
 O indicador melhorou depois de duas ações simultâneas. A conclusão correta é:
 
-A. a primeira ação causou tudo. B. a segunda ação causou tudo. C. nenhuma ação funcionou. D. o indicador não tem valor. E. é preciso analisar outras explicações antes de atribuir a melhora a uma ação.
+A. a primeira ação causou toda a melhora, porque sua execução simultânea à segunda permite isolá-la como causa suficiente do resultado. B. a segunda ação causou tudo. C. nenhuma ação funcionou. D. o indicador não tem valor. E. é preciso analisar outras explicações antes de atribuir a melhora a uma ação.
 
 ??? question "Mostrar resposta e comentário"
     **Resposta: E.** A melhora foi observada, mas a causa ainda precisa ser examinada. A e B afirmam mais do que os dados mostram. C ignora a melhora. D descarta uma medida útil. E mantém o cuidado necessário.

@@ -126,15 +126,15 @@ As questões são autorais. O gabarito usa cada letra duas vezes, sem sequência
 
 ### Questão 1
 
-**Habilidade:** identificar alcance do advérbio
 
-**Dificuldade:** fácil — o intensificador acompanha outro advérbio
-
+**Dificuldade:** fácil
 Em “respondeu muito bem”, *muito* modifica:
 
 A. um substantivo. B. o advérbio *bem*. C. uma preposição. D. uma interjeição. E. um artigo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** identificar alcance do advérbio
+
     **Resposta: B.**
 
     **A está errada:** nenhum nome recebe a intensidade. **B está certa:** *muito* intensifica *bem*. **C está errada:** não há preposição alcançada. **D está errada:** não há reação independente. **E está errada:** artigo não é o alvo da modificação.
@@ -143,15 +143,15 @@ A. um substantivo. B. o advérbio *bem*. C. uma preposição. D. uma interjeiç�
 
 ### Questão 2
 
-**Habilidade:** reconhecer preposição
 
-**Dificuldade:** fácil — liga dois termos nominais
-
+**Dificuldade:** fácil
 Em “relatório de gestão”, *de* é:
 
 A. conjunção. B. advérbio. C. preposição. D. interjeição. E. numeral.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer preposição
+
     **Resposta: C.**
 
     **A está errada:** não conecta orações. **B está errada:** não modifica verbo ou adjetivo. **C está certa:** liga *relatório* e *gestão*. **D está errada:** não expressa reação. **E está errada:** não quantifica.
@@ -160,15 +160,15 @@ A. conjunção. B. advérbio. C. preposição. D. interjeição. E. numeral.
 
 ### Questão 3
 
-**Habilidade:** interpretar conjunção adversativa
 
-**Dificuldade:** fácil — a oposição é explícita
-
+**Dificuldade:** fácil
 Em “revisou, mas não publicou”, *mas* expressa:
 
 A. adição. B. contraste. C. causa. D. finalidade. E. tempo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** interpretar conjunção adversativa
+
     **Resposta: B.**
 
     **A está errada:** a segunda oração contraria a expectativa. **B está certa:** opõe revisão e ausência de publicação. **C está errada:** não apresenta motivo. **D está errada:** não indica objetivo. **E está errada:** não localiza a ação temporalmente.
@@ -177,15 +177,15 @@ A. adição. B. contraste. C. causa. D. finalidade. E. tempo.
 
 ### Questão 4
 
-**Habilidade:** reconhecer interjeição
 
-**Dificuldade:** fácil — a forma expressa reação independente
-
+**Dificuldade:** fácil
 Em “Ufa! O relatório terminou”, *ufa* é:
 
 A. interjeição. B. preposição. C. conjunção. D. advérbio de tempo. E. numeral.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer interjeição
+
     **Resposta: A.**
 
     **A está certa:** expressa alívio. **B está errada:** não liga termos. **C está errada:** não conecta orações. **D está errada:** não localiza o término no tempo. **E está errada:** não quantifica.
@@ -194,15 +194,15 @@ A. interjeição. B. preposição. C. conjunção. D. advérbio de tempo. E. num
 
 ### Questão 5
 
-**Habilidade:** interpretar valor prepositivo
 
-**Dificuldade:** média — a mesma preposição pode ter outros valores
-
+**Dificuldade:** média
 Em “morreu de fome”, *de* introduz relação de:
 
 A. matéria. B. lugar. C. posse. D. comparação. E. causa.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** interpretar valor prepositivo
+
     **Resposta: E.**
 
     **A está errada:** matéria aparece em “mesa de madeira”. **B está errada:** não indica origem espacial. **C está errada:** não há possuidor. **D está errada:** nenhum elemento é comparado. **E está certa:** a fome é apresentada como causa.
@@ -211,15 +211,15 @@ A. matéria. B. lugar. C. posse. D. comparação. E. causa.
 
 ### Questão 6
 
-**Habilidade:** reconhecer locução adverbial
 
-**Dificuldade:** média — exige atribuir valor unitário ao grupo
-
+**Dificuldade:** média
 Em “Às vezes, a equipe trabalha remotamente”, *às vezes* é:
 
 A. locução adverbial de frequência. B. locução prepositiva. C. locução conjuntiva. D. interjeição. E. artigo com substantivo apenas.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer locução adverbial
+
     **Resposta: A.**
 
     **A está certa:** o grupo modifica a ocorrência da ação. **B está errada:** não introduz complemento nominal. **C está errada:** não conecta orações. **D está errada:** não manifesta reação. **E está errada:** o conjunto exerce função adverbial.
@@ -228,15 +228,15 @@ A. locução adverbial de frequência. B. locução prepositiva. C. locução co
 
 ### Questão 7
 
-**Habilidade:** distinguir preposição de conjunção
 
-**Dificuldade:** difícil — exige observar os elementos conectados
-
+**Dificuldade:** difícil
 Assinale a análise correta.
 
 A. Preposição e conjunção ligam sempre exatamente os mesmos elementos. B. Toda conjunção expressa contraste. C. Toda preposição expressa causa. D. Preposição liga termos; conjunção pode conectar orações ou equivalentes. E. Nenhuma delas interfere no sentido.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir preposição de conjunção
+
     **Resposta: D.**
 
     **A está errada:** as zonas de atuação são diferentes. **B está errada:** conjunções podem adicionar, explicar, condicionar e mais. **C está errada:** preposições assumem várias relações. **D está certa:** resume o critério estrutural. **E está errada:** a relação construída altera o sentido.
@@ -245,15 +245,15 @@ A. Preposição e conjunção ligam sempre exatamente os mesmos elementos. B. To
 
 ### Questão 8
 
-**Habilidade:** interpretar escopo do advérbio
 
-**Dificuldade:** difícil — a posição muda o alcance
-
+**Dificuldade:** difícil
 Em “Somente o setor técnico respondeu”, *somente* restringe:
 
 A. o modo de responder. B. o tempo da resposta. C. o sujeito que respondeu. D. a intensidade de *técnico*. E. uma oração causal.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** interpretar escopo do advérbio
+
     **Resposta: C.**
 
     **A está errada:** não indica como respondeu. **B está errada:** não localiza no tempo. **C está certa:** apenas o setor técnico realizou a ação. **D está errada:** não intensifica o adjetivo. **E está errada:** não há causa.
@@ -262,15 +262,15 @@ A. o modo de responder. B. o tempo da resposta. C. o sujeito que respondeu. D. a
 
 ### Questão 9
 
-**Habilidade:** reconhecer locução conjuntiva
 
-**Dificuldade:** média — o grupo conecta orações com concessão
-
+**Dificuldade:** média
 Em “Ainda que chova, haverá atendimento”, *ainda que* é:
 
 A. locução adverbial. B. locução prepositiva. C. interjeição. D. locução conjuntiva concessiva. E. numeral.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer locução conjuntiva
+
     **Resposta: D.**
 
     **A está errada:** não modifica isoladamente um verbo. **B está errada:** não liga apenas termos. **C está errada:** não expressa reação. **D está certa:** conecta orações e apresenta concessão. **E está errada:** não quantifica.
@@ -279,15 +279,15 @@ A. locução adverbial. B. locução prepositiva. C. interjeição. D. locução
 
 ### Questão 10
 
-**Habilidade:** aplicar integralmente o método MODA
 
-**Dificuldade:** difícil — exige separar quatro funcionamentos
-
+**Dificuldade:** difícil
 Em “Infelizmente, o setor não respondeu porque estava sem acesso. Puxa!”, as formas destacadas exercem, respectivamente, valores de:
 
 A. preposição, artigo e verbo. B. conjunção, numeral e adjetivo. C. interjeição, preposição e pronome. D. artigo, conjunção e advérbio. E. advérbio, conjunção e interjeição.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar integralmente o método MODA
+
     **Resposta: E.**
 
     **A está errada:** nenhuma sequência corresponde às relações. **B está errada:** *infelizmente* não conecta oração. **C está errada:** *porque* não é preposição nesse uso. **D está errada:** *infelizmente* não determina nome. **E está certa:** avalia o enunciado, conecta causa e expressa reação.

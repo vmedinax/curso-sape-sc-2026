@@ -261,11 +261,11 @@ C. autoridade e responsabilidade
 D. usuário e protocolo  
 E. dado e indicador
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **A.** A Administração Científica concentra atenção no modo de executar a tarefa.
-2. **B.** O conjunto descrito corresponde ao sentido técnico do modelo burocrático.
-3. **C.** A gerente recebeu responsabilidade, mas não autoridade suficiente para agir.
+    1. **A.** A Administração Científica concentra atenção no modo de executar a tarefa.
+    2. **B.** O conjunto descrito corresponde ao sentido técnico do modelo burocrático.
+    3. **C.** A gerente recebeu responsabilidade, mas não autoridade suficiente para agir.
 
 ## Checklist
 

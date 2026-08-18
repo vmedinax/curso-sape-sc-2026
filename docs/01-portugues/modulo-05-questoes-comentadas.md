@@ -10,8 +10,6 @@ last_reviewed: 2026-08-04
 ## Questão oficial adaptada
 
 **Origem:** FEPESE, InvestSC, Edital nº 003/2026, prova S1 — Agente/Analista Administrativo, questão 6, página 4, aplicação em 3 maio 2026.  
-**Gabarito definitivo retificado:** A.  
-**Tema:** reescrita, sentido, regência e crase. **Dificuldade:** média — a alternativa precisa preservar várias camadas.
 
 !!! note "Adaptação pedagógica"
     O comando foi condensado. As substituições centrais foram preservadas para permitir análise da regência. Consulte o caderno para a diagramação original.
@@ -25,6 +23,10 @@ D) Todos impugnaram aquela proposta.
 E) Todos tangenciaram àquela proposta.
 
 ??? success "Resposta e comentário"
+    **Gabarito oficial definitivo retificado:** A.
+
+    **Tema cobrado:** reescrita, sentido, regência e crase. **Dificuldade:** média — a alternativa precisa preservar várias camadas
+
     **A.** *Anuir* significa concordar e rege *a*; diante de *aquela*, ocorre *àquela*. **B:** *abdicar* significa renunciar e não preserva o sentido; a construção apresentada também não resolve a regência. **C:** *retificar* é corrigir e não equivale a concordar. **D:** *impugnar* é contestar, sentido oposto ao original. **E:** *tangenciar* é tocar de modo lateral ou abordar superficialmente e não mantém o sentido; a regência indicada também não se justifica. **Erro provável:** olhar apenas a crase ou apenas o vocabulário. **Dica:** aplique VERBO e CASA. **Retorno:** Aulas 4 e 5.
 
 ## Limite da evidência

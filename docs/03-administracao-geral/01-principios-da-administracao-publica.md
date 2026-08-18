@@ -314,13 +314,13 @@ C. Eficiência
 D. Continuidade  
 E. Autotutela
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **B.** A Administração não pode criar exigência sem fundamento jurídico. Esse é o núcleo da legalidade.
-2. **A.** A comunicação pública não deve servir à promoção pessoal. O problema descrito atinge diretamente a impessoalidade.
-3. **D.** Os princípios trabalham juntos. As demais alternativas transformam um princípio em autorização ilimitada ou definição pessoal.
-4. **C.** O setor entregou o mesmo serviço com menos desperdício e preservou os controles necessários. Isso representa eficiência.
-5. **A.** O vínculo pessoal mudou o tratamento do pedido. O fato atinge a impessoalidade. Dependendo do contexto, também pode afetar moralidade, mas a pergunta pede a relação mais direta.
+    1. **B.** A Administração não pode criar exigência sem fundamento jurídico. Esse é o núcleo da legalidade.
+    2. **A.** A comunicação pública não deve servir à promoção pessoal. O problema descrito atinge diretamente a impessoalidade.
+    3. **D.** Os princípios trabalham juntos. As demais alternativas transformam um princípio em autorização ilimitada ou definição pessoal.
+    4. **C.** O setor entregou o mesmo serviço com menos desperdício e preservou os controles necessários. Isso representa eficiência.
+    5. **A.** O vínculo pessoal mudou o tratamento do pedido. O fato atinge a impessoalidade. Dependendo do contexto, também pode afetar moralidade, mas a pergunta pede a relação mais direta.
 
 ## Flashcards da aula
 

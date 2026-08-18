@@ -252,11 +252,11 @@ C. Qual regra pode ser ignorada?
 D. Como esconder o resultado?  
 E. Qual teoria resolve todos os casos?
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **B.** O caso observa como a atividade é executada. Tempo e etapas são sinais do foco na tarefa.
-2. **C.** Cada teoria seleciona problemas e relações para explicar. Ela não reproduz toda a realidade nem resolve qualquer situação.
-3. **A.** O efeito de um setor sobre outro exige observar a ligação entre as partes.
+    1. **B.** O caso observa como a atividade é executada. Tempo e etapas são sinais do foco na tarefa.
+    2. **C.** Cada teoria seleciona problemas e relações para explicar. Ela não reproduz toda a realidade nem resolve qualquer situação.
+    3. **A.** O efeito de um setor sobre outro exige observar a ligação entre as partes.
 
 ## Checklist
 

@@ -132,15 +132,15 @@ As questões são autorais. O gabarito usa cada letra duas vezes, sem sequência
 
 ### Questão 1
 
-**Habilidade:** reconhecer proparoxítona
 
-**Dificuldade:** fácil — a tonicidade está indicada pela pronúncia
-
+**Dificuldade:** fácil
 A palavra acentuada por ser proparoxítona é:
 
 A. *papel*. B. *relatório*. C. *técnico*. D. *café*. E. *servidor*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer proparoxítona
+
     **Resposta: C.**
 
     **A está errada:** pa-*pel* é oxítona sem acento. **B está errada:** re-la-*tó*-rio é paroxítona. **C está certa:** *téc*-ni-co tem tônica antepenúltima. **D está errada:** ca-*fé* é oxítona acentuada por outra regra. **E está errada:** ser-vi-*dor* é oxítona sem acento.
@@ -149,15 +149,15 @@ A. *papel*. B. *relatório*. C. *técnico*. D. *café*. E. *servidor*.
 
 ### Questão 2
 
-**Habilidade:** reconhecer mudança do Acordo Ortográfico
 
-**Dificuldade:** média — exige identificar acentos retirados
-
+**Dificuldade:** média
 Segundo o Acordo Ortográfico, a grafia correta é:
 
 A. *idéia*. B. *heróico*. C. *vôo*. D. *leem*. E. *assembléia*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer mudança do Acordo Ortográfico
+
     **Resposta: D.**
 
     **A está errada:** *ideia* perdeu o acento do ditongo aberto em paroxítona. **B está errada:** escreve-se *heroico*. **C está errada:** escreve-se *voo*. **D está certa:** *leem* não recebe mais circunflexo. **E está errada:** escreve-se *assembleia*.
@@ -166,15 +166,15 @@ A. *idéia*. B. *heróico*. C. *vôo*. D. *leem*. E. *assembléia*.
 
 ### Questão 3
 
-**Habilidade:** reconhecer acento diferencial de tempo verbal
 
-**Dificuldade:** média — exige separar presente de passado
-
+**Dificuldade:** média
 O acento distingue passado e presente em:
 
 A. *por/pôr*. B. *pode/pôde*. C. *tem/têm*. D. *vem/vêm*. E. *ideia/herói*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer acento diferencial de tempo verbal
+
     **Resposta: B.**
 
     **A está errada:** distingue preposição e verbo. **B está certa:** *pode* é presente; *pôde*, pretérito perfeito. **C está errada:** distingue singular e plural. **D está errada:** também distingue número. **E está errada:** são palavras de estruturas distintas.
@@ -183,15 +183,15 @@ A. *por/pôr*. B. *pode/pôde*. C. *tem/têm*. D. *vem/vêm*. E. *ideia/herói*.
 
 ### Questão 4
 
-**Habilidade:** aplicar regra de oxítona
 
-**Dificuldade:** fácil — terminações estão explícitas
-
+**Dificuldade:** fácil
 Qual oxítona está corretamente acentuada?
 
 A. *café*. B. *papél*. C. *servidór*. D. *urubú*. E. *rapáz*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar regra de oxítona
+
     **Resposta: A.**
 
     **A está certa:** oxítonas terminadas em *e* recebem acento. **B está errada:** *papel* termina em *l* e não recebe acento. **C está errada:** *servidor* termina em *r*. **D está errada:** *urubu* termina em *u*. **E está errada:** *rapaz* termina em *z*.
@@ -200,15 +200,15 @@ A. *café*. B. *papél*. C. *servidór*. D. *urubú*. E. *rapáz*.
 
 ### Questão 5
 
-**Habilidade:** reconhecer hiato acentuado
 
-**Dificuldade:** média — exige separar os núcleos vocálicos
-
+**Dificuldade:** média
 Em qual palavra o acento se relaciona ao *i* ou *u* tônico em hiato?
 
 A. *técnico*. B. *café*. C. *fácil*. D. *também*. E. *saída*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer hiato acentuado
+
     **Resposta: E.**
 
     **A está errada:** é proparoxítona. **B está errada:** é oxítona terminada em *e*. **C está errada:** é paroxítona terminada em *l*. **D está errada:** é oxítona terminada em *em*. **E está certa:** sa-í-da apresenta *i* tônico em hiato nas condições da regra.
@@ -217,15 +217,15 @@ A. *técnico*. B. *café*. C. *fácil*. D. *também*. E. *saída*.
 
 ### Questão 6
 
-**Habilidade:** distinguir regra de paroxítona
 
-**Dificuldade:** média — exige classificar antes de observar a terminação
-
+**Dificuldade:** média
 Por que *fácil* recebe acento?
 
 A. É proparoxítona. B. É oxítona terminada em *l*. C. É paroxítona terminada em *l*. D. Toda palavra com duas sílabas é acentuada. E. O acento cria sua tonicidade.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir regra de paroxítona
+
     **Resposta: C.**
 
     **A está errada:** *fá* é a penúltima sílaba. **B está errada:** a palavra não é oxítona. **C está certa:** a classificação e a terminação selecionam a regra. **D está errada:** número de sílabas não basta. **E está errada:** a pronúncia existe antes da marca gráfica.
@@ -234,15 +234,15 @@ A. É proparoxítona. B. É oxítona terminada em *l*. C. É paroxítona termina
 
 ### Questão 7
 
-**Habilidade:** distinguir oxítona de paroxítona após o Acordo
 
-**Dificuldade:** difícil — compara ditongos abertos em classes distintas
-
+**Dificuldade:** difícil
 Por que *herói* recebe acento, mas *heroico* não?
 
 A. *Herói* é oxítona; *heroico* é paroxítona com ditongo aberto cujo acento foi retirado. B. Toda palavra maior perde acento. C. *Heroico* não tem sílaba tônica. D. O Acordo eliminou todos os ditongos abertos. E. *Herói* é proparoxítona.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir oxítona de paroxítona após o Acordo
+
     **Resposta: A.**
 
     **A está certa:** as classes tônicas submetem as formas a regras diferentes. **B está errada:** tamanho não é critério. **C está errada:** he-*roi*-co é paroxítona. **D está errada:** oxítonas como *herói* mantêm o acento. **E está errada:** a tônica é final.
@@ -251,15 +251,15 @@ A. *Herói* é oxítona; *heroico* é paroxítona com ditongo aberto cujo acento
 
 ### Questão 8
 
-**Habilidade:** reconhecer acento diferencial de número
 
-**Dificuldade:** difícil — exige relacionar grafia e sujeito
-
+**Dificuldade:** difícil
 Complete: “O setor ___ uma vaga; os setores ___ duas vagas.”
 
 A. têm; tem. B. têem; tem. C. tem; tem. D. tem; têm. E. têm; têem.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer acento diferencial de número
+
     **Resposta: D.**
 
     **A está errada:** inverte singular e plural. **B está errada:** *têem* não é grafia vigente. **C está errada:** o plural exige circunflexo. **D está certa:** *tem* acompanha sujeito singular; *têm*, plural. **E está errada:** as duas formas estão inadequadas ao contexto.
@@ -268,15 +268,15 @@ A. têm; tem. B. têem; tem. C. tem; tem. D. tem; têm. E. têm; têem.
 
 ### Questão 9
 
-**Habilidade:** aplicar o método TERA
 
-**Dificuldade:** média — exige ordenar as etapas
-
+**Dificuldade:** média
 Qual sequência é adequada antes de acentuar uma palavra?
 
 A. Acento, regra, estrutura e tônica. B. Tônica, estrutura, regra e acento. C. Regra, memória, acento e som. D. Terminação, tamanho e acento. E. Acento, consulta e pronúncia.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar o método TERA
+
     **Resposta: B.**
 
     **A está errada:** começa pela decisão que deveria ser justificada. **B está certa:** corresponde ao método TERA. **C está errada:** memória não substitui classificação. **D está errada:** tamanho não é critério e falta tonicidade. **E está errada:** o acento não pode preceder a análise.
@@ -285,15 +285,15 @@ A. Acento, regra, estrutura e tônica. B. Tônica, estrutura, regra e acento. C.
 
 ### Questão 10
 
-**Habilidade:** revisar alteração de acento
 
-**Dificuldade:** difícil — exige verificar mais de um grupo reformado
-
+**Dificuldade:** difícil
 Assinale o conjunto integralmente correto.
 
 A. *idéia, vôo, lêem*. B. *assembléia, voo, lêem*. C. *heróico, assembleia, vôo*. D. *idéia, heroico, leem*. E. *heroico, ideia, voo*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** revisar alteração de acento
+
     **Resposta: E.**
 
     **A está errada:** as três formas mantêm acentos retirados. **B está errada:** *assembleia* e *leem* não recebem os sinais apresentados. **C está errada:** *heroico* e *voo* não recebem esses acentos. **D está errada:** *ideia* perdeu o acento. **E está certa:** todas seguem a grafia vigente.

@@ -108,10 +108,8 @@ Reescreva uma ativa na passiva, uma oração causal como termo nominal e uma fra
 
 ### Questão 1
 
-**Habilidade:** reconhecer preservação da causa em enunciado autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **preservação da causa**?
 
 A. Porque o prazo terminou, o recurso não foi recebido → O recurso não foi recebido, pois o prazo terminou.
@@ -121,6 +119,8 @@ D. A comissão analisou o recurso → A análise do recurso pela comissão.
 E. A diretora informou à servidora que ela seria promovida → A diretora informou: a servidora seria promovida.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer preservação da causa em enunciado autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** As duas versões mantêm a relação causal.
@@ -137,10 +137,8 @@ E. A diretora informou à servidora que ela seria promovida → A diretora infor
 
 ### Questão 2
 
-**Habilidade:** reconhecer preservação da concessão em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **preservação da concessão**?
 
 A. Porque o prazo terminou, o recurso não foi recebido → O recurso não foi recebido, pois o prazo terminou.
@@ -150,6 +148,8 @@ D. A comissão analisou o recurso → A análise do recurso pela comissão.
 E. A diretora informou à servidora que ela seria promovida → A diretora informou: a servidora seria promovida.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer preservação da concessão em enunciado autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** a frase exemplifica preservação da causa, pois as duas versões mantêm a relação causal; não exemplifica preservação da concessão.
@@ -166,10 +166,8 @@ E. A diretora informou à servidora que ela seria promovida → A diretora infor
 
 ### Questão 3
 
-**Habilidade:** reconhecer transformação ativa-passiva em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **transformação ativa-passiva**?
 
 A. Porque o prazo terminou, o recurso não foi recebido → O recurso não foi recebido, pois o prazo terminou.
@@ -179,6 +177,8 @@ D. A comissão analisou o recurso → A análise do recurso pela comissão.
 E. A diretora informou à servidora que ela seria promovida → A diretora informou: a servidora seria promovida.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer transformação ativa-passiva em enunciado autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** a frase exemplifica preservação da causa, pois as duas versões mantêm a relação causal; não exemplifica transformação ativa-passiva.
@@ -195,10 +195,8 @@ E. A diretora informou à servidora que ela seria promovida → A diretora infor
 
 ### Questão 4
 
-**Habilidade:** reconhecer nominalização em enunciado autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **nominalização**?
 
 A. Porque o prazo terminou, o recurso não foi recebido → O recurso não foi recebido, pois o prazo terminou.
@@ -208,6 +206,8 @@ D. A comissão analisou o recurso → A análise do recurso pela comissão.
 E. A diretora informou à servidora que ela seria promovida → A diretora informou: a servidora seria promovida.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer nominalização em enunciado autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** a frase exemplifica preservação da causa, pois as duas versões mantêm a relação causal; não exemplifica nominalização.
@@ -224,10 +224,8 @@ E. A diretora informou à servidora que ela seria promovida → A diretora infor
 
 ### Questão 5
 
-**Habilidade:** reconhecer eliminação de ambiguidade em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **eliminação de ambiguidade**?
 
 A. Porque o prazo terminou, o recurso não foi recebido → O recurso não foi recebido, pois o prazo terminou.
@@ -237,6 +235,8 @@ D. A comissão analisou o recurso → A análise do recurso pela comissão.
 E. A diretora informou à servidora que ela seria promovida → A diretora informou: a servidora seria promovida.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer eliminação de ambiguidade em enunciado autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** a frase exemplifica preservação da causa, pois as duas versões mantêm a relação causal; não exemplifica eliminação de ambiguidade.
@@ -253,10 +253,8 @@ E. A diretora informou à servidora que ela seria promovida → A diretora infor
 
 ### Questão 6
 
-**Habilidade:** reconhecer redução de oração em enunciado autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **redução de oração**?
 
 A. Quando terminou a reunião, saíram → Terminada a reunião, saíram.
@@ -266,6 +264,8 @@ D. A comissão publicou o edital → O edital foi publicado pela comissão.
 E. A comissão analisou o recurso → A análise do recurso pela comissão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer redução de oração em enunciado autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** A oração temporal torna-se reduzida.
@@ -282,10 +282,8 @@ E. A comissão analisou o recurso → A análise do recurso pela comissão.
 
 ### Questão 7
 
-**Habilidade:** reconhecer expansão de oração reduzida em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **expansão de oração reduzida**?
 
 A. Porque o prazo terminou, o recurso não foi recebido → O recurso não foi recebido, pois o prazo terminou.
@@ -295,6 +293,8 @@ D. A comissão publicou o edital → O edital foi publicado pela comissão.
 E. A comissão analisou o recurso → A análise do recurso pela comissão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer expansão de oração reduzida em enunciado autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** a frase exemplifica preservação da causa, pois as duas versões mantêm a relação causal; não exemplifica expansão de oração reduzida.
@@ -311,10 +311,8 @@ E. A comissão analisou o recurso → A análise do recurso pela comissão.
 
 ### Questão 8
 
-**Habilidade:** reconhecer preservação da condição em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **preservação da condição**?
 
 A. Porque o prazo terminou, o recurso não foi recebido → O recurso não foi recebido, pois o prazo terminou.
@@ -324,6 +322,8 @@ D. A comissão publicou o edital → O edital foi publicado pela comissão.
 E. A comissão analisou o recurso → A análise do recurso pela comissão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer preservação da condição em enunciado autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** a frase exemplifica preservação da causa, pois as duas versões mantêm a relação causal; não exemplifica preservação da condição.
@@ -340,10 +340,8 @@ E. A comissão analisou o recurso → A análise do recurso pela comissão.
 
 ### Questão 9
 
-**Habilidade:** reconhecer correção de paralelismo em enunciado autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **correção de paralelismo**?
 
 A. Porque o prazo terminou, o recurso não foi recebido → O recurso não foi recebido, pois o prazo terminou.
@@ -353,6 +351,8 @@ D. A função exige analisar dados e redigir relatórios.
 E. A comissão analisou o recurso → A análise do recurso pela comissão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer correção de paralelismo em enunciado autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** a frase exemplifica preservação da causa, pois as duas versões mantêm a relação causal; não exemplifica correção de paralelismo.
@@ -369,10 +369,8 @@ E. A comissão analisou o recurso → A análise do recurso pela comissão.
 
 ### Questão 10
 
-**Habilidade:** reconhecer controle de referência em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **controle de referência**?
 
 A. Porque o prazo terminou, o recurso não foi recebido → O recurso não foi recebido, pois o prazo terminou.
@@ -382,6 +380,8 @@ D. A comissão analisou o recurso → A análise do recurso pela comissão.
 E. A comissão revisou a norma e depois a publicou.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer controle de referência em enunciado autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** a frase exemplifica preservação da causa, pois as duas versões mantêm a relação causal; não exemplifica controle de referência.

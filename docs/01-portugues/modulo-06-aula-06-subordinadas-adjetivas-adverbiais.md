@@ -123,10 +123,8 @@ Compare as duas versões da abertura e classifique orações com *porque, se, em
 
 ### Questão 1
 
-**Habilidade:** reconhecer adjetiva restritiva em enunciado autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **adjetiva restritiva**?
 
 A. Os candidatos que estudaram foram aprovados.
@@ -136,6 +134,8 @@ D. Embora estivesse cansada, a equipe concluiu a análise.
 E. Se houver prazo, apresentaremos recurso.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adjetiva restritiva em enunciado autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** Sem vírgulas, a oração delimita quais candidatos.
@@ -152,10 +152,8 @@ E. Se houver prazo, apresentaremos recurso.
 
 ### Questão 2
 
-**Habilidade:** reconhecer adjetiva explicativa em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **adjetiva explicativa**?
 
 A. Os candidatos que estudaram foram aprovados.
@@ -165,6 +163,8 @@ D. Embora estivesse cansada, a equipe concluiu a análise.
 E. Se houver prazo, apresentaremos recurso.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adjetiva explicativa em enunciado autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** a frase exemplifica adjetiva restritiva, pois sem vírgulas, a oração delimita quais candidatos; não exemplifica adjetiva explicativa.
@@ -181,10 +181,8 @@ E. Se houver prazo, apresentaremos recurso.
 
 ### Questão 3
 
-**Habilidade:** reconhecer adverbial causal em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **adverbial causal**?
 
 A. Os candidatos que estudaram foram aprovados.
@@ -194,6 +192,8 @@ D. Embora estivesse cansada, a equipe concluiu a análise.
 E. Se houver prazo, apresentaremos recurso.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adverbial causal em enunciado autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** a frase exemplifica adjetiva restritiva, pois sem vírgulas, a oração delimita quais candidatos; não exemplifica adverbial causal.
@@ -210,10 +210,8 @@ E. Se houver prazo, apresentaremos recurso.
 
 ### Questão 4
 
-**Habilidade:** reconhecer adverbial concessiva em enunciado autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **adverbial concessiva**?
 
 A. Os candidatos que estudaram foram aprovados.
@@ -223,6 +221,8 @@ D. Embora estivesse cansada, a equipe concluiu a análise.
 E. Se houver prazo, apresentaremos recurso.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adverbial concessiva em enunciado autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** a frase exemplifica adjetiva restritiva, pois sem vírgulas, a oração delimita quais candidatos; não exemplifica adverbial concessiva.
@@ -239,10 +239,8 @@ E. Se houver prazo, apresentaremos recurso.
 
 ### Questão 5
 
-**Habilidade:** reconhecer adverbial condicional em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **adverbial condicional**?
 
 A. Os candidatos que estudaram foram aprovados.
@@ -252,6 +250,8 @@ D. Embora estivesse cansada, a equipe concluiu a análise.
 E. Se houver prazo, apresentaremos recurso.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adverbial condicional em enunciado autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** a frase exemplifica adjetiva restritiva, pois sem vírgulas, a oração delimita quais candidatos; não exemplifica adverbial condicional.
@@ -268,10 +268,8 @@ E. Se houver prazo, apresentaremos recurso.
 
 ### Questão 6
 
-**Habilidade:** reconhecer adverbial temporal em enunciado autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **adverbial temporal**?
 
 A. Quando a sessão terminou, a ata foi publicada.
@@ -281,6 +279,8 @@ D. Como o prazo terminou, o recurso não foi recebido.
 E. Embora estivesse cansada, a equipe concluiu a análise.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adverbial temporal em enunciado autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** Quando localiza o fato no tempo.
@@ -297,10 +297,8 @@ E. Embora estivesse cansada, a equipe concluiu a análise.
 
 ### Questão 7
 
-**Habilidade:** reconhecer adverbial final em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **adverbial final**?
 
 A. Os candidatos que estudaram foram aprovados.
@@ -310,6 +308,8 @@ D. Como o prazo terminou, o recurso não foi recebido.
 E. Embora estivesse cansada, a equipe concluiu a análise.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adverbial final em enunciado autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** a frase exemplifica adjetiva restritiva, pois sem vírgulas, a oração delimita quais candidatos; não exemplifica adverbial final.
@@ -326,10 +326,8 @@ E. Embora estivesse cansada, a equipe concluiu a análise.
 
 ### Questão 8
 
-**Habilidade:** reconhecer adverbial consecutiva em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **adverbial consecutiva**?
 
 A. Os candidatos que estudaram foram aprovados.
@@ -339,6 +337,8 @@ D. Como o prazo terminou, o recurso não foi recebido.
 E. Embora estivesse cansada, a equipe concluiu a análise.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adverbial consecutiva em enunciado autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** a frase exemplifica adjetiva restritiva, pois sem vírgulas, a oração delimita quais candidatos; não exemplifica adverbial consecutiva.
@@ -355,10 +355,8 @@ E. Embora estivesse cansada, a equipe concluiu a análise.
 
 ### Questão 9
 
-**Habilidade:** reconhecer adverbial conformativa em enunciado autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **adverbial conformativa**?
 
 A. Os candidatos que estudaram foram aprovados.
@@ -368,6 +366,8 @@ D. Conforme determina o edital, a prova terá cinco horas.
 E. Embora estivesse cansada, a equipe concluiu a análise.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adverbial conformativa em enunciado autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** a frase exemplifica adjetiva restritiva, pois sem vírgulas, a oração delimita quais candidatos; não exemplifica adverbial conformativa.
@@ -384,10 +384,8 @@ E. Embora estivesse cansada, a equipe concluiu a análise.
 
 ### Questão 10
 
-**Habilidade:** reconhecer adverbial proporcional em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **adverbial proporcional**?
 
 A. Os candidatos que estudaram foram aprovados.
@@ -397,6 +395,8 @@ D. Embora estivesse cansada, a equipe concluiu a análise.
 E. À medida que estudava, ganhava segurança.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adverbial proporcional em enunciado autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** a frase exemplifica adjetiva restritiva, pois sem vírgulas, a oração delimita quais candidatos; não exemplifica adverbial proporcional.

@@ -13,11 +13,13 @@ A questão 2 do caderno InvestSC S1 de 2026 fornece uma ocorrência validada de 
 
 ### 1. Função — oficial adaptada
 
-**Fonte:** FEPESE, InvestSC, Edital nº 003/2026, caderno S1, questão 2. Gabarito definitivo retificado: **E**.
+**Fonte:** FEPESE, InvestSC, Edital nº 003/2026, caderno S1, questão 2.
 
 No trecho adaptado “apareceram as ervilhas preparadas ou conservadas”, os termos destacados exercem função de: A) objeto direto. B) aposto. C) complemento verbal. D) adjunto adverbial. E) adjunto adnominal.
 
 ??? success "Gabarito e raciocínio"
+    **Gabarito oficial definitivo retificado:** E.
+
     **E.** Os adjetivos caracterizam o substantivo *ervilhas* dentro do grupo nominal. Não completam o verbo nem indicam circunstância da ação.
 
 ### 2. Relação

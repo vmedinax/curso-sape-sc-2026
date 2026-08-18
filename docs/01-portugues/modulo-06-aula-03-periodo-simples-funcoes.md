@@ -118,39 +118,37 @@ Analise classe e função dos destaques: “**Ela** considerou o **parecer** **c
 
 ### Questão 1
 
-**Habilidade:** reconhecer oração absoluta em enunciado autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **oração absoluta**?
 
 A. A comissão publicou o resultado.
-B. A comissão deve publicar o resultado.
-C. Os resultados foram divulgados pela banca.
-D. Os resultados parecem corretos.
-E. A banca julgou os recursos improcedentes.
+B. A comissão deve publicar o resultado quando concluir a análise.
+C. Os resultados foram divulgados porque a banca concluiu o exame.
+D. Os resultados parecem corretos, mas ainda serão revistos.
+E. A banca julgou os recursos depois que encerrou a sessão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer oração absoluta em enunciado autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** Há uma única oração no período.
 
-    **B está errada:** a frase exemplifica locução verbal, pois deve publicar forma um único núcleo verbal; não exemplifica oração absoluta.
+    **B está errada:** além da locução *deve publicar*, há a oração temporal iniciada por *quando*; o período não contém uma única oração.
 
-    **C está errada:** a frase exemplifica sujeito paciente, pois os resultados recebem a ação na voz passiva; não exemplifica oração absoluta.
+    **C está errada:** a oração causal iniciada por *porque* torna o período composto.
 
-    **D está errada:** a frase exemplifica predicativo do sujeito, pois corretos atribui estado ao sujeito; não exemplifica oração absoluta.
+    **D está errada:** a conjunção *mas* liga duas orações, portanto o período é composto.
 
-    **E está errada:** a frase exemplifica predicativo do objeto, pois improcedentes caracteriza o objeto recursos; não exemplifica oração absoluta.
+    **E está errada:** a oração temporal iniciada por *depois que* impede a classificação como oração absoluta.
 
     **Tópico para revisar:** seção sobre oração absoluta.
 
 ### Questão 2
 
-**Habilidade:** reconhecer locução verbal em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **locução verbal**?
 
 A. A comissão publicou o resultado.
@@ -160,6 +158,8 @@ D. Os resultados parecem corretos.
 E. A banca julgou os recursos improcedentes.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer locução verbal em enunciado autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** a frase exemplifica oração absoluta, pois há uma única oração no período; não exemplifica locução verbal.
@@ -176,10 +176,8 @@ E. A banca julgou os recursos improcedentes.
 
 ### Questão 3
 
-**Habilidade:** reconhecer sujeito paciente em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **sujeito paciente**?
 
 A. A comissão publicou o resultado.
@@ -189,6 +187,8 @@ D. Os resultados parecem corretos.
 E. A banca julgou os recursos improcedentes.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer sujeito paciente em enunciado autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** a frase exemplifica oração absoluta, pois há uma única oração no período; não exemplifica sujeito paciente.
@@ -205,10 +205,8 @@ E. A banca julgou os recursos improcedentes.
 
 ### Questão 4
 
-**Habilidade:** reconhecer predicativo do sujeito em enunciado autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **predicativo do sujeito**?
 
 A. A comissão publicou o resultado.
@@ -218,6 +216,8 @@ D. Os resultados parecem corretos.
 E. A banca julgou os recursos improcedentes.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer predicativo do sujeito em enunciado autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** a frase exemplifica oração absoluta, pois há uma única oração no período; não exemplifica predicativo do sujeito.
@@ -234,10 +234,8 @@ E. A banca julgou os recursos improcedentes.
 
 ### Questão 5
 
-**Habilidade:** reconhecer predicativo do objeto em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **predicativo do objeto**?
 
 A. A comissão publicou o resultado.
@@ -247,6 +245,8 @@ D. Os resultados parecem corretos.
 E. A banca julgou os recursos improcedentes.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer predicativo do objeto em enunciado autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** a frase exemplifica oração absoluta, pois há uma única oração no período; não exemplifica predicativo do objeto.
@@ -263,10 +263,8 @@ E. A banca julgou os recursos improcedentes.
 
 ### Questão 6
 
-**Habilidade:** reconhecer adjunto adverbial deslocado em enunciado autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **adjunto adverbial deslocado**?
 
 A. Após a reunião, a equipe publicou a ata.
@@ -276,6 +274,8 @@ D. Os resultados foram divulgados pela banca.
 E. Os resultados parecem corretos.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adjunto adverbial deslocado em enunciado autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** O termo inicial indica tempo e está deslocado.
@@ -292,10 +292,8 @@ E. Os resultados parecem corretos.
 
 ### Questão 7
 
-**Habilidade:** reconhecer aposto explicativo em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **aposto explicativo**?
 
 A. A comissão publicou o resultado.
@@ -305,6 +303,8 @@ D. Os resultados foram divulgados pela banca.
 E. Os resultados parecem corretos.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer aposto explicativo em enunciado autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** a frase exemplifica oração absoluta, pois há uma única oração no período; não exemplifica aposto explicativo.
@@ -321,10 +321,8 @@ E. Os resultados parecem corretos.
 
 ### Questão 8
 
-**Habilidade:** reconhecer vocativo em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **vocativo**?
 
 A. A comissão publicou o resultado.
@@ -334,6 +332,8 @@ D. Os resultados foram divulgados pela banca.
 E. Os resultados parecem corretos.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer vocativo em enunciado autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** a frase exemplifica oração absoluta, pois há uma única oração no período; não exemplifica vocativo.
@@ -350,10 +350,8 @@ E. Os resultados parecem corretos.
 
 ### Questão 9
 
-**Habilidade:** reconhecer complemento nominal em enunciado autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **complemento nominal**?
 
 A. A comissão publicou o resultado.
@@ -363,6 +361,8 @@ D. A análise dos recursos foi cuidadosa.
 E. Os resultados parecem corretos.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer complemento nominal em enunciado autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** a frase exemplifica oração absoluta, pois há uma única oração no período; não exemplifica complemento nominal.
@@ -379,10 +379,8 @@ E. Os resultados parecem corretos.
 
 ### Questão 10
 
-**Habilidade:** reconhecer adjunto adnominal em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **adjunto adnominal**?
 
 A. A comissão publicou o resultado.
@@ -392,6 +390,8 @@ D. Os resultados parecem corretos.
 E. A decisão da diretoria foi publicada.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adjunto adnominal em enunciado autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** a frase exemplifica oração absoluta, pois há uma única oração no período; não exemplifica adjunto adnominal.

@@ -124,15 +124,15 @@ As questões são autorais. O gabarito usa cada letra duas vezes, sem sequência
 
 ### Questão 1
 
-**Habilidade:** classificar palavra por substituição
 
-**Dificuldade:** fácil — o termo retoma um nome
-
+**Dificuldade:** fácil
 Em “Eu o encaminhei”, *o* é:
 
 A. artigo. B. pronome. C. preposição. D. verbo. E. interjeição.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** classificar palavra por substituição
+
     **Resposta: B.**
 
     **A está errada:** artigo acompanha substantivo. **B está certa:** *o* substitui o elemento encaminhado. **C está errada:** não liga termos por dependência. **D está errada:** não expressa processo nem se flexiona como verbo. **E está errada:** não manifesta reação independente.
@@ -141,15 +141,15 @@ A. artigo. B. pronome. C. preposição. D. verbo. E. interjeição.
 
 ### Questão 2
 
-**Habilidade:** reconhecer zona de atuação
 
-**Dificuldade:** fácil — o modificador acompanha um verbo
-
+**Dificuldade:** fácil
 Em “A equipe trabalhou muito”, *muito* modifica:
 
 A. *equipe*. B. um artigo oculto. C. o verbo *trabalhou*. D. uma preposição. E. um substantivo oculto obrigatório.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer zona de atuação
+
     **Resposta: C.**
 
     **A está errada:** a intensidade recai sobre a ação, não sobre o nome. **B está errada:** não há artigo modificado. **C está certa:** *muito* intensifica *trabalhou* e funciona como advérbio. **D está errada:** nenhuma preposição aparece. **E está errada:** a análise não exige nome oculto.
@@ -158,15 +158,15 @@ A. *equipe*. B. um artigo oculto. C. o verbo *trabalhou*. D. uma preposição. E
 
 ### Questão 3
 
-**Habilidade:** aplicar critérios integrados
 
-**Dificuldade:** fácil — pergunta pelo procedimento geral
-
+**Dificuldade:** fácil
 O critério mais seguro para classificar uma palavra é observar:
 
 A. sua grafia isolada. B. seu tamanho. C. a primeira definição lembrada. D. forma, sentido e atuação no contexto. E. apenas a posição inicial.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar critérios integrados
+
     **Resposta: D.**
 
     **A está errada:** a mesma grafia pode pertencer a classes diferentes. **B está errada:** extensão não define classe. **C está errada:** o contexto pode selecionar outro uso. **D está certa:** integra os critérios do método FAZ. **E está errada:** posição é pista insuficiente.
@@ -175,15 +175,15 @@ A. sua grafia isolada. B. seu tamanho. C. a primeira definição lembrada. D. fo
 
 ### Questão 4
 
-**Habilidade:** distinguir adjetivo de advérbio
 
-**Dificuldade:** média — a mesma forma assume dois usos
-
+**Dificuldade:** média
 Em “o muro é baixo” e “ele fala baixo”, *baixo* é, respectivamente:
 
 A. adjetivo e advérbio. B. advérbio e adjetivo. C. substantivo e verbo. D. artigo e pronome. E. numeral e preposição.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir adjetivo de advérbio
+
     **Resposta: A.**
 
     **A está certa:** primeiro caracteriza *muro*; depois modifica *fala*. **B está errada:** inverte as zonas de atuação. **C está errada:** não nomeia ser nem expressa ação. **D está errada:** não determina nem substitui nome. **E está errada:** não quantifica nem conecta.
@@ -192,15 +192,15 @@ A. adjetivo e advérbio. B. advérbio e adjetivo. C. substantivo e verbo. D. art
 
 ### Questão 5
 
-**Habilidade:** reconhecer classes invariáveis
 
-**Dificuldade:** fácil — exige recuperar o mapa geral
-
+**Dificuldade:** fácil
 Qual conjunto contém apenas classes invariáveis?
 
 A. substantivo, verbo e artigo. B. adjetivo, numeral e pronome. C. verbo, advérbio e artigo. D. preposição, substantivo e interjeição. E. advérbio, preposição, conjunção e interjeição.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer classes invariáveis
+
     **Resposta: E.**
 
     **A está errada:** as três classes admitem flexão. **B está errada:** são classes variáveis, embora nem toda forma varie. **C está errada:** verbo e artigo são variáveis. **D está errada:** substantivo varia. **E está certa:** corresponde às quatro classes invariáveis.
@@ -209,15 +209,15 @@ A. substantivo, verbo e artigo. B. adjetivo, numeral e pronome. C. verbo, advér
 
 ### Questão 6
 
-**Habilidade:** separar classe de função sintática
 
-**Dificuldade:** média — exige distinguir dois níveis de análise
-
+**Dificuldade:** média
 Assinale a afirmação correta.
 
 A. Classe e função sintática são sempre sinônimos. B. A classe categoriza a palavra; a função descreve seu trabalho na oração. C. Toda classe possui uma única função. D. Função é definida apenas pelo dicionário. E. Morfologia não analisa flexão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** separar classe de função sintática
+
     **Resposta: B.**
 
     **A está errada:** são níveis relacionados, mas distintos. **B está certa:** separa categoria morfológica de função sintática. **C está errada:** uma classe pode exercer funções diferentes. **D está errada:** função depende da relação na oração. **E está errada:** flexão integra a morfologia.
@@ -226,15 +226,15 @@ A. Classe e função sintática são sempre sinônimos. B. A classe categoriza a
 
 ### Questão 7
 
-**Habilidade:** classificar *segundo* pelo contexto
 
-**Dificuldade:** difícil — compara numeral e preposição
-
+**Dificuldade:** difícil
 Em “o segundo relatório” e “segundo o relatório”, *segundo* é, respectivamente:
 
 A. numeral e preposição. B. preposição e numeral. C. artigo e pronome. D. adjetivo e verbo. E. conjunção e substantivo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** classificar *segundo* pelo contexto
+
     **Resposta: A.**
 
     **A está certa:** primeiro indica ordem; depois introduz conformidade. **B está errada:** inverte os usos. **C está errada:** não determina nem substitui nome nesses casos. **D está errada:** não caracteriza nem expressa processo. **E está errada:** não liga orações nem atua como núcleo nominal.
@@ -243,15 +243,15 @@ A. numeral e preposição. B. preposição e numeral. C. artigo e pronome. D. ad
 
 ### Questão 8
 
-**Habilidade:** reconhecer limite da invariabilidade
 
-**Dificuldade:** difícil — exige evitar uma generalização
-
+**Dificuldade:** difícil
 Dizer que uma classe é invariável significa que:
 
 A. suas palavras têm sempre um único sentido. B. ela não pode mudar de posição. C. ela não admite flexão como característica de classe. D. nunca modifica outra palavra. E. só aparece no início da frase.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer limite da invariabilidade
+
     **Resposta: C.**
 
     **A está errada:** uma forma invariável pode ter vários sentidos. **B está errada:** posição não define invariabilidade. **C está certa:** a noção se refere à ausência de flexão. **D está errada:** advérbios modificam outros elementos. **E está errada:** essas classes aparecem em diferentes posições.
@@ -260,15 +260,15 @@ A. suas palavras têm sempre um único sentido. B. ela não pode mudar de posiç
 
 ### Questão 9
 
-**Habilidade:** reconhecer artigo em contexto
 
-**Dificuldade:** média — a forma é igual à de um pronome em outro uso
-
+**Dificuldade:** média
 Em “O relatório chegou”, *o* é artigo porque:
 
 A. substitui *relatório*. B. expressa ação. C. liga duas orações. D. acompanha e determina o substantivo. E. indica intensidade.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer artigo em contexto
+
     **Resposta: D.**
 
     **A está errada:** substituição ocorreria em “eu o li”. **B está errada:** verbo expressa processo. **C está errada:** conjunção pode ligar orações. **D está certa:** a zona de atuação é o substantivo *relatório*. **E está errada:** não intensifica qualquer termo.
@@ -277,15 +277,15 @@ A. substitui *relatório*. B. expressa ação. C. liga duas orações. D. acompa
 
 ### Questão 10
 
-**Habilidade:** integrar os critérios do método FAZ
 
-**Dificuldade:** difícil — exige justificar uma mudança de classe
-
+**Dificuldade:** difícil
 Por que *rápido* não recebe a mesma classificação em “atendimento rápido” e “respondeu rápido”?
 
 A. Porque a palavra muda de grafia. B. Porque toda palavra final é advérbio. C. Porque a primeira frase não tem substantivo. D. Porque apenas a pronúncia decide. E. Porque primeiro caracteriza um nome e depois modifica um verbo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** integrar os critérios do método FAZ
+
     **Resposta: E.**
 
     **A está errada:** a grafia é idêntica. **B está errada:** posição final não basta. **C está errada:** *atendimento* é substantivo. **D está errada:** a zona de atuação é decisiva. **E está certa:** o funcionamento contextual distingue adjetivo de advérbio.

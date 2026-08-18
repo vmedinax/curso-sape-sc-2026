@@ -119,10 +119,8 @@ Use NOME para justificar *anexas as certidões*, *bastantes razões*, *razões b
 
 ### Questão 1
 
-**Habilidade:** aplicar núcleo do grupo nominal em contexto
 
 **Dificuldade:** fácil
-
 Assinale a concordância adequada.
 
 A. Seguem anexas as certidões.
@@ -132,6 +130,8 @@ D. Seguem anexa as certidões.
 E. Segue anexo as certidões.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar núcleo do grupo nominal em contexto
+
     **Resposta: A.**
 
     **A está certa:** Anexas concorda em gênero e número com certidões.
@@ -148,10 +148,8 @@ E. Segue anexo as certidões.
 
 ### Questão 2
 
-**Habilidade:** aplicar valor contextual de bastante em contexto
 
 **Dificuldade:** média
-
 Complete: Havia ___ razões para revisar o ato.
 
 A. bastante de
@@ -161,6 +159,8 @@ D. muito de
 E. bastante razões
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar valor contextual de bastante em contexto
+
     **Resposta: B.**
 
     **A está errada:** “bastante de” não satisfaz o critério cobrado. Como quantificador equivalente a muitas, bastante varia.
@@ -177,10 +177,8 @@ E. bastante razões
 
 ### Questão 3
 
-**Habilidade:** aplicar valor contextual de meio em contexto
 
 **Dificuldade:** média
-
 Assinale a forma adequada.
 
 A. As servidoras estavam meias cansadas.
@@ -190,6 +188,8 @@ D. As servidoras estavam meios cansadas.
 E. As servidoras estavam meia cansado.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar valor contextual de meio em contexto
+
     **Resposta: C.**
 
     **A está errada:** “As servidoras estavam meias cansadas.” não satisfaz o critério cobrado. Como advérbio equivalente a um pouco, meio é invariável.
@@ -206,10 +206,8 @@ E. As servidoras estavam meia cansado.
 
 ### Questão 4
 
-**Habilidade:** aplicar palavras invariáveis em contexto
 
 **Dificuldade:** difícil
-
 Assinale a construção correta.
 
 A. Havia menas dúvidas após a reunião.
@@ -219,6 +217,8 @@ D. Havia menos dúvidas após a reunião.
 E. Havia menas dúvida após a reunião.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar palavras invariáveis em contexto
+
     **Resposta: D.**
 
     **A está errada:** “Havia menas dúvidas após a reunião.” não satisfaz o critério cobrado. Menos é invariável.
@@ -235,10 +235,8 @@ E. Havia menas dúvida após a reunião.
 
 ### Questão 5
 
-**Habilidade:** aplicar expressões com é proibido em contexto
 
 **Dificuldade:** média
-
 Com artigo antes do substantivo, qual forma está adequada?
 
 A. É proibido a entrada de pessoas não autorizadas.
@@ -248,6 +246,8 @@ D. É proibida entrada os visitantes.
 E. É proibida a entrada de pessoas não autorizadas.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar expressões com é proibido em contexto
+
     **Resposta: E.**
 
     **A está errada:** “É proibido a entrada de pessoas não autorizadas.” não satisfaz o critério cobrado. O substantivo determinado leva o predicativo ao feminino singular.
@@ -264,10 +264,8 @@ E. É proibida a entrada de pessoas não autorizadas.
 
 ### Questão 6
 
-**Habilidade:** aplicar valor contextual de só em contexto
 
 **Dificuldade:** fácil
-
 Assinale a frase em que só é adjetivo e concorda corretamente.
 
 A. As candidatas permaneceram sós.
@@ -277,6 +275,8 @@ D. As candidatas permaneceram só quando chegaram.
 E. As candidata permaneceram sós.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar valor contextual de só em contexto
+
     **Resposta: A.**
 
     **A está certa:** Sós equivale a desacompanhadas e concorda com candidatas.
@@ -293,10 +293,8 @@ E. As candidata permaneceram sós.
 
 ### Questão 7
 
-**Habilidade:** aplicar adjetivos ligados ao núcleo em contexto
 
 **Dificuldade:** média
-
 Assinale a concordância adequada.
 
 A. Está incluso as declarações solicitadas.
@@ -306,6 +304,8 @@ D. Está inclusas as declarações solicitadas.
 E. Estão inclusos as declarações solicitadas.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar adjetivos ligados ao núcleo em contexto
+
     **Resposta: B.**
 
     **A está errada:** “Está incluso as declarações solicitadas.” não satisfaz o critério cobrado. Inclusas funciona como adjetivo ligado a declarações.
@@ -322,10 +322,8 @@ E. Estão inclusos as declarações solicitadas.
 
 ### Questão 8
 
-**Habilidade:** aplicar adjetivo com mais de um nome em contexto
 
 **Dificuldade:** média
-
 Em qual opção o adjetivo abrange dois núcleos?
 
 A. Parecer e decisão favorável foram publicados.
@@ -335,6 +333,8 @@ D. Parecer e decisões favorável foram publicados.
 E. Pareceres e decisão favorável foi publicada.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar adjetivo com mais de um nome em contexto
+
     **Resposta: C.**
 
     **A está errada:** “Parecer e decisão favorável foram publicados.” não satisfaz o critério cobrado. O plural favoráveis abrange parecer e decisão.
@@ -351,10 +351,8 @@ E. Pareceres e decisão favorável foi publicada.
 
 ### Questão 9
 
-**Habilidade:** aplicar adjetivos variáveis em contexto
 
 **Dificuldade:** difícil
-
 Assinale o uso correto de próprio.
 
 A. As servidoras próprio conferiram os dados.
@@ -364,6 +362,8 @@ D. As servidoras próprias conferiram os dados.
 E. As servidora própria conferiram os dados.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar adjetivos variáveis em contexto
+
     **Resposta: D.**
 
     **A está errada:** “As servidoras próprio conferiram os dados.” não satisfaz o critério cobrado. Próprias é adjetivo e concorda com servidoras.
@@ -380,10 +380,8 @@ E. As servidora própria conferiram os dados.
 
 ### Questão 10
 
-**Habilidade:** aplicar método NOME em contexto
 
 **Dificuldade:** média
-
 Qual procedimento inicia o método NOME?
 
 A. Flexionar todas as palavras da frase.
@@ -393,6 +391,8 @@ D. Eliminar os determinantes antes da análise.
 E. Localizar o núcleo do grupo nominal.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar método NOME em contexto
+
     **Resposta: E.**
 
     **A está errada:** “Flexionar todas as palavras da frase.” não satisfaz o critério cobrado. A concordância nominal começa pela identificação do núcleo.

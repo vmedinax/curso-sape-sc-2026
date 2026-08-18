@@ -115,11 +115,9 @@ Pontue três frases: uma com vocativo, uma com aposto e uma com adjunto deslocad
 
 ### Questão 1
 
-**Habilidade:** reconhecer ausência de vírgula entre sujeito e verbo em contexto
 
 **Dificuldade:** fácil
-
-Qual alternativa exemplifica corretamente **ausência de vírgula entre sujeito e verbo**?
+Qual alternativa apresenta **sujeito expandido sem vírgula indevida antes do verbo**?
 
 A. Os candidatos aprovados apresentaram os documentos.
 B. A comissão publicou o resultado.
@@ -128,6 +126,8 @@ D. Servidores, confiram o aviso.
 E. Ana, a relatora, assinou o parecer.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer ausência de vírgula entre sujeito e verbo em contexto
+
     **Resposta: A.**
 
     **A está certa:** A relação entre o sujeito completo e o verbo foi preservada.
@@ -144,22 +144,22 @@ E. Ana, a relatora, assinou o parecer.
 
 ### Questão 2
 
-**Habilidade:** reconhecer ausência de vírgula entre verbo e objeto em contexto
 
 **Dificuldade:** média
+Qual alternativa apresenta corretamente a sequência sujeito–verbo–objeto, sem intercalação nem enumeração?
 
-Qual alternativa exemplifica corretamente **ausência de vírgula entre verbo e objeto**?
-
-A. Os candidatos aprovados apresentaram os documentos.
+A. Os candidatos aprovados, apresentaram os documentos.
 B. A comissão publicou o resultado.
 C. A equipe conferiu prazo, forma e conteúdo.
 D. Servidores, confiram o aviso.
 E. Ana, a relatora, assinou o parecer.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer ausência de vírgula entre verbo e objeto em contexto
+
     **Resposta: B.**
 
-    **A está errada:** a construção exemplifica ausência de vírgula entre sujeito e verbo, pois a relação entre o sujeito completo e o verbo foi preservada; não exemplifica ausência de vírgula entre verbo e objeto.
+    **A está errada:** a vírgula separa indevidamente o sujeito *Os candidatos aprovados* do verbo *apresentaram*.
 
     **B está certa:** O verbo não foi separado de seu objeto direto.
 
@@ -173,10 +173,8 @@ E. Ana, a relatora, assinou o parecer.
 
 ### Questão 3
 
-**Habilidade:** reconhecer enumeração em contexto
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **enumeração**?
 
 A. Os candidatos aprovados apresentaram os documentos.
@@ -186,6 +184,8 @@ D. Servidores, confiram o aviso.
 E. Ana, a relatora, assinou o parecer.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer enumeração em contexto
+
     **Resposta: C.**
 
     **A está errada:** a construção exemplifica ausência de vírgula entre sujeito e verbo, pois a relação entre o sujeito completo e o verbo foi preservada; não exemplifica enumeração.
@@ -202,10 +202,8 @@ E. Ana, a relatora, assinou o parecer.
 
 ### Questão 4
 
-**Habilidade:** reconhecer vocativo em contexto
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **vocativo**?
 
 A. Os candidatos aprovados apresentaram os documentos.
@@ -215,6 +213,8 @@ D. Servidores, confiram o aviso.
 E. Ana, a relatora, assinou o parecer.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer vocativo em contexto
+
     **Resposta: D.**
 
     **A está errada:** a construção exemplifica ausência de vírgula entre sujeito e verbo, pois a relação entre o sujeito completo e o verbo foi preservada; não exemplifica vocativo.
@@ -231,10 +231,8 @@ E. Ana, a relatora, assinou o parecer.
 
 ### Questão 5
 
-**Habilidade:** reconhecer aposto explicativo em contexto
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **aposto explicativo**?
 
 A. Os candidatos aprovados apresentaram os documentos.
@@ -244,6 +242,8 @@ D. Servidores, confiram o aviso.
 E. Ana, a relatora, assinou o parecer.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer aposto explicativo em contexto
+
     **Resposta: E.**
 
     **A está errada:** a construção exemplifica ausência de vírgula entre sujeito e verbo, pois a relação entre o sujeito completo e o verbo foi preservada; não exemplifica aposto explicativo.
@@ -260,10 +260,8 @@ E. Ana, a relatora, assinou o parecer.
 
 ### Questão 6
 
-**Habilidade:** reconhecer adjunto adverbial deslocado em contexto
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **adjunto adverbial deslocado**?
 
 A. Na segunda-feira, a comissão publicou o resultado.
@@ -273,6 +271,8 @@ D. A equipe conferiu prazo, forma e conteúdo.
 E. Servidores, confiram o aviso.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adjunto adverbial deslocado em contexto
+
     **Resposta: A.**
 
     **A está certa:** A vírgula marca a circunstância antecipada.
@@ -289,10 +289,8 @@ E. Servidores, confiram o aviso.
 
 ### Questão 7
 
-**Habilidade:** reconhecer termo intercalado em contexto
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **termo intercalado**?
 
 A. Os candidatos aprovados apresentaram os documentos.
@@ -302,6 +300,8 @@ D. A equipe conferiu prazo, forma e conteúdo.
 E. Servidores, confiram o aviso.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer termo intercalado em contexto
+
     **Resposta: B.**
 
     **A está errada:** a construção exemplifica ausência de vírgula entre sujeito e verbo, pois a relação entre o sujeito completo e o verbo foi preservada; não exemplifica termo intercalado.
@@ -318,10 +318,8 @@ E. Servidores, confiram o aviso.
 
 ### Questão 8
 
-**Habilidade:** reconhecer elipse verbal em contexto
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **elipse verbal**?
 
 A. Os candidatos aprovados apresentaram os documentos.
@@ -331,6 +329,8 @@ D. A equipe conferiu prazo, forma e conteúdo.
 E. Servidores, confiram o aviso.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer elipse verbal em contexto
+
     **Resposta: C.**
 
     **A está errada:** a construção exemplifica ausência de vírgula entre sujeito e verbo, pois a relação entre o sujeito completo e o verbo foi preservada; não exemplifica elipse verbal.
@@ -347,10 +347,8 @@ E. Servidores, confiram o aviso.
 
 ### Questão 9
 
-**Habilidade:** reconhecer predicativo deslocado em contexto
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **predicativo deslocado**?
 
 A. Os candidatos aprovados apresentaram os documentos.
@@ -360,6 +358,8 @@ D. Satisfeitos, os candidatos deixaram a sala.
 E. Servidores, confiram o aviso.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer predicativo deslocado em contexto
+
     **Resposta: D.**
 
     **A está errada:** a construção exemplifica ausência de vírgula entre sujeito e verbo, pois a relação entre o sujeito completo e o verbo foi preservada; não exemplifica predicativo deslocado.
@@ -376,10 +376,8 @@ E. Servidores, confiram o aviso.
 
 ### Questão 10
 
-**Habilidade:** reconhecer adjunto curto sem vírgula obrigatória em contexto
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **adjunto curto sem vírgula obrigatória**?
 
 A. Os candidatos aprovados apresentaram os documentos.
@@ -389,6 +387,8 @@ D. Servidores, confiram o aviso.
 E. Ontem a equipe publicou o resultado.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adjunto curto sem vírgula obrigatória em contexto
+
     **Resposta: E.**
 
     **A está errada:** a construção exemplifica ausência de vírgula entre sujeito e verbo, pois a relação entre o sujeito completo e o verbo foi preservada; não exemplifica adjunto curto sem vírgula obrigatória.

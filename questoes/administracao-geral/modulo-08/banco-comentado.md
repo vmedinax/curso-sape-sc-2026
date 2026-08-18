@@ -42,7 +42,7 @@ Qual visual mostra melhor a evolução mensal? A. mapa. B. gráfico de linha. C.
     **Resposta: B.** B mostra tendência. A mostra território. C é documento. D perde contexto. E mostra estrutura. **Aula:** 3.
 
 ### Questão 8
-Sobre decisão baseada em evidências: A. número decide sozinho. B. experiência nunca ajuda. C. evidência informa, mas a autoridade ainda considera lei, contexto e efeitos. D. incerteza deve ser escondida. E. fonte famosa sempre serve.
+Sobre decisão baseada em evidências: A. número decide sozinho e dispensa examinar lei, contexto, efeitos possíveis e limites da informação disponível. B. experiência nunca ajuda. C. evidência informa, mas a autoridade ainda considera lei, contexto e efeitos. D. incerteza deve ser escondida. E. fonte famosa sempre serve.
 ??? question "Mostrar resposta e comentário"
     **Resposta: C.** C usa informação com responsabilidade. A e B excluem análise. D esconde limite. E ignora adequação. **Aula:** 4.
 
@@ -116,7 +116,7 @@ O saber prático difícil de registrar por inteiro é conhecimento: A. tácito. 
     **Resposta: A.** A está ligado à experiência. B está registrado. C–E não classificam o saber. **Aula:** 8.
 
 ### Questão 22
-Uma equipe registra lições, mas ninguém muda a rotina. Houve: A. impacto completo. B. registro sem aprendizagem organizacional comprovada. C. decisão perfeita. D. eliminação. E. taxa.
+Uma equipe registra lições, mas ninguém muda a rotina. Houve: A. impacto completo, porque produzir o registro demonstra que a equipe aplicou o conteúdo e reduziu erros de execução. B. registro sem aprendizagem organizacional comprovada. C. decisão perfeita. D. eliminação. E. taxa.
 ??? question "Mostrar resposta e comentário"
     **Resposta: B.** B separa produto e uso. A e C exageram. D é destino documental. E é medida. **Aula:** 8.
 
@@ -126,6 +126,6 @@ Saber cuja perda pode interromper serviço essencial é: A. moda. B. suporte. C.
     **Resposta: C.** C merece plano de preservação. A mede frequência. B é meio. D e E tratam documentos. **Aula:** 8.
 
 ### Questão 24
-Qual sequência melhor protege a decisão e o aprendizado? A. apagar, decidir, esquecer. B. decidir sem fonte. C. guardar tudo sem classificar. D. tratar dados, analisar, decidir, registrar e compartilhar aprendizados. E. publicar um número isolado.
+Qual sequência melhor protege a decisão e o aprendizado? A. apagar registros depois de decidir e confiar apenas na memória, porque preservar fontes impediria novas soluções. B. decidir sem fonte. C. guardar tudo sem classificar. D. tratar dados, analisar, decidir, registrar e compartilhar aprendizados. E. publicar um número isolado.
 ??? question "Mostrar resposta e comentário"
     **Resposta: D.** D conecta o módulo. A–C e E perdem contexto, prova ou uso. **Aulas:** 1 a 8.

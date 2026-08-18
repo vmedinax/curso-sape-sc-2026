@@ -4,8 +4,7 @@ As dez questões são autorais e não repetem os enunciados do banco comentado.
 
 ## Questão 1
 
-**Dificuldade:** média — exige identificar o foco predominante
-
+**Dificuldade:** média
 Uma chefia estuda como os grupos influenciam a aceitação de uma nova rotina. O foco está mais próximo:
 
 A. da medição de tempos da Administração Científica.
@@ -35,8 +34,7 @@ E. do controle como comparação de metas.
 
 ## Questão 2
 
-**Dificuldade:** fácil — exige reconhecer a função administrativa
-
+**Dificuldade:** fácil
 Antes de iniciar uma ação, a equipe define o resultado esperado, o prazo e o caminho principal. Predomina:
 
 A. planejamento.
@@ -66,13 +64,12 @@ E. organização informal.
 
 ## Questão 3
 
-**Dificuldade:** difícil — combina burocracia, finalidade e impessoalidade
-
+**Dificuldade:** difícil
 Um procedimento formal garante que pedidos equivalentes sigam o mesmo critério. Depois de uma mudança tecnológica, uma etapa perde a utilidade, mas continua sendo exigida apenas por hábito.
 
 Assinale a alternativa correta.
 
-A. Todo procedimento formal é uma disfunção.
+A. Todo procedimento formal é uma disfunção, mesmo quando assegura tratamento uniforme e permite controlar decisões equivalentes.
 
 B. Impessoalidade exige retirar qualquer regra.
 
@@ -99,8 +96,7 @@ E. O critério uniforme é uma contribuição; manter a etapa sem finalidade é 
 
 ## Questão 4
 
-**Dificuldade:** média — exige reconhecer o critério estrutural
-
+**Dificuldade:** média
 Uma instituição cria unidades separadas para atender famílias, empresas e órgãos públicos. Cada unidade reúne profissionais de várias áreas.
 
 O critério principal é:
@@ -132,8 +128,7 @@ E. unidade de comando.
 
 ## Questão 5
 
-**Dificuldade:** difícil — exige separar controle e direção
-
+**Dificuldade:** difícil
 Durante uma operação, a gerente conversa com a equipe para corrigir dúvidas. Em seguida, compara o número de entregas com a meta e muda uma etapa.
 
 As funções predominantes nos dois momentos são:
@@ -165,8 +160,7 @@ E. direção e planejamento.
 
 ## Questão 6
 
-**Dificuldade:** fácil — exige reconhecer organização informal
-
+**Dificuldade:** fácil
 Sem ato oficial, colegas experientes passam a orientar os novos integrantes e se tornam referência para o grupo. Isso representa:
 
 A. estrutura matricial.
@@ -196,8 +190,7 @@ E. ciclo administrativo.
 
 ## Questão 7
 
-**Dificuldade:** média — exige reconhecer entrada, transformação e saída
-
+**Dificuldade:** média
 Uma unidade recebe dados dos municípios, confere e analisa os registros e produz um painel para apoiar decisões.
 
 Na visão sistêmica, dados recebidos, análise e painel são, respectivamente:
@@ -229,13 +222,12 @@ E. entrada, transformação e saída.
 
 ## Questão 8
 
-**Dificuldade:** difícil — combina estrutura e distribuição decisória
-
+**Dificuldade:** difícil
 Uma organização mantém especialistas reunidos por função. Para um projeto, cria uma equipe com pessoas dessas áreas. O coordenador do projeto pode decidir apenas sobre cronograma; decisões técnicas permanecem nas áreas.
 
 Qual análise está correta?
 
-A. A estrutura é divisional e toda decisão foi descentralizada.
+A. A estrutura é divisional e toda decisão foi descentralizada, pois a participação de especialistas de várias áreas extinguiria a autoridade técnica funcional.
 
 B. A equipe é informal porque possui limites de decisão.
 
@@ -262,8 +254,7 @@ E. A existência de áreas impede projetos conjuntos.
 
 ## Questão 9
 
-**Dificuldade:** fácil — exige reconhecer o foco na estrutura
-
+**Dificuldade:** fácil
 Qual abordagem dá atenção especial à organização do conjunto, às funções administrativas e às relações de autoridade?
 
 A. Teoria Clássica.
@@ -293,13 +284,12 @@ E. Administração Científica.
 
 ## Questão 10
 
-**Dificuldade:** média — exige separar dois sentidos de descentralização
-
+**Dificuldade:** média
 Em um caso, a alta chefia permite que unidades internas decidam compras de pequeno valor. Em outro, uma atividade é executada por entidade com personalidade própria.
 
 As situações mostram:
 
-A. duas estruturas funcionais.
+A. duas estruturas funcionais, porque tanto a distribuição de compras internas quanto a execução por entidade própria manteriam a mesma relação hierárquica.
 
 B. duas centralizações absolutas.
 

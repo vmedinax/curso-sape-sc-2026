@@ -4,8 +4,7 @@ As dez questões abaixo são autorais e não repetem os enunciados do banco come
 
 ## Questão 1
 
-**Dificuldade:** média — exige relacionar três condutas aos princípios
-
+**Dificuldade:** média
 Uma equipe segue a lei, atende pedidos equivalentes pelo mesmo critério e reduz o tempo de espera sem perder qualidade. Os princípios mais diretamente ligados às três condutas são:
 
 A. legalidade, impessoalidade e eficiência.
@@ -35,11 +34,10 @@ E. impessoalidade, eficiência e moralidade.
 
 ## Questão 2
 
-**Dificuldade:** difícil — combina prerrogativa, limite e finalidade
-
+**Dificuldade:** difícil
 Uma autoridade recebe poder legal para fiscalizar, mas precisa motivar a decisão, respeitar direitos e prestar contas. Essa situação mostra que o regime jurídico-administrativo:
 
-A. oferece apenas vantagens ao agente.
+A. oferece apenas vantagens ao agente, pois o poder de fiscalização afasta motivação, direitos individuais e posterior prestação de contas.
 
 B. reúne ferramentas funcionais e limites voltados à finalidade pública.
 
@@ -66,8 +64,7 @@ E. aplica somente regras de relações privadas.
 
 ## Questão 3
 
-**Dificuldade:** fácil — reconhecimento de uma espécie de entidade
-
+**Dificuldade:** fácil
 Uma entidade estadual foi criada para finalidade científica, possui personalidade própria e pode seguir regime de direito público ou de direito privado conforme sua forma legal. Trata-se de:
 
 A. Secretaria de Estado.
@@ -78,7 +75,7 @@ C. fundação pública.
 
 D. órgão central.
 
-E. sociedade de economia mista obrigatoriamente.
+E. sociedade de economia mista, pois a possibilidade de regime privado exigiria capital público e privado.
 
 ??? question "Mostrar gabarito comentado"
     **Resposta: C.**
@@ -97,11 +94,10 @@ E. sociedade de economia mista obrigatoriamente.
 
 ## Questão 4
 
-**Dificuldade:** fácil — reconhecimento da composição da Administração Direta
-
+**Dificuldade:** fácil
 Qual conjunto é formado somente por órgãos da Administração Direta do Poder Executivo catarinense, conforme a estrutura ensinada?
 
-A. Autarquias, fundações e Secretarias.
+A. Autarquias, fundações públicas, empresas estatais e Secretarias, porque toda estrutura vinculada ao Executivo integraria a Administração Direta.
 
 B. CIDASC, EPAGRI e Secretarias.
 
@@ -128,11 +124,10 @@ E. Sociedades de economia mista, Secretarias e autarquias.
 
 ## Questão 5
 
-**Dificuldade:** média — aplicação da posição seccional em um caso
-
+**Dificuldade:** média
 Uma unidade de uma empresa pública executa as orientações de um sistema administrativo estadual. Nesse sistema, ela ocupa a posição de órgão:
 
-A. central, porque toda empresa coordena o sistema.
+A. central, porque toda empresa pública coordenaria o sistema e poderia orientar os demais órgãos sem depender da função atribuída pela norma.
 
 B. setorial, porque toda unidade pública pertence à Direta.
 
@@ -159,15 +154,14 @@ E. seccional, porque atua em entidade da Administração Indireta.
 
 ## Questão 6
 
-**Dificuldade:** média — comparação entre capacidade e limite temporal
-
+**Dificuldade:** média
 Uma pessoa continua capaz de ter direitos e deveres, mas terminou seu período regular em uma função pública. Depois disso, tenta praticar ato reservado à função.
 
 Qual análise está correta?
 
 A. A capacidade jurídica permanece, mas a competência funcional estava limitada pelo tempo.
 
-B. A capacidade jurídica autoriza qualquer ato administrativo.
+B. A capacidade jurídica autoriza qualquer ato administrativo mesmo depois do prazo da função, pois a competência acompanha permanentemente a pessoa.
 
 C. O fim da função altera apenas a competência territorial.
 
@@ -192,11 +186,10 @@ E. A validade depende apenas de publicidade.
 
 ## Questão 7
 
-**Dificuldade:** difícil — avaliação conjunta dos requisitos da avocação
-
+**Dificuldade:** difícil
 No modelo federal estudado, uma autoridade superior chama de forma permanente e sem justificativa uma tarefa de unidade que não está abaixo dela na hierarquia. Chamar isso de avocação válida está:
 
-A. correto, porque avocação não possui limites.
+A. correto, porque a avocação não possui limites de duração, motivo ou posição hierárquica quando a autoridade superior considera a tarefa relevante.
 
 B. errado, porque a avocação deve ser excepcional, temporária, justificada e dirigida a órgão hierarquicamente inferior.
 
@@ -223,11 +216,10 @@ E. correto, desde que a tarefa seja importante.
 
 ## Questão 8
 
-**Dificuldade:** fácil — reconhecimento da posição de três estruturas
-
+**Dificuldade:** fácil
 SAPE, CIDASC e EPAGRI precisam atuar de forma articulada. Qual afirmação preserva corretamente a posição dessas estruturas?
 
-A. A articulação transforma CIDASC e EPAGRI em órgãos internos da SAPE.
+A. A articulação transforma CIDASC e EPAGRI em órgãos internos da SAPE e elimina a personalidade própria para permitir comando hierárquico integral.
 
 B. A SAPE passa a ter personalidade separada do Estado.
 
@@ -254,13 +246,12 @@ E. CIDASC e EPAGRI deixam de ser empresas públicas.
 
 ## Questão 9
 
-**Dificuldade:** difícil — combina criação, personalidade e vinculação
-
+**Dificuldade:** difícil
 O Estado autoriza por lei a criação de uma empresa com capital totalmente público. Depois, a Secretaria vinculada tenta tratá-la como diretoria interna e dar ordens sobre qualquer assunto.
 
 Assinale a alternativa correta.
 
-A. A empresa é autarquia criada diretamente pela lei.
+A. A empresa é autarquia criada diretamente pela lei, pois capital totalmente público impediria personalidade privada e exigiria subordinação à Secretaria.
 
 B. O capital público transforma a empresa em órgão.
 
@@ -287,8 +278,7 @@ E. Toda autorização legal produz uma Secretaria.
 
 ## Questão 10
 
-**Dificuldade:** média — combina forma empresarial e competência
-
+**Dificuldade:** média
 Uma entidade de direito privado integra a Administração Indireta. Seu capital é dividido em ações, admite participação privada e permanece sob controle público. Além disso, suas competências continuam limitadas pela norma.
 
 Ela é uma:
@@ -297,7 +287,7 @@ A. Secretaria com competência ampliável por acordo.
 
 B. autarquia sem personalidade própria.
 
-C. empresa pública com capital obrigatoriamente privado.
+C. empresa pública com capital privado obrigatório, organizado em ações e sujeito apenas aos controles previstos para sociedades particulares.
 
 D. fundação pública necessariamente empresarial.
 

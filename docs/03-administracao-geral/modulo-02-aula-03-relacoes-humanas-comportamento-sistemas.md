@@ -254,11 +254,11 @@ C. apenas a quantidade de regras
 D. a eliminação do ambiente  
 E. o nome dos cargos
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **A.** A rede surgiu das relações, sem ser criada pelo desenho oficial.
-2. **C.** A informação sobre a saída retorna e permite corrigir o funcionamento.
-3. **B.** Cada parte pode funcionar bem isoladamente e o conjunto falhar na ligação entre elas.
+    1. **A.** A rede surgiu das relações, sem ser criada pelo desenho oficial.
+    2. **C.** A informação sobre a saída retorna e permite corrigir o funcionamento.
+    3. **B.** Cada parte pode funcionar bem isoladamente e o conjunto falhar na ligação entre elas.
 
 ## Checklist
 

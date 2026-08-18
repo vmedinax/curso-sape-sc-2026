@@ -115,10 +115,8 @@ Delimite e classifique “chegou, revisou e publicou, mas não comunicou; portan
 
 ### Questão 1
 
-**Habilidade:** reconhecer coordenação assindética em enunciado autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **coordenação assindética**?
 
 A. A equipe leu o edital, identificou os prazos, preparou o recurso.
@@ -128,6 +126,8 @@ D. Ou revise o texto, ou mantenha a redação original.
 E. O prazo terminou; portanto, o recurso é intempestivo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer coordenação assindética em enunciado autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** As orações coordenadas não têm conjunção.
@@ -144,10 +144,8 @@ E. O prazo terminou; portanto, o recurso é intempestivo.
 
 ### Questão 2
 
-**Habilidade:** reconhecer coordenada aditiva em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **coordenada aditiva**?
 
 A. A equipe leu o edital, identificou os prazos, preparou o recurso.
@@ -157,6 +155,8 @@ D. Ou revise o texto, ou mantenha a redação original.
 E. O prazo terminou; portanto, o recurso é intempestivo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer coordenada aditiva em enunciado autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** a frase exemplifica coordenação assindética, pois as orações coordenadas não têm conjunção; não exemplifica coordenada aditiva.
@@ -173,10 +173,8 @@ E. O prazo terminou; portanto, o recurso é intempestivo.
 
 ### Questão 3
 
-**Habilidade:** reconhecer coordenada adversativa em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **coordenada adversativa**?
 
 A. A equipe leu o edital, identificou os prazos, preparou o recurso.
@@ -186,6 +184,8 @@ D. Ou revise o texto, ou mantenha a redação original.
 E. O prazo terminou; portanto, o recurso é intempestivo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer coordenada adversativa em enunciado autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** a frase exemplifica coordenação assindética, pois as orações coordenadas não têm conjunção; não exemplifica coordenada adversativa.
@@ -202,10 +202,8 @@ E. O prazo terminou; portanto, o recurso é intempestivo.
 
 ### Questão 4
 
-**Habilidade:** reconhecer coordenada alternativa em enunciado autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **coordenada alternativa**?
 
 A. A equipe leu o edital, identificou os prazos, preparou o recurso.
@@ -215,6 +213,8 @@ D. Ou revise o texto, ou mantenha a redação original.
 E. O prazo terminou; portanto, o recurso é intempestivo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer coordenada alternativa em enunciado autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** a frase exemplifica coordenação assindética, pois as orações coordenadas não têm conjunção; não exemplifica coordenada alternativa.
@@ -231,10 +231,8 @@ E. O prazo terminou; portanto, o recurso é intempestivo.
 
 ### Questão 5
 
-**Habilidade:** reconhecer coordenada conclusiva em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **coordenada conclusiva**?
 
 A. A equipe leu o edital, identificou os prazos, preparou o recurso.
@@ -244,6 +242,8 @@ D. Ou revise o texto, ou mantenha a redação original.
 E. O prazo terminou; portanto, o recurso é intempestivo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer coordenada conclusiva em enunciado autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** a frase exemplifica coordenação assindética, pois as orações coordenadas não têm conjunção; não exemplifica coordenada conclusiva.
@@ -260,10 +260,8 @@ E. O prazo terminou; portanto, o recurso é intempestivo.
 
 ### Questão 6
 
-**Habilidade:** reconhecer coordenada explicativa em enunciado autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **coordenada explicativa**?
 
 A. Leia o edital, pois a prova se aproxima.
@@ -273,6 +271,8 @@ D. A equipe leu o edital, mas perdeu o prazo.
 E. Ou revise o texto, ou mantenha a redação original.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer coordenada explicativa em enunciado autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** Pois apresenta justificativa para a ordem.
@@ -289,39 +289,37 @@ E. Ou revise o texto, ou mantenha a redação original.
 
 ### Questão 7
 
-**Habilidade:** reconhecer período composto em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **período composto**?
 
-A. A equipe leu o edital, identificou os prazos, preparou o recurso.
+A. A equipe leu atentamente o edital.
 B. A comissão analisou o pedido e publicou a decisão.
-C. A equipe leu o edital e anotou os prazos.
-D. A equipe leu o edital, mas perdeu o prazo.
-E. Ou revise o texto, ou mantenha a redação original.
+C. A equipe anotou todos os prazos.
+D. A equipe perdeu o prazo recursal.
+E. A revisão cuidadosa do texto evitou ambiguidades.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer período composto em enunciado autossuficiente
+
     **Resposta: B.**
 
-    **A está errada:** a frase exemplifica coordenação assindética, pois as orações coordenadas não têm conjunção; não exemplifica período composto.
+    **A está errada:** há apenas uma forma verbal e uma oração.
 
     **B está certa:** Há dois núcleos verbais em duas orações.
 
-    **C está errada:** a frase exemplifica coordenada aditiva, pois e acrescenta uma ação; não exemplifica período composto.
+    **C está errada:** há apenas uma oração, nucleada por *anotou*.
 
-    **D está errada:** a frase exemplifica coordenada adversativa, pois mas introduz contraste; não exemplifica período composto.
+    **D está errada:** há apenas uma oração, nucleada por *perdeu*.
 
-    **E está errada:** a frase exemplifica coordenada alternativa, pois ou...ou apresenta alternativas; não exemplifica período composto.
+    **E está errada:** há apenas uma oração, nucleada por *evitou*.
 
     **Tópico para revisar:** seção sobre período composto.
 
 ### Questão 8
 
-**Habilidade:** reconhecer valor adversativo de e em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **valor adversativo de e**?
 
 A. A equipe leu o edital, identificou os prazos, preparou o recurso.
@@ -331,6 +329,8 @@ D. A equipe leu o edital, mas perdeu o prazo.
 E. Ou revise o texto, ou mantenha a redação original.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer valor adversativo de e em enunciado autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** a frase exemplifica coordenação assindética, pois as orações coordenadas não têm conjunção; não exemplifica valor adversativo de e.
@@ -347,10 +347,8 @@ E. Ou revise o texto, ou mantenha a redação original.
 
 ### Questão 9
 
-**Habilidade:** reconhecer conjunção conclusiva deslocada em enunciado autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **conjunção conclusiva deslocada**?
 
 A. A equipe leu o edital, identificou os prazos, preparou o recurso.
@@ -360,6 +358,8 @@ D. O prazo acabou; o recurso, portanto, não será conhecido.
 E. Ou revise o texto, ou mantenha a redação original.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer conjunção conclusiva deslocada em enunciado autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** a frase exemplifica coordenação assindética, pois as orações coordenadas não têm conjunção; não exemplifica conjunção conclusiva deslocada.
@@ -376,10 +376,8 @@ E. Ou revise o texto, ou mantenha a redação original.
 
 ### Questão 10
 
-**Habilidade:** reconhecer autonomia sintática coordenada em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **autonomia sintática coordenada**?
 
 A. A equipe leu o edital, identificou os prazos, preparou o recurso.
@@ -389,6 +387,8 @@ D. Ou revise o texto, ou mantenha a redação original.
 E. A comissão reuniu-se, mas não deliberou.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer autonomia sintática coordenada em enunciado autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** a frase exemplifica coordenação assindética, pois as orações coordenadas não têm conjunção; não exemplifica autonomia sintática coordenada.

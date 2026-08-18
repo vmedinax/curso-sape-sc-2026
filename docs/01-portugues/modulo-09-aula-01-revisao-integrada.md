@@ -103,10 +103,8 @@ Escolha uma questão já errada e marque: comando, pista, mudança, regra e moti
 
 ### Questão 1
 
-**Habilidade:** reconhecer informação explícita em situação completa
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **informação explícita**?
 
 A. O aviso informa: “O atendimento termina às 17 horas”. Logo, o horário final é 17 horas.
@@ -116,6 +114,8 @@ D. O prazo terminou; portanto, o recurso não será conhecido.
 E. Faltam dois documentos no processo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer informação explícita em situação completa
+
     **Resposta: A.**
 
     **A está certa:** A resposta recupera dado declarado no texto.
@@ -132,10 +132,8 @@ E. Faltam dois documentos no processo.
 
 ### Questão 2
 
-**Habilidade:** reconhecer inferência autorizada em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **inferência autorizada**?
 
 A. O aviso informa: “O atendimento termina às 17 horas”. Logo, o horário final é 17 horas.
@@ -145,6 +143,8 @@ D. O prazo terminou; portanto, o recurso não será conhecido.
 E. Faltam dois documentos no processo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer inferência autorizada em situação completa
+
     **Resposta: B.**
 
     **A está errada:** a situação exemplifica informação explícita, pois a resposta recupera dado declarado no texto; não exemplifica inferência autorizada.
@@ -161,10 +161,8 @@ E. Faltam dois documentos no processo.
 
 ### Questão 3
 
-**Habilidade:** reconhecer referência pronominal em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **referência pronominal**?
 
 A. O aviso informa: “O atendimento termina às 17 horas”. Logo, o horário final é 17 horas.
@@ -174,6 +172,8 @@ D. O prazo terminou; portanto, o recurso não será conhecido.
 E. Faltam dois documentos no processo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer referência pronominal em situação completa
+
     **Resposta: C.**
 
     **A está errada:** a situação exemplifica informação explícita, pois a resposta recupera dado declarado no texto; não exemplifica referência pronominal.
@@ -190,10 +190,8 @@ E. Faltam dois documentos no processo.
 
 ### Questão 4
 
-**Habilidade:** reconhecer conector conclusivo em situação completa
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **conector conclusivo**?
 
 A. O aviso informa: “O atendimento termina às 17 horas”. Logo, o horário final é 17 horas.
@@ -203,6 +201,8 @@ D. O prazo terminou; portanto, o recurso não será conhecido.
 E. Faltam dois documentos no processo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer conector conclusivo em situação completa
+
     **Resposta: D.**
 
     **A está errada:** a situação exemplifica informação explícita, pois a resposta recupera dado declarado no texto; não exemplifica conector conclusivo.
@@ -219,10 +219,8 @@ E. Faltam dois documentos no processo.
 
 ### Questão 5
 
-**Habilidade:** reconhecer concordância verbal em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **concordância verbal**?
 
 A. O aviso informa: “O atendimento termina às 17 horas”. Logo, o horário final é 17 horas.
@@ -232,6 +230,8 @@ D. O prazo terminou; portanto, o recurso não será conhecido.
 E. Faltam dois documentos no processo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer concordância verbal em situação completa
+
     **Resposta: E.**
 
     **A está errada:** a situação exemplifica informação explícita, pois a resposta recupera dado declarado no texto; não exemplifica concordância verbal.
@@ -248,10 +248,8 @@ E. Faltam dois documentos no processo.
 
 ### Questão 6
 
-**Habilidade:** reconhecer regência e crase em situação completa
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **regência e crase**?
 
 A. A equipe obedeceu às normas do edital.
@@ -261,6 +259,8 @@ D. A comissão recebeu a norma e a publicou no portal.
 E. O prazo terminou; portanto, o recurso não será conhecido.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer regência e crase em situação completa
+
     **Resposta: A.**
 
     **A está certa:** Obedecer rege a, fundido ao artigo plural.
@@ -277,10 +277,8 @@ E. O prazo terminou; portanto, o recurso não será conhecido.
 
 ### Questão 7
 
-**Habilidade:** reconhecer oração adverbial temporal em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **oração adverbial temporal**?
 
 A. O aviso informa: “O atendimento termina às 17 horas”. Logo, o horário final é 17 horas.
@@ -290,6 +288,8 @@ D. A comissão recebeu a norma e a publicou no portal.
 E. O prazo terminou; portanto, o recurso não será conhecido.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer oração adverbial temporal em situação completa
+
     **Resposta: B.**
 
     **A está errada:** a situação exemplifica informação explícita, pois a resposta recupera dado declarado no texto; não exemplifica oração adverbial temporal.
@@ -306,10 +306,8 @@ E. O prazo terminou; portanto, o recurso não será conhecido.
 
 ### Questão 8
 
-**Habilidade:** reconhecer pontuação do vocativo em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **pontuação do vocativo**?
 
 A. O aviso informa: “O atendimento termina às 17 horas”. Logo, o horário final é 17 horas.
@@ -319,6 +317,8 @@ D. A comissão recebeu a norma e a publicou no portal.
 E. O prazo terminou; portanto, o recurso não será conhecido.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer pontuação do vocativo em situação completa
+
     **Resposta: C.**
 
     **A está errada:** a situação exemplifica informação explícita, pois a resposta recupera dado declarado no texto; não exemplifica pontuação do vocativo.
@@ -335,10 +335,8 @@ E. O prazo terminou; portanto, o recurso não será conhecido.
 
 ### Questão 9
 
-**Habilidade:** reconhecer clareza oficial em situação completa
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **clareza oficial**?
 
 A. O aviso informa: “O atendimento termina às 17 horas”. Logo, o horário final é 17 horas.
@@ -348,6 +346,8 @@ D. A reunião ocorrerá em 12 de agosto, às 9 horas, na sala 3.
 E. O prazo terminou; portanto, o recurso não será conhecido.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer clareza oficial em situação completa
+
     **Resposta: D.**
 
     **A está errada:** a situação exemplifica informação explícita, pois a resposta recupera dado declarado no texto; não exemplifica clareza oficial.
@@ -364,10 +364,8 @@ E. O prazo terminou; portanto, o recurso não será conhecido.
 
 ### Questão 10
 
-**Habilidade:** reconhecer reescrita equivalente em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **reescrita equivalente**?
 
 A. O aviso informa: “O atendimento termina às 17 horas”. Logo, o horário final é 17 horas.
@@ -377,6 +375,8 @@ D. O prazo terminou; portanto, o recurso não será conhecido.
 E. Embora estivesse cansada, continuou → Estava cansada, mas continuou.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer reescrita equivalente em situação completa
+
     **Resposta: E.**
 
     **A está errada:** a situação exemplifica informação explícita, pois a resposta recupera dado declarado no texto; não exemplifica reescrita equivalente.

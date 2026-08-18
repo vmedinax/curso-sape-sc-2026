@@ -9,34 +9,33 @@ last_reviewed: 2026-08-04
 
 **Questões:** 10. **Tempo sugerido:** 22 minutos. **Consulta:** não.
 
-**1.** Em “Surgiram novas dúvidas”, o sujeito é: A) oculto. B) *novas dúvidas*. C) inexistente. D) *surgiram*. E) indeterminado.
+**1.** Em “Surgiram novas dúvidas”, o sujeito é: A) oculto. B) *surgiram*. C) inexistente. D) *novas dúvidas*. E) indeterminado.
 
-**2.** Em “O texto foi revisto pela equipe”, *pela equipe* é: A) objeto. B) sujeito. C) agente da passiva. D) aposto. E) vocativo.
+**2.** Em “O texto foi revisto pela equipe”, *pela equipe* é: A) objeto. B) agente da passiva. C) sujeito. D) aposto. E) vocativo.
 
 **3.** Em “A comissão considerou a proposta viável”, *viável* é: A) predicativo do objeto. B) adjunto adverbial. C) objeto indireto. D) sujeito. E) agente.
 
-**4.** “Estudou, mas não revisou” apresenta relação: A) aditiva. B) adversativa. C) conclusiva. D) explicativa. E) alternativa.
+**4.** “Estudou, mas não revisou” apresenta relação: A) aditiva. B) alternativa. C) conclusiva. D) explicativa. E) adversativa.
 
-**5.** Em “Convém que todos participem”, a oração destacada é substantiva: A) objetiva direta. B) subjetiva. C) predicativa. D) apositiva. E) completiva nominal.
+**5.** Em “Convém que todos participem”, a oração destacada é substantiva: A) objetiva direta. B) apositiva. C) predicativa. D) subjetiva. E) completiva nominal.
 
 **6.** Em “A norma que mudou será publicada”, a oração destacada é: A) adjetiva restritiva. B) adjetiva explicativa. C) causal. D) final. E) coordenada.
 
 **7.** “Ainda que discorde, cumprirá a decisão” expressa: A) causa. B) condição. C) concessão. D) finalidade. E) tempo.
 
-**8.** Equivale a “Se houver recurso, a decisão será revista”: A) Embora haja recurso, será revista. B) Caso haja recurso, será revista. C) Porque há recurso, foi revista. D) Para haver recurso, será revista. E) Conforme há recurso, seria revista.
+**8.** Equivale a “Se houver recurso, a decisão será revista”: A) Embora haja recurso, será revista. B) Conforme há recurso, seria revista. C) Porque há recurso, foi revista. D) Para haver recurso, será revista. E) Caso haja recurso, será revista.
 
-**9.** Passiva equivalente a “A autoridade assinou o ato”: A) O ato assinou a autoridade. B) O ato foi assinado pela autoridade. C) A autoridade foi assinada. D) O ato seria assinado. E) Assinou-se a autoridade.
+**9.** Passiva equivalente a “A autoridade assinou o ato”: A) O ato assinou a autoridade. B) Assinou-se a autoridade. C) A autoridade foi assinada. D) O ato foi assinado pela autoridade. E) O ato seria assinado.
 
 **10.** Para avaliar reescrita, deve-se conferir: A) apenas gramática. B) apenas quantidade de palavras. C) sentido e correção. D) apenas pontuação. E) apenas conectivo.
 
-## Gabarito
+??? success "Mostrar gabarito e comentários completos"
 
-| Questão | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Resposta | B | C | A | B | B | A | C | B | B | C |
+    | Questão | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+    |---|---|---|---|---|---|---|---|---|---|---|
+    | Resposta | D | B | A | E | D | A | C | E | D | C |
 
-??? success "Comentários completos"
-    **1 B:** sujeito posposto. **2 C:** praticante na passiva. **3 A:** estado atribuído ao objeto. **4 B:** oposição. **5 B:** a oração é sujeito de *convém*. **6 A:** delimita a norma. **7 C:** concessão. **8 B:** preserva condição. **9 B:** preserva agente e paciente. **10 C:** equivalência exige os dois critérios.
+    **1 D:** sujeito posposto. **2 B:** praticante na passiva. **3 A:** estado atribuído ao objeto. **4 E:** oposição. **5 D:** a oração é sujeito de *convém*. **6 A:** delimita a norma. **7 C:** concessão. **8 E:** preserva condição. **9 D:** preserva agente e paciente. **10 C:** equivalência exige os dois critérios.
 
 ## Diagnóstico
 

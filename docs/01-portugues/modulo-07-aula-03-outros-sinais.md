@@ -105,11 +105,9 @@ Escreva uma enumeração anunciada, dois blocos com vírgulas internas, uma info
 
 ### Questão 1
 
-**Habilidade:** reconhecer ponto final em contexto
 
 **Dificuldade:** fácil
-
-Qual alternativa exemplifica corretamente **ponto final**?
+Qual alternativa emprega o **ponto final para separar dois períodos independentes**?
 
 A. A comissão concluiu a análise. O resultado será publicado amanhã.
 B. Participaram Ana, diretora; Bruno, relator; e Carla, secretária.
@@ -118,6 +116,8 @@ D. Foram exigidos três documentos: identidade, diploma e certidão.
 E. A decisão foi simples: o prazo havia terminado.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer ponto final em contexto
+
     **Resposta: A.**
 
     **A está certa:** O ponto encerra uma unidade declarativa e inicia outra.
@@ -134,10 +134,8 @@ E. A decisão foi simples: o prazo havia terminado.
 
 ### Questão 2
 
-**Habilidade:** reconhecer ponto e vírgula em enumeração complexa em contexto
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **ponto e vírgula em enumeração complexa**?
 
 A. A comissão concluiu a análise. O resultado será publicado amanhã.
@@ -147,6 +145,8 @@ D. Foram exigidos três documentos: identidade, diploma e certidão.
 E. A decisão foi simples: o prazo havia terminado.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer ponto e vírgula em enumeração complexa em contexto
+
     **Resposta: B.**
 
     **A está errada:** a construção exemplifica ponto final, pois o ponto encerra uma unidade declarativa e inicia outra; não exemplifica ponto e vírgula em enumeração complexa.
@@ -163,10 +163,8 @@ E. A decisão foi simples: o prazo havia terminado.
 
 ### Questão 3
 
-**Habilidade:** reconhecer ponto e vírgula entre orações extensas em contexto
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **ponto e vírgula entre orações extensas**?
 
 A. A comissão concluiu a análise. O resultado será publicado amanhã.
@@ -176,6 +174,8 @@ D. Foram exigidos três documentos: identidade, diploma e certidão.
 E. A decisão foi simples: o prazo havia terminado.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer ponto e vírgula entre orações extensas em contexto
+
     **Resposta: C.**
 
     **A está errada:** a construção exemplifica ponto final, pois o ponto encerra uma unidade declarativa e inicia outra; não exemplifica ponto e vírgula entre orações extensas.
@@ -192,10 +192,8 @@ E. A decisão foi simples: o prazo havia terminado.
 
 ### Questão 4
 
-**Habilidade:** reconhecer dois-pontos antes de enumeração em contexto
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **dois-pontos antes de enumeração**?
 
 A. A comissão concluiu a análise. O resultado será publicado amanhã.
@@ -205,6 +203,8 @@ D. Foram exigidos três documentos: identidade, diploma e certidão.
 E. A decisão foi simples: o prazo havia terminado.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer dois-pontos antes de enumeração em contexto
+
     **Resposta: D.**
 
     **A está errada:** a construção exemplifica ponto final, pois o ponto encerra uma unidade declarativa e inicia outra; não exemplifica dois-pontos antes de enumeração.
@@ -221,10 +221,8 @@ E. A decisão foi simples: o prazo havia terminado.
 
 ### Questão 5
 
-**Habilidade:** reconhecer dois-pontos antes de explicação em contexto
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **dois-pontos antes de explicação**?
 
 A. A comissão concluiu a análise. O resultado será publicado amanhã.
@@ -234,6 +232,8 @@ D. Foram exigidos três documentos: identidade, diploma e certidão.
 E. A decisão foi simples: o prazo havia terminado.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer dois-pontos antes de explicação em contexto
+
     **Resposta: E.**
 
     **A está errada:** a construção exemplifica ponto final, pois o ponto encerra uma unidade declarativa e inicia outra; não exemplifica dois-pontos antes de explicação.
@@ -250,10 +250,8 @@ E. A decisão foi simples: o prazo havia terminado.
 
 ### Questão 6
 
-**Habilidade:** reconhecer travessão em fala em contexto
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **travessão em fala**?
 
 A. A presidente declarou: — A sessão está encerrada.
@@ -263,6 +261,8 @@ D. A comissão revisou todos os anexos; a diretoria, depois de longa análise, a
 E. Foram exigidos três documentos: identidade, diploma e certidão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer travessão em fala em contexto
+
     **Resposta: A.**
 
     **A está certa:** O travessão introduz a fala reproduzida.
@@ -279,10 +279,8 @@ E. Foram exigidos três documentos: identidade, diploma e certidão.
 
 ### Questão 7
 
-**Habilidade:** reconhecer travessões em inserção em contexto
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **travessões em inserção**?
 
 A. A comissão concluiu a análise. O resultado será publicado amanhã.
@@ -292,6 +290,8 @@ D. A comissão revisou todos os anexos; a diretoria, depois de longa análise, a
 E. Foram exigidos três documentos: identidade, diploma e certidão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer travessões em inserção em contexto
+
     **Resposta: B.**
 
     **A está errada:** a construção exemplifica ponto final, pois o ponto encerra uma unidade declarativa e inicia outra; não exemplifica travessões em inserção.
@@ -308,10 +308,8 @@ E. Foram exigidos três documentos: identidade, diploma e certidão.
 
 ### Questão 8
 
-**Habilidade:** reconhecer parênteses em contexto
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **parênteses**?
 
 A. A comissão concluiu a análise. O resultado será publicado amanhã.
@@ -321,6 +319,8 @@ D. A comissão revisou todos os anexos; a diretoria, depois de longa análise, a
 E. Foram exigidos três documentos: identidade, diploma e certidão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer parênteses em contexto
+
     **Resposta: C.**
 
     **A está errada:** a construção exemplifica ponto final, pois o ponto encerra uma unidade declarativa e inicia outra; não exemplifica parênteses.
@@ -337,10 +337,8 @@ E. Foram exigidos três documentos: identidade, diploma e certidão.
 
 ### Questão 9
 
-**Habilidade:** reconhecer aspas em citação curta em contexto
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **aspas em citação curta**?
 
 A. A comissão concluiu a análise. O resultado será publicado amanhã.
@@ -350,6 +348,8 @@ D. O edital emprega a expressão “ampla concorrência”.
 E. Foram exigidos três documentos: identidade, diploma e certidão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer aspas em citação curta em contexto
+
     **Resposta: D.**
 
     **A está errada:** a construção exemplifica ponto final, pois o ponto encerra uma unidade declarativa e inicia outra; não exemplifica aspas em citação curta.
@@ -366,10 +366,8 @@ E. Foram exigidos três documentos: identidade, diploma e certidão.
 
 ### Questão 10
 
-**Habilidade:** reconhecer reticências em contexto
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **reticências**?
 
 A. A comissão concluiu a análise. O resultado será publicado amanhã.
@@ -379,6 +377,8 @@ D. Foram exigidos três documentos: identidade, diploma e certidão.
 E. Se o prazo fosse maior...
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer reticências em contexto
+
     **Resposta: E.**
 
     **A está errada:** a construção exemplifica ponto final, pois o ponto encerra uma unidade declarativa e inicia outra; não exemplifica reticências.

@@ -42,7 +42,7 @@ A. desvio ocorrido. B. problema confirmado. C. lição aprendida. D. risco. E. b
 
 Qual item mostra encerramento adequado?
 
-A. Parar o trabalho sem registro. B. Manter pendências ocultas. C. Apagar erros. D. Entregar sem aceite. E. Aceitar entregas, fechar pendências e registrar aprendizados.
+A. Parar o trabalho sem registro assim que a última atividade for executada, mesmo que ainda existam pendências, aceite e aprendizados por documentar. B. Manter pendências ocultas. C. Apagar erros. D. Entregar sem aceite. E. Aceitar entregas, fechar pendências e registrar aprendizados.
 
 ??? question "Mostrar resposta e comentário"
     **Resposta: E.** E fecha o projeto de modo completo. A, B, C e D deixam riscos ou conhecimento perdido.
@@ -87,7 +87,7 @@ A. mais nomes. B. menos indicadores. C. nova missão. D. balanceamento de capaci
 
 Um projeto entrega o sistema previsto, mas o público não o utiliza. É correto afirmar que:
 
-A. não existiu entrega. B. o cronograma prova uso. C. o escopo não importa. D. a eficácia da entrega prova impacto. E. a entrega foi produzida, mas o benefício ainda não está demonstrado.
+A. não existiu entrega, porque um produto só pode ser reconhecido quando o público o utiliza e o benefício esperado já está comprovado. B. o cronograma prova uso. C. o escopo não importa. D. a eficácia da entrega prova impacto. E. a entrega foi produzida, mas o benefício ainda não está demonstrado.
 
 ??? question "Mostrar resposta e comentário"
     **Resposta: E.** E separa produto e melhora. A ignora o sistema. B, C e D afirmam mais do que os fatos mostram.

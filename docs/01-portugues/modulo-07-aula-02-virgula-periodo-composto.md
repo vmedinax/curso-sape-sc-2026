@@ -111,10 +111,8 @@ Delimite e pontue um período coordenado, um com adverbial anteposta e dois com 
 
 ### Questão 1
 
-**Habilidade:** reconhecer coordenada adversativa em contexto
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **coordenada adversativa**?
 
 A. A equipe revisou o texto, mas não o publicou.
@@ -124,6 +122,8 @@ D. Quando a sessão terminou, a ata foi publicada.
 E. Os candidatos, que já haviam sido convocados, compareceram.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer coordenada adversativa em contexto
+
     **Resposta: A.**
 
     **A está certa:** A vírgula antecede a conjunção adversativa.
@@ -140,10 +140,8 @@ E. Os candidatos, que já haviam sido convocados, compareceram.
 
 ### Questão 2
 
-**Habilidade:** reconhecer coordenada conclusiva em contexto
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **coordenada conclusiva**?
 
 A. A equipe revisou o texto, mas não o publicou.
@@ -153,6 +151,8 @@ D. Quando a sessão terminou, a ata foi publicada.
 E. Os candidatos, que já haviam sido convocados, compareceram.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer coordenada conclusiva em contexto
+
     **Resposta: B.**
 
     **A está errada:** a construção exemplifica coordenada adversativa, pois a vírgula antecede a conjunção adversativa; não exemplifica coordenada conclusiva.
@@ -169,10 +169,8 @@ E. Os candidatos, que já haviam sido convocados, compareceram.
 
 ### Questão 3
 
-**Habilidade:** reconhecer coordenadas assindéticas em contexto
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **coordenadas assindéticas**?
 
 A. A equipe revisou o texto, mas não o publicou.
@@ -182,6 +180,8 @@ D. Quando a sessão terminou, a ata foi publicada.
 E. Os candidatos, que já haviam sido convocados, compareceram.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer coordenadas assindéticas em contexto
+
     **Resposta: C.**
 
     **A está errada:** a construção exemplifica coordenada adversativa, pois a vírgula antecede a conjunção adversativa; não exemplifica coordenadas assindéticas.
@@ -198,10 +198,8 @@ E. Os candidatos, que já haviam sido convocados, compareceram.
 
 ### Questão 4
 
-**Habilidade:** reconhecer subordinada adverbial antecipada em contexto
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **subordinada adverbial antecipada**?
 
 A. A equipe revisou o texto, mas não o publicou.
@@ -211,6 +209,8 @@ D. Quando a sessão terminou, a ata foi publicada.
 E. Os candidatos, que já haviam sido convocados, compareceram.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer subordinada adverbial antecipada em contexto
+
     **Resposta: D.**
 
     **A está errada:** a construção exemplifica coordenada adversativa, pois a vírgula antecede a conjunção adversativa; não exemplifica subordinada adverbial antecipada.
@@ -227,10 +227,8 @@ E. Os candidatos, que já haviam sido convocados, compareceram.
 
 ### Questão 5
 
-**Habilidade:** reconhecer adjetiva explicativa em contexto
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **adjetiva explicativa**?
 
 A. A equipe revisou o texto, mas não o publicou.
@@ -240,6 +238,8 @@ D. Quando a sessão terminou, a ata foi publicada.
 E. Os candidatos, que já haviam sido convocados, compareceram.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adjetiva explicativa em contexto
+
     **Resposta: E.**
 
     **A está errada:** a construção exemplifica coordenada adversativa, pois a vírgula antecede a conjunção adversativa; não exemplifica adjetiva explicativa.
@@ -256,10 +256,8 @@ E. Os candidatos, que já haviam sido convocados, compareceram.
 
 ### Questão 6
 
-**Habilidade:** reconhecer adjetiva restritiva sem vírgula em contexto
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **adjetiva restritiva sem vírgula**?
 
 A. Os candidatos que foram convocados compareceram.
@@ -269,6 +267,8 @@ D. A equipe leu, comparou, decidiu.
 E. Quando a sessão terminou, a ata foi publicada.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adjetiva restritiva sem vírgula em contexto
+
     **Resposta: A.**
 
     **A está certa:** A ausência de vírgulas preserva a restrição.
@@ -285,10 +285,8 @@ E. Quando a sessão terminou, a ata foi publicada.
 
 ### Questão 7
 
-**Habilidade:** reconhecer conjunção intercalada em contexto
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **conjunção intercalada**?
 
 A. A equipe revisou o texto, mas não o publicou.
@@ -298,6 +296,8 @@ D. A equipe leu, comparou, decidiu.
 E. Quando a sessão terminou, a ata foi publicada.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer conjunção intercalada em contexto
+
     **Resposta: B.**
 
     **A está errada:** a construção exemplifica coordenada adversativa, pois a vírgula antecede a conjunção adversativa; não exemplifica conjunção intercalada.
@@ -314,10 +314,8 @@ E. Quando a sessão terminou, a ata foi publicada.
 
 ### Questão 8
 
-**Habilidade:** reconhecer oração causal posposta em contexto
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **oração causal posposta**?
 
 A. A equipe revisou o texto, mas não o publicou.
@@ -327,6 +325,8 @@ D. A equipe leu, comparou, decidiu.
 E. Quando a sessão terminou, a ata foi publicada.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer oração causal posposta em contexto
+
     **Resposta: C.**
 
     **A está errada:** a construção exemplifica coordenada adversativa, pois a vírgula antecede a conjunção adversativa; não exemplifica oração causal posposta.
@@ -343,10 +343,8 @@ E. Quando a sessão terminou, a ata foi publicada.
 
 ### Questão 9
 
-**Habilidade:** reconhecer orações com sujeitos diferentes em contexto
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **orações com sujeitos diferentes**?
 
 A. A equipe revisou o texto, mas não o publicou.
@@ -356,6 +354,8 @@ D. A comissão concluiu a análise, e o diretor publicou o ato.
 E. Quando a sessão terminou, a ata foi publicada.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer orações com sujeitos diferentes em contexto
+
     **Resposta: D.**
 
     **A está errada:** a construção exemplifica coordenada adversativa, pois a vírgula antecede a conjunção adversativa; não exemplifica orações com sujeitos diferentes.
@@ -372,10 +372,8 @@ E. Quando a sessão terminou, a ata foi publicada.
 
 ### Questão 10
 
-**Habilidade:** reconhecer oração substantiva sem separação em contexto
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **oração substantiva sem separação**?
 
 A. A equipe revisou o texto, mas não o publicou.
@@ -385,6 +383,8 @@ D. Quando a sessão terminou, a ata foi publicada.
 E. A comissão informou que o prazo terminou.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer oração substantiva sem separação em contexto
+
     **Resposta: E.**
 
     **A está errada:** a construção exemplifica coordenada adversativa, pois a vírgula antecede a conjunção adversativa; não exemplifica oração substantiva sem separação.

@@ -11,21 +11,21 @@ last_reviewed: 2026-08-04
 
 **1.** A palavra *documento* é: A) oxítona. B) paroxítona. C) proparoxítona. D) monossílaba. E) átona.
 
-**2.** Contém hiato: A) caixa. B) noite. C) ruído. D) pai. E) quase.
+**2.** Contém hiato: A) caixa. B) noite. C) quase. D) pai. E) ruído.
 
-**3.** Em *filho*, *lh* constitui: A) encontro consonantal. B) dígrafo. C) ditongo. D) hiato. E) tritongo.
+**3.** Em *filho*, *lh* constitui: A) encontro consonantal. B) hiato. C) ditongo. D) dígrafo. E) tritongo.
 
-**4.** A expressão que indica tempo passado aproximado é: A) acerca de. B) a cerca de. C) há cerca de. D) à cerca de. E) acerca há.
+**4.** A expressão que indica tempo passado aproximado é: A) há cerca de. B) a cerca de. C) acerca de. D) à cerca de. E) acerca há.
 
 **5.** Está corretamente acentuada segundo a norma atual: A) idéia. B) heróico. C) assembléia. D) saída. E) vôo.
 
-**6.** A forma plural correta em “Os setores ___ prazo” é: A) tem. B) têm. C) têem. D) teem. E) tém.
+**6.** A forma plural correta em “Os setores ___ prazo” é: A) tem. B) tém. C) têem. D) teem. E) têm.
 
-**7.** Está corretamente grafada: A) extra-escolar. B) extraescolar. C) extra escolar. D) extra--escolar. E) extraiscolar.
+**7.** Está corretamente grafada: A) extra-escolar. B) extra--escolar. C) extra escolar. D) extraescolar. E) extraiscolar.
 
-**8.** Está corretamente grafada: A) superhomem. B) super homem. C) super-homem. D) super--homem. E) súper-homem.
+**8.** Está corretamente grafada: A) superhomem. B) super homem. C) súper-homem. D) super--homem. E) super-homem.
 
-**9.** Complete: “Foi necessário ___ o dado e depois ___ a decisão já correta.” A) ratificar/retificar. B) deferir/diferir. C) retificar/ratificar. D) diferir/deferir. E) descrever/discriminar.
+**9.** Complete: “Foi necessário ___ o dado e depois ___ a decisão já correta.” A) retificar/ratificar. B) deferir/diferir. C) ratificar/retificar. D) diferir/deferir. E) descrever/discriminar.
 
 **10.** A estratégia que integra o módulo é: A) escolher pela aparência. B) usar somente a pronúncia. C) analisar estrutura e contexto e consultar a fonte quando necessário. D) decorar exemplos sem regra. E) confiar em qualquer corretor.
 
@@ -35,14 +35,12 @@ last_reviewed: 2026-08-04
 |---|---|---|---|---|---|---|---|---|---|---|
 | Resposta |  |  |  |  |  |  |  |  |  |  |
 
-## Gabarito
+??? success "Mostrar gabarito e comentários completos"
+    | Questão | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+    |---|---|---|---|---|---|---|---|---|---|---|
+    | Resposta | B | E | D | A | D | E | D | E | A | C |
 
-| Questão | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Resposta | B | C | B | C | D | B | B | C | C | C |
-
-??? success "Comentários completos"
-    **1 B:** do-cu-**men**-to tem tônica penúltima. **2 C:** ru-í-do separa vogais. **3 B:** duas letras representam um fonema. **4 C:** *há* marca passado. **5 D:** o hiato tônico recebe acento; as outras mantêm sinais retirados. **6 B:** o circunflexo marca o plural de *ter*. **7 B:** vogais diferentes unem-se. **8 C:** diante de *h*, mantém-se hífen. **9 C:** primeiro corrige-se; depois confirma-se. **10 C:** estrutura, contexto e fonte formam o procedimento seguro. As alternativas erradas trocam classificação, literalizam a escrita anterior ou aplicam critério inexistente.
+    **1 B:** do-cu-**men**-to tem tônica penúltima. **2 E:** ru-í-do separa vogais. **3 D:** duas letras representam um fonema. **4 A:** *há* marca passado. **5 D:** o hiato tônico recebe acento; as outras mantêm sinais retirados. **6 E:** o circunflexo marca o plural de *ter*. **7 D:** vogais diferentes unem-se. **8 E:** diante de *h*, mantém-se hífen. **9 A:** primeiro corrige-se; depois confirma-se. **10 C:** estrutura, contexto e fonte formam o procedimento seguro. As alternativas erradas trocam classificação, literalizam a escrita anterior ou aplicam critério inexistente.
 
 ## Diagnóstico
 

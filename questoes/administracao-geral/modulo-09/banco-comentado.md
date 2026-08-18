@@ -10,12 +10,12 @@ Campanha pública destaca nome da autoridade. O princípio mais diretamente afet
     **Resposta: A.** A impede promoção pessoal. B olha uso adequado de recursos. C, D e E não são o foco. **Retorno:** M1 A1.
 
 ### Questão 2
-Qual frase está correta? A. órgão possui personalidade. B. entidade possui personalidade; órgão é centro de competências. C. ambos são pessoas. D. nenhum integra a Administração. E. órgão é empresa.
+Qual frase está correta? A. órgão possui personalidade própria e patrimônio separado, porque todo centro de competências constitui uma pessoa jurídica. B. entidade possui personalidade; órgão é centro de competências. C. ambos são pessoas. D. nenhum integra a Administração. E. órgão é empresa.
 ??? question "Mostrar resposta e comentário"
     **Resposta: B.** B compara corretamente. A, C, D e E trocam estrutura e pessoa jurídica. **Retorno:** M1 A3.
 
 ### Questão 3
-Sobre criação: A. toda entidade nasce igual. B. autarquia só é autorizada. C. autarquia é criada por lei; estatais têm criação autorizada. D. órgão exige registro empresarial. E. vinculação cria pessoa.
+Sobre criação: A. toda entidade nasce do mesmo modo por simples registro, sem diferença entre criação legal de autarquia e autorização para estatal. B. autarquia só é autorizada. C. autarquia é criada por lei; estatais têm criação autorizada. D. órgão exige registro empresarial. E. vinculação cria pessoa.
 ??? question "Mostrar resposta e comentário"
     **Resposta: C.** C segue a regra constitucional estudada. A, B, D e E estão erradas. **Retorno:** M1 A3.
 
@@ -107,7 +107,7 @@ Meta cumprida, mas problema social sem melhora: A. eficiência e impacto. B. efe
     **Resposta: E.** E separa meta e efeito. A–D afirmam relações não provadas. **Retorno:** M5 A4.
 
 ### Questão 21
-Um sistema novo foi lançado sem explicação, treino ou apoio. A resposta mais adequada é: A. preparar comunicação, capacitação e acompanhamento. B. culpar toda resistência. C. retirar escuta. D. mudar tudo de uma vez. E. ignorar erros.
+Um sistema novo foi lançado sem explicação, treino ou apoio. A resposta mais adequada é: A. preparar comunicação, capacitação e acompanhamento. B. culpar toda resistência e exigir uso imediato, porque a ordem formal substitui explicação, treinamento e apoio. C. retirar escuta. D. mudar tudo de uma vez. E. ignorar erros.
 ??? question "Mostrar resposta e comentário"
     **Resposta: A.** A trata causas da adoção. B–E aumentam resistência ou risco. **Retorno:** M5 A5.
 
@@ -144,7 +144,7 @@ Um indicador grave chama atenção do governo, mas nenhuma solução foi escolhi
     **Resposta: B.** B indica atenção. A, C e D são etapas posteriores. E é carteira. **Retorno:** M7 A2.
 
 ### Questão 28
-Definir problema como “falta de aplicativo” é frágil porque: A. aplicativo nunca ajuda. B. não há público. C. a frase presume a solução antes de estudar causas. D. toda política exige lei. E. elimina dados.
+Definir problema como “falta de aplicativo” é frágil porque: A. aplicativo nunca ajuda e deve ser descartado antes mesmo de examinar o público, as causas e as barreiras do problema. B. não há público. C. a frase presume a solução antes de estudar causas. D. toda política exige lei. E. elimina dados.
 ??? question "Mostrar resposta e comentário"
     **Resposta: C.** C mostra solução escondida no problema. A é absoluta. B, D e E não decorrem. **Retorno:** M7 A3.
 
@@ -159,14 +159,14 @@ Investigar se a política chegou ao público e por que houve falhas é avaliaç�
     **Resposta: E.** E estuda execução. A isola causa do efeito. B–D não respondem. **Retorno:** M7 A5.
 
 ### Questão 31
-O indicador melhorou após a política e uma mudança econômica. A conclusão segura é: A. resultado melhorou, mas impacto exige separar outras causas. B. política causou tudo. C. economia não importa. D. não houve resultado. E. indicador deve ser apagado.
+O indicador melhorou após a política e uma mudança econômica. A conclusão segura é: A. resultado melhorou, mas impacto exige separar outras causas. B. a política causou toda a melhora, porque qualquer mudança posterior à execução comprova impacto sem comparação. C. economia não importa. D. não houve resultado. E. indicador deve ser apagado.
 ??? question "Mostrar resposta e comentário"
     **Resposta: A.** A separa observação e causa. B e C exageram. D nega dado. E descarta evidência. **Retorno:** M7 A6.
 
 ## Bloco 4 — Informação, documentos e integração
 
 ### Questão 32
-Duas linhas iguais podem ser dois eventos reais. Antes de apagar, a equipe deve: A. usar média. B. conferir identificadores, datas e regra. C. marcar zero. D. ocultar. E. imprimir.
+Duas linhas iguais podem ser dois eventos reais. Antes de apagar, a equipe deve: A. calcular a média e eliminar uma das linhas, porque valores iguais demonstram duplicidade independentemente de data e identificador. B. conferir identificadores, datas e regra. C. marcar zero. D. ocultar. E. imprimir.
 ??? question "Mostrar resposta e comentário"
     **Resposta: B.** B verifica duplicidade. A não identifica. C muda sentido. D e E não resolvem. **Retorno:** M8 A1.
 
@@ -206,6 +206,6 @@ Manual publicado, mas não encontrado nem usado, demonstra: A. aprendizado compl
     **Resposta: D.** D separa criar e aplicar. A–C e E afirmam algo ausente. **Retorno:** M8 A8.
 
 ### Questão 40
-Qual cadeia mostra gestão pública completa? A. dado sem contexto → decisão. B. meta → missão. C. projeto → rotina sem entrega. D. documento → descarte imediato. E. problema → plano → execução → medida → avaliação → aprendizado.
+Qual cadeia mostra gestão pública completa? A. dado sem contexto → decisão imediata → descarte dos registros, sem execução medida, avaliação ou compartilhamento do aprendizado. B. meta → missão. C. projeto → rotina sem entrega. D. documento → descarte imediato. E. problema → plano → execução → medida → avaliação → aprendizado.
 ??? question "Mostrar resposta e comentário"
     **Resposta: E.** E conecta os módulos. A–D quebram relações essenciais. **Retorno:** revisão integral.

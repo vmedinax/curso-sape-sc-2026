@@ -48,7 +48,7 @@ Uma servidora demonstra um saber que nunca conseguiu escrever por inteiro. É co
     **Resposta: D.** D está ligado à experiência. A–C e E tratam gestão documental.
 
 ## Questão 10
-Qual sinal mostra resultado da gestão do conhecimento? A. muitos arquivos sem uso. B. manual inacessível. C. repositório desatualizado. D. reunião sem registro. E. redução de erros porque a equipe encontrou e aplicou o conhecimento.
+Qual sinal mostra resultado da gestão do conhecimento? A. muitos arquivos armazenados sem consulta, aplicação ou evidência de mudança na rotina e nos erros da equipe. B. manual inacessível. C. repositório desatualizado. D. reunião sem registro. E. redução de erros porque a equipe encontrou e aplicou o conhecimento.
 ??? question "Mostrar resposta e comentário"
     **Resposta: E.** E mostra uso e melhora. A–D mostram apenas volume ou falha.
 

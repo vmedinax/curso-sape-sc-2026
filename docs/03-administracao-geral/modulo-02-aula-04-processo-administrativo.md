@@ -268,11 +268,11 @@ C. especialização
 D. organização informal  
 E. burocracia
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **C.** Objetivo e escolha de ações são sinais de planejamento.
-2. **A.** A gerente está preparando os meios para executar o plano.
-3. **B.** Comparação e correção formam o núcleo do controle.
+    1. **C.** Objetivo e escolha de ações são sinais de planejamento.
+    2. **A.** A gerente está preparando os meios para executar o plano.
+    3. **B.** Comparação e correção formam o núcleo do controle.
 
 ## Checklist
 

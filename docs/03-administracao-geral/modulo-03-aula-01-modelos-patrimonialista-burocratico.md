@@ -228,11 +228,11 @@ C. disfunção burocrática
 D. governança  
 E. sistema aberto
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **B.** A relação pessoal substituiu o interesse e o critério público.
-2. **C.** Cargos, competências e impessoalidade afastam a administração baseada em favor pessoal.
-3. **C.** O meio formal passou a existir sem ajudar a finalidade.
+    1. **B.** A relação pessoal substituiu o interesse e o critério público.
+    2. **C.** Cargos, competências e impessoalidade afastam a administração baseada em favor pessoal.
+    3. **C.** O meio formal passou a existir sem ajudar a finalidade.
 
 ## Checklist
 

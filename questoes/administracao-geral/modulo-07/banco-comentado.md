@@ -101,7 +101,7 @@ Investigar por que a política não chegou ao público é avaliação de: A. vis
     **Resposta: E.** E estuda funcionamento e obstáculos. A e B dão direção. C pergunta causa do efeito. D trata de atenção. **Aula:** 5.
 
 ### Questão 16
-O indicador caiu depois da política. A conclusão segura é: A. houve mudança observada, mas a causa ainda precisa ser analisada. B. impacto está provado. C. nenhum fator externo importa. D. o dado é inútil. E. a meta não existe.
+O indicador caiu depois da política. A conclusão segura é: A. houve mudança observada, mas a causa ainda precisa ser analisada. B. impacto está provado, porque toda variação posterior à política pode ser atribuída a ela sem comparação ou análise externa. C. nenhum fator externo importa. D. o dado é inútil. E. a meta não existe.
 
 ??? question "Mostrar resposta e comentário"
     **Resposta: A.** A separa resultado e causa. B e C exageram. D descarta evidência. E não decorre. **Aula:** 6.
@@ -125,7 +125,7 @@ Atendidos já eram mais informados que não atendidos antes da ação. Existe ri
     **Resposta: D.** D torna grupos pouco comparáveis. Os demais não descrevem essa falha. **Aula:** 6.
 
 ### Questão 20
-Uma política atingiu entregas, mas não alcançou o público certo nem demonstrou efeito. A decisão adequada é: A. declarar sucesso. B. ignorar execução. C. expandir automaticamente. D. encerrar sem análise. E. examinar desenho, implementação e impacto antes de decidir.
+Uma política atingiu entregas, mas não alcançou o público certo nem demonstrou efeito. A decisão adequada é: A. declarar sucesso e expandir a política, porque atingir entregas dispensa analisar público, implementação e efeito. B. ignorar execução. C. expandir automaticamente. D. encerrar sem análise. E. examinar desenho, implementação e impacto antes de decidir.
 
 ??? question "Mostrar resposta e comentário"
     **Resposta: E.** E investiga os elos frágeis. A–D usam conclusões automáticas. **Aulas:** 3 a 6.

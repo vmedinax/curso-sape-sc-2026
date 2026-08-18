@@ -249,11 +249,11 @@ C. desconcentração territorial obrigatória
 D. privatização  
 E. sociedade de economia mista
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **B.** As unidades foram agrupadas pelo tipo de trabalho.
-2. **C.** A profissional participa de uma área funcional e de um projeto.
-3. **A.** O caso distribui decisão internamente e não cria outra pessoa jurídica.
+    1. **B.** As unidades foram agrupadas pelo tipo de trabalho.
+    2. **C.** A profissional participa de uma área funcional e de um projeto.
+    3. **A.** O caso distribui decisão internamente e não cria outra pessoa jurídica.
 
 ## Checklist
 

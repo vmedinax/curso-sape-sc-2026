@@ -131,15 +131,15 @@ As questões são autorais. O gabarito usa cada letra duas vezes, sem sequência
 
 ### Questão 1
 
-**Habilidade:** distinguir *ratificar* de *retificar*
 
-**Dificuldade:** fácil — o contexto apresenta a ideia de correção
-
+**Dificuldade:** fácil
 “A autoridade decidiu ___ a informação incorreta” completa-se com:
 
 A. ratificar. B. retificar. C. deferir. D. diferir. E. discriminar.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir *ratificar* de *retificar*
+
     **Resposta: B.**
 
     **A está errada:** *ratificar* é confirmar. **B está certa:** *retificar* é corrigir. **C está errada:** *deferir* é conceder um pedido. **D está errada:** *diferir* pode significar adiar ou distinguir-se. **E está errada:** não exprime a correção indicada.
@@ -148,15 +148,15 @@ A. ratificar. B. retificar. C. deferir. D. diferir. E. discriminar.
 
 ### Questão 2
 
-**Habilidade:** distinguir *iminente* de *eminente*
 
-**Dificuldade:** fácil — a frase pede proximidade temporal
-
+**Dificuldade:** fácil
 “O risco de interrupção é ___” completa-se com:
 
 A. eminente. B. descrito. C. discreto. D. iminente. E. deferido.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir *iminente* de *eminente*
+
     **Resposta: D.**
 
     **A está errada:** *eminente* significa notável. **B está errada:** não expressa proximidade. **C está errada:** significa reservado ou pouco perceptível. **D está certa:** *iminente* é aquilo que está prestes a ocorrer. **E está errada:** *deferido* significa concedido.
@@ -165,15 +165,15 @@ A. eminente. B. descrito. C. discreto. D. iminente. E. deferido.
 
 ### Questão 3
 
-**Habilidade:** aplicar o método CEP
 
-**Dificuldade:** fácil — pergunta pelo procedimento de escolha
-
+**Dificuldade:** fácil
 A melhor estratégia para escolher um parônimo é:
 
 A. contar letras. B. usar sempre o primeiro. C. produzir uma paráfrase do sentido exigido. D. ignorar a frase. E. escolher pela frequência imaginada.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar o método CEP
+
     **Resposta: C.**
 
     **A está errada:** quantidade de letras não decide o significado. **B está errada:** a ordem de apresentação é irrelevante. **C está certa:** a paráfrase transforma o contexto em critério. **D está errada:** sem a frase não há sentido selecionado. **E está errada:** impressão de frequência não verifica adequação.
@@ -182,15 +182,15 @@ A. contar letras. B. usar sempre o primeiro. C. produzir uma paráfrase do senti
 
 ### Questão 4
 
-**Habilidade:** distinguir *concerto* de *conserto*
 
-**Dificuldade:** fácil — o verbo *reparar* orienta a escolha
-
+**Dificuldade:** fácil
 Complete: “O equipamento precisa de ___ antes do ___ musical.”
 
 A. conserto; concerto. B. concerto; conserto. C. concerto; concerto. D. conserto; conserto. E. consserto; concerto.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir *concerto* de *conserto*
+
     **Resposta: A.**
 
     **A está certa:** *conserto* é reparo; *concerto*, apresentação musical. **B está errada:** inverte os sentidos. **C está errada:** equipamento não recebe apresentação como reparo. **D está errada:** o segundo contexto é musical. **E está errada:** *consserto* não é grafia válida.
@@ -199,15 +199,15 @@ A. conserto; concerto. B. concerto; conserto. C. concerto; concerto. D. conserto
 
 ### Questão 5
 
-**Habilidade:** distinguir *descrição* de *discrição*
 
-**Dificuldade:** média — exige preencher dois contextos relacionados
-
+**Dificuldade:** média
 “O relatório apresentou uma ___ detalhada; a servidora tratou os dados com ___.”
 
 A. discrição; descrição. B. descrição; descrição. C. discrição; discrição. D. descrissão; discrição. E. descrição; discrição.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir *descrição* de *discrição*
+
     **Resposta: E.**
 
     **A está errada:** inverte relato e reserva. **B está errada:** o segundo espaço exige prudência ou reserva. **C está errada:** o primeiro exige ato de descrever. **D está errada:** a primeira grafia é inválida. **E está certa:** *descrição* relata; *discrição* indica reserva.
@@ -216,15 +216,15 @@ A. discrição; descrição. B. descrição; descrição. C. discrição; discri
 
 ### Questão 6
 
-**Habilidade:** distinguir *deferir* de *diferir*
 
-**Dificuldade:** média — exige reconhecer decisão administrativa
-
+**Dificuldade:** média
 “A autoridade decidiu ___ o pedido” significa que resolveu:
 
 A. corrigi-lo. B. concedê-lo. C. adiá-lo necessariamente. D. descrevê-lo. E. escondê-lo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir *deferir* de *diferir*
+
     **Resposta: B.**
 
     **A está errada:** corrigir corresponde a *retificar*. **B está certa:** *deferir* é conceder ou acolher o pedido. **C está errada:** adiar pode corresponder a *diferir*. **D está errada:** descrever é outra ação. **E está errada:** a palavra não tem esse sentido.
@@ -233,15 +233,15 @@ A. corrigi-lo. B. concedê-lo. C. adiá-lo necessariamente. D. descrevê-lo. E. 
 
 ### Questão 7
 
-**Habilidade:** distinguir *mandato* de *mandado*
 
-**Dificuldade:** média — exige separar representação de ordem escrita
-
+**Dificuldade:** média
 Complete: “O representante iniciou seu ___; o servidor cumpriu o ___ judicial.”
 
 A. mandado; mandato. B. mandato; mandato. C. mandato; mandado. D. mandado; mandado. E. mandato; mandadto.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir *mandato* de *mandado*
+
     **Resposta: C.**
 
     **A está errada:** inverte os sentidos. **B está errada:** ordem judicial não é período de representação. **C está certa:** *mandato* é representação; *mandado*, ordem escrita. **D está errada:** o primeiro espaço não indica ordem. **E está errada:** a segunda forma é inválida.
@@ -250,15 +250,15 @@ A. mandado; mandato. B. mandato; mandato. C. mandato; mandado. D. mandado; manda
 
 ### Questão 8
 
-**Habilidade:** distinguir homófonos
 
-**Dificuldade:** difícil — exige classificar a relação formal
-
+**Dificuldade:** difícil
 Em grande parte dos usos brasileiros, *concerto* e *conserto* são homófonos porque:
 
 A. possuem grafia e sentido idênticos. B. têm apenas sentidos parecidos. C. pertencem sempre à mesma classe. D. têm som igual e grafia diferente. E. têm grafia igual e pronúncia diferente.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir homófonos
+
     **Resposta: D.**
 
     **A está errada:** grafia e sentido diferem. **B está errada:** apresentação e reparo não são sentidos equivalentes. **C está errada:** classe não define homofonia. **D está certa:** a igualdade sonora convive com diferença gráfica. **E está errada:** essa descrição se aproxima de casos homógrafos.
@@ -267,15 +267,15 @@ A. possuem grafia e sentido idênticos. B. têm apenas sentidos parecidos. C. pe
 
 ### Questão 9
 
-**Habilidade:** distinguir *tráfego* de *tráfico*
 
-**Dificuldade:** média — exige selecionar circulação em contexto viário
-
+**Dificuldade:** média
 “A obra alterou o ___ de veículos” completa-se com:
 
 A. tráfego. B. tráfico. C. trafego. D. tráfico ilegal. E. concerto.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir *tráfego* de *tráfico*
+
     **Resposta: A.**
 
     **A está certa:** *tráfego* é circulação. **B está errada:** *tráfico* indica comércio ilegal. **C está errada:** sem acento, a forma pode corresponder ao verbo *trafego*. **D está errada:** a frase trata de veículos, não de comércio ilícito. **E está errada:** não há relação com apresentação musical.
@@ -284,15 +284,15 @@ A. tráfego. B. tráfico. C. trafego. D. tráfico ilegal. E. concerto.
 
 ### Questão 10
 
-**Habilidade:** aplicar integralmente o método CEP
 
-**Dificuldade:** difícil — exige decidir por paráfrase e não por aparência
-
+**Dificuldade:** difícil
 Para completar “A comissão precisou ___ o dado e depois ___ a decisão”, a sequência correta é:
 
 A. ratificar; retificar. B. diferir; deferir. C. deferir; diferir. D. discriminar; descrever. E. retificar; ratificar.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar integralmente o método CEP
+
     **Resposta: E.**
 
     **A está errada:** primeiro é preciso corrigir, não confirmar o dado errado. **B está errada:** adiar e conceder não atendem ao contexto. **C está errada:** conceder e adiar também não. **D está errada:** nenhuma ação corresponde às paráfrases exigidas. **E está certa:** retifica-se o dado e ratifica-se a decisão.

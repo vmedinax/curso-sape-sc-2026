@@ -7,9 +7,7 @@ Todas as questões deste banco são **autorais no estilo de concurso**. Elas tre
 ### Questão 1
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** finalidade das teorias  
-**Dificuldade:** fácil — exige reconhecer uma ideia direta
-
+**Dificuldade:** fácil
 Uma teoria administrativa pode ser entendida como:
 
 A. uma regra jurídica que vale para qualquer órgão público.
@@ -25,6 +23,8 @@ E. um registro de tarefas já executadas.
 Pare e escolha antes de abrir o comentário.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** finalidade das teorias
+
     **Resposta: C.**
 
     **Explicação simples:** uma teoria organiza ideias para observar e explicar uma parte da realidade.
@@ -50,9 +50,7 @@ Pare e escolha antes de abrir o comentário.
 ### Questão 2
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** foco das teorias  
-**Dificuldade:** média — exige separar três pontos de observação
-
+**Dificuldade:** média
 Uma unidade enfrenta três problemas: movimentos repetidos na execução, ordens contraditórias entre chefias e receio da equipe de comunicar erros.
 
 Os três problemas chamam atenção, respectivamente, para:
@@ -68,6 +66,8 @@ D. regras, ambiente e tarefa.
 E. liderança, tarefa e estrutura.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** foco das teorias
+
     **Resposta: A.**
 
     **Explicação simples:** repetição aparece na execução da tarefa; ordens contraditórias aparecem na estrutura; medo de falar envolve relações entre pessoas.
@@ -95,9 +95,7 @@ E. liderança, tarefa e estrutura.
 ### Questão 3
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** Administração Científica  
-**Dificuldade:** fácil — exige reconhecer o foco na execução
-
+**Dificuldade:** fácil
 Uma equipe observa o tempo, a sequência e os movimentos usados para executar uma atividade. Seu objetivo é reduzir desperdícios sem perder qualidade.
 
 O foco está mais próximo da:
@@ -113,6 +111,8 @@ D. organização informal.
 E. avaliação de política pública.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** Administração Científica
+
     **Resposta: B.**
 
     **Explicação simples:** o caso examina como a tarefa é realizada.
@@ -138,9 +138,7 @@ E. avaliação de política pública.
 ### Questão 4
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** Teoria Clássica  
-**Dificuldade:** média — exige aplicar autoridade e responsabilidade
-
+**Dificuldade:** média
 Uma gerente deve responder pela entrega, mas não pode distribuir tarefas nem usar os recursos já aprovados para a equipe.
 
 O problema mais direto está no equilíbrio entre:
@@ -156,6 +154,8 @@ D. autoridade e responsabilidade.
 E. dado e indicador.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** Teoria Clássica
+
     **Resposta: D.**
 
     **Explicação simples:** a gerente recebeu o dever de entregar, mas não recebeu poder suficiente para organizar o trabalho.
@@ -181,9 +181,7 @@ E. dado e indicador.
 ### Questão 5
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** modelo burocrático  
-**Dificuldade:** média — exige separar característica e disfunção
-
+**Dificuldade:** média
 Assinale a situação que representa uma disfunção do modelo burocrático.
 
 A. Definir competências para saber quem decide.
@@ -197,6 +195,8 @@ D. Selecionar pessoas conforme exigências do cargo.
 E. manter uma exigência inútil apenas porque ela sempre foi cumprida.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** modelo burocrático
+
     **Resposta: E.**
 
     **Explicação simples:** a organização passou a proteger a rotina, mesmo sem relação com a finalidade.
@@ -224,9 +224,7 @@ E. manter uma exigência inútil apenas porque ela sempre foi cumprida.
 ### Questão 6
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** organização informal  
-**Dificuldade:** fácil — exige reconhecer uma relação espontânea
-
+**Dificuldade:** fácil
 Servidores de áreas diferentes criaram espontaneamente uma rede para trocar orientações sobre dúvidas frequentes. A rede não aparece no organograma.
 
 Ela representa:
@@ -242,6 +240,8 @@ D. controle final.
 E. descentralização jurídica.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** organização informal
+
     **Resposta: A.**
 
     **Explicação simples:** a relação nasceu entre as pessoas e não foi criada pelo desenho oficial.
@@ -267,9 +267,7 @@ E. descentralização jurídica.
 ### Questão 7
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** sistema aberto  
-**Dificuldade:** média — exige aplicar entradas, transformação e saídas
-
+**Dificuldade:** média
 Uma unidade recebe pedidos e dados, analisa cada caso e entrega decisões aos usuários. Depois, usa informações sobre erros para ajustar a análise.
 
 As informações sobre erros funcionam como:
@@ -285,6 +283,8 @@ D. estrutura matricial.
 E. centralização.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** sistema aberto
+
     **Resposta: C.**
 
     **Explicação simples:** a informação sobre o resultado volta e ajuda a corrigir o funcionamento.
@@ -312,9 +312,7 @@ E. centralização.
 ### Questão 8
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** funções administrativas  
-**Dificuldade:** média — exige acompanhar quatro ações na ordem
-
+**Dificuldade:** média
 Uma chefia define uma meta, distribui recursos, orienta a equipe e compara o resultado com o esperado.
 
 A sequência corresponde a:
@@ -330,6 +328,8 @@ D. planejar, organizar, dirigir e controlar.
 E. controlar, planejar, dirigir e organizar.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** funções administrativas
+
     **Resposta: D.**
 
     **Explicação simples:** meta é planejamento; recursos são organização; orientação é direção; comparação é controle.
@@ -355,9 +355,7 @@ E. controlar, planejar, dirigir e organizar.
 ### Questão 9
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** controle  
-**Dificuldade:** difícil — combina padrão, medição e correção
-
+**Dificuldade:** difícil
 Uma equipe mede o tempo de atendimento durante a execução. O resultado está acima do limite definido. A gerente procura a causa e altera uma etapa, sem mudar o objetivo.
 
 Qual função predomina?
@@ -373,6 +371,8 @@ D. especialização, porque o tempo foi medido.
 E. controle, porque houve medição, comparação e correção.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** controle
+
     **Resposta: E.**
 
     **Explicação simples:** a gerente comparou o realizado com uma referência e corrigiu o caminho.
@@ -400,9 +400,7 @@ E. controle, porque houve medição, comparação e correção.
 ### Questão 10
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** estrutura matricial  
-**Dificuldade:** difícil — exige reconhecer dois critérios e um risco
-
+**Dificuldade:** difícil
 Uma analista permanece vinculada à área de tecnologia e também integra um projeto com coordenação própria. As prioridades das duas frentes não foram definidas e passaram a competir.
 
 Assinale a análise correta.
@@ -418,6 +416,8 @@ D. A estrutura é informal porque existem duas referências de trabalho.
 E. A situação criou outra pessoa jurídica.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** estrutura matricial
+
     **Resposta: C.**
 
     **Explicação simples:** a profissional participa de uma área funcional e de um projeto. Os dois critérios precisam de responsabilidades claras.
@@ -443,14 +443,12 @@ E. A situação criou outra pessoa jurídica.
 ### Questão 11
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** comparação entre abordagens  
-**Dificuldade:** difícil — exige combinar foco, contribuição e limite
-
+**Dificuldade:** difícil
 Uma organização padronizou tarefas, definiu áreas e registrou competências. Mesmo assim, a equipe não comunicava falhas por medo da reação da chefia.
 
 Qual análise está correta?
 
-A. A padronização prova que relações humanas não afetam o resultado.
+A. A padronização prova que relações humanas não afetam o resultado quando tarefas, competências e regras já foram formalmente definidas.
 
 B. As medidas cuidaram de tarefa, estrutura e regras, mas o caso ainda exige atenção às relações entre as pessoas.
 
@@ -461,6 +459,8 @@ D. O medo da equipe caracteriza uma estrutura divisional.
 E. A existência de áreas elimina grupos informais.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** comparação entre abordagens
+
     **Resposta: B.**
 
     **Explicação simples:** a organização trabalhou aspectos formais, mas deixou um problema humano sem resposta.
@@ -486,9 +486,7 @@ E. A existência de áreas elimina grupos informais.
 ### Questão 12
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** unidade de comando  
-**Dificuldade:** fácil — exige reconhecer um conceito direto
-
+**Dificuldade:** fácil
 Uma servidora recebe duas ordens incompatíveis para a mesma atividade. Qual ideia procura evitar esse problema?
 
 A. Unidade de comando.
@@ -502,6 +500,8 @@ D. Organização informal.
 E. Descentralização jurídica.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** unidade de comando
+
     **Resposta: A.**
 
     **Explicação simples:** a pessoa precisa saber qual chefia orienta diretamente aquela atuação.
@@ -527,14 +527,12 @@ E. Descentralização jurídica.
 ### Questão 13
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** visão sistêmica  
-**Dificuldade:** difícil — exige analisar uma melhoria local que prejudica o conjunto
-
+**Dificuldade:** difícil
 Um setor reduziu seu próprio tempo enviando pedidos sem conferência. O setor seguinte passou a devolver muitos pedidos, e o tempo total aumentou.
 
 Qual conclusão acompanha a visão sistêmica?
 
-A. A primeira unidade foi eficiente porque seu tempo isolado caiu.
+A. A primeira unidade foi eficiente porque seu tempo isolado caiu, ainda que o fluxo completo tenha acumulado devoluções e aumentado a espera do usuário.
 
 B. Cada setor deve melhorar apenas seu resultado interno.
 
@@ -545,6 +543,8 @@ D. Uma melhora local pode prejudicar o resultado do sistema quando as relações
 E. O caso demonstra apenas falta de organograma.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** visão sistêmica
+
     **Resposta: D.**
 
     **Explicação simples:** o primeiro setor ficou mais rápido isoladamente, mas criou retrabalho e piorou a entrega completa.
@@ -570,9 +570,7 @@ E. O caso demonstra apenas falta de organograma.
 ### Questão 14
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** direção  
-**Dificuldade:** fácil — exige reconhecer o verbo principal
-
+**Dificuldade:** fácil
 Durante a execução, uma gerente explica prioridades, esclarece dúvidas e ajuda a equipe a lidar com um conflito.
 
 Predomina a função de:
@@ -588,6 +586,8 @@ D. departamentalização.
 E. direção.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** direção
+
     **Resposta: E.**
 
     **Explicação simples:** a gerente está conduzindo pessoas durante o trabalho.
@@ -613,14 +613,12 @@ E. direção.
 ### Questão 15
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** ciclo administrativo  
-**Dificuldade:** difícil — exige reconhecer a ligação entre controle e novo planejamento
-
+**Dificuldade:** difícil
 Após medir o resultado, uma equipe descobre que a meta se tornou inviável por uma mudança externa. Ela redefine o objetivo e reorganiza os recursos.
 
 O caso mostra que:
 
-A. controle encerra o trabalho e não afeta outras funções.
+A. controle encerra o trabalho e não afeta outras funções, mesmo quando a medição revela que o objetivo ficou inviável por mudança externa.
 
 B. a informação do controle pode alimentar novo planejamento e nova organização.
 
@@ -631,6 +629,8 @@ D. redefinir objetivo é sempre uma disfunção burocrática.
 E. organização ocorre apenas antes da primeira execução.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** ciclo administrativo
+
     **Resposta: B.**
 
     **Explicação simples:** a medição trouxe informação que levou a novas escolhas e nova distribuição de meios.
@@ -656,9 +656,7 @@ E. organização ocorre apenas antes da primeira execução.
 ### Questão 16
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** estrutura divisional  
-**Dificuldade:** média — exige reconhecer o critério de agrupamento
-
+**Dificuldade:** média
 Uma instituição organiza unidades completas para as regiões Oeste, Serrana e Litoral. Cada unidade reúne profissionais de áreas diferentes para atender sua região.
 
 O desenho é principalmente:
@@ -674,6 +672,8 @@ D. matricial, porque toda unidade tem várias profissões.
 E. científico, porque o território mede tarefas.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** estrutura divisional
+
     **Resposta: C.**
 
     **Explicação simples:** o fator usado para formar as unidades foi a região atendida.
@@ -699,9 +699,7 @@ E. científico, porque o território mede tarefas.
 ### Questão 17
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** estrutura funcional  
-**Dificuldade:** fácil — exige reconhecer o agrupamento por trabalho
-
+**Dificuldade:** fácil
 Uma organização reúne contadores na área financeira, profissionais de tecnologia na área de sistemas e especialistas em pessoas na área de gestão de pessoas.
 
 Essa estrutura é:
@@ -717,6 +715,8 @@ D. informal.
 E. descentralizada juridicamente.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** estrutura funcional
+
     **Resposta: A.**
 
     **Explicação simples:** as pessoas foram reunidas pelo tipo de trabalho e conhecimento.
@@ -742,14 +742,12 @@ E. descentralizada juridicamente.
 ### Questão 18
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** organização por processos  
-**Dificuldade:** difícil — exige comparar fluxo completo e resultado local
-
+**Dificuldade:** difícil
 Uma organização quer reduzir o tempo total entre o recebimento de um pedido e a resposta. O trabalho passa por quatro setores.
 
 Qual ação acompanha melhor a organização por processos?
 
-A. Medir apenas o setor mais rápido.
+A. Medir apenas o setor mais rápido e usar seu resultado como representação suficiente do desempenho de todas as passagens do processo.
 
 B. Pedir que cada setor esconda seus atrasos.
 
@@ -760,6 +758,8 @@ D. Mapear a entrega do início ao fim, incluindo passagens e esperas entre setor
 E. Analisar somente a descrição de um cargo.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** organização por processos
+
     **Resposta: D.**
 
     **Explicação simples:** o resultado depende do caminho inteiro e das ligações entre áreas.
@@ -785,14 +785,12 @@ E. Analisar somente a descrição de um cargo.
 ### Questão 19
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** centralização e descentralização gerencial  
-**Dificuldade:** média — exige identificar onde a decisão ficou
-
+**Dificuldade:** média
 Uma organização permite que unidades regionais decidam casos rotineiros dentro de limites definidos. As decisões de maior risco permanecem na alta chefia.
 
 Assinale a alternativa correta.
 
-A. Toda autoridade foi eliminada.
+A. Toda autoridade foi eliminada, porque permitir decisões regionais rotineiras impede a alta chefia de reservar matérias de maior risco.
 
 B. Existe distribuição gerencial de parte das decisões, sem impedir que outras permaneçam centralizadas.
 
@@ -803,6 +801,8 @@ D. A organização deixou de exercer controle.
 E. A situação representa apenas organização informal.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** centralização e descentralização gerencial
+
     **Resposta: B.**
 
     **Explicação simples:** decisões rotineiras foram distribuídas, enquanto decisões de maior risco continuaram no alto.
@@ -828,14 +828,12 @@ E. A situação representa apenas organização informal.
 ### Questão 20
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** dois sentidos de descentralização  
-**Dificuldade:** fácil — exige observar se surgiu outra pessoa jurídica
-
+**Dificuldade:** fácil
 Uma Secretaria distribui certas decisões a seus gerentes internos. Em outro caso, uma atividade é atribuída a uma autarquia com personalidade própria.
 
 As situações representam, respectivamente:
 
-A. duas descentralizações jurídicas.
+A. duas descentralizações jurídicas, pois distribuir decisões dentro da Secretaria e atribuir atividade a uma autarquia criariam pessoas jurídicas distintas.
 
 B. duas centralizações.
 
@@ -846,6 +844,8 @@ D. organização informal e unidade de comando.
 E. descentralização gerencial e descentralização para outra pessoa jurídica.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** dois sentidos de descentralização
+
     **Resposta: E.**
 
     **Explicação simples:** no primeiro caso, a decisão circula internamente. No segundo, aparece uma entidade própria.

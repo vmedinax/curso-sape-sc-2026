@@ -108,10 +108,8 @@ Prepare a folha: número, resposta, certeza, assunto, tipo de erro, aula de reto
 
 ### Questão 1
 
-**Habilidade:** reconhecer erro de leitura em situação completa
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **erro de leitura**?
 
 A. A candidata ignorou a palavra exceto e marcou a alternativa verdadeira.
@@ -121,6 +119,8 @@ D. A candidata resolveu corretamente no rascunho e transcreveu outra letra.
 E. O tópico com muitos erros conceituais recebe estudo e nova prática primeiro.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer erro de leitura em situação completa
+
     **Resposta: A.**
 
     **A está certa:** A falha ocorreu na leitura do comando.
@@ -137,10 +137,8 @@ E. O tópico com muitos erros conceituais recebe estudo e nova prática primeiro
 
 ### Questão 2
 
-**Habilidade:** reconhecer erro de conceito em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **erro de conceito**?
 
 A. A candidata ignorou a palavra exceto e marcou a alternativa verdadeira.
@@ -150,6 +148,8 @@ D. A candidata resolveu corretamente no rascunho e transcreveu outra letra.
 E. O tópico com muitos erros conceituais recebe estudo e nova prática primeiro.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer erro de conceito em situação completa
+
     **Resposta: B.**
 
     **A está errada:** a situação exemplifica erro de leitura, pois a falha ocorreu na leitura do comando; não exemplifica erro de conceito.
@@ -166,10 +166,8 @@ E. O tópico com muitos erros conceituais recebe estudo e nova prática primeiro
 
 ### Questão 3
 
-**Habilidade:** reconhecer erro de aplicação em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **erro de aplicação**?
 
 A. A candidata ignorou a palavra exceto e marcou a alternativa verdadeira.
@@ -179,6 +177,8 @@ D. A candidata resolveu corretamente no rascunho e transcreveu outra letra.
 E. O tópico com muitos erros conceituais recebe estudo e nova prática primeiro.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer erro de aplicação em situação completa
+
     **Resposta: C.**
 
     **A está errada:** a situação exemplifica erro de leitura, pois a falha ocorreu na leitura do comando; não exemplifica erro de aplicação.
@@ -195,10 +195,8 @@ E. O tópico com muitos erros conceituais recebe estudo e nova prática primeiro
 
 ### Questão 4
 
-**Habilidade:** reconhecer erro de atenção em situação completa
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **erro de atenção**?
 
 A. A candidata ignorou a palavra exceto e marcou a alternativa verdadeira.
@@ -208,6 +206,8 @@ D. A candidata resolveu corretamente no rascunho e transcreveu outra letra.
 E. O tópico com muitos erros conceituais recebe estudo e nova prática primeiro.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer erro de atenção em situação completa
+
     **Resposta: D.**
 
     **A está errada:** a situação exemplifica erro de leitura, pois a falha ocorreu na leitura do comando; não exemplifica erro de atenção.
@@ -224,10 +224,8 @@ E. O tópico com muitos erros conceituais recebe estudo e nova prática primeiro
 
 ### Questão 5
 
-**Habilidade:** reconhecer revisão prioritária em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **revisão prioritária**?
 
 A. A candidata ignorou a palavra exceto e marcou a alternativa verdadeira.
@@ -237,6 +235,8 @@ D. A candidata resolveu corretamente no rascunho e transcreveu outra letra.
 E. O tópico com muitos erros conceituais recebe estudo e nova prática primeiro.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer revisão prioritária em situação completa
+
     **Resposta: E.**
 
     **A está errada:** a situação exemplifica erro de leitura, pois a falha ocorreu na leitura do comando; não exemplifica revisão prioritária.
@@ -253,10 +253,8 @@ E. O tópico com muitos erros conceituais recebe estudo e nova prática primeiro
 
 ### Questão 6
 
-**Habilidade:** reconhecer registro diagnóstico em situação completa
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **registro diagnóstico**?
 
 A. A planilha anota questão, tipo de erro, tópico e ação de revisão.
@@ -266,6 +264,8 @@ D. A candidata conhecia a regra de crase, mas não testou a regência da frase.
 E. A candidata resolveu corretamente no rascunho e transcreveu outra letra.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer registro diagnóstico em situação completa
+
     **Resposta: A.**
 
     **A está certa:** O registro transforma resultado em decisão de estudo.
@@ -282,10 +282,8 @@ E. A candidata resolveu corretamente no rascunho e transcreveu outra letra.
 
 ### Questão 7
 
-**Habilidade:** reconhecer retorno espaçado em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **retorno espaçado**?
 
 A. A candidata ignorou a palavra exceto e marcou a alternativa verdadeira.
@@ -295,6 +293,8 @@ D. A candidata conhecia a regra de crase, mas não testou a regência da frase.
 E. A candidata resolveu corretamente no rascunho e transcreveu outra letra.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer retorno espaçado em situação completa
+
     **Resposta: B.**
 
     **A está errada:** a situação exemplifica erro de leitura, pois a falha ocorreu na leitura do comando; não exemplifica retorno espaçado.
@@ -311,10 +311,8 @@ E. A candidata resolveu corretamente no rascunho e transcreveu outra letra.
 
 ### Questão 8
 
-**Habilidade:** reconhecer gestão do tempo em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **gestão do tempo**?
 
 A. A candidata ignorou a palavra exceto e marcou a alternativa verdadeira.
@@ -324,6 +322,8 @@ D. A candidata conhecia a regra de crase, mas não testou a regência da frase.
 E. A candidata resolveu corretamente no rascunho e transcreveu outra letra.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer gestão do tempo em situação completa
+
     **Resposta: C.**
 
     **A está errada:** a situação exemplifica erro de leitura, pois a falha ocorreu na leitura do comando; não exemplifica gestão do tempo.
@@ -340,10 +340,8 @@ E. A candidata resolveu corretamente no rascunho e transcreveu outra letra.
 
 ### Questão 9
 
-**Habilidade:** reconhecer checagem do gabarito em situação completa
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **checagem do gabarito**?
 
 A. A candidata ignorou a palavra exceto e marcou a alternativa verdadeira.
@@ -353,6 +351,8 @@ D. Antes de entregar, a candidata confere numeração e alternativas transcritas
 E. A candidata resolveu corretamente no rascunho e transcreveu outra letra.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer checagem do gabarito em situação completa
+
     **Resposta: D.**
 
     **A está errada:** a situação exemplifica erro de leitura, pois a falha ocorreu na leitura do comando; não exemplifica checagem do gabarito.
@@ -369,10 +369,8 @@ E. A candidata resolveu corretamente no rascunho e transcreveu outra letra.
 
 ### Questão 10
 
-**Habilidade:** reconhecer plano pré-prova realista em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **plano pré-prova realista**?
 
 A. A candidata ignorou a palavra exceto e marcou a alternativa verdadeira.
@@ -382,6 +380,8 @@ D. A candidata resolveu corretamente no rascunho e transcreveu outra letra.
 E. A revisão final prioriza erros recorrentes e mantém descanso adequado.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer plano pré-prova realista em situação completa
+
     **Resposta: E.**
 
     **A está errada:** a situação exemplifica erro de leitura, pois a falha ocorreu na leitura do comando; não exemplifica plano pré-prova realista.

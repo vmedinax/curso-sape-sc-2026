@@ -115,10 +115,8 @@ Classifique: “É preciso que venha”; “informou que viria”; “duvidou de
 
 ### Questão 1
 
-**Habilidade:** reconhecer subjetiva em enunciado autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **subjetiva**?
 
 A. É necessário que todos compareçam.
@@ -128,6 +126,8 @@ D. Há necessidade de que o ato seja revisto.
 E. A verdade é que o prazo terminou.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer subjetiva em enunciado autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** A oração que todos compareçam funciona como sujeito.
@@ -144,10 +144,8 @@ E. A verdade é que o prazo terminou.
 
 ### Questão 2
 
-**Habilidade:** reconhecer objetiva direta em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **objetiva direta**?
 
 A. É necessário que todos compareçam.
@@ -157,6 +155,8 @@ D. Há necessidade de que o ato seja revisto.
 E. A verdade é que o prazo terminou.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer objetiva direta em enunciado autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** a frase exemplifica subjetiva, pois a oração que todos compareçam funciona como sujeito; não exemplifica objetiva direta.
@@ -173,10 +173,8 @@ E. A verdade é que o prazo terminou.
 
 ### Questão 3
 
-**Habilidade:** reconhecer objetiva indireta em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **objetiva indireta**?
 
 A. É necessário que todos compareçam.
@@ -186,6 +184,8 @@ D. Há necessidade de que o ato seja revisto.
 E. A verdade é que o prazo terminou.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer objetiva indireta em enunciado autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** a frase exemplifica subjetiva, pois a oração que todos compareçam funciona como sujeito; não exemplifica objetiva indireta.
@@ -202,10 +202,8 @@ E. A verdade é que o prazo terminou.
 
 ### Questão 4
 
-**Habilidade:** reconhecer completiva nominal em enunciado autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **completiva nominal**?
 
 A. É necessário que todos compareçam.
@@ -215,6 +213,8 @@ D. Há necessidade de que o ato seja revisto.
 E. A verdade é que o prazo terminou.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer completiva nominal em enunciado autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** a frase exemplifica subjetiva, pois a oração que todos compareçam funciona como sujeito; não exemplifica completiva nominal.
@@ -231,10 +231,8 @@ E. A verdade é que o prazo terminou.
 
 ### Questão 5
 
-**Habilidade:** reconhecer predicativa em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **predicativa**?
 
 A. É necessário que todos compareçam.
@@ -244,6 +242,8 @@ D. Há necessidade de que o ato seja revisto.
 E. A verdade é que o prazo terminou.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer predicativa em enunciado autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** a frase exemplifica subjetiva, pois a oração que todos compareçam funciona como sujeito; não exemplifica predicativa.
@@ -260,10 +260,8 @@ E. A verdade é que o prazo terminou.
 
 ### Questão 6
 
-**Habilidade:** reconhecer apositiva em enunciado autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **apositiva**?
 
 A. Só peço isto: que leiam o edital.
@@ -273,6 +271,8 @@ D. A comissão necessita de que o prazo seja ampliado.
 E. Há necessidade de que o ato seja revisto.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer apositiva em enunciado autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** A oração explica o pronome isto.
@@ -289,10 +289,8 @@ E. Há necessidade de que o ato seja revisto.
 
 ### Questão 7
 
-**Habilidade:** reconhecer reduzida de infinitivo subjetiva em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **reduzida de infinitivo subjetiva**?
 
 A. É necessário que todos compareçam.
@@ -302,6 +300,8 @@ D. A comissão necessita de que o prazo seja ampliado.
 E. Há necessidade de que o ato seja revisto.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer reduzida de infinitivo subjetiva em enunciado autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** a frase exemplifica subjetiva, pois a oração que todos compareçam funciona como sujeito; não exemplifica reduzida de infinitivo subjetiva.
@@ -318,10 +318,8 @@ E. Há necessidade de que o ato seja revisto.
 
 ### Questão 8
 
-**Habilidade:** reconhecer substantiva introduzida por se em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **substantiva introduzida por se**?
 
 A. É necessário que todos compareçam.
@@ -331,6 +329,8 @@ D. A comissão necessita de que o prazo seja ampliado.
 E. Há necessidade de que o ato seja revisto.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer substantiva introduzida por se em enunciado autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** a frase exemplifica subjetiva, pois a oração que todos compareçam funciona como sujeito; não exemplifica substantiva introduzida por se.
@@ -347,10 +347,8 @@ E. Há necessidade de que o ato seja revisto.
 
 ### Questão 9
 
-**Habilidade:** reconhecer teste de substituição por isso em enunciado autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **teste de substituição por isso**?
 
 A. É necessário que todos compareçam.
@@ -360,6 +358,8 @@ D. A comissão deseja que todos participem → A comissão deseja isso.
 E. Há necessidade de que o ato seja revisto.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer teste de substituição por isso em enunciado autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** a frase exemplifica subjetiva, pois a oração que todos compareçam funciona como sujeito; não exemplifica teste de substituição por isso.
@@ -376,10 +376,8 @@ E. Há necessidade de que o ato seja revisto.
 
 ### Questão 10
 
-**Habilidade:** reconhecer oração principal em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **oração principal**?
 
 A. É necessário que todos compareçam.
@@ -389,6 +387,8 @@ D. Há necessidade de que o ato seja revisto.
 E. Em É provável que chova, É provável é a oração principal.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer oração principal em enunciado autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** a frase exemplifica subjetiva, pois a oração que todos compareçam funciona como sujeito; não exemplifica oração principal.

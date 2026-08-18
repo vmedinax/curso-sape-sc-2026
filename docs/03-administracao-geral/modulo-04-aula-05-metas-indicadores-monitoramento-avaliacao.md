@@ -328,11 +328,11 @@ C. Linha de base é o valor desejado no futuro.
 D. Indicador melhorado prova sozinho a causa.  
 E. Monitoramento acompanha; avaliação aprofunda uma análise.
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **B.** A expressão apresenta a medida usada para acompanhar o prazo.
-2. **A.** Há valor desejado e prazo.
-3. **E.** Os dois recursos possuem funções complementares e diferentes.
+    1. **B.** A expressão apresenta a medida usada para acompanhar o prazo.
+    2. **A.** Há valor desejado e prazo.
+    3. **E.** Os dois recursos possuem funções complementares e diferentes.
 
 ## Checklist
 

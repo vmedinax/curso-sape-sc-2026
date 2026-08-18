@@ -236,11 +236,11 @@ C. objetivo estratégico
 D. planejamento operacional  
 E. ameaça externa
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **C.** Prioridades da organização inteira pertencem ao nível estratégico.
-2. **A.** A diretoria traduz o objetivo geral para sua área.
-3. **D.** Responsáveis e horários detalham a execução.
+    1. **C.** Prioridades da organização inteira pertencem ao nível estratégico.
+    2. **A.** A diretoria traduz o objetivo geral para sua área.
+    3. **D.** Responsáveis e horários detalham a execução.
 
 ## Checklist
 

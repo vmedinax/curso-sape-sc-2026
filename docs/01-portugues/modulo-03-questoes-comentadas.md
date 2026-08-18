@@ -7,12 +7,10 @@ last_reviewed: 2026-08-04
 
 # Questões comentadas do Módulo 3
 
-## Questão oficial adaptada — emprego do hífen
+## Questão oficial adaptada
 
 **Tipo:** questão oficial FEPESE adaptada.  
 **Origem:** InvestSC, Concurso Público, Edital nº 003/2026, prova S1 — Agente/Analista Administrativo, questão 5, página 4, aplicação em 3 maio 2026.  
-**Gabarito definitivo retificado:** B.  
-**Tema:** hífen. **Dificuldade:** média — comparar vários critérios numa mesma alternativa.
 
 !!! note "Adaptação pedagógica"
     A instrução foi condensada, mas os grupos de palavras foram preservados porque são o objeto da questão. Consulte o caderno oficial para ver a diagramação original.
@@ -26,6 +24,10 @@ D) anti-inflamatório; microondas; semi-deus.
 E) recém-nascido; geo-política; mal humorado.
 
 ??? success "Resposta e comentário"
+    **Gabarito oficial definitivo retificado:** B.
+
+    **Tema cobrado:** hífen. **Dificuldade:** média — comparar vários critérios numa mesma alternativa
+
     **B.** *Papel-moeda* e *matéria-prima* são compostos consagrados com hífen; *bem-estar* conserva o sinal. **A:** as formas corretas são *coautor*, *extraescolar* e *antissocial*. **C:** *autoescola*, *contrarregra* e *infraestrutura*. **D:** *anti-inflamatório* está correta, mas são *micro-ondas* e *semideus*. **E:** *recém-nascido* está correta, mas são *geopolítica* e *mal-humorado*. **Erro provável:** aprovar a alternativa porque contém uma palavra correta sem conferir as três. **Dica:** aplique PONTE a cada item. **Retorno:** Aula 5.
 
 ## O que a evidência permite dizer

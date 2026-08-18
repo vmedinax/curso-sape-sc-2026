@@ -136,9 +136,7 @@ As dez questões são autorais. Tente resolver cada uma antes de abrir o coment�
 ### Questão 1
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer o eixo regional
-**Dificuldade:** fácil — há uma pista geográfica direta
-
+**Dificuldade:** fácil
 Um glossário registra que determinada palavra é usada sobretudo por falantes de uma região do país. Essa diferença exemplifica variação:
 
 A. histórica.
@@ -148,6 +146,8 @@ D. exclusivamente individual.
 E. normativa.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer o eixo regional
+
     **Resposta: B.**
 
     **A está errada:** a variação histórica exige uma pista de mudança ao longo do tempo, ausente no caso.
@@ -165,9 +165,7 @@ E. normativa.
 ### Questão 2
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** adequar o registro a um ofício
-**Dificuldade:** média — exige considerar gênero, destinatário e precisão
-
+**Dificuldade:** média
 Uma servidora precisa solicitar a outro órgão o envio de um relatório até 10 de agosto. Qual redação é mais adequada ao ofício?
 
 A. “Manda aí o relatório.”
@@ -177,6 +175,8 @@ D. “Tá faltando o arquivo, viu?”
 E. “Valeu se puder ajudar.”
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** adequar o registro a um ofício
+
     **Resposta: C.**
 
     **A está errada:** o pedido é compreensível, mas o registro informal não atende à comunicação entre órgãos.
@@ -194,9 +194,7 @@ E. “Valeu se puder ajudar.”
 ### Questão 3
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** aplicar o método CIFRA
-**Dificuldade:** fácil — exige recuperar os fatores da situação
-
+**Dificuldade:** fácil
 Para avaliar a adequação de uma escolha linguística, deve-se observar principalmente:
 
 A. o tamanho das palavras.
@@ -206,6 +204,8 @@ D. o contexto, os interlocutores e a finalidade.
 E. apenas a ortografia.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar o método CIFRA
+
     **Resposta: D.**
 
     **A está errada:** palavras longas ou curtas não determinam sozinhas a adequação.
@@ -223,9 +223,7 @@ E. apenas a ortografia.
 ### Questão 4
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** distinguir variação histórica
-**Dificuldade:** fácil — o enunciado contrasta duas épocas
-
+**Dificuldade:** fácil
 Um documento do início do século XX apresenta uma forma de tratamento que deixou de ser corrente em documentos atuais. O contraste evidencia variação:
 
 A. histórica.
@@ -235,6 +233,8 @@ D. profissional.
 E. individual.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir variação histórica
+
     **Resposta: A.**
 
     **A está certa:** a pista decisiva é a mudança de uso entre dois momentos históricos.
@@ -252,9 +252,7 @@ E. individual.
 ### Questão 5
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer variação social
-**Dificuldade:** média — exige identificar um uso compartilhado por grupo profissional
-
+**Dificuldade:** média
 Em uma reunião técnica, engenheiros usam entre si termos próprios da área. Fora desse grupo, precisam explicá-los ao público. O emprego desse vocabulário exemplifica, em primeiro plano, variação:
 
 A. histórica.
@@ -264,6 +262,8 @@ D. ortográfica.
 E. social.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer variação social
+
     **Resposta: E.**
 
     **A está errada:** não há comparação entre épocas.
@@ -281,9 +281,7 @@ E. social.
 ### Questão 6
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** separar formalidade de rebuscamento
-**Dificuldade:** média — exige rejeitar uma aparência enganosa de formalidade
-
+**Dificuldade:** média
 Qual característica define melhor uma linguagem formal adequada?
 
 A. Emprego obrigatório de palavras raras.
@@ -293,6 +291,8 @@ D. Eliminação de qualquer palavra comum.
 E. Ausência de indicação da providência esperada.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** separar formalidade de rebuscamento
+
     **Resposta: B.**
 
     **A está errada:** palavra rara pode dificultar a compreensão sem acrescentar precisão.
@@ -310,9 +310,7 @@ E. Ausência de indicação da providência esperada.
 ### Questão 7
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** analisar adequação sem preconceito linguístico
-**Dificuldade:** difícil — exige separar descrição, adequação e norma-padrão
-
+**Dificuldade:** difícil
 Em uma entrevista, uma participante usa uma construção característica de sua comunidade. O entrevistador compreende a mensagem. A análise linguisticamente adequada é:
 
 A. a construção prova falta de capacidade intelectual.
@@ -322,6 +320,8 @@ D. toda marca comunitária precisa ser eliminada de qualquer conversa.
 E. somente a região geográfica pode explicar o uso.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** analisar adequação sem preconceito linguístico
+
     **Resposta: C.**
 
     **A está errada:** variedade linguística não mede inteligência ou competência pessoal.
@@ -339,9 +339,7 @@ E. somente a região geográfica pode explicar o uso.
 ### Questão 8
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer mudança de registro
-**Dificuldade:** média — exige identificar o fator que motiva duas formulações
-
+**Dificuldade:** média
 Uma pessoa escreve “Você me manda a planilha?” à colega próxima e “Solicito o encaminhamento da planilha” em expediente dirigido a outro órgão. A mudança decorre principalmente:
 
 A. da adequação do registro aos interlocutores e ao gênero.
@@ -351,6 +349,8 @@ D. de erro obrigatório na primeira frase.
 E. de alteração do assunto.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer mudança de registro
+
     **Resposta: A.**
 
     **A está certa:** mudaram a relação entre interlocutores e o gênero usado, o que exige outro registro.
@@ -368,9 +368,7 @@ E. de alteração do assunto.
 ### Questão 9
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** distinguir norma-padrão, formalidade e adequação
-**Dificuldade:** difícil — exige avaliar três conceitos próximos
-
+**Dificuldade:** difícil
 Assinale a afirmação correta.
 
 A. Norma-padrão e formalidade são expressões idênticas.
@@ -380,6 +378,8 @@ D. Um texto formal precisa empregar vocabulário rebuscado.
 E. Uma forma pode ser adequada a uma conversa e inadequada a um ofício.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir norma-padrão, formalidade e adequação
+
     **Resposta: E.**
 
     **A está errada:** norma-padrão é um modelo convencional; formalidade é um grau de monitoramento.
@@ -397,9 +397,7 @@ E. Uma forma pode ser adequada a uma conversa e inadequada a um ofício.
 ### Questão 10
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** aplicar integralmente o método CIFRA
-**Dificuldade:** difícil — exige diagnosticar e reescrever uma comunicação
-
+**Dificuldade:** difícil
 Um aviso destinado a todas as pessoas usuárias de um serviço diz apenas: “Galera, deu ruim no sistema. Depois a gente vê isso.” Qual intervenção melhora a adequação sem tornar a mensagem desnecessariamente difícil?
 
 A. Acrescentar palavras raras e manter a ausência de prazo.
@@ -409,6 +407,8 @@ D. Informar com clareza a indisponibilidade, o efeito no atendimento e a previs�
 E. Trocar apenas “galera” por “usuários”, sem esclarecer o que ocorrerá.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar integralmente o método CIFRA
+
     **Resposta: D.**
 
     **A está errada:** rebuscamento não resolve a falta de informação útil.

@@ -132,15 +132,15 @@ As questões são autorais. O gabarito usa cada letra duas vezes, sem sequência
 
 ### Questão 1
 
-**Habilidade:** reconhecer derivação prefixal
 
-**Dificuldade:** fácil — o prefixo está explícito
-
+**Dificuldade:** fácil
 *Releitura* apresenta derivação:
 
 A. regressiva. B. imprópria. C. prefixal. D. por composição. E. por flexão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer derivação prefixal
+
     **Resposta: C.**
 
     **A está errada:** não ocorre redução da base. **B está errada:** a forma muda com acréscimo material. **C está certa:** *re-* é acrescentado a *leitura*. **D está errada:** não há união de dois radicais. **E está errada:** surge unidade lexical nova.
@@ -149,15 +149,15 @@ A. regressiva. B. imprópria. C. prefixal. D. por composição. E. por flexão.
 
 ### Questão 2
 
-**Habilidade:** reconhecer composição por justaposição
 
-**Dificuldade:** fácil — os dois radicais permanecem reconhecíveis
-
+**Dificuldade:** fácil
 É palavra composta por justaposição:
 
 A. *infeliz*. B. *passatempo*. C. *felizmente*. D. *livros*. E. *reler*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer composição por justaposição
+
     **Resposta: B.**
 
     **A está errada:** resulta de derivação prefixal. **B está certa:** reúne *passa* e *tempo* sem alteração estrutural relevante. **C está errada:** resulta de sufixação. **D está errada:** é flexão de número. **E está errada:** resulta de prefixação.
@@ -166,15 +166,15 @@ A. *infeliz*. B. *passatempo*. C. *felizmente*. D. *livros*. E. *reler*.
 
 ### Questão 3
 
-**Habilidade:** distinguir formação de flexão
 
-**Dificuldade:** fácil — a marca de plural é identificável
-
+**Dificuldade:** fácil
 Em *servidores*, *-es* indica principalmente:
 
 A. derivação. B. composição. C. parassíntese. D. flexão de número. E. mudança de classe.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir formação de flexão
+
     **Resposta: D.**
 
     **A está errada:** não cria palavra lexical. **B está errada:** não une radicais. **C está errada:** não entram prefixo e sufixo simultâneos. **D está certa:** adapta *servidor* ao plural. **E está errada:** a forma continua substantivo ou adjetivo conforme o contexto.
@@ -183,15 +183,15 @@ A. derivação. B. composição. C. parassíntese. D. flexão de número. E. mud
 
 ### Questão 4
 
-**Habilidade:** reconhecer derivação sufixal
 
-**Dificuldade:** fácil — o sufixo se junta à base
-
+**Dificuldade:** fácil
 *Felizmente* resulta de derivação:
 
 A. sufixal. B. regressiva. C. imprópria. D. parassintética. E. por composição.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer derivação sufixal
+
     **Resposta: A.**
 
     **A está certa:** *-mente* se acrescenta à base *feliz*. **B está errada:** não há redução. **C está errada:** a forma muda materialmente. **D está errada:** não entram dois afixos simultâneos. **E está errada:** há um radical.
@@ -200,15 +200,15 @@ A. sufixal. B. regressiva. C. imprópria. D. parassintética. E. por composiçã
 
 ### Questão 5
 
-**Habilidade:** reconhecer parassíntese
 
-**Dificuldade:** média — exige testar formas intermediárias
-
+**Dificuldade:** média
 *Entristecer* é exemplo de derivação parassintética porque:
 
 A. possui dois radicais. B. é apenas flexão de *triste*. C. perdeu parte da base. D. mudou de classe sem mudar de forma. E. prefixo e sufixo entram juntos, sem forma intermediária funcional no processo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer parassíntese
+
     **Resposta: E.**
 
     **A está errada:** a formação se organiza sobre *triste*. **B está errada:** cria verbo novo. **C está errada:** não é regressiva. **D está errada:** houve acréscimo de elementos. **E está certa:** “entriste” e “tristecer” não sustentam o processo indicado.
@@ -217,15 +217,15 @@ A. possui dois radicais. B. é apenas flexão de *triste*. C. perdeu parte da ba
 
 ### Questão 6
 
-**Habilidade:** reconhecer derivação imprópria
 
-**Dificuldade:** média — a classe muda sem alteração formal
-
+**Dificuldade:** média
 Em “O olhar da servidora revelou dúvida”, *olhar* exemplifica:
 
 A. composição. B. derivação imprópria. C. flexão verbal. D. aglutinação. E. parassíntese.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer derivação imprópria
+
     **Resposta: B.**
 
     **A está errada:** não reúne dois radicais. **B está certa:** o infinitivo foi empregado como substantivo sem mudança formal. **C está errada:** o artigo mostra núcleo nominal. **D está errada:** não há união com perda sonora. **E está errada:** não há prefixo e sufixo simultâneos.
@@ -234,15 +234,15 @@ A. composição. B. derivação imprópria. C. flexão verbal. D. aglutinação.
 
 ### Questão 7
 
-**Habilidade:** reconhecer aglutinação
 
-**Dificuldade:** média — exige recuperar os radicais alterados
-
+**Dificuldade:** média
 *Planalto*, formado de *plano + alto*, exemplifica:
 
 A. flexão. B. derivação prefixal. C. composição por aglutinação. D. composição por justaposição sem alteração. E. derivação imprópria.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer aglutinação
+
     **Resposta: C.**
 
     **A está errada:** surge palavra nova. **B está errada:** não há prefixo. **C está certa:** os radicais se unem com alteração. **D está errada:** a estrutura de *plano* não permanece integral. **E está errada:** houve mudança formal.
@@ -251,15 +251,15 @@ A. flexão. B. derivação prefixal. C. composição por aglutinação. D. compo
 
 ### Questão 8
 
-**Habilidade:** distinguir prefixal e sufixal de parassintética
 
-**Dificuldade:** difícil — exige testar a independência dos afixos
-
+**Dificuldade:** difícil
 Por que *infelizmente* não precisa ser classificada como parassintética?
 
 A. Porque é palavra simples sem afixos. B. Porque é apenas plural. C. Porque possui dois radicais. D. Porque existem formas intermediárias funcionais, como *infeliz* e *felizmente*. E. Porque todo prefixo impede parassíntese.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir prefixal e sufixal de parassintética
+
     **Resposta: D.**
 
     **A está errada:** há prefixo e sufixo. **B está errada:** não é marca de número. **C está errada:** há uma base lexical. **D está certa:** os afixos podem entrar independentemente. **E está errada:** parassíntese também utiliza prefixo.
@@ -268,15 +268,15 @@ A. Porque é palavra simples sem afixos. B. Porque é apenas plural. C. Porque p
 
 ### Questão 9
 
-**Habilidade:** reconhecer palavra simples e composta
 
-**Dificuldade:** média — exige contar radicais, não sílabas
-
+**Dificuldade:** média
 Assinale a afirmação correta.
 
 A. Palavra simples tem um radical; composta reúne mais de um. B. Toda palavra longa é composta. C. Toda palavra com hífen é composta e toda palavra sem hífen é simples. D. Número de sílabas define número de radicais. E. Prefixo sempre cria segundo radical.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer palavra simples e composta
+
     **Resposta: A.**
 
     **A está certa:** usa o critério estrutural. **B está errada:** palavras derivadas podem ser longas. **C está errada:** hífen não é critério suficiente. **D está errada:** sílaba e radical são unidades diferentes. **E está errada:** prefixo é afixo, não radical autônomo nessa análise.
@@ -285,15 +285,15 @@ A. Palavra simples tem um radical; composta reúne mais de um. B. Toda palavra l
 
 ### Questão 10
 
-**Habilidade:** aplicar integralmente o método BASE
 
-**Dificuldade:** difícil — compara criação e adaptação gramatical
-
+**Dificuldade:** difícil
 Qual análise está correta?
 
 A. *Leituras* é derivação sufixal. B. *Releitura* é flexão de número. C. *Passatempo* possui um radical. D. *Entristecer* é composição. E. *Infelizes* contém derivação em *infeliz* e flexão de plural em *-es*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar integralmente o método BASE
+
     **Resposta: E.**
 
     **A está errada:** *-s* marca plural de *leitura*. **B está errada:** *re-* cria palavra nova. **C está errada:** reúne *passa* e *tempo*. **D está errada:** deriva de *triste* por afixos simultâneos. **E está certa:** separa a formação lexical da adaptação de número.

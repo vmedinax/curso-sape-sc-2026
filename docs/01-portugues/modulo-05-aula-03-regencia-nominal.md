@@ -111,10 +111,8 @@ Identifique regente, preposição e complemento em *favorável ao pedido*, *nece
 
 ### Questão 1
 
-**Habilidade:** aplicar preposição exigida pelo nome em contexto
 
 **Dificuldade:** fácil
-
 Assinale a regência nominal adequada.
 
 A. O servidor está apto ao exercício da função.
@@ -124,6 +122,8 @@ D. O servidor está apto no exercício da função.
 E. O servidor está apto sob o exercício da função.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar preposição exigida pelo nome em contexto
+
     **Resposta: A.**
 
     **A está certa:** Apto rege a preposição a nesse contexto.
@@ -140,10 +140,8 @@ E. O servidor está apto sob o exercício da função.
 
 ### Questão 2
 
-**Habilidade:** aplicar regência nominal e crase em contexto
 
 **Dificuldade:** média
-
 Complete: A decisão foi favorável ___ candidata.
 
 A. a
@@ -153,6 +151,8 @@ D. para a sem alteração de sentido
 E. na
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar regência nominal e crase em contexto
+
     **Resposta: B.**
 
     **A está errada:** “a” não satisfaz o critério cobrado. Favorável rege a, e candidata admite artigo a; ocorre crase.
@@ -169,10 +169,8 @@ E. na
 
 ### Questão 3
 
-**Habilidade:** aplicar complemento nominal em contexto
 
 **Dificuldade:** média
-
 Assinale a construção adequada.
 
 A. Ele tem aversão com atrasos.
@@ -182,6 +180,8 @@ D. Ele tem aversão nos atrasos.
 E. Ele tem aversão pelos de atrasos.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar complemento nominal em contexto
+
     **Resposta: C.**
 
     **A está errada:** “Ele tem aversão com atrasos.” não satisfaz o critério cobrado. Aversão seleciona complemento introduzido por a.
@@ -198,10 +198,8 @@ E. Ele tem aversão pelos de atrasos.
 
 ### Questão 4
 
-**Habilidade:** aplicar preposição exigida pelo adjetivo em contexto
 
 **Dificuldade:** difícil
-
 Assinale a regência adequada.
 
 A. A equipe está consciente aos riscos.
@@ -211,6 +209,8 @@ D. A equipe está consciente dos riscos.
 E. A equipe está consciente pelos riscos.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar preposição exigida pelo adjetivo em contexto
+
     **Resposta: D.**
 
     **A está errada:** “A equipe está consciente aos riscos.” não satisfaz o critério cobrado. Consciente rege de: consciente dos riscos.
@@ -227,10 +227,8 @@ E. A equipe está consciente pelos riscos.
 
 ### Questão 5
 
-**Habilidade:** aplicar regência de compatível em contexto
 
 **Dificuldade:** média
-
 Complete: O parecer é compatível ___ regulamento.
 
 A. ao
@@ -240,6 +238,8 @@ D. sob o
 E. com o
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar regência de compatível em contexto
+
     **Resposta: E.**
 
     **A está errada:** “ao” não satisfaz o critério cobrado. Compatível rege a preposição com.
@@ -256,10 +256,8 @@ E. com o
 
 ### Questão 6
 
-**Habilidade:** aplicar regência de substantivos em contexto
 
 **Dificuldade:** fácil
-
 Assinale a construção adequada.
 
 A. Há necessidade de revisão do ato.
@@ -269,6 +267,8 @@ D. Há necessidade na revisão do ato.
 E. Há necessidade pela de revisão do ato.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar regência de substantivos em contexto
+
     **Resposta: A.**
 
     **A está certa:** Necessidade rege de nesse emprego.
@@ -285,10 +285,8 @@ E. Há necessidade pela de revisão do ato.
 
 ### Questão 7
 
-**Habilidade:** aplicar complemento nominal em contexto
 
 **Dificuldade:** média
-
 Em qual opção o termo destacado completa o sentido de um nome?
 
 A. A equipe analisou o processo.
@@ -298,6 +296,8 @@ D. O diretor publicou o ato.
 E. A comissão reuniu-se ontem.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar complemento nominal em contexto
+
     **Resposta: B.**
 
     **A está errada:** “A equipe analisou o processo.” não satisfaz o critério cobrado. Na equipe completa o sentido do nome confiança.
@@ -314,10 +314,8 @@ E. A comissão reuniu-se ontem.
 
 ### Questão 8
 
-**Habilidade:** aplicar regência e crase em contexto
 
 **Dificuldade:** média
-
 Assinale a forma adequada.
 
 A. O relatório é útil da administração.
@@ -327,6 +325,8 @@ D. O relatório é útil na administração como regência única.
 E. O relatório é útil sob a administração.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar regência e crase em contexto
+
     **Resposta: C.**
 
     **A está errada:** “O relatório é útil da administração.” não satisfaz o critério cobrado. Útil rege a; com artigo feminino, forma-se à.
@@ -343,10 +343,8 @@ E. O relatório é útil sob a administração.
 
 ### Questão 9
 
-**Habilidade:** aplicar método NEXO em contexto
 
 **Dificuldade:** difícil
-
 Qual análise evita decorar preposições isoladas?
 
 A. Escolher sempre a preposição de.
@@ -356,6 +354,8 @@ D. Identificar o nome regente, o complemento e o nexo exigido.
 E. Trocar o nome por um verbo sem observar o sentido.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar método NEXO em contexto
+
     **Resposta: D.**
 
     **A está errada:** “Escolher sempre a preposição de.” não satisfaz o critério cobrado. O método NEXO organiza regente, complemento e preposição.
@@ -372,10 +372,8 @@ E. Trocar o nome por um verbo sem observar o sentido.
 
 ### Questão 10
 
-**Habilidade:** aplicar preposição exigida pelo adjetivo em contexto
 
 **Dificuldade:** média
-
 Assinale a construção adequada.
 
 A. A comissão permaneceu fiel com os critérios.
@@ -385,6 +383,8 @@ D. A comissão permaneceu fiel sob os critérios.
 E. A comissão permaneceu fiel aos critérios.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar preposição exigida pelo adjetivo em contexto
+
     **Resposta: E.**
 
     **A está errada:** “A comissão permaneceu fiel com os critérios.” não satisfaz o critério cobrado. Fiel rege a, contraída com o artigo plural os.

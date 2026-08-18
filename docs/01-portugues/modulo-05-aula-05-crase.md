@@ -132,10 +132,8 @@ Use CASA em *obedeceu à norma*, *começou a revisar*, *entregou a ela*, *à tar
 
 ### Questão 1
 
-**Habilidade:** aplicar equação da crase em contexto
 
 **Dificuldade:** fácil
-
 Assinale a frase com crase obrigatória.
 
 A. A comissão dirigiu-se à sala de reuniões.
@@ -145,6 +143,8 @@ D. A comissão caminhou à pé.
 E. A comissão estava à partir das oito.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar equação da crase em contexto
+
     **Resposta: A.**
 
     **A está certa:** Dirigir-se rege a e sala admite artigo a.
@@ -161,10 +161,8 @@ E. A comissão estava à partir das oito.
 
 ### Questão 2
 
-**Habilidade:** aplicar casos sem crase em contexto
 
 **Dificuldade:** média
-
 Assinale a frase sem crase.
 
 A. O relatório foi entregue à diretora.
@@ -174,6 +172,8 @@ D. A norma aplica-se à candidata.
 E. A reunião ocorreu à tarde.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar casos sem crase em contexto
+
     **Resposta: B.**
 
     **A está errada:** “O relatório foi entregue à diretora.” não satisfaz o critério cobrado. Pronomes de tratamento como Vossa Senhoria não admitem artigo.
@@ -190,10 +190,8 @@ E. A reunião ocorreu à tarde.
 
 ### Questão 3
 
-**Habilidade:** aplicar crase antes de verbo em contexto
 
 **Dificuldade:** média
-
 Complete: A equipe começou ___ analisar os dados.
 
 A. à
@@ -203,6 +201,8 @@ D. às
 E. àquela
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar crase antes de verbo em contexto
+
     **Resposta: C.**
 
     **A está errada:** “à” não satisfaz o critério cobrado. Não ocorre crase antes de verbo.
@@ -219,10 +219,8 @@ E. àquela
 
 ### Questão 4
 
-**Habilidade:** aplicar crase em horas em contexto
 
 **Dificuldade:** difícil
-
 Assinale o emprego adequado.
 
 A. A reunião ocorrerá as oito horas.
@@ -232,6 +230,8 @@ D. A reunião ocorrerá às oito horas.
 E. A reunião ocorrerá às oito hora.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar crase em horas em contexto
+
     **Resposta: D.**
 
     **A está errada:** “A reunião ocorrerá as oito horas.” não satisfaz o critério cobrado. Na indicação de horas determinadas, ocorre crase no plural.
@@ -248,10 +248,8 @@ E. A reunião ocorrerá às oito hora.
 
 ### Questão 5
 
-**Habilidade:** aplicar locuções femininas em contexto
 
 **Dificuldade:** média
-
 Assinale a locução grafada corretamente.
 
 A. O processo foi revisto a medida que surgiam dados.
@@ -261,6 +259,8 @@ D. O processo foi revisto à pedido.
 E. O processo foi revisto à medida que surgiam dados.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar locuções femininas em contexto
+
     **Resposta: E.**
 
     **A está errada:** “O processo foi revisto a medida que surgiam dados.” não satisfaz o critério cobrado. A locução conjuntiva à medida que recebe crase.
@@ -277,10 +277,8 @@ E. O processo foi revisto à medida que surgiam dados.
 
 ### Questão 6
 
-**Habilidade:** aplicar crase com demonstrativos em contexto
 
 **Dificuldade:** fácil
-
 Complete: Refiro-me ___ que foi publicada ontem.
 
 A. àquela norma
@@ -290,6 +288,8 @@ D. háquela norma
 E. à esta norma
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar crase com demonstrativos em contexto
+
     **Resposta: A.**
 
     **A está certa:** O a regido funde-se ao a inicial de aquela.
@@ -306,10 +306,8 @@ E. à esta norma
 
 ### Questão 7
 
-**Habilidade:** aplicar crase com lugares em contexto
 
 **Dificuldade:** média
-
 Assinale a forma adequada com nome de lugar.
 
 A. Voltamos à Florianópolis após o curso.
@@ -319,6 +317,8 @@ D. Voltamos à Santa Catarina sem artigo no uso local.
 E. Voltamos há Bahia após o curso.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar crase com lugares em contexto
+
     **Resposta: B.**
 
     **A está errada:** “Voltamos à Florianópolis após o curso.” não satisfaz o critério cobrado. Bahia admite artigo no teste voltar da; ocorre crase.
@@ -335,10 +335,8 @@ E. Voltamos há Bahia após o curso.
 
 ### Questão 8
 
-**Habilidade:** aplicar casos sem crase em contexto
 
 **Dificuldade:** média
-
 Assinale a frase adequada.
 
 A. A servidora entregou o documento à uma colega.
@@ -348,6 +346,8 @@ D. A servidora entregou o documento às uma colega.
 E. A servidora entregou o documento à um colega.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar casos sem crase em contexto
+
     **Resposta: C.**
 
     **A está errada:** “A servidora entregou o documento à uma colega.” não satisfaz o critério cobrado. O artigo indefinido uma impede a fusão com artigo definido a.
@@ -364,10 +364,8 @@ E. A servidora entregou o documento à um colega.
 
 ### Questão 9
 
-**Habilidade:** aplicar método CASA em contexto
 
 **Dificuldade:** difícil
-
 Qual teste ajuda a confirmar crase diante de palavra feminina?
 
 A. Trocar toda preposição por de.
@@ -377,6 +375,8 @@ D. Substituir por termo masculino e verificar se surge ao.
 E. Usar há sempre que houver ideia de destino.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar método CASA em contexto
+
     **Resposta: D.**
 
     **A está errada:** “Trocar toda preposição por de.” não satisfaz o critério cobrado. Se a estrutura masculina produz ao, há preposição e artigo.
@@ -393,10 +393,8 @@ E. Usar há sempre que houver ideia de destino.
 
 ### Questão 10
 
-**Habilidade:** aplicar crase facultativa em contexto
 
 **Dificuldade:** média
-
 Assinale a construção em que a crase pode ser facultativa.
 
 A. Cheguei à unidade.
@@ -406,6 +404,8 @@ D. Refiro-me àquela decisão.
 E. Entreguei o relatório à minha chefe.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar crase facultativa em contexto
+
     **Resposta: E.**
 
     **A está errada:** “Cheguei à unidade.” não satisfaz o critério cobrado. Antes de possessivo feminino singular, o artigo pode variar conforme o uso.

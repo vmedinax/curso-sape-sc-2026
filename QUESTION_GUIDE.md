@@ -146,9 +146,7 @@ Detalhes extensos podem ficar em caixa recolhível para não ocupar a primeira t
 
 **Tipo:** Questão autoral no estilo de concurso
 
-**Tema:** órgão e entidade
-
-**Dificuldade:** fácil — reconhecimento direto de um conceito
+**Dificuldade:** fácil
 
 [Enunciado]
 
@@ -161,6 +159,8 @@ E. ...
 Pare e escolha uma resposta antes de abrir o comentário.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** órgão e entidade
+
     **Resposta:** C.
 
     **Explicação simples:** ...
@@ -343,9 +343,7 @@ Repetição é válida quando muda a ação: primeiro reconhecer, depois compara
 
 **Tipo:** Questão autoral no estilo de concurso
 
-**Tema:** desconcentração e descentralização
-
-**Dificuldade:** média — exige identificar se houve mudança de pessoa jurídica
+**Dificuldade:** média
 
 Uma secretaria estadual criou dois departamentos internos. Um passou a cuidar dos contratos. O outro ficou responsável pelo atendimento. Os dois continuam subordinados à mesma secretaria.
 
@@ -364,6 +362,10 @@ E. delegação para particulares, porque a secretaria deixou de executar todas a
 Pare e escolha uma resposta antes de abrir o comentário.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** desconcentração e descentralização
+
+    **O que você precisava perceber:** a permanência das unidades na mesma pessoa jurídica caracteriza desconcentração.
+
     **Resposta:** C.
 
     **Explicação simples:** a secretaria dividiu o trabalho dentro da própria estrutura. Nenhuma nova pessoa foi criada e nenhum particular recebeu a atividade.

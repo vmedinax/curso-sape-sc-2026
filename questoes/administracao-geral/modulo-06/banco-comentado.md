@@ -61,7 +61,7 @@ Um evento incerto que pode afetar prazo é: A. problema. B. entrega. C. marco. D
     **Resposta: D.** D ainda pode ocorrer. A já ocorreu. B é produto. C é ponto. E é fluxo. **Aula:** 2.
 
 ### Questão 10
-Aceitar nova função sem analisar prazo e custo representa: A. bom controle. B. encerramento. C. linha de base. D. benefício. E. mudança de escopo sem avaliar efeitos.
+Aceitar nova função sem analisar prazo e custo representa: A. bom controle, porque toda função solicitada deve entrar imediatamente, mesmo sem exame de prazo, custo ou capacidade. B. encerramento. C. linha de base. D. benefício. E. mudança de escopo sem avaliar efeitos.
 
 ??? question "Mostrar resposta e comentário"
     **Resposta: E.** E identifica o risco. A é o contrário. B fecha. C compara. D é melhora esperada. **Aula:** 2.
@@ -93,7 +93,7 @@ O sistema foi entregue, mas ainda não reduziu a espera. Isso mostra que: A. nã
     **Resposta: D.** D está certa. A ignora o sistema. B troca conceitos. C exagera. E não decorre. **Aula:** 3.
 
 ### Questão 15
-Qual ação pertence ao encerramento? A. ignorar pendências. B. esconder erros. C. abrir escopo. D. apagar registros. E. obter aceitação e registrar lições.
+Qual ação pertence ao encerramento? A. ignorar pendências e concluir o projeto, porque obter aceite e registrar lições apenas prolongaria uma entrega já executada. B. esconder erros. C. abrir escopo. D. apagar registros. E. obter aceitação e registrar lições.
 
 ??? question "Mostrar resposta e comentário"
     **Resposta: E.** E fecha e preserva aprendizado. A–D prejudicam o fechamento. **Aula:** 3.
@@ -107,7 +107,7 @@ Uma carteira de iniciativas agrupadas para apoiar a estratégia é: A. portfóli
     **Resposta: A.** A define carteira. B e C são trabalho. D é ponto. E é incerteza. **Aula:** 4.
 
 ### Questão 17
-Qual afirmação está correta? A. portfólio exige projetos relacionados. B. programa coordena projetos relacionados; portfólio pode reunir componentes sem relação direta. C. os dois são projetos. D. processo é portfólio. E. programa nunca busca benefício.
+Qual afirmação está correta? A. portfólio exige projetos diretamente relacionados para um único benefício, enquanto programa pode reunir iniciativas sem ligação. B. programa coordena projetos relacionados; portfólio pode reunir componentes sem relação direta. C. os dois são projetos. D. processo é portfólio. E. programa nunca busca benefício.
 
 ??? question "Mostrar resposta e comentário"
     **Resposta: B.** B compara corretamente. A, C, D e E trocam os conceitos. **Aula:** 4.
@@ -125,7 +125,7 @@ Uma carteira exige a mesma equipe em todos os projetos ao mesmo tempo. Falta: A.
     **Resposta: D.** D busca conjunto viável. A e B são direção. C é ponto. E fecha projeto. **Aula:** 4.
 
 ### Questão 20
-Um projeto cumpre prazo, mas perdeu ligação com a estratégia. A carteira deve: A. mantê-lo sempre. B. ignorar a mudança. C. premiar só o prazo. D. ampliar escopo. E. reavaliar sua prioridade e continuidade.
+Um projeto cumpre prazo, mas perdeu ligação com a estratégia. A carteira deve: A. mantê-lo sempre, porque o prazo impediria reavaliar depois seu alinhamento e sua prioridade. B. ignorar a mudança. C. premiar só o prazo. D. ampliar escopo. E. reavaliar sua prioridade e continuidade.
 
 ??? question "Mostrar resposta e comentário"
     **Resposta: E.** E protege o valor da carteira. A–D ignoram o desalinhamento. **Aula:** 4.

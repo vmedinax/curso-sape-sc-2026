@@ -6,8 +6,7 @@
 
 **Tipo:** Questão oficial adaptada  
 **Origem:** FEPESE • Câmara de Balneário Camboriú • Assessor Jurídico • 2010 • questão original 28  
-**Tema:** princípios • **Dificuldade:** média — exige separar princípios próximos
-
+**Dificuldade:** média
 Uma equipe pública precisa escolher como divulgar os resultados de um programa. A chefia propõe colocar seu nome e sua fotografia em todas as peças, embora a divulgação seja paga com dinheiro público.
 
 Qual princípio aponta de forma mais direta o problema dessa proposta?
@@ -25,6 +24,8 @@ E. Moralidade, porque qualquer fotografia prova desonestidade.
 Pare e escolha antes de abrir o comentário.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** princípios
+
     **Resposta: C.**
 
     **Explicação simples:** a divulgação pode informar o trabalho público. O problema é usá-la para promover a chefe. O dever de afastar promoção pessoal recebe o nome de **impessoalidade**.
@@ -50,8 +51,7 @@ Pare e escolha antes de abrir o comentário.
 ### Questão 2
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** publicidade • **Dificuldade:** média — exige aplicar regra e limite
-
+**Dificuldade:** média
 Um relatório possui uma parte pública e outra protegida por sigilo permitido em lei. O que a Administração deve fazer?
 
 A. Dar acesso à parte pública e proteger somente a parte que possui motivo jurídico para o sigilo.
@@ -65,6 +65,8 @@ D. Entregar apenas a pessoas escolhidas pela chefia.
 E. Destruir a parte protegida antes de responder.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** publicidade
+
     **Resposta: A.**
 
     **Explicação simples:** a regra é permitir conhecimento e controle. A parte protegida continua protegida. A parte pública não precisa ser escondida.
@@ -90,8 +92,7 @@ E. Destruir a parte protegida antes de responder.
 ### Questão 3
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** prerrogativas e limites • **Dificuldade:** difícil — combina poder, finalidade e controle
-
+**Dificuldade:** difícil
 Uma lei permite que um fiscal imponha determinada medida para proteger um serviço público. O fiscal usa essa ferramenta contra um desafeto, sem relação com o serviço.
 
 Qual análise está correta?
@@ -107,6 +108,8 @@ D. A existência de interesse público elimina a necessidade de fundamento e con
 E. O erro está apenas na falta de divulgação do ato.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** prerrogativas e limites
+
     **Resposta: B.**
 
     **Explicação simples:** o fiscal recebeu uma ferramenta especial para proteger o serviço, não para resolver conflitos pessoais.
@@ -133,8 +136,7 @@ E. O erro está apenas na falta de divulgação do ato.
 
 **Tipo:** Questão oficial adaptada  
 **Origem:** FEPESE • CISAMOSC • Analista Administrativo • 2025 • questão original 26  
-**Tema:** princípios • **Dificuldade:** média — reúne três princípios em um caso
-
+**Dificuldade:** média
 Um órgão recebeu um pedido de informação. O servidor verificou que a lei permitia o acesso, retirou da resposta uma frase de promoção pessoal do dirigente e protegeu apenas os dados cobertos por sigilo válido.
 
 Assinale a alternativa correta.
@@ -150,6 +152,8 @@ D. A retirada da promoção pessoal violou a eficiência.
 E. A conduta aplicou legalidade, impessoalidade e publicidade.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** princípios
+
     **Resposta: E.**
 
     **Explicação simples:** o servidor seguiu a base jurídica, evitou promoção pessoal e permitiu acesso à parte pública.
@@ -180,8 +184,7 @@ E. A conduta aplicou legalidade, impessoalidade e publicidade.
 
 **Tipo:** Questão oficial adaptada  
 **Origem:** FEPESE • Câmara de Balneário Camboriú • Assessor Jurídico • 2010 • questão original 26  
-**Tema:** órgão e entidade • **Dificuldade:** média — exige combinar personalidade e organização
-
+**Dificuldade:** média
 O Estado criou duas diretorias dentro de uma Secretaria. As diretorias receberam tarefas próprias, mas continuam dentro da mesma pessoa jurídica.
 
 Qual afirmação está correta?
@@ -197,6 +200,8 @@ D. As diretorias integram a Administração Indireta.
 E. Cada diretoria possui patrimônio separado do Estado.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** órgão e entidade
+
     **Resposta: C.**
 
     **Explicação simples:** houve apenas uma divisão interna. Nenhuma pessoa jurídica nova nasceu.
@@ -222,8 +227,7 @@ E. Cada diretoria possui patrimônio separado do Estado.
 ### Questão 6
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** indisponibilidade do interesse público • **Dificuldade:** média — exige aplicar a ideia a uma decisão
-
+**Dificuldade:** média
 Um gestor decide abrir mão de um bem público para beneficiar um conhecido. Não consulta a lei nem verifica a finalidade do bem.
 
 A melhor explicação para o problema é:
@@ -239,6 +243,8 @@ D. o gestor administra interesse que não é seu e não pode abandoná-lo ou neg
 E. todo bem público nunca pode receber qualquer destinação diferente.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** indisponibilidade do interesse público
+
     **Resposta: D.**
 
     **Explicação simples:** o gestor cuida de algo da coletividade. Ele não age como dono.
@@ -264,8 +270,7 @@ E. todo bem público nunca pode receber qualquer destinação diferente.
 ### Questão 7
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** Direito Público e Direito Privado • **Dificuldade:** difícil — exige reconhecer convivência de regimes
-
+**Dificuldade:** difícil
 Uma empresa pública possui personalidade de direito privado e integra a Administração Indireta. Sobre essa situação, assinale a alternativa correta.
 
 A. A personalidade privada retira a empresa da Administração Pública.
@@ -279,6 +284,8 @@ D. A empresa aplica somente normas de Direito Público em qualquer relação.
 E. Normas privadas podem aparecer, mas continuam existindo deveres e controles públicos aplicáveis.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** Direito Público e Direito Privado
+
     **Resposta: E.**
 
     **Explicação simples:** “direito privado” descreve a personalidade e parte das regras. Não transforma a empresa estatal em empresa particular comum.
@@ -304,8 +311,7 @@ E. Normas privadas podem aparecer, mas continuam existindo deveres e controles p
 ### Questão 8
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** desconcentração e descentralização • **Dificuldade:** fácil — exige contar pessoas jurídicas
-
+**Dificuldade:** fácil
 Uma Secretaria divide uma diretoria em duas gerências. Depois, o Estado atribui outra atividade a uma autarquia.
 
 As medidas são, respectivamente:
@@ -321,6 +327,8 @@ D. coordenação e hierarquia.
 E. privatização e concentração.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** desconcentração e descentralização
+
     **Resposta: A.**
 
     **Explicação simples:** gerências são divisões internas. Autarquia é outra pessoa jurídica.
@@ -346,8 +354,7 @@ E. privatização e concentração.
 ### Questão 9
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** Administração Direta de Santa Catarina • **Dificuldade:** fácil — reconhecimento da estrutura legal
-
+**Dificuldade:** fácil
 Na estrutura estudada da Lei Complementar catarinense nº 741/2019, a Secretaria de Estado da Agricultura e Pecuária, SAPE, é:
 
 A. autarquia estadual.
@@ -361,6 +368,8 @@ D. empresa pública.
 E. sociedade de economia mista.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** Administração Direta de Santa Catarina
+
     **Resposta: B.**
 
     **Explicação simples:** a SAPE é uma Secretaria. Ela faz parte da pessoa jurídica Estado de Santa Catarina.
@@ -384,8 +393,7 @@ E. sociedade de economia mista.
 ### Questão 10
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** CIDASC e EPAGRI • **Dificuldade:** média — exige classificar órgão e entidades
-
+**Dificuldade:** média
 Assinale a alternativa que classifica corretamente SAPE, CIDASC e EPAGRI conforme a estrutura ensinada.
 
 A. As três são Secretarias de Estado.
@@ -399,6 +407,8 @@ D. SAPE é órgão da Direta; CIDASC e EPAGRI são empresas públicas da Indiret
 E. SAPE é autarquia; CIDASC e EPAGRI são sociedades de economia mista.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** CIDASC e EPAGRI
+
     **Resposta: D.**
 
     **Explicação simples:** a Secretaria é parte do Estado. As duas empresas possuem personalidade própria.
@@ -422,8 +432,7 @@ E. SAPE é autarquia; CIDASC e EPAGRI são sociedades de economia mista.
 ### Questão 11
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** sistemas administrativos • **Dificuldade:** difícil — exige aplicar três posições
-
+**Dificuldade:** difícil
 Em um sistema administrativo estadual, uma unidade coordena e cria orientações. Uma unidade de uma Secretaria executa essas orientações. Uma unidade de uma autarquia também as executa.
 
 Essas unidades são, respectivamente:
@@ -439,6 +448,8 @@ D. hierárquica, vinculada e coordenada.
 E. central, setorial e seccional.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** sistemas administrativos
+
     **Resposta: E.**
 
     **Explicação simples:** a primeira coordena. A segunda está na Administração Direta. A terceira está na Indireta.
@@ -462,15 +473,14 @@ E. central, setorial e seccional.
 ### Questão 12
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** modelo de gestão estadual • **Dificuldade:** difícil — exige interpretar vários elementos da lei
-
+**Dificuldade:** difícil
 Uma equipe afirma que a LC nº 741/2019 organiza apenas nomes de órgãos e não trata da forma de acompanhar a gestão.
 
 Qual resposta está correta segundo a aula?
 
 A. A afirmação está errada: a lei também menciona indicadores, resultados, transparência, integridade, governança e inovação.
 
-B. A afirmação está certa: resultados não fazem parte do modelo estadual.
+B. A afirmação está certa: resultados, integridade e governança pertencem apenas à gestão privada e não integram o modelo estadual.
 
 C. A afirmação está certa: a lei proíbe indicadores de desempenho.
 
@@ -479,6 +489,8 @@ D. A afirmação está errada apenas porque toda Secretaria é uma empresa.
 E. A afirmação está errada porque o órgão central executa sozinho todas as tarefas.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** modelo de gestão estadual
+
     **Resposta: A.**
 
     **Explicação simples:** a lei organiza estruturas e também indica bases para acompanhar como a gestão funciona.
@@ -506,8 +518,7 @@ E. A afirmação está errada porque o órgão central executa sozinho todas as 
 ### Questão 13
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** competência e capacidade jurídica • **Dificuldade:** fácil — comparação direta
-
+**Dificuldade:** fácil
 Uma autarquia pode ter direitos e deveres em nome próprio. Dentro dela, somente determinada diretoria pode decidir sobre patrimônio.
 
 As duas ideias são, respectivamente:
@@ -523,6 +534,8 @@ D. avocação e delegação.
 E. desconcentração e descentralização.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** competência e capacidade jurídica
+
     **Resposta: B.**
 
     **Explicação simples:** a primeira ideia trata do que a pessoa pode ter. A segunda trata de quem pode agir em determinado assunto.
@@ -546,13 +559,12 @@ E. desconcentração e descentralização.
 ### Questão 14
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** limites e irrenunciabilidade • **Dificuldade:** difícil — combina matéria, tempo e dever
-
+**Dificuldade:** difícil
 Uma autoridade tinha competência para decidir sobre patrimônio até o fim de seu mandato. Após sair da função, assinou decisão sobre saúde e afirmou que havia renunciado às limitações anteriores.
 
 Qual análise está correta?
 
-A. O ato é válido porque a antiga autoridade manteve capacidade jurídica.
+A. O ato é válido porque a antiga autoridade manteve capacidade jurídica e pode escolher livremente nova matéria depois do mandato.
 
 B. O ato é válido porque competência pode crescer por decisão pessoal.
 
@@ -563,6 +575,8 @@ D. Foram ultrapassados os limites de matéria e tempo; a competência não muda 
 E. A renúncia tornou a competência mais ampla.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** limites e irrenunciabilidade
+
     **Resposta: D.**
 
     **Explicação simples:** a pessoa decidiu sobre tema diferente e depois de deixar a função. Ela não pode mudar esses limites sozinha.
@@ -586,11 +600,10 @@ E. A renúncia tornou a competência mais ampla.
 ### Questão 15
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** delegação • **Dificuldade:** difícil — exige reconhecer as três vedações do modelo federal
-
+**Dificuldade:** difícil
 No modelo da Lei Federal nº 9.784/1999 apresentado na aula, qual conjunto não pode ser delegado?
 
-A. Tarefa técnica comum, atendimento e atividade material.
+A. Tarefa técnica comum, atendimento e atividade material, desde que a autoridade considere conveniente preservar sua assinatura pessoal.
 
 B. Atividade permitida, ato publicado e tarefa com prazo.
 
@@ -601,6 +614,8 @@ D. Tarefa entre órgãos sem hierarquia, quando a norma permite.
 E. Edição de ato normativo, decisão de recurso administrativo e matéria de competência exclusiva.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** delegação
+
     **Resposta: E.**
 
     **Explicação simples:** o modelo federal reserva essas três matérias ao responsável indicado pela norma.
@@ -626,8 +641,7 @@ E. Edição de ato normativo, decisão de recurso administrativo e matéria de c
 ### Questão 16
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** avocação e coordenação • **Dificuldade:** fácil — separação de duas relações
-
+**Dificuldade:** fácil
 Uma autoridade superior chama temporariamente para si tarefa de unidade inferior por motivo relevante. Em outro caso, duas unidades apenas combinam esforços, sem relação de comando.
 
 Os casos são, respectivamente:
@@ -643,6 +657,8 @@ D. coordenação e avocação.
 E. desconcentração e delegação.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** avocação e coordenação
+
     **Resposta: A.**
 
     **Explicação simples:** no primeiro caso, a tarefa sobe de forma temporária. No segundo, há trabalho conjunto sem comando.
@@ -669,8 +685,7 @@ E. desconcentração e delegação.
 
 **Tipo:** Questão oficial adaptada  
 **Origem:** FEPESE • Câmara de Balneário Camboriú • Controlador Interno • 2015 • questão original 31  
-**Tema:** hierarquia • **Dificuldade:** fácil — reconhecimento de relação interna
-
+**Dificuldade:** fácil
 Dentro da mesma pessoa jurídica, uma autoridade superior orienta unidades inferiores, acompanha o trabalho e, quando a lei permite, revê decisões.
 
 Essa relação recebe o nome de:
@@ -686,6 +701,8 @@ D. personalidade jurídica.
 E. sociedade de economia mista.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** hierarquia
+
     **Resposta: C.**
 
     **Explicação simples:** o caso descreve níveis internos de comando e revisão.
@@ -711,11 +728,10 @@ E. sociedade de economia mista.
 ### Questão 18
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** fundações públicas • **Dificuldade:** média — exige comparar personalidades
-
+**Dificuldade:** média
 Sobre fundações públicas conforme a Aula 3, assinale a alternativa correta.
 
-A. Toda fundação pública é empresa com capital dividido em ações.
+A. Toda fundação pública é empresa estatal com capital dividido em ações e finalidade econômica definida em lei.
 
 B. Pode haver fundação pública de direito público ou de direito privado, e ambas integram a Administração Indireta.
 
@@ -726,6 +742,8 @@ D. Fundação pública é sempre órgão sem personalidade.
 E. Somente particulares podem instituir fundações.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** fundações públicas
+
     **Resposta: B.**
 
     **Explicação simples:** a personalidade pode ser pública ou privada. A finalidade e a presença na Administração Indireta permanecem.
@@ -749,8 +767,7 @@ E. Somente particulares podem instituir fundações.
 ### Questão 19
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** empresas estatais • **Dificuldade:** fácil — reconhecimento de capital e forma
-
+**Dificuldade:** fácil
 Uma entidade tem capital integralmente público. Outra admite capital privado, é sociedade anônima e permanece sob controle público.
 
 Elas são, respectivamente:
@@ -766,6 +783,8 @@ D. empresa pública e sociedade de economia mista.
 E. fundação e Secretaria.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** empresas estatais
+
     **Resposta: D.**
 
     **Explicação simples:** capital todo público aponta para empresa pública. Capital misto, ações e controle estatal apontam para sociedade de economia mista.
@@ -791,13 +810,12 @@ E. fundação e Secretaria.
 ### Questão 20
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** criação e autorização legal • **Dificuldade:** fácil — aplicação do verbo constitucional
-
+**Dificuldade:** fácil
 Assinale a alternativa correta sobre o artigo 37, inciso XIX, da Constituição, conforme ensinado na Aula 3.
 
 A. Autarquia e empresa pública são criadas diretamente por decreto.
 
-B. Toda entidade nasce apenas com registro privado, sem lei.
+B. Toda entidade da Administração Indireta nasce apenas com registro privado, pois a lei específica não interfere em sua criação.
 
 C. A autarquia é criada por lei específica; empresa pública e sociedade de economia mista têm sua criação autorizada por lei específica.
 
@@ -806,6 +824,8 @@ D. Autarquia depende apenas de autorização legal para nascer depois.
 E. A autorização legal permite criar empresa estatal sem praticar qualquer outro ato jurídico.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** criação e autorização legal
+
     **Resposta: C.**
 
     **Explicação simples:** a própria lei faz nascer a autarquia. Para as empresas estatais, a lei permite a criação, que exige os atos seguintes.

@@ -188,9 +188,7 @@ Resolva as dez questões autorais sem consultar a explicação. Todas exigem ind
 ### Questão 1
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer inferência segura
-**Dificuldade:** fácil, porque três pistas convergem
-
+**Dificuldade:** fácil
 > A sala estava vazia, o projetor desligado e a pauta informava início da reunião às 15h. Eram 14h30.
 
 Infere-se que:
@@ -202,6 +200,8 @@ D. a pauta estava errada.
 E. o projetor não funcionava.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer inferência segura
+
     **Resposta:** B.
     **A:** inventa cancelamento.
     **B:** combina horário, sala vazia e equipamentos desligados.
@@ -215,9 +215,7 @@ E. o projetor não funcionava.
 ### Questão 2
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** aplicar o teste de contradição
-**Dificuldade:** média, porque uma frase posterior limita a primeira
-
+**Dificuldade:** média
 > O serviço digital recebeu mais acessos em julho. Entretanto, o atendimento presencial continuou responsável pela maioria dos pedidos.
 
 Qual conclusão respeita o texto inteiro?
@@ -229,6 +227,8 @@ D. O canal digital cresceu, mas não se tornou majoritário.
 E. Os dois canais tiveram a mesma quantidade.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar o teste de contradição
+
     **Resposta:** D.
     **A:** contradiz a continuidade do presencial.
     **B:** amplia o crescimento para migração total.
@@ -242,9 +242,7 @@ E. Os dois canais tiveram a mesma quantidade.
 ### Questão 3
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** distinguir explícito, inferência e extrapolação
-**Dificuldade:** média, porque as operações aparecem juntas
-
+**Dificuldade:** média
 > Três inscrições foram entregues após o prazo e não seguiram para análise.
 
 É uma inferência segura:
@@ -256,6 +254,8 @@ D. Os candidatos esqueceram a data.
 E. Nenhuma inscrição chegou dentro do prazo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir explícito, inferência e extrapolação
+
     **Resposta:** A.
     **A:** liga atraso e ausência de análise no caso informado.
     **B:** amplia três casos para todos.
@@ -269,9 +269,7 @@ E. Nenhuma inscrição chegou dentro do prazo.
 ### Questão 4
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer extrapolação de quantidade
-**Dificuldade:** fácil, porque a palavra decisiva está expressa
-
+**Dificuldade:** fácil
 > Alguns moradores utilizaram o novo aplicativo na primeira semana.
 
 Qual alternativa extrapola?
@@ -283,6 +281,8 @@ D. O texto não informa a opinião dos usuários.
 E. Todos os moradores adotaram o aplicativo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer extrapolação de quantidade
+
     **Resposta:** E.
     **A:** parafraseia “alguns”.
     **B:** conserva tempo e ocorrência.
@@ -296,9 +296,7 @@ E. Todos os moradores adotaram o aplicativo.
 ### Questão 5
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** separar sequência e causa
-**Dificuldade:** média, porque a causalidade é plausível
-
+**Dificuldade:** média
 > A equipe recebeu novos computadores em março. Em abril, o tempo de atendimento diminuiu. O relatório não analisa a relação entre os fatos.
 
 Conclui-se corretamente que:
@@ -310,6 +308,8 @@ D. o tempo não diminuiu.
 E. os computadores causaram aumento da equipe.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** separar sequência e causa
+
     **Resposta:** C.
     **A:** acrescenta causa exclusiva.
     **B:** cria julgamento sobre a equipe.
@@ -323,9 +323,7 @@ E. os computadores causaram aumento da equipe.
 ### Questão 6
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** aplicar o método PCT
-**Dificuldade:** difícil, porque há duas causas possíveis
-
+**Dificuldade:** difícil
 > As pendências caíram no mês em que houve reforço da equipe e atualização do sistema. O texto não separa os efeitos das mudanças.
 
 Qual conclusão passa pelo teste?
@@ -337,6 +335,8 @@ D. Nenhuma mudança teve relação possível.
 E. As pendências foram eliminadas.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar o método PCT
+
     **Resposta:** B.
     **A:** escolhe uma causa sem separação de efeitos.
     **B:** conserva coincidência e incerteza causal.
@@ -350,9 +350,7 @@ E. As pendências foram eliminadas.
 ### Questão 7
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** identificar evidência textual
-**Dificuldade:** fácil, porque a pista está diretamente ligada ao resultado
-
+**Dificuldade:** fácil
 > O piso estava molhado e havia uma placa com os dizeres “limpeza em andamento”.
 
 Qual elemento sustenta a inferência de que o local estava sendo limpo?
@@ -364,6 +362,8 @@ D. A opinião de quem passa.
 E. A cor do piso, não descrita.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** identificar evidência textual
+
     **Resposta:** A.
     **A:** reúne duas evidências convergentes.
     **B:** não aparece nem explica a limpeza.
@@ -377,9 +377,7 @@ E. A cor do piso, não descrita.
 ### Questão 8
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** controlar grau de certeza
-**Dificuldade:** difícil, porque quatro opções variam apenas em força
-
+**Dificuldade:** difícil
 > Após a orientação sobre anexos, diminuíram as devoluções por documentação incompleta.
 
 Qual formulação é mais proporcional?
@@ -391,6 +389,8 @@ D. A orientação pode ter contribuído para a queda observada.
 E. Nenhum outro fator poderia ter participado.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** controlar grau de certeza
+
     **Resposta:** D.
     **A:** contradiz a associação observada.
     **B:** amplia diminuição para eliminação.
@@ -404,9 +404,7 @@ E. Nenhum outro fator poderia ter participado.
 ### Questão 9
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** testar uma inferência contra o texto
-**Dificuldade:** média, porque a última frase invalida a conclusão inicial
-
+**Dificuldade:** média
 > O aviso anunciou suspensão do atendimento na sexta-feira. Em seguida, informou que o plantão de urgência funcionaria normalmente.
 
 Qual inferência é inadequada?
@@ -418,6 +416,8 @@ D. A suspensão não atingiria o plantão.
 E. Nenhum serviço funcionaria na sexta-feira.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** testar uma inferência contra o texto
+
     **Resposta:** E.
     **A:** é compatível com a oposição ao plantão.
     **B:** decorre da suspensão parcial.
@@ -431,9 +431,7 @@ E. Nenhum serviço funcionaria na sexta-feira.
 ### Questão 10
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** integrar pistas e ideia principal
-**Dificuldade:** difícil, porque exige usar o contexto global
-
+**Dificuldade:** difícil
 > A reportagem mostra aumento de bicicletas nas ruas, novos bicicletários e crescimento de oficinas de manutenção. Também informa que a malha cicloviária permaneceu do mesmo tamanho.
 
 Qual inferência é sustentável?
@@ -445,6 +443,8 @@ D. Todas as pessoas passaram a pedalar.
 E. As oficinas causaram sozinhas o aumento.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** integrar pistas e ideia principal
+
     **Resposta:** C.
     **A:** contradiz a estabilidade da malha.
     **B:** inventa proibição.

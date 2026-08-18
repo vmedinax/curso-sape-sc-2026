@@ -107,10 +107,8 @@ Para cada item oficial estudado, escreva fonte, assunto, resposta oficial e uma 
 
 ### Questão 1
 
-**Habilidade:** reconhecer fonte primária identificada em situação completa
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **fonte primária identificada**?
 
 A. A análise registra prova, cargo, ano, número da questão e link oficial.
@@ -120,6 +118,8 @@ D. A amostra contém duas provas; não autoriza afirmar preferência geral da ba
 E. O enunciado reproduz o texto necessário e apresenta todas as alternativas.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer fonte primária identificada em situação completa
+
     **Resposta: A.**
 
     **A está certa:** Os dados permitem rastrear o item examinado.
@@ -136,10 +136,8 @@ E. O enunciado reproduz o texto necessário e apresenta todas as alternativas.
 
 ### Questão 2
 
-**Habilidade:** reconhecer ocorrência isolada em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **ocorrência isolada**?
 
 A. A análise registra prova, cargo, ano, número da questão e link oficial.
@@ -149,6 +147,8 @@ D. A amostra contém duas provas; não autoriza afirmar preferência geral da ba
 E. O enunciado reproduz o texto necessário e apresenta todas as alternativas.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer ocorrência isolada em situação completa
+
     **Resposta: B.**
 
     **A está errada:** a situação exemplifica fonte primária identificada, pois os dados permitem rastrear o item examinado; não exemplifica ocorrência isolada.
@@ -165,10 +165,8 @@ E. O enunciado reproduz o texto necessário e apresenta todas as alternativas.
 
 ### Questão 3
 
-**Habilidade:** reconhecer recorrência documentada em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **recorrência documentada**?
 
 A. A análise registra prova, cargo, ano, número da questão e link oficial.
@@ -178,6 +176,8 @@ D. A amostra contém duas provas; não autoriza afirmar preferência geral da ba
 E. O enunciado reproduz o texto necessário e apresenta todas as alternativas.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer recorrência documentada em situação completa
+
     **Resposta: C.**
 
     **A está errada:** a situação exemplifica fonte primária identificada, pois os dados permitem rastrear o item examinado; não exemplifica recorrência documentada.
@@ -194,10 +194,8 @@ E. O enunciado reproduz o texto necessário e apresenta todas as alternativas.
 
 ### Questão 4
 
-**Habilidade:** reconhecer limite da amostra em situação completa
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **limite da amostra**?
 
 A. A análise registra prova, cargo, ano, número da questão e link oficial.
@@ -207,6 +205,8 @@ D. A amostra contém duas provas; não autoriza afirmar preferência geral da ba
 E. O enunciado reproduz o texto necessário e apresenta todas as alternativas.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer limite da amostra em situação completa
+
     **Resposta: D.**
 
     **A está errada:** a situação exemplifica fonte primária identificada, pois os dados permitem rastrear o item examinado; não exemplifica limite da amostra.
@@ -223,10 +223,8 @@ E. O enunciado reproduz o texto necessário e apresenta todas as alternativas.
 
 ### Questão 5
 
-**Habilidade:** reconhecer questão autossuficiente em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **questão autossuficiente**?
 
 A. A análise registra prova, cargo, ano, número da questão e link oficial.
@@ -236,6 +234,8 @@ D. A amostra contém duas provas; não autoriza afirmar preferência geral da ba
 E. O enunciado reproduz o texto necessário e apresenta todas as alternativas.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer questão autossuficiente em situação completa
+
     **Resposta: E.**
 
     **A está errada:** a situação exemplifica fonte primária identificada, pois os dados permitem rastrear o item examinado; não exemplifica questão autossuficiente.
@@ -252,10 +252,8 @@ E. O enunciado reproduz o texto necessário e apresenta todas as alternativas.
 
 ### Questão 6
 
-**Habilidade:** reconhecer questão oficial adaptada rastreável em situação completa
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **questão oficial adaptada rastreável**?
 
 A. O item informa prova e origem e descreve quais mudanças foram feitas.
@@ -265,6 +263,8 @@ D. O mesmo tópico apareceu em várias provas catalogadas e verificadas.
 E. A amostra contém duas provas; não autoriza afirmar preferência geral da banca.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer questão oficial adaptada rastreável em situação completa
+
     **Resposta: A.**
 
     **A está certa:** A adaptação mantém vínculo verificável com a fonte.
@@ -281,10 +281,8 @@ E. A amostra contém duas provas; não autoriza afirmar preferência geral da ba
 
 ### Questão 7
 
-**Habilidade:** reconhecer item autoral corretamente identificado em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **item autoral corretamente identificado**?
 
 A. A análise registra prova, cargo, ano, número da questão e link oficial.
@@ -294,6 +292,8 @@ D. O mesmo tópico apareceu em várias provas catalogadas e verificadas.
 E. A amostra contém duas provas; não autoriza afirmar preferência geral da banca.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer item autoral corretamente identificado em situação completa
+
     **Resposta: B.**
 
     **A está errada:** a situação exemplifica fonte primária identificada, pois os dados permitem rastrear o item examinado; não exemplifica item autoral corretamente identificado.
@@ -310,10 +310,8 @@ E. A amostra contém duas provas; não autoriza afirmar preferência geral da ba
 
 ### Questão 8
 
-**Habilidade:** reconhecer distrator plausível em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **distrator plausível**?
 
 A. A análise registra prova, cargo, ano, número da questão e link oficial.
@@ -323,6 +321,8 @@ D. O mesmo tópico apareceu em várias provas catalogadas e verificadas.
 E. A amostra contém duas provas; não autoriza afirmar preferência geral da banca.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer distrator plausível em situação completa
+
     **Resposta: C.**
 
     **A está errada:** a situação exemplifica fonte primária identificada, pois os dados permitem rastrear o item examinado; não exemplifica distrator plausível.
@@ -339,10 +339,8 @@ E. A amostra contém duas provas; não autoriza afirmar preferência geral da ba
 
 ### Questão 9
 
-**Habilidade:** reconhecer resolução por evidência textual em situação completa
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **resolução por evidência textual**?
 
 A. A análise registra prova, cargo, ano, número da questão e link oficial.
@@ -352,6 +350,8 @@ D. A resposta cita a passagem que sustenta a conclusão.
 E. A amostra contém duas provas; não autoriza afirmar preferência geral da banca.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer resolução por evidência textual em situação completa
+
     **Resposta: D.**
 
     **A está errada:** a situação exemplifica fonte primária identificada, pois os dados permitem rastrear o item examinado; não exemplifica resolução por evidência textual.
@@ -368,10 +368,8 @@ E. A amostra contém duas provas; não autoriza afirmar preferência geral da ba
 
 ### Questão 10
 
-**Habilidade:** reconhecer separação entre fato e hipótese em situação completa
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **separação entre fato e hipótese**?
 
 A. A análise registra prova, cargo, ano, número da questão e link oficial.
@@ -381,6 +379,8 @@ D. A amostra contém duas provas; não autoriza afirmar preferência geral da ba
 E. O relatório distingue “ocorreu na amostra” de “pode voltar a ocorrer”.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer separação entre fato e hipótese em situação completa
+
     **Resposta: E.**
 
     **A está errada:** a situação exemplifica fonte primária identificada, pois os dados permitem rastrear o item examinado; não exemplifica separação entre fato e hipótese.

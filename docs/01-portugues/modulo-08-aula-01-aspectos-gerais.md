@@ -112,11 +112,9 @@ Pegue uma frase burocrática e retire fórmulas vazias. Depois confira propósit
 
 ### Questão 1
 
-**Habilidade:** reconhecer impessoalidade em comunicação autossuficiente
 
 **Dificuldade:** fácil
-
-Qual alternativa exemplifica corretamente **impessoalidade**?
+Qual alternativa explicita o órgão, em vez de uma pessoa, como responsável pela comunicação?
 
 A. O órgão informa que o atendimento será suspenso.
 B. O prazo termina em 10 de agosto, às 18 horas.
@@ -125,6 +123,8 @@ D. O pedido foi indeferido porque foi apresentado após o prazo.
 E. Encaminho o relatório para análise.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer impessoalidade em comunicação autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** A mensagem se concentra na atuação institucional, sem promoção pessoal.
@@ -141,11 +141,9 @@ E. Encaminho o relatório para análise.
 
 ### Questão 2
 
-**Habilidade:** reconhecer clareza em comunicação autossuficiente
 
 **Dificuldade:** média
-
-Qual alternativa exemplifica corretamente **clareza**?
+Qual alternativa informa conjuntamente data e horário exatos do término de um prazo?
 
 A. O órgão informa que o atendimento será suspenso.
 B. O prazo termina em 10 de agosto, às 18 horas.
@@ -154,6 +152,8 @@ D. O pedido foi indeferido porque foi apresentado após o prazo.
 E. Encaminho o relatório para análise.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer clareza em comunicação autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** o trecho exemplifica impessoalidade, pois a mensagem se concentra na atuação institucional, sem promoção pessoal; não exemplifica clareza.
@@ -170,11 +170,9 @@ E. Encaminho o relatório para análise.
 
 ### Questão 3
 
-**Habilidade:** reconhecer precisão em comunicação autossuficiente
 
 **Dificuldade:** média
-
-Qual alternativa exemplifica corretamente **precisão**?
+Qual alternativa especifica o formato digital exigido para o documento?
 
 A. O órgão informa que o atendimento será suspenso.
 B. O prazo termina em 10 de agosto, às 18 horas.
@@ -183,6 +181,8 @@ D. O pedido foi indeferido porque foi apresentado após o prazo.
 E. Encaminho o relatório para análise.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer precisão em comunicação autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** o trecho exemplifica impessoalidade, pois a mensagem se concentra na atuação institucional, sem promoção pessoal; não exemplifica precisão.
@@ -199,11 +199,9 @@ E. Encaminho o relatório para análise.
 
 ### Questão 4
 
-**Habilidade:** reconhecer objetividade em comunicação autossuficiente
 
 **Dificuldade:** difícil
-
-Qual alternativa exemplifica corretamente **objetividade**?
+Qual alternativa apresenta diretamente a causa objetiva de um indeferimento?
 
 A. O órgão informa que o atendimento será suspenso.
 B. O prazo termina em 10 de agosto, às 18 horas.
@@ -212,6 +210,8 @@ D. O pedido foi indeferido porque foi apresentado após o prazo.
 E. Encaminho o relatório para análise.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer objetividade em comunicação autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** o trecho exemplifica impessoalidade, pois a mensagem se concentra na atuação institucional, sem promoção pessoal; não exemplifica objetividade.
@@ -228,11 +228,9 @@ E. Encaminho o relatório para análise.
 
 ### Questão 5
 
-**Habilidade:** reconhecer concisão em comunicação autossuficiente
 
 **Dificuldade:** média
-
-Qual alternativa exemplifica corretamente **concisão**?
+Qual alternativa formula um encaminhamento em uma única oração, sem informação acessória?
 
 A. O órgão informa que o atendimento será suspenso.
 B. O prazo termina em 10 de agosto, às 18 horas.
@@ -241,6 +239,8 @@ D. O pedido foi indeferido porque foi apresentado após o prazo.
 E. Encaminho o relatório para análise.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer concisão em comunicação autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** o trecho exemplifica impessoalidade, pois a mensagem se concentra na atuação institucional, sem promoção pessoal; não exemplifica concisão.
@@ -257,10 +257,8 @@ E. Encaminho o relatório para análise.
 
 ### Questão 6
 
-**Habilidade:** reconhecer coesão em comunicação autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **coesão**?
 
 A. O processo chegou ontem. Por isso, a análise começa hoje.
@@ -270,6 +268,8 @@ D. O candidato deve anexar o diploma em formato PDF.
 E. O pedido foi indeferido porque foi apresentado após o prazo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer coesão em comunicação autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** O conector explicita a relação entre as frases.
@@ -286,11 +286,9 @@ E. O pedido foi indeferido porque foi apresentado após o prazo.
 
 ### Questão 7
 
-**Habilidade:** reconhecer coerência em comunicação autossuficiente
 
 **Dificuldade:** média
-
-Qual alternativa exemplifica corretamente **coerência**?
+Qual alternativa mantém a referência temporal por meio da expressão *nesse período*?
 
 A. O órgão informa que o atendimento será suspenso.
 B. O atendimento ocorrerá das 8h às 12h; nesse período, haverá equipe de plantão.
@@ -299,6 +297,8 @@ D. O candidato deve anexar o diploma em formato PDF.
 E. O pedido foi indeferido porque foi apresentado após o prazo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer coerência em comunicação autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** o trecho exemplifica impessoalidade, pois a mensagem se concentra na atuação institucional, sem promoção pessoal; não exemplifica coerência.
@@ -315,11 +315,9 @@ E. O pedido foi indeferido porque foi apresentado após o prazo.
 
 ### Questão 8
 
-**Habilidade:** reconhecer formalidade adequada em comunicação autossuficiente
 
 **Dificuldade:** média
-
-Qual alternativa exemplifica corretamente **formalidade adequada**?
+Qual alternativa formula uma solicitação institucional na primeira pessoa do plural?
 
 A. O órgão informa que o atendimento será suspenso.
 B. O prazo termina em 10 de agosto, às 18 horas.
@@ -328,6 +326,8 @@ D. O candidato deve anexar o diploma em formato PDF.
 E. O pedido foi indeferido porque foi apresentado após o prazo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer formalidade adequada em comunicação autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** o trecho exemplifica impessoalidade, pois a mensagem se concentra na atuação institucional, sem promoção pessoal; não exemplifica formalidade adequada.
@@ -344,10 +344,8 @@ E. O pedido foi indeferido porque foi apresentado após o prazo.
 
 ### Questão 9
 
-**Habilidade:** reconhecer padronização em comunicação autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **padronização**?
 
 A. O órgão informa que o atendimento será suspenso.
@@ -357,6 +355,8 @@ D. O documento segue a estrutura e a identificação adotadas pelo órgão.
 E. O pedido foi indeferido porque foi apresentado após o prazo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer padronização em comunicação autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** o trecho exemplifica impessoalidade, pois a mensagem se concentra na atuação institucional, sem promoção pessoal; não exemplifica padronização.
@@ -373,11 +373,9 @@ E. O pedido foi indeferido porque foi apresentado após o prazo.
 
 ### Questão 10
 
-**Habilidade:** reconhecer linguagem simples em comunicação autossuficiente
 
 **Dificuldade:** média
-
-Qual alternativa exemplifica corretamente **linguagem simples**?
+Qual alternativa orienta diretamente o usuário, com verbo no imperativo e termos usuais?
 
 A. O órgão informa que o atendimento será suspenso.
 B. O prazo termina em 10 de agosto, às 18 horas.
@@ -386,6 +384,8 @@ D. O pedido foi indeferido porque foi apresentado após o prazo.
 E. Use o formulário eletrônico para solicitar a certidão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer linguagem simples em comunicação autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** o trecho exemplifica impessoalidade, pois a mensagem se concentra na atuação institucional, sem promoção pessoal; não exemplifica linguagem simples.

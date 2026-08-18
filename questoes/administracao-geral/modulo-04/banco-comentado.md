@@ -6,8 +6,7 @@ Todas as questões são **autorais no estilo de concurso**.
 
 ### Questão 1
 
-**Tema:** missão · **Dificuldade:** fácil
-
+**Dificuldade:** fácil
 Uma secretaria afirma: “Nossa razão de existir é proteger a saúde da população”. Essa frase apresenta:
 
 A. a missão.  
@@ -17,6 +16,8 @@ D. uma ameaça.
 E. uma iniciativa.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** missão
+
     **Resposta: A.** Missão explica por que a organização existe hoje.
 
     **A está certa:** a frase declara a finalidade atual. **B está errada:** visão descreve o futuro desejado. **C está errada:** meta traz resultado mensurável e prazo. **D está errada:** ameaça é fator externo desfavorável. **E está errada:** iniciativa é uma ação organizada.
@@ -27,8 +28,7 @@ E. uma iniciativa.
 
 ### Questão 2
 
-**Tema:** visão · **Dificuldade:** fácil
-
+**Dificuldade:** fácil
 “Até 2030, ser referência nacional em atendimento digital acessível” é exemplo de:
 
 A. valor.  
@@ -38,6 +38,8 @@ D. missão.
 E. rotina.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** visão
+
     **Resposta: B.** Visão mostra onde a organização quer chegar.
 
     **A está errada:** valor orienta a conduta. **B está certa:** há uma situação futura desejada. **C está errada:** força é condição interna favorável. **D está errada:** missão trata da finalidade atual. **E está errada:** rotina é trabalho repetido.
@@ -48,8 +50,7 @@ E. rotina.
 
 ### Questão 3
 
-**Tema:** análise SWOT · **Dificuldade:** média
-
+**Dificuldade:** média
 Em um diagnóstico, a equipe registra servidores experientes e uma nova lei que aumenta a procura pelo serviço. Esses fatores são, respectivamente:
 
 A. ameaça e força.  
@@ -59,6 +60,8 @@ D. oportunidade e força.
 E. força e fraqueza.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** análise SWOT
+
     **Resposta: C.** Experiência da equipe é interna e favorável: força. A nova lei vem do ambiente e pode favorecer a atuação: oportunidade.
 
     **A está errada:** inverte a natureza dos fatores. **B está errada:** experiência não é fraqueza. **C está certa:** combina fator interno favorável e externo favorável. **D está errada:** troca as posições. **E está errada:** a lei não é fator interno.
@@ -70,8 +73,7 @@ E. força e fraqueza.
 
 ### Questão 4
 
-**Tema:** objetivo e iniciativa · **Dificuldade:** média
-
+**Dificuldade:** média
 Qual alternativa apresenta primeiro um objetivo e depois uma iniciativa?
 
 A. Comprar computadores; reduzir o tempo de atendimento.  
@@ -81,6 +83,8 @@ D. Reduzir o tempo de atendimento; simplificar o formulário.
 E. Fazer reuniões; elaborar relatórios.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** objetivo e iniciativa
+
     **Resposta: D.** O objetivo mostra a mudança desejada; a iniciativa mostra uma ação para alcançá-la.
 
     **A está errada:** colocou ação antes do resultado. **B está errada:** traz duas ações. **C está errada:** traz duas ações. **D está certa:** reduzir tempo é mudança; simplificar formulário é ação. **E está errada:** traz atividades, sem resultado declarado.
@@ -93,8 +97,7 @@ E. Fazer reuniões; elaborar relatórios.
 
 ### Questão 5
 
-**Tema:** nível operacional · **Dificuldade:** fácil
-
+**Dificuldade:** fácil
 Uma unidade define quem enviará cada aviso, em qual dia e por qual sistema. Esse plano está no nível:
 
 A. institucional.  
@@ -104,6 +107,8 @@ D. tático.
 E. operacional.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** nível operacional
+
     **Resposta: E.** O nível operacional organiza tarefas concretas do dia a dia.
 
     **A está errada:** não é o nome do nível pedido. **B está errada:** ambiente não é nível de plano. **C está errada:** estratégico define o rumo amplo. **D está errada:** tático traduz o rumo para uma área. **E está certa:** há responsáveis, datas e meios.
@@ -114,8 +119,7 @@ E. operacional.
 
 ### Questão 6
 
-**Tema:** nível tático · **Dificuldade:** média
-
+**Dificuldade:** média
 Depois de a organização decidir ampliar o atendimento digital, a área de pessoas planeja as capacitações necessárias. Esse segundo plano é:
 
 A. tático.  
@@ -125,6 +129,8 @@ D. uma ameaça.
 E. uma missão.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** nível tático
+
     **Resposta: A.** O nível tático traduz a direção geral para uma área.
 
     **A está certa:** o plano pertence à área de pessoas e apoia a estratégia. **B está errada:** a escolha ampla já foi feita pela organização. **C está errada:** não descreve futuro desejado. **D está errada:** não é fator externo. **E está errada:** não declara razão de existir.
@@ -135,8 +141,7 @@ E. uma missão.
 
 ### Questão 7
 
-**Tema:** alinhamento · **Dificuldade:** difícil
-
+**Dificuldade:** difícil
 Uma diretoria cria ações que consomem grande parte do orçamento, mas não apoiam nenhum objetivo institucional. O principal problema é:
 
 A. excesso de linha de base.  
@@ -146,6 +151,8 @@ D. uso do nível operacional.
 E. presença de missão.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** alinhamento
+
     **Resposta: B.** Alinhamento é a ligação coerente entre rumo, planos das áreas e tarefas.
 
     **A está errada:** linha de base é o valor inicial usado na comparação. **B está certa:** as ações não contribuem para o rumo comum. **C está errada:** medir não é o problema descrito. **D está errada:** todo plano precisa chegar a tarefas. **E está errada:** missão é necessária e não causa o desvio.
@@ -156,8 +163,7 @@ E. presença de missão.
 
 ### Questão 8
 
-**Tema:** PPA · **Dificuldade:** fácil
-
+**Dificuldade:** fácil
 No planejamento governamental, o instrumento que organiza diretrizes, objetivos e metas para um período de quatro anos é o:
 
 A. relatório diário.  
@@ -167,6 +173,8 @@ D. organograma.
 E. manual de rotinas.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** PPA
+
     **Resposta: C.** PPA significa Plano Plurianual e organiza a direção governamental para quatro anos.
 
     **A está errada:** relatório diário acompanha fatos curtos. **B está errada:** contrato individual não é instrumento geral de planejamento. **C está certa:** essa é a função geral do PPA. **D está errada:** organograma mostra unidades e relações. **E está errada:** manual orienta procedimentos.
@@ -177,17 +185,18 @@ E. manual de rotinas.
 
 ### Questão 9
 
-**Tema:** LDO e LOA · **Dificuldade:** média
-
+**Dificuldade:** média
 Qual frase descreve corretamente a relação entre LDO e LOA?
 
-A. A LOA substitui o PPA durante quatro anos.  
+A. A LOA substitui o PPA durante quatro anos e passa a definir sozinha diretrizes, objetivos e metas de médio prazo.
 B. A LDO registra cada tarefa diária do órgão.  
 C. A LOA define a missão institucional.  
 D. A LDO orienta a elaboração da LOA, que estima receitas e fixa despesas do ano.  
 E. As duas têm exatamente a mesma função.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** LDO e LOA
+
     **Resposta: D.** A LDO faz a ligação anual e orienta a LOA; a LOA organiza receitas e despesas do exercício.
 
     **A está errada:** os instrumentos se relacionam; um não elimina o outro. **B está errada:** LDO não é agenda de tarefas. **C está errada:** missão não é função da LOA. **D está certa:** resume a ligação geral. **E está errada:** as funções são diferentes.
@@ -198,8 +207,7 @@ E. As duas têm exatamente a mesma função.
 
 ### Questão 10
 
-**Tema:** instrumentos públicos · **Dificuldade:** difícil
-
+**Dificuldade:** difícil
 Um plano setorial cria uma prioridade que contradiz o PPA vigente e não possui previsão para sua execução anual. A análise mais adequada é:
 
 A. o plano setorial sempre prevalece.  
@@ -209,6 +217,8 @@ D. a contradição é irrelevante porque os planos são independentes.
 E. falta coerência entre a direção de médio prazo, o plano setorial e a execução anual.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** instrumentos públicos
+
     **Resposta: E.** Os instrumentos devem conversar entre si e com a capacidade de execução.
 
     **A está errada:** plano setorial não ganha prioridade automática sobre o PPA. **B está errada:** execução exige meios. **C está errada:** tarefa isolada não corrige a falta de coerência. **D está errada:** os planos são ligados. **E está certa:** identifica as duas quebras de ligação.
@@ -221,8 +231,7 @@ E. falta coerência entre a direção de médio prazo, o plano setorial e a exec
 
 ### Questão 11
 
-**Tema:** cadeia de resultados · **Dificuldade:** fácil
-
+**Dificuldade:** fácil
 Em uma campanha, a impressão de cartilhas e o trabalho da equipe são recursos usados para realizar visitas. Na cadeia de resultados, eles são:
 
 A. insumos.  
@@ -232,6 +241,8 @@ D. visões.
 E. ameaças.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** cadeia de resultados
+
     **Resposta: A.** Insumos são os meios usados no trabalho, como pessoas, dinheiro e materiais.
 
     **A está certa:** equipe e material permitem realizar as atividades. **B está errada:** impacto é uma mudança ampla e mais distante. **C está errada:** meta é um valor desejado com prazo. **D está errada:** visão descreve futuro desejado. **E está errada:** ameaça é fator externo desfavorável.
@@ -242,8 +253,7 @@ E. ameaças.
 
 ### Questão 12
 
-**Tema:** produto e resultado · **Dificuldade:** média
-
+**Dificuldade:** média
 Uma secretaria realizou 40 oficinas. Depois, verificou que os participantes passaram a preencher corretamente os pedidos. As 40 oficinas e a melhora no preenchimento são, respectivamente:
 
 A. impacto e insumo.  
@@ -253,6 +263,8 @@ D. meta e missão.
 E. visão e valor.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** produto e resultado
+
     **Resposta: B.** Produto é a entrega direta; resultado é a mudança observada no público ou na situação.
 
     **A está errada:** oficinas não são mudança ampla e insumo não é efeito. **B está certa:** quantidade entregue vem antes da melhora percebida. **C está errada:** troca as posições. **D está errada:** a frase relata entrega e efeito, não finalidade institucional. **E está errada:** não trata de futuro nem conduta.
@@ -263,17 +275,18 @@ E. visão e valor.
 
 ### Questão 13
 
-**Tema:** gestão por resultados · **Dificuldade:** difícil
-
+**Dificuldade:** difícil
 Um órgão bateu a meta de emitir 10 mil documentos. Porém, o tempo de espera do cidadão aumentou e os erros dobraram. Qual conclusão é mais segura?
 
-A. a política foi efetiva porque houve volume.  
+A. a política foi efetiva porque houve volume, ainda que o tempo de espera tenha aumentado e os erros de emissão tenham dobrado.
 B. o objetivo foi plenamente alcançado.  
 C. uma meta de produção, sozinha, não comprova a melhora desejada.  
 D. indicadores de qualidade devem ser descartados.  
 E. monitorar resultados é desnecessário.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** gestão por resultados
+
     **Resposta: C.** Uma entrega maior pode conviver com pior qualidade. É preciso medir o que realmente importa para o objetivo.
 
     **A está errada:** volume não comprova efeito positivo. **B está errada:** espera e erros mostram problema. **C está certa:** pede análise conjunta de quantidade, qualidade e resultado. **D está errada:** qualidade ajuda a evitar uma leitura enganosa. **E está errada:** o caso mostra por que acompanhar é necessário.
@@ -286,8 +299,7 @@ E. monitorar resultados é desnecessário.
 
 ### Questão 14
 
-**Tema:** meta · **Dificuldade:** fácil
-
+**Dificuldade:** fácil
 Qual frase contém uma meta completa?
 
 A. Melhorar o atendimento.  
@@ -297,6 +309,8 @@ D. Reduzir o prazo médio de 12 para 8 dias até dezembro.
 E. Ser referência no futuro.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** meta
+
     **Resposta: D.** A meta informa medida, valor desejado e prazo.
 
     **A está errada:** é ampla e não informa quanto nem quando. **B está errada:** expressa uma qualidade, sem medida. **C está errada:** descreve uma ação. **D está certa:** há indicador, ponto de chegada e prazo. **E está errada:** parece visão e não traz medida.
@@ -307,8 +321,7 @@ E. Ser referência no futuro.
 
 ### Questão 15
 
-**Tema:** linha de base · **Dificuldade:** média
-
+**Dificuldade:** média
 Antes de definir a meta, a equipe apurou que o atendimento levava, em média, 12 dias. Esse valor é:
 
 A. uma iniciativa.  
@@ -318,6 +331,8 @@ D. uma ameaça.
 E. a linha de base.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** linha de base
+
     **Resposta: E.** Linha de base é o valor inicial usado para comparar a mudança.
 
     **A está errada:** iniciativa é uma ação. **B está errada:** impacto é efeito amplo. **C está errada:** visão é futuro desejado. **D está errada:** não é fator externo. **E está certa:** registra de onde a medição parte.
@@ -328,8 +343,7 @@ E. a linha de base.
 
 ### Questão 16
 
-**Tema:** qualidade do indicador · **Dificuldade:** difícil
-
+**Dificuldade:** difícil
 Um indicador depende de registros que chegam com três meses de atraso e mudam de critério a cada coleta. Quais qualidades estão mais prejudicadas?
 
 A. tempestividade e comparabilidade.  
@@ -339,6 +353,8 @@ D. eficácia e efetividade.
 E. centralização e hierarquia.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** qualidade do indicador
+
     **Resposta: A.** Tempestividade é ter o dado no momento útil. Comparabilidade é poder comparar medições feitas com o mesmo sentido.
 
     **A está certa:** atraso tira utilidade no tempo e troca de critério impede comparação segura. **B está errada:** são elementos estratégicos, não qualidades da medição. **C está errada:** pertencem ao diagnóstico SWOT. **D está errada:** avaliam alcance e efeito, não o defeito descrito. **E está errada:** tratam de organização e autoridade.
@@ -349,8 +365,7 @@ E. centralização e hierarquia.
 
 ### Questão 17
 
-**Tema:** monitoramento · **Dificuldade:** fácil
-
+**Dificuldade:** fácil
 Comparar mensalmente o realizado com a meta e corrigir atrasos é atividade de:
 
 A. definição da missão.  
@@ -360,6 +375,8 @@ D. análise patrimonialista.
 E. formulação da visão.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** monitoramento
+
     **Resposta: B.** Monitoramento é o acompanhamento contínuo da execução e dos resultados.
 
     **A está errada:** missão é definida como finalidade. **B está certa:** há acompanhamento frequente e correção. **C está errada:** organograma mostra estrutura. **D está errada:** patrimonialismo trata da confusão entre público e privado. **E está errada:** visão não é comparação mensal.
@@ -370,8 +387,7 @@ E. formulação da visão.
 
 ### Questão 18
 
-**Tema:** avaliação · **Dificuldade:** média
-
+**Dificuldade:** média
 Depois de um ano, uma equipe investiga por que um programa não alcançou o público esperado e se sua forma de atuação continua adequada. Ela realiza:
 
 A. uma missão.  
@@ -381,6 +397,8 @@ D. uma ameaça.
 E. uma visão.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** avaliação
+
     **Resposta: C.** Avaliação examina com mais profundidade o valor, o funcionamento e os resultados de uma ação.
 
     **A está errada:** missão é a razão de existir. **B está errada:** a investigação ultrapassa o acompanhamento rotineiro. **C está certa:** procura explicar e julgar a adequação. **D está errada:** ameaça é fator externo. **E está errada:** visão descreve o futuro desejado.
@@ -391,17 +409,18 @@ E. uma visão.
 
 ### Questão 19
 
-**Tema:** causalidade · **Dificuldade:** difícil
-
+**Dificuldade:** difícil
 Após uma campanha, as reclamações diminuíram. Ao mesmo tempo, houve mudança na lei e aumento da equipe. É correto afirmar que:
 
-A. a campanha foi a única causa.  
+A. a campanha foi a única causa, pois a mudança legal e o aumento da equipe não poderiam influenciar a redução observada nas reclamações.
 B. a mudança prova impacto com certeza.  
 C. fatores externos nunca afetam resultados.  
 D. a melhora observada não basta, sozinha, para provar qual ação a causou.  
 E. a linha de base se tornou inútil.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** causalidade
+
     **Resposta: D.** Causalidade é a ligação de causa e efeito. Quando várias mudanças ocorrem juntas, é preciso cuidado para atribuir o resultado a uma só.
 
     **A está errada:** existem outras explicações possíveis. **B está errada:** mudança posterior não prova a causa. **C está errada:** ambiente pode afetar o resultado. **D está certa:** separa observação de prova causal. **E está errada:** o valor inicial ainda ajuda na comparação.
@@ -414,17 +433,18 @@ E. a linha de base se tornou inútil.
 
 ### Questão 20
 
-**Tema:** integração · **Dificuldade:** difícil
-
+**Dificuldade:** difícil
 Uma secretaria quer reduzir perdas de alimentos. Ela definiu esse objetivo, criou uma meta com prazo, escolheu um indicador, mas iniciou ações que não têm responsável nem ligação com as áreas. O elemento mais urgente a corrigir é:
 
-A. a existência do objetivo.  
+A. a existência do objetivo, porque definir a mudança desejada impediria atribuir responsáveis e relacionar ações às áreas executoras.
 B. a presença de prazo.  
 C. a escolha de medir.  
 D. o uso de uma meta.  
 E. o desdobramento da estratégia em responsabilidades e ações alinhadas.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** integração
+
     **Resposta: E.** Planejamento só chega à prática quando áreas, ações e responsáveis se ligam ao objetivo.
 
     **A está errada:** objetivo dá direção. **B está errada:** prazo torna a meta mais clara. **C está errada:** medir ajuda a acompanhar. **D está errada:** meta define o resultado esperado. **E está certa:** falta transformar o rumo em execução organizada.

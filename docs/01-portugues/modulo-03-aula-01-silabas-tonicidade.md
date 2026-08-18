@@ -127,10 +127,8 @@ As questões são autorais. Resolva cada uma antes de abrir o comentário. O gab
 
 ### Questão 1
 
-**Habilidade:** classificar palavra pela posição tônica
 
-**Dificuldade:** fácil — a sílaba final é claramente destacada
-
+**Dificuldade:** fácil
 A palavra *servidor* é:
 
 A. proparoxítona.
@@ -140,6 +138,8 @@ D. monossílabo.
 E. átona.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** classificar palavra pela posição tônica
+
     **Resposta: C.**
 
     **A está errada:** proparoxítona tem tonicidade na antepenúltima sílaba.
@@ -156,10 +156,8 @@ E. átona.
 
 ### Questão 2
 
-**Habilidade:** localizar a sílaba tônica
 
-**Dificuldade:** fácil — a palavra possui acento gráfico indicativo
-
+**Dificuldade:** fácil
 Em *análise*, a sílaba tônica é:
 
 A. *a*.
@@ -169,6 +167,8 @@ D. *se*.
 E. *lise*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** localizar a sílaba tônica
+
     **Resposta: B.**
 
     **A está errada:** a primeira sílaba é átona.
@@ -185,10 +185,8 @@ E. *lise*.
 
 ### Questão 3
 
-**Habilidade:** distinguir tonicidade de acento gráfico
 
-**Dificuldade:** média — exige separar fenômeno sonoro de sinal escrito
-
+**Dificuldade:** média
 Assinale a afirmação correta.
 
 A. Toda sílaba tônica recebe acento gráfico.
@@ -198,6 +196,8 @@ D. Acento gráfico e tonicidade são conceitos distintos.
 E. Toda paroxítona recebe tonicidade final.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir tonicidade de acento gráfico
+
     **Resposta: D.**
 
     **A está errada:** *janela* possui tônica em *ne* e não recebe acento gráfico.
@@ -214,10 +214,8 @@ E. Toda paroxítona recebe tonicidade final.
 
 ### Questão 4
 
-**Habilidade:** reconhecer paroxítona sem acento gráfico
 
-**Dificuldade:** média — exige ouvir a palavra e não procurar sinal escrito
-
+**Dificuldade:** média
 A palavra *processo*, pronunciada pro-*ces*-so, é:
 
 A. paroxítona.
@@ -227,6 +225,8 @@ D. monossílabo tônico.
 E. palavra sem sílaba tônica.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer paroxítona sem acento gráfico
+
     **Resposta: A.**
 
     **A está certa:** *ces* é a penúltima sílaba.
@@ -243,10 +243,8 @@ E. palavra sem sílaba tônica.
 
 ### Questão 5
 
-**Habilidade:** reconhecer proparoxítona
 
-**Dificuldade:** fácil — o acento e a pronúncia indicam a antepenúltima
-
+**Dificuldade:** fácil
 Qual palavra é proparoxítona?
 
 A. café.
@@ -256,6 +254,8 @@ D. servidor.
 E. técnico.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer proparoxítona
+
     **Resposta: E.**
 
     **A está errada:** ca-*fé* é oxítona.
@@ -272,10 +272,8 @@ E. técnico.
 
 ### Questão 6
 
-**Habilidade:** aplicar contagem a partir do final
 
-**Dificuldade:** média — exige separar, localizar e classificar
-
+**Dificuldade:** média
 Em ca-*der*-no, a sílaba tônica ocupa:
 
 A. a última posição.
@@ -285,6 +283,8 @@ D. duas posições simultâneas.
 E. nenhuma posição, pois não há acento gráfico.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar contagem a partir do final
+
     **Resposta: B.**
 
     **A está errada:** a última sílaba é *no*.
@@ -301,10 +301,8 @@ E. nenhuma posição, pois não há acento gráfico.
 
 ### Questão 7
 
-**Habilidade:** distinguir separação silábica de classificação tônica
 
-**Dificuldade:** difícil — exige executar duas operações sem confundi-las
-
+**Dificuldade:** difícil
 Sobre *relatório*, assinale a análise correta.
 
 A. re-la-tó-rio; paroxítona.
@@ -314,6 +312,8 @@ D. rela-tó-rio; monossílabo.
 E. re-la-tó-rio; oxítona.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir separação silábica de classificação tônica
+
     **Resposta: A.**
 
     **A está certa:** a separação usual é re-la-*tó*-rio, com tônica na penúltima sílaba.
@@ -330,10 +330,8 @@ E. re-la-tó-rio; oxítona.
 
 ### Questão 8
 
-**Habilidade:** analisar mudança de tonicidade
 
-**Dificuldade:** difícil — exige comparar três formas próximas
-
+**Dificuldade:** difícil
 No trio *público*, *publico* e *publicou*, a diferença de classificação ocorre porque:
 
 A. todas têm a mesma sílaba tônica.
@@ -343,6 +341,8 @@ D. o número de letras decide a classificação.
 E. toda forma verbal é oxítona.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** analisar mudança de tonicidade
+
     **Resposta: C.**
 
     **A está errada:** as tônicas são *pú*, *bli* e *cou*.
@@ -359,10 +359,8 @@ E. toda forma verbal é oxítona.
 
 ### Questão 9
 
-**Habilidade:** separar análise sonora de translineação
 
-**Dificuldade:** média — exige identificar tarefas distintas
-
+**Dificuldade:** média
 É correto afirmar que separação silábica e translineação:
 
 A. são sempre nomes da mesma tarefa.
@@ -372,6 +370,8 @@ D. dispensam a leitura do comando.
 E. tratam, respectivamente, de unidades sonoras e de divisão gráfica na mudança de linha.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** separar análise sonora de translineação
+
     **Resposta: E.**
 
     **A está errada:** as tarefas têm finalidades distintas.
@@ -388,10 +388,8 @@ E. tratam, respectivamente, de unidades sonoras e de divisão gráfica na mudan�
 
 ### Questão 10
 
-**Habilidade:** aplicar integralmente o método SOTA
 
-**Dificuldade:** difícil — combina pronúncia, separação e contagem
-
+**Dificuldade:** difícil
 Qual sequência descreve corretamente a análise de *também*?
 
 A. localizar o acento e concluir que toda palavra acentuada é paroxítona.
@@ -401,6 +399,8 @@ D. separar tam-bém, ouvir *bém*, contar do fim e classificar como oxítona.
 E. separar ta-m-bé-m e classificar pelo número de letras.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar integralmente o método SOTA
+
     **Resposta: D.**
 
     **A está errada:** palavras acentuadas pertencem a diferentes classes tônicas.

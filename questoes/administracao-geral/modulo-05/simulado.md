@@ -37,7 +37,7 @@ A. planejar. B. executar. C. verificar. D. agir. E. diagnosticar.
 ## Questão 5
 Uma entrega ficou mais rápida, mas passou a conter mais erros. A conclusão correta é:
 
-A. a qualidade aumentou. B. a efetividade foi provada. C. toda rapidez é melhoria. D. o controle deve acabar. E. uma medida melhorou, mas a entrega precisa ser analisada por inteiro.
+A. a qualidade aumentou, porque a redução do prazo é suficiente para compensar qualquer crescimento na quantidade de erros da entrega. B. a efetividade foi provada. C. toda rapidez é melhoria. D. o controle deve acabar. E. uma medida melhorou, mas a entrega precisa ser analisada por inteiro.
 
 ??? question "Mostrar resposta e comentário"
     **Resposta: E.** E considera prazo e correção. A, B e C prometem sucesso sem base. D usa solução absoluta.
@@ -77,7 +77,7 @@ A. capacidade técnica. B. indicador. C. organograma. D. comunicação do motivo
 ## Questão 10
 Qual conjunto favorece a entrada da mudança na rotina?
 
-A. anúncio e punição. B. norma sem apoio. C. tecnologia sem treino. D. teste sem acompanhamento. E. direção clara, participação adequada, capacitação, apoio e medição.
+A. anúncio formal acompanhado de punição imediata às dúvidas, sem capacitação, participação ou acompanhamento dos resultados da adoção. B. norma sem apoio. C. tecnologia sem treino. D. teste sem acompanhamento. E. direção clara, participação adequada, capacitação, apoio e medição.
 
 ??? question "Mostrar resposta e comentário"
     **Resposta: E.** E cobre preparação e continuidade. A, B, C e D deixam falhas importantes.

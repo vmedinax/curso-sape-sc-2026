@@ -297,13 +297,13 @@ C. Criar nova pessoa jurídica
 D. Transformar órgãos em empresas  
 E. Eliminar a autonomia das entidades
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **C.** A SAPE é uma Secretaria de Estado e integra a Administração Direta.
-2. **D.** Autarquias são entidades da Administração Indireta. As demais opções são órgãos ou unidades internas da Direta.
-3. **C.** A LC nº 741/2019 classifica SAPE como órgão direto e CIDASC e EPAGRI como empresas públicas.
-4. **D.** A unidade situada em entidade da Administração Indireta é seccional. A unidade de uma Secretaria é setorial.
-5. **B.** O órgão central coordena e exerce funções normativas, de supervisão, regulação, controle e fiscalização. A execução é distribuída.
+    1. **C.** A SAPE é uma Secretaria de Estado e integra a Administração Direta.
+    2. **D.** Autarquias são entidades da Administração Indireta. As demais opções são órgãos ou unidades internas da Direta.
+    3. **C.** A LC nº 741/2019 classifica SAPE como órgão direto e CIDASC e EPAGRI como empresas públicas.
+    4. **D.** A unidade situada em entidade da Administração Indireta é seccional. A unidade de uma Secretaria é setorial.
+    5. **B.** O órgão central coordena e exerce funções normativas, de supervisão, regulação, controle e fiscalização. A execução é distribuída.
 
 ## Flashcards da aula
 

@@ -218,9 +218,7 @@ As três primeiras questões são adaptações autossuficientes de questões ofi
 
 **Tipo:** questão oficial FEPESE adaptada
 **Origem:** InvestSC • Edital nº 003/2026 • prova S1 • questão 3 • aplicação em 3 maio 2026
-**Habilidade:** localizar e comparar informação explícita
-**Dificuldade:** média, porque exige comparar cinco dados próximos
-
+**Dificuldade:** média
 **Texto adaptado:** Uma análise das exportações catarinenses comparou cinco grupos de produtos. Os feijões secos responderam pela maior parcela do valor exportado. Na sequência apareceram preparações alimentícias, produtos de panificação, cereais e farinhas.
 
 De acordo com o texto adaptado, qual grupo respondeu pela maior parcela?
@@ -232,6 +230,8 @@ D. Feijões secos.
 E. Produtos de panificação.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** localizar e comparar informação explícita
+
     **Resposta:** D.
 
     **A:** está errada porque cereais aparecem no mesmo contexto, mas não lideram a participação informada.
@@ -246,9 +246,7 @@ E. Produtos de panificação.
 
 **Tipo:** questão oficial FEPESE adaptada
 **Origem:** InvestSC • Edital nº 003/2026 • prova S1 • questão 4 • aplicação em 3 maio 2026
-**Habilidade:** localizar requisitos declarados
-**Dificuldade:** fácil, porque a resposta depende da localização de uma dupla expressa
-
+**Dificuldade:** fácil
 **Texto adaptado:** Para acessar o mercado mencionado, os produtores precisavam cumprir requisitos fitossanitários e de segurança dos alimentos. O texto também relatava oportunidades comerciais, mas não as apresentava como substitutas dessas exigências.
 
 De acordo com o texto adaptado, o acesso ao mercado dependia do cumprimento de quais requisitos?
@@ -260,6 +258,8 @@ D. Trabalhistas e municipais.
 E. Fitossanitários e de segurança dos alimentos.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** localizar requisitos declarados
+
     **Resposta:** E.
 
     **A:** está errada porque a adaptação não limita os requisitos ao campo comercial.
@@ -274,9 +274,7 @@ E. Fitossanitários e de segurança dos alimentos.
 
 **Tipo:** questão oficial FEPESE adaptada
 **Origem:** CISAMOSC • Edital nº 001/2025 • prova M1 • questão 2 • aplicação indicada no caderno em 30 nov. 2025
-**Habilidade:** reconhecer paráfrase de informação explícita
-**Dificuldade:** média, porque a alternativa correta reúne duas paráfrases
-
+**Dificuldade:** média
 **Texto adaptado:** Em um diálogo humorístico, uma personagem diz que o marido tem perfil de candidato. Para justificar sua avaliação, afirma: “Ele tem presença e fala tão bonito”. O diálogo não menciona experiência política, conhecimento técnico nem propostas.
 
 A justificativa apresentada corresponde a alguém que:
@@ -288,6 +286,8 @@ D. já exerceu mandato eletivo.
 E. apresenta propostas detalhadas.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer paráfrase de informação explícita
+
     **Resposta:** A.
 
     **A:** está certa porque “impressiona visualmente” parafraseia “tem presença”, e “se expressa bem” conserva “fala tão bonito”.
@@ -301,9 +301,7 @@ E. apresenta propostas detalhadas.
 ### Questão 4
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** controlar quantidade e alcance
-**Dificuldade:** média, porque o comunicado reúne alcance, tempo e exceção
-
+**Dificuldade:** média
 **Comunicado hipotético**
 
 > Três das oito unidades ampliarão o atendimento até as 19h durante agosto. As demais manterão o horário habitual. Aos sábados, nenhuma unidade abrirá.
@@ -317,6 +315,8 @@ D. As unidades que mantiverem o horário habitual abrirão aos sábados.
 E. Apenas uma unidade terá horário ampliado.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** controlar quantidade e alcance
+
     **Resposta:** C.
 
     **A:** errada, porque amplia três unidades para todas.
@@ -330,9 +330,7 @@ E. Apenas uma unidade terá horário ampliado.
 ### Questão 5
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** separar ausência de informação e negação
-**Dificuldade:** média, porque a notícia permite conclusões sobre lançamento, mas não sobre avaliação
-
+**Dificuldade:** média
 **Notícia hipotética**
 
 > A prefeitura lançou ontem uma plataforma para agendar consultas em três unidades de saúde. Segundo a notícia, o serviço começará na próxima segunda-feira. O texto não apresenta dados de uso nem opiniões dos pacientes.
@@ -346,6 +344,8 @@ D. o serviço começou antes do lançamento.
 E. a plataforma será encerrada na segunda-feira.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** separar ausência de informação e negação
+
     **Resposta:** B.
 
     **A:** errada, porque a notícia não apresenta opiniões ou dados de aceitação.
@@ -359,9 +359,7 @@ E. a plataforma será encerrada na segunda-feira.
 ### Questão 6
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer condição e conclusão
-**Dificuldade:** difícil, porque o edital distingue habilitação, classificação e convocação
-
+**Dificuldade:** difícil
 **Trecho de edital hipotético**
 
 > Somente serão habilitados os candidatos que entregarem os dois documentos até 10 de setembro. A habilitação não garante classificação; portanto, apenas os classificados poderão ser convocados para a etapa seguinte.
@@ -375,6 +373,8 @@ D. A entrega dos dois documentos no prazo é condição de habilitação, mas n�
 E. Candidatos não classificados serão convocados para a etapa seguinte.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer condição e conclusão
+
     **Resposta:** D.
 
     **A:** errada, porque o trecho exige os dois documentos.
@@ -388,9 +388,7 @@ E. Candidatos não classificados serão convocados para a etapa seguinte.
 ### Questão 7
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer paráfrase equivalente
-**Dificuldade:** média, porque o aviso combina sequência temporal e condição
-
+**Dificuldade:** média
 **Aviso hipotético**
 
 > A inscrição será registrada após o preenchimento do formulário, mas somente será confirmada quando o pagamento for identificado. A identificação pode levar até dois dias úteis.
@@ -404,6 +402,8 @@ D. O pagamento é dispensável depois do registro.
 E. A confirmação acontece antes do preenchimento.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer paráfrase equivalente
+
     **Resposta:** A.
 
     **A:** certa, porque mantém a condição expressa para a confirmação.
@@ -417,9 +417,7 @@ E. A confirmação acontece antes do preenchimento.
 ### Questão 8
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** identificar referentes e reconhecer ausência de ambiguidade
-**Dificuldade:** difícil, porque há dois documentos e duas retomadas
-
+**Dificuldade:** difícil
 **Ofício hipotético**
 
 > A diretoria encaminhou o parecer e as planilhas à comissão. Esta analisará os documentos amanhã e os devolverá ao setor de origem até sexta-feira.
@@ -433,6 +431,8 @@ D. a comissão e o setor.
 E. a comissão e os documentos.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** identificar referentes e reconhecer ausência de ambiguidade
+
     **Resposta:** E.
 
     **A:** errada, porque *Esta* retoma “comissão”, não “diretoria”.
@@ -446,9 +446,7 @@ E. a comissão e os documentos.
 ### Questão 9
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** controlar intensidade, tempo e conclusão
-**Dificuldade:** difícil, porque uma conclusão plausível amplia dados limitados
-
+**Dificuldade:** difícil
 **Memorando hipotético**
 
 > A equipe concluiu quase todas as verificações previstas para maio. Duas etapas permaneceram pendentes porque o sistema ficou indisponível na sexta-feira. Portanto, o relatório final será enviado somente após a conclusão dessas etapas.
@@ -462,6 +460,8 @@ D. Somente duas verificações estavam previstas para maio.
 E. A equipe abandonou as etapas pendentes.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** controlar intensidade, tempo e conclusão
+
     **Resposta:** C.
 
     **A:** errada, porque “quase todas” exclui uma conclusão total.
@@ -475,9 +475,7 @@ E. A equipe abandonou as etapas pendentes.
 ### Questão 10
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** aplicar o método CPE
-**Dificuldade:** difícil, porque a propaganda usa intensidade e uma condição em letras menores
-
+**Dificuldade:** difícil
 **Propaganda institucional hipotética**
 
 > Resolva sua solicitação com mais comodidade: o novo portal reúne quatro serviços em um só ambiente. O acesso funciona todos os dias, mas o envio de documentos fica disponível das 8h às 20h. Solicitações enviadas após as 18h serão analisadas no dia útil seguinte.
@@ -491,6 +489,8 @@ D. Solicitações enviadas às 17h serão necessariamente analisadas no dia segu
 E. O portal oferece atendimento presencial todos os dias.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar o método CPE
+
     **Resposta:** B.
 
     **A:** errada, porque o texto limita a oferta a quatro serviços, não a todos os serviços públicos.

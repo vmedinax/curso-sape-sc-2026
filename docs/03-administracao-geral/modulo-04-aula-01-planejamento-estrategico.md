@@ -256,11 +256,11 @@ C. Comprar equipamento; ser referência futura
 D. Registrar dados; missão institucional  
 E. Usar sistema; ambiente externo
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **B.** Missão expressa a finalidade atual da organização.
-2. **C.** A mudança ocorre fora do controle direto e pode prejudicar o plano.
-3. **A.** Melhorar coordenação é resultado; criar o fluxo é ação para apoiá-lo.
+    1. **B.** Missão expressa a finalidade atual da organização.
+    2. **C.** A mudança ocorre fora do controle direto e pode prejudicar o plano.
+    3. **A.** Melhorar coordenação é resultado; criar o fluxo é ação para apoiá-lo.
 
 ## Checklist
 

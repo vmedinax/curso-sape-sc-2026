@@ -303,7 +303,7 @@ Treinar decisão, revelar erros e ensinar o caminho até a resposta.
 
 1. identificação clara do tipo;
 2. origem e fonte, quando oficial;
-3. tema e dificuldade;
+3. dificuldade, sem indicação do conteúdo ou da operação exigida;
 4. enunciado;
 5. alternativas;
 6. espaço para tentativa;
@@ -322,14 +322,14 @@ Toda questão segue `QUESTION_GUIDE.md`. Questão oficial, oficial adaptada e au
 
 ```text
 Tipo: Questão autoral no estilo de concurso
-Tema: órgão e entidade
-Dificuldade: fácil — exige reconhecer um conceito direto
+Dificuldade: fácil
 
 Uma secretaria é uma pessoa jurídica própria?
 
 A. Sim.
 B. Não.
 
+Tema cobrado: órgão e entidade
 Resposta: B. A secretaria é um órgão, ou seja, uma parte da estrutura.
 ```
 

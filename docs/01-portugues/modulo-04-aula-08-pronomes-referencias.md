@@ -133,15 +133,15 @@ As questões são autorais. O gabarito usa cada letra duas vezes, sem sequência
 
 ### Questão 1
 
-**Habilidade:** recuperar antecedente de pronome pessoal
 
-**Dificuldade:** fácil — gênero, número e sentido convergem
-
+**Dificuldade:** fácil
 Em “O relatório chegou; ele será analisado”, *ele* retoma:
 
 A. *chegou*. B. *análise*. C. *relatório*. D. um sujeito novo. E. nenhuma expressão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** recuperar antecedente de pronome pessoal
+
     **Resposta: C.**
 
     **A está errada:** verbo não é antecedente nominal compatível. **B está errada:** *análise* nem aparece como antecedente e é feminino. **C está certa:** gênero, número e sentido confirmam *relatório*. **D está errada:** o pronome cria elo com informação anterior. **E está errada:** há antecedente explícito.
@@ -150,15 +150,15 @@ A. *chegou*. B. *análise*. C. *relatório*. D. um sujeito novo. E. nenhuma expr
 
 ### Questão 2
 
-**Habilidade:** interpretar pronome relativo *cujo*
 
-**Dificuldade:** média — exige reconhecer retomada, relação e concordância
-
+**Dificuldade:** média
 Em “o órgão cuja estrutura mudou”, *cuja* indica:
 
 A. lugar. B. posse ou relação entre órgão e estrutura. C. tempo. D. causa. E. comparação.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** interpretar pronome relativo *cujo*
+
     **Resposta: B.**
 
     **A está errada:** não localiza o órgão. **B está certa:** liga *estrutura* ao antecedente *órgão*. **C está errada:** não situa a mudança no tempo. **D está errada:** não apresenta motivo. **E está errada:** não aproxima elementos por semelhança.
@@ -167,15 +167,15 @@ A. lugar. B. posse ou relação entre órgão e estrutura. C. tempo. D. causa. E
 
 ### Questão 3
 
-**Habilidade:** reconhecer ambiguidade pronominal
 
-**Dificuldade:** fácil — há dois candidatos compatíveis
-
+**Dificuldade:** fácil
 Uma ambiguidade pronominal ocorre quando:
 
 A. o pronome tem antecedente único. B. há dois referentes plausíveis. C. existe artigo. D. a frase é curta. E. o substantivo está no plural.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer ambiguidade pronominal
+
     **Resposta: B.**
 
     **A está errada:** antecedente único elimina a dupla leitura. **B está certa:** mais de um candidato sustenta interpretações possíveis. **C está errada:** artigo não cria ambiguidade por si. **D está errada:** extensão não decide clareza. **E está errada:** plural pode até restringir candidatos.
@@ -184,15 +184,15 @@ A. o pronome tem antecedente único. B. há dois referentes plausíveis. C. exis
 
 ### Questão 4
 
-**Habilidade:** reconhecer pronome demonstrativo em retomada textual
 
-**Dificuldade:** média — exige acompanhar informação anterior
-
+**Dificuldade:** média
 Em “O prazo foi prorrogado. Isso permitiu novas inscrições”, *isso* retoma:
 
 A. o fato de o prazo ter sido prorrogado. B. apenas a palavra *prazo*, sem o fato. C. *inscrições*. D. um lugar próximo. E. uma pessoa não mencionada.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer pronome demonstrativo em retomada textual
+
     **Resposta: A.**
 
     **A está certa:** o demonstrativo resume a informação anterior. **B está errada:** o efeito decorre da prorrogação, não do nome isolado. **C está errada:** aparece depois. **D está errada:** a referência é textual. **E está errada:** não há participante humano apontado.
@@ -201,15 +201,15 @@ A. o fato de o prazo ter sido prorrogado. B. apenas a palavra *prazo*, sem o fat
 
 ### Questão 5
 
-**Habilidade:** reconhecer pronome indefinido
 
-**Dificuldade:** fácil — a referência é imprecisa
-
+**Dificuldade:** fácil
 Em “Alguém entregou o documento”, *alguém* é pronome:
 
 A. relativo. B. possessivo. C. demonstrativo. D. de tratamento. E. indefinido.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer pronome indefinido
+
     **Resposta: E.**
 
     **A está errada:** não retoma antecedente nem liga oração. **B está errada:** não exprime posse. **C está errada:** não localiza elemento no discurso. **D está errada:** não se dirige ao interlocutor. **E está certa:** aponta pessoa de identidade imprecisa.
@@ -218,15 +218,15 @@ A. relativo. B. possessivo. C. demonstrativo. D. de tratamento. E. indefinido.
 
 ### Questão 6
 
-**Habilidade:** distinguir antecedente de referente
 
-**Dificuldade:** média — exige separar expressão textual e entidade apontada
-
+**Dificuldade:** média
 Assinale a afirmação correta.
 
 A. Antecedente e referente são sempre a mesma palavra. B. Referente é apenas o pronome. C. Antecedente é a expressão retomada; referente é aquilo a que se aponta. D. Todo pronome dispensa antecedente e situação. E. Referente é sempre verbo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir antecedente de referente
+
     **Resposta: C.**
 
     **A está errada:** um é expressão textual; outro é entidade ou ideia representada. **B está errada:** pronome é a forma que aponta. **C está certa:** separa os dois níveis. **D está errada:** a interpretação depende do texto ou da situação. **E está errada:** referentes podem ser pessoas, objetos, fatos e ideias.
@@ -235,15 +235,15 @@ A. Antecedente e referente são sempre a mesma palavra. B. Referente é apenas o
 
 ### Questão 7
 
-**Habilidade:** reconhecer pronome relativo
 
-**Dificuldade:** média — retoma antecedente e conecta oração
-
+**Dificuldade:** média
 Em “O edital que foi publicado contém o cronograma”, *que*:
 
 A. retoma *edital* e introduz uma oração relativa. B. expressa posse e concorda com *cronograma*. C. é interjeição. D. não possui antecedente. E. é artigo definido.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer pronome relativo
+
     **Resposta: A.**
 
     **A está certa:** recupera *edital* e liga a oração que o caracteriza. **B está errada:** essa é função típica de *cujo*. **C está errada:** não expressa reação. **D está errada:** *edital* é antecedente. **E está errada:** não determina substantivo.
@@ -252,15 +252,15 @@ A. retoma *edital* e introduz uma oração relativa. B. expressa posse e concord
 
 ### Questão 8
 
-**Habilidade:** corrigir ambiguidade possessiva
 
-**Dificuldade:** difícil — exige reescrever sem perder participantes
-
+**Dificuldade:** difícil
 Se o relatório é da analista, a forma mais clara para “A diretora informou à analista que seu relatório seria revisto” é:
 
 A. “A diretora informou seu relatório.” B. “A analista informou à diretora.” C. “Seu relatório seria seu.” D. “A diretora informou à analista que o relatório da analista seria revisto.” E. “A diretora, ela, informou-lhe seu relatório.”
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** corrigir ambiguidade possessiva
+
     **Resposta: D.**
 
     **A está errada:** elimina a revisão e mantém posse incerta. **B está errada:** troca quem informou. **C está errada:** não identifica possuidor nem ação. **D está certa:** explicita o referente sem trocar participantes. **E está errada:** acumula pronomes e preserva a ambiguidade de *seu*.
@@ -269,15 +269,15 @@ A. “A diretora informou seu relatório.” B. “A analista informou à direto
 
 ### Questão 9
 
-**Habilidade:** aplicar concordância de *cujo*
 
-**Dificuldade:** difícil — exige relacionar a forma ao nome seguinte
-
+**Dificuldade:** difícil
 Complete: “O processo ___ páginas foram digitalizadas voltou ao setor.”
 
 A. que as. B. cujo as. C. cujo. D. de cujo as. E. cujas.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar concordância de *cujo*
+
     **Resposta: E.**
 
     **A está errada:** não exprime adequadamente a relação de posse. **B está errada:** não se usa artigo após *cujo*. **C está errada:** não concorda com *páginas*. **D está errada:** combina preposição, relativo e artigo sem exigência. **E está certa:** concorda no feminino plural com o nome seguinte.
@@ -286,15 +286,15 @@ A. que as. B. cujo as. C. cujo. D. de cujo as. E. cujas.
 
 ### Questão 10
 
-**Habilidade:** aplicar integralmente o método APONTA
 
-**Dificuldade:** difícil — exige testar candidatos por forma e sentido
-
+**Dificuldade:** difícil
 Em “Paula ligou para Ana quando ela saiu”, a análise mais segura é:
 
 A. *Ela* só pode retomar Paula. B. *Ela* só pode retomar Ana. C. o pronome retoma *ligou*. D. a frase é ambígua sem contexto adicional ou reescrita. E. não existe pronome.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar integralmente o método APONTA
+
     **Resposta: D.**
 
     **A está errada:** Ana também é candidata feminina singular. **B está errada:** Paula também é compatível. **C está errada:** verbo não é antecedente nominal. **D está certa:** as duas leituras passam pelos testes de forma e sentido. **E está errada:** *ela* é pronome pessoal.

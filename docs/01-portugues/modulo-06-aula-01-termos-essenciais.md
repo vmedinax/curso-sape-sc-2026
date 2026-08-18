@@ -117,10 +117,8 @@ Classifique o sujeito e o predicado em “chegaram os servidores”, “chegamos
 
 ### Questão 1
 
-**Habilidade:** reconhecer sujeito simples em enunciado autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **sujeito simples**?
 
 A. A comissão publicou o edital.
@@ -130,6 +128,8 @@ D. Precisa-se de servidores experientes.
 E. Havia três recursos pendentes.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer sujeito simples em enunciado autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** Comissão é o único núcleo do sujeito.
@@ -146,10 +146,8 @@ E. Havia três recursos pendentes.
 
 ### Questão 2
 
-**Habilidade:** reconhecer sujeito composto em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **sujeito composto**?
 
 A. A comissão publicou o edital.
@@ -159,6 +157,8 @@ D. Precisa-se de servidores experientes.
 E. Havia três recursos pendentes.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer sujeito composto em enunciado autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** a frase exemplifica sujeito simples, pois comissão é o único núcleo do sujeito; não exemplifica sujeito composto.
@@ -175,10 +175,8 @@ E. Havia três recursos pendentes.
 
 ### Questão 3
 
-**Habilidade:** reconhecer sujeito oculto em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **sujeito oculto**?
 
 A. A comissão publicou o edital.
@@ -188,6 +186,8 @@ D. Precisa-se de servidores experientes.
 E. Havia três recursos pendentes.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer sujeito oculto em enunciado autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** a frase exemplifica sujeito simples, pois comissão é o único núcleo do sujeito; não exemplifica sujeito oculto.
@@ -204,10 +204,8 @@ E. Havia três recursos pendentes.
 
 ### Questão 4
 
-**Habilidade:** reconhecer sujeito indeterminado em enunciado autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **sujeito indeterminado**?
 
 A. A comissão publicou o edital.
@@ -217,6 +215,8 @@ D. Precisa-se de servidores experientes.
 E. Havia três recursos pendentes.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer sujeito indeterminado em enunciado autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** a frase exemplifica sujeito simples, pois comissão é o único núcleo do sujeito; não exemplifica sujeito indeterminado.
@@ -233,10 +233,8 @@ E. Havia três recursos pendentes.
 
 ### Questão 5
 
-**Habilidade:** reconhecer oração sem sujeito em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **oração sem sujeito**?
 
 A. A comissão publicou o edital.
@@ -246,6 +244,8 @@ D. Precisa-se de servidores experientes.
 E. Havia três recursos pendentes.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer oração sem sujeito em enunciado autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** a frase exemplifica sujeito simples, pois comissão é o único núcleo do sujeito; não exemplifica oração sem sujeito.
@@ -262,10 +262,8 @@ E. Havia três recursos pendentes.
 
 ### Questão 6
 
-**Habilidade:** reconhecer predicado verbal em enunciado autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **predicado verbal**?
 
 A. Os candidatos chegaram cedo.
@@ -275,6 +273,8 @@ D. Publicamos o resultado ontem.
 E. Precisa-se de servidores experientes.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer predicado verbal em enunciado autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** O núcleo do predicado é o verbo chegaram.
@@ -291,10 +291,8 @@ E. Precisa-se de servidores experientes.
 
 ### Questão 7
 
-**Habilidade:** reconhecer predicado nominal em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **predicado nominal**?
 
 A. A comissão publicou o edital.
@@ -304,6 +302,8 @@ D. Publicamos o resultado ontem.
 E. Precisa-se de servidores experientes.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer predicado nominal em enunciado autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** a frase exemplifica sujeito simples, pois comissão é o único núcleo do sujeito; não exemplifica predicado nominal.
@@ -320,10 +320,8 @@ E. Precisa-se de servidores experientes.
 
 ### Questão 8
 
-**Habilidade:** reconhecer predicado verbo-nominal em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **predicado verbo-nominal**?
 
 A. A comissão publicou o edital.
@@ -333,6 +331,8 @@ D. Publicamos o resultado ontem.
 E. Precisa-se de servidores experientes.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer predicado verbo-nominal em enunciado autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** a frase exemplifica sujeito simples, pois comissão é o único núcleo do sujeito; não exemplifica predicado verbo-nominal.
@@ -349,10 +349,8 @@ E. Precisa-se de servidores experientes.
 
 ### Questão 9
 
-**Habilidade:** reconhecer sujeito posposto em enunciado autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **sujeito posposto**?
 
 A. A comissão publicou o edital.
@@ -362,6 +360,8 @@ D. Chegaram os novos servidores.
 E. Precisa-se de servidores experientes.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer sujeito posposto em enunciado autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** a frase exemplifica sujeito simples, pois comissão é o único núcleo do sujeito; não exemplifica sujeito posposto.
@@ -378,10 +378,8 @@ E. Precisa-se de servidores experientes.
 
 ### Questão 10
 
-**Habilidade:** reconhecer núcleo do sujeito em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **núcleo do sujeito**?
 
 A. A comissão publicou o edital.
@@ -391,6 +389,8 @@ D. Precisa-se de servidores experientes.
 E. As novas regras do edital entraram em vigor.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer núcleo do sujeito em enunciado autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** a frase exemplifica sujeito simples, pois comissão é o único núcleo do sujeito; não exemplifica núcleo do sujeito.

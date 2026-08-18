@@ -123,8 +123,7 @@ Todas as questões são autorais. O gabarito usa cada letra duas vezes, sem sequ
 
 ### Questão 1
 
-**Dificuldade:** fácil — reconhecimento de ação humana atribuída a objeto
-
+**Dificuldade:** fácil
 “O sistema teimou em não responder” apresenta:
 
 A. eufemismo.
@@ -146,8 +145,7 @@ E. antítese.
 
 ### Questão 2
 
-**Dificuldade:** fácil — reconhecimento de substituição por proximidade
-
+**Dificuldade:** fácil
 “Revisei o Manual” usa o nome da obra para indicar seu conteúdo. Ocorre:
 
 A. hipérbole.
@@ -169,8 +167,7 @@ E. comparação.
 
 ### Questão 3
 
-**Dificuldade:** média — a interpretação depende do contraste contextual
-
+**Dificuldade:** média
 Após esperar duas horas, alguém diz: “Foi instantâneo!”. A leitura irônica depende:
 
 A. da concordância nominal.
@@ -192,8 +189,7 @@ E. de leitura sempre literal.
 
 ### Questão 4
 
-**Dificuldade:** fácil — presença de conectivo comparativo
-
+**Dificuldade:** fácil
 “A instrução era clara como um mapa bem desenhado” apresenta:
 
 A. comparação.
@@ -215,8 +211,7 @@ E. hipérbole.
 
 ### Questão 5
 
-**Dificuldade:** fácil — reconhecimento de exagero
-
+**Dificuldade:** fácil
 “Esperei uma eternidade pela resposta” emprega:
 
 A. metonímia.
@@ -238,8 +233,7 @@ E. hipérbole.
 
 ### Questão 6
 
-**Dificuldade:** média — exige separar suavização de ocultação
-
+**Dificuldade:** média
 Em “a empresa informou o desligamento do empregado”, *desligamento* pode funcionar como:
 
 A. comparação, porque aproxima ações.
@@ -261,8 +255,7 @@ E. hipérbole, porque exagera a ocorrência.
 
 ### Questão 7
 
-**Dificuldade:** média — exige reconhecer oposição estruturada
-
+**Dificuldade:** média
 “Entre a pressa e a precisão, a equipe escolheu revisar” destaca contraste por meio de:
 
 A. antítese.
@@ -284,8 +277,7 @@ E. eufemismo.
 
 ### Questão 8
 
-**Dificuldade:** difícil — exige diferenciar metáfora de comparação
-
+**Dificuldade:** difícil
 Em “o projeto é uma semente”, a imagem é uma metáfora porque:
 
 A. usa uma palavra no lugar do autor.
@@ -307,8 +299,7 @@ E. identifica diretamente projeto e semente para sugerir potencial.
 
 ### Questão 9
 
-**Dificuldade:** média — exige nomear figura e efeito
-
+**Dificuldade:** média
 Em “a burocracia ergueu um muro entre o cidadão e o serviço”, a expressão:
 
 A. descreve necessariamente uma obra física.
@@ -330,8 +321,7 @@ E. estabelece comparação explícita.
 
 ### Questão 10
 
-**Dificuldade:** difícil — exige aplicar o procedimento completo
-
+**Dificuldade:** difícil
 Para classificar com segurança uma figura de linguagem, o melhor procedimento é:
 
 A. escolher sempre metáfora quando houver conotação.

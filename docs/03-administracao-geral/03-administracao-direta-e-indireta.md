@@ -332,13 +332,13 @@ C. mantém personalidade própria e sofre controle nos limites legais;
 D. fica submetida a hierarquia ilimitada;  
 E. passa a integrar a Administração Direta.
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **B.** Secretaria é uma unidade interna da pessoa política e integra a Administração Direta.
-2. **C.** A autarquia possui personalidade pública e nasce por lei específica.
-3. **B.** Capital integralmente público e personalidade privada identificam a empresa pública.
-4. **D.** A sociedade de economia mista é pessoa privada, tem criação autorizada e adota a forma de sociedade anônima.
-5. **C.** Vinculação permite controle de finalidade dentro da lei. Não elimina autonomia nem cria hierarquia entre pessoas diferentes.
+    1. **B.** Secretaria é uma unidade interna da pessoa política e integra a Administração Direta.
+    2. **C.** A autarquia possui personalidade pública e nasce por lei específica.
+    3. **B.** Capital integralmente público e personalidade privada identificam a empresa pública.
+    4. **D.** A sociedade de economia mista é pessoa privada, tem criação autorizada e adota a forma de sociedade anônima.
+    5. **C.** Vinculação permite controle de finalidade dentro da lei. Não elimina autonomia nem cria hierarquia entre pessoas diferentes.
 
 ## Flashcards da aula
 

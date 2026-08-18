@@ -131,15 +131,15 @@ As questões são autorais. O gabarito emprega cada letra duas vezes, sem sequê
 
 ### Questão 1
 
-**Habilidade:** distinguir *sessão*, *seção* e *cessão*
 
-**Dificuldade:** média — dois espaços exigem análise contextual
-
+**Dificuldade:** média
 Complete corretamente: “A ___ de pessoal funciona nesta ___ do prédio.”
 
 A. sessão; seção. B. cessão; sessão. C. seção; seção. D. sessão; cessão. E. cessão; seção.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir *sessão*, *seção* e *cessão*
+
     **Resposta: C.**
 
     **A está errada:** o primeiro espaço nomeia uma divisão administrativa, não uma atividade. **B está errada:** não há ato de ceder nem reunião. **C está certa:** nos dois casos, *seção* indica divisão ou parte. **D está errada:** nenhum espaço indica cessão. **E está errada:** o primeiro espaço não indica ato de ceder.
@@ -148,15 +148,15 @@ A. sessão; seção. B. cessão; sessão. C. seção; seção. D. sessão; cess�
 
 ### Questão 2
 
-**Habilidade:** recorrer à fonte oficial
 
-**Dificuldade:** fácil — pergunta pelo procedimento de verificação
-
+**Dificuldade:** fácil
 Diante de uma grafia não resolvida por regularidade, a atitude correta é:
 
 A. escolher pela aparência. B. consultar o VOLP. C. usar a forma mais longa. D. seguir qualquer corretor. E. inventar uma família.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** recorrer à fonte oficial
+
     **Resposta: B.**
 
     **A está errada:** familiaridade visual pode enganar. **B está certa:** o VOLP registra oficialmente a forma. **C está errada:** extensão não decide grafia. **D está errada:** corretores podem falhar ou ignorar contexto. **E está errada:** família lexical precisa ser real e semanticamente relacionada.
@@ -165,15 +165,15 @@ A. escolher pela aparência. B. consultar o VOLP. C. usar a forma mais longa. D.
 
 ### Questão 3
 
-**Habilidade:** distinguir locuções parecidas
 
-**Dificuldade:** média — exige reconhecer tempo passado aproximado
-
+**Dificuldade:** média
 “A reunião ocorreu ___ dois dias” completa-se com:
 
 A. acerca de. B. a cerca de. C. há cerca de. D. à cerca de. E. acerca.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir locuções parecidas
+
     **Resposta: C.**
 
     **A está errada:** *acerca de* significa “sobre”. **B está errada:** falta o verbo que indica tempo passado. **C está certa:** *há cerca de* expressa passado aproximado. **D está errada:** não ocorre crase nessa construção. **E está errada:** a locução exige *de* e teria outro sentido.
@@ -182,15 +182,15 @@ A. acerca de. B. a cerca de. C. há cerca de. D. à cerca de. E. acerca.
 
 ### Questão 4
 
-**Habilidade:** distinguir palavras pelo sentido
 
-**Dificuldade:** média — exige selecionar duas grafias homófonas
-
+**Dificuldade:** média
 Complete: “A comissão realizou uma ___ para deliberar sobre a ___ do imóvel.”
 
 A. sessão; cessão. B. seção; sessão. C. cessão; seção. D. seção; cessão. E. cessão; sessão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir palavras pelo sentido
+
     **Resposta: A.**
 
     **A está certa:** *sessão* é período de atividade; *cessão* é ato de ceder. **B está errada:** divisão e reunião não atendem ao segundo contexto. **C está errada:** inverte os sentidos. **D está errada:** o primeiro espaço não nomeia uma divisão. **E está errada:** o primeiro não é ato de ceder e o segundo não é reunião.
@@ -199,15 +199,15 @@ A. sessão; cessão. B. seção; sessão. C. cessão; seção. D. seção; cess�
 
 ### Questão 5
 
-**Habilidade:** usar família lexical
 
-**Dificuldade:** fácil — a base e o sentido estão explícitos
-
+**Dificuldade:** fácil
 Qual relação ajuda a justificar a grafia de *analisar*?
 
 A. *azar*. B. *casa*. C. *exame*. D. *análise*. E. *paralisar* apenas pela semelhança sonora.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** usar família lexical
+
     **Resposta: D.**
 
     **A está errada:** não compartilha base nem sentido. **B está errada:** a semelhança do som de **s** não cria família. **C está errada:** a palavra possui outra base. **D está certa:** *análise* e *analisar* compartilham família lexical. **E está errada:** semelhança sonora isolada não justifica a relação.
@@ -216,15 +216,15 @@ A. *azar*. B. *casa*. C. *exame*. D. *análise*. E. *paralisar* apenas pela seme
 
 ### Questão 6
 
-**Habilidade:** avaliar limite do corretor automático
 
-**Dificuldade:** média — exige separar sugestão de verificação
-
+**Dificuldade:** média
 Sobre o corretor automático, é correto afirmar que:
 
 A. substitui sempre a fonte oficial. B. compreende qualquer contexto. C. torna desnecessária a revisão. D. nunca oferece ajuda. E. pode sugerir formas, mas não dispensa contexto e verificação.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** avaliar limite do corretor automático
+
     **Resposta: E.**
 
     **A está errada:** a referência normativa continua sendo necessária. **B está errada:** homófonos podem exigir interpretação. **C está errada:** sugestão automática precisa ser conferida. **D está errada:** o recurso pode ajudar a localizar problemas. **E está certa:** trata o corretor como apoio, não como autoridade infalível.
@@ -233,15 +233,15 @@ A. substitui sempre a fonte oficial. B. compreende qualquer contexto. C. torna d
 
 ### Questão 7
 
-**Habilidade:** distinguir *acerca de* de *a cerca de*
 
-**Dificuldade:** média — exige reconhecer assunto e aproximação
-
+**Dificuldade:** média
 Complete: “O relatório trata ___ segurança e o posto fica ___ três quilômetros.”
 
 A. há cerca de; acerca de. B. acerca de; a cerca de. C. a cerca de; há cerca de. D. à cerca de; acerca. E. acerca; a cerca.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir *acerca de* de *a cerca de*
+
     **Resposta: B.**
 
     **A está errada:** inverte tempo passado e assunto. **B está certa:** *acerca de* significa “sobre”; *a cerca de* indica distância aproximada. **C está errada:** o primeiro não é distância e o segundo não é passado. **D está errada:** as formas não atendem à regência das locuções. **E está errada:** ambas ficam incompletas.
@@ -250,15 +250,15 @@ A. há cerca de; acerca de. B. acerca de; a cerca de. C. a cerca de; há cerca d
 
 ### Questão 8
 
-**Habilidade:** aplicar o método FOC
 
-**Dificuldade:** difícil — combina regularidade e decisão de consulta
-
+**Dificuldade:** difícil
 Qual sequência representa o método mais seguro?
 
 A. Verificar família, observar formação e consultar o VOLP se a dúvida permanecer. B. Consultar apenas o corretor. C. Pronunciar, escolher e não revisar. D. Criar regra a partir de um exemplo. E. Preferir a grafia mais frequente nas redes sociais.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar o método FOC
+
     **Resposta: A.**
 
     **A está certa:** reproduz família, organização e consulta. **B está errada:** corretor não é fonte normativa suficiente. **C está errada:** pronúncia não determina toda grafia. **D está errada:** uma ocorrência não autoriza generalização. **E está errada:** frequência informal não substitui a norma oficial.
@@ -267,15 +267,15 @@ A. Verificar família, observar formação e consultar o VOLP se a dúvida perma
 
 ### Questão 9
 
-**Habilidade:** reconhecer analogia falsa
 
-**Dificuldade:** difícil — exige avaliar a justificativa, não só a forma
-
+**Dificuldade:** difícil
 Qual raciocínio é inadequado?
 
 A. Confirmar no VOLP uma palavra sem regularidade segura. B. Usar o contexto para separar homófonos. C. Relacionar palavras da mesma família real. D. Conferir denominação oficial de órgão. E. Concluir que palavras com som parecido devem ter a mesma grafia.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer analogia falsa
+
     **Resposta: E.**
 
     **A está errada:** é procedimento seguro. **B está errada:** o sentido decide pares homófonos. **C está errada:** família real pode fornecer regularidade. **D está errada:** nomes oficiais exigem precisão. **E está certa:** um som pode receber grafias diferentes.
@@ -284,15 +284,15 @@ A. Confirmar no VOLP uma palavra sem regularidade segura. B. Usar o contexto par
 
 ### Questão 10
 
-**Habilidade:** integrar grafia e contexto administrativo
 
-**Dificuldade:** difícil — exige escolher e justificar duas formas
-
+**Dificuldade:** difícil
 Complete: “A ___ de julgamento ocorreu ontem; nela se decidiu a ___ de uso do equipamento.”
 
 A. seção; sessão. B. cessão; seção. C. seção; cessão. D. sessão; cessão. E. sessão; seção.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** integrar grafia e contexto administrativo
+
     **Resposta: D.**
 
     **A está errada:** julgamento ocorre em sessão, não em divisão. **B está errada:** o primeiro não é ato de ceder. **C está errada:** o primeiro termo está inadequado. **D está certa:** *sessão* nomeia a atividade; *cessão*, o ato de ceder uso. **E está errada:** *seção* não expressa transferência.

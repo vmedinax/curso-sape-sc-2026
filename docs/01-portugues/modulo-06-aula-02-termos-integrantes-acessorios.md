@@ -124,10 +124,8 @@ Analise “A equipe entregou o relatório aos gestores ontem”, “necessidade 
 
 ### Questão 1
 
-**Habilidade:** reconhecer objeto direto em enunciado autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **objeto direto**?
 
 A. A comissão analisou o recurso.
@@ -137,6 +135,8 @@ D. O edital foi publicado pela comissão.
 E. Os novos servidores chegaram.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer objeto direto em enunciado autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** O recurso completa o verbo sem preposição exigida.
@@ -153,10 +153,8 @@ E. Os novos servidores chegaram.
 
 ### Questão 2
 
-**Habilidade:** reconhecer objeto indireto em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **objeto indireto**?
 
 A. A comissão analisou o recurso.
@@ -166,6 +164,8 @@ D. O edital foi publicado pela comissão.
 E. Os novos servidores chegaram.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer objeto indireto em enunciado autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** a frase exemplifica objeto direto, pois o recurso completa o verbo sem preposição exigida; não exemplifica objeto indireto.
@@ -182,10 +182,8 @@ E. Os novos servidores chegaram.
 
 ### Questão 3
 
-**Habilidade:** reconhecer complemento nominal em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **complemento nominal**?
 
 A. A comissão analisou o recurso.
@@ -195,6 +193,8 @@ D. O edital foi publicado pela comissão.
 E. Os novos servidores chegaram.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer complemento nominal em enunciado autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** a frase exemplifica objeto direto, pois o recurso completa o verbo sem preposição exigida; não exemplifica complemento nominal.
@@ -211,10 +211,8 @@ E. Os novos servidores chegaram.
 
 ### Questão 4
 
-**Habilidade:** reconhecer agente da passiva em enunciado autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **agente da passiva**?
 
 A. A comissão analisou o recurso.
@@ -224,6 +222,8 @@ D. O edital foi publicado pela comissão.
 E. Os novos servidores chegaram.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer agente da passiva em enunciado autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** a frase exemplifica objeto direto, pois o recurso completa o verbo sem preposição exigida; não exemplifica agente da passiva.
@@ -240,10 +240,8 @@ E. Os novos servidores chegaram.
 
 ### Questão 5
 
-**Habilidade:** reconhecer adjunto adnominal em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **adjunto adnominal**?
 
 A. A comissão analisou o recurso.
@@ -253,6 +251,8 @@ D. O edital foi publicado pela comissão.
 E. Os novos servidores chegaram.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adjunto adnominal em enunciado autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** a frase exemplifica objeto direto, pois o recurso completa o verbo sem preposição exigida; não exemplifica adjunto adnominal.
@@ -269,10 +269,8 @@ E. Os novos servidores chegaram.
 
 ### Questão 6
 
-**Habilidade:** reconhecer adjunto adverbial em enunciado autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **adjunto adverbial**?
 
 A. A equipe reuniu-se ontem.
@@ -282,6 +280,8 @@ D. A confiança na equipe aumentou.
 E. O edital foi publicado pela comissão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adjunto adverbial em enunciado autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** Ontem indica circunstância de tempo.
@@ -298,10 +298,8 @@ E. O edital foi publicado pela comissão.
 
 ### Questão 7
 
-**Habilidade:** reconhecer aposto em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **aposto**?
 
 A. A comissão analisou o recurso.
@@ -311,6 +309,8 @@ D. A confiança na equipe aumentou.
 E. O edital foi publicado pela comissão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer aposto em enunciado autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** a frase exemplifica objeto direto, pois o recurso completa o verbo sem preposição exigida; não exemplifica aposto.
@@ -327,10 +327,8 @@ E. O edital foi publicado pela comissão.
 
 ### Questão 8
 
-**Habilidade:** reconhecer vocativo em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **vocativo**?
 
 A. A comissão analisou o recurso.
@@ -340,6 +338,8 @@ D. A confiança na equipe aumentou.
 E. O edital foi publicado pela comissão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer vocativo em enunciado autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** a frase exemplifica objeto direto, pois o recurso completa o verbo sem preposição exigida; não exemplifica vocativo.
@@ -356,10 +356,8 @@ E. O edital foi publicado pela comissão.
 
 ### Questão 9
 
-**Habilidade:** reconhecer predicativo do objeto em enunciado autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **predicativo do objeto**?
 
 A. A comissão analisou o recurso.
@@ -369,6 +367,8 @@ D. A comissão considerou o recurso procedente.
 E. O edital foi publicado pela comissão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer predicativo do objeto em enunciado autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** a frase exemplifica objeto direto, pois o recurso completa o verbo sem preposição exigida; não exemplifica predicativo do objeto.
@@ -385,19 +385,19 @@ E. O edital foi publicado pela comissão.
 
 ### Questão 10
 
-**Habilidade:** reconhecer objeto direto preposicionado em enunciado autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **objeto direto preposicionado**?
 
 A. A comissão analisou o recurso.
 B. A comissão obedeceu às normas.
 C. A confiança na equipe aumentou.
 D. O edital foi publicado pela comissão.
-E. A equipe estimava aos colegas.
+E. A equipe estimava a todos os colegas.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer objeto direto preposicionado em enunciado autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** a frase exemplifica objeto direto, pois o recurso completa o verbo sem preposição exigida; não exemplifica objeto direto preposicionado.
@@ -408,7 +408,7 @@ E. A equipe estimava aos colegas.
 
     **D está errada:** a frase exemplifica agente da passiva, pois pela comissão pratica a ação na voz passiva; não exemplifica objeto direto preposicionado.
 
-    **E está certa:** A preposição aparece por fator expressivo, sem mudar a função direta.
+    **E está certa:** *Estimar* é transitivo direto nesse uso; a preposição diante de *todos* realça o objeto sem convertê-lo em objeto indireto.
 
     **Tópico para revisar:** seção sobre objeto direto preposicionado.
 

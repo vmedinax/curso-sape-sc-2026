@@ -11,23 +11,23 @@ last_reviewed: 2026-08-04
 
 **1.** Está correta: A) seguem incluso as cópias. B) seguem inclusas as cópias. C) segue inclusas as cópias. D) seguem incluso a cópia. E) segue inclusos a cópia.
 
-**2.** Está correta: A) as técnicas estavam meias preocupadas. B) as técnicas estavam meio preocupadas. C) as técnicas estava meio preocupada. D) as técnica estavam meios preocupadas. E) as técnicas estavam menos preocupada.
+**2.** Está correta: A) as técnicas estavam meias preocupadas. B) as técnicas estavam menos preocupada. C) as técnicas estava meio preocupada. D) as técnica estavam meios preocupadas. E) as técnicas estavam meio preocupadas.
 
-**3.** Está correta: A) Haviam alternativas. B) Deve haver alternativas. C) Devem haver alternativas. D) Houveram alternativas. E) Deve haverem alternativas.
+**3.** Está correta: A) Haviam alternativas. B) Deve haverem alternativas. C) Devem haver alternativas. D) Deve haver alternativas. E) Houveram alternativas.
 
 **4.** Está correta: A) Fazem cinco meses. B) Vão fazer cinco meses. C) Faz cinco meses. D) Fizeram cinco meses desde a publicação. E) Fazem meses desde a publicação.
 
 **5.** Completa “A solução é adequada ___ necessidade”: A) com a. B) da. C) pela. D) à. E) na.
 
-**6.** No sentido de ter como objetivo, está correta: A) visar o resultado. B) visar ao resultado. C) visar com o resultado. D) visar pelo resultado. E) visar do resultado.
+**6.** No sentido de ter como objetivo, está correta: A) visar o resultado. B) visar do resultado. C) visar com o resultado. D) visar pelo resultado. E) visar ao resultado.
 
-**7.** Está correta: A) preferimos mais revisão do que pressa. B) preferimos revisão à pressa. C) preferimos revisão que pressa. D) preferimos pela revisão. E) preferimos de revisão.
+**7.** Está correta: A) preferimos mais revisão do que pressa. B) preferimos pela revisão. C) preferimos revisão que pressa. D) preferimos revisão à pressa. E) preferimos de revisão.
 
 **8.** Está correta: A) dirigiu-se à unidade. B) dirigiu-se a unidade, apesar do artigo exigido. C) dirigiu-se à uma unidade. D) dirigiu-se há unidade. E) dirigiu-se a à unidade.
 
 **9.** Não admite crase na construção dada: A) obedeceu à regra. B) voltou à casa da família. C) entregou a ela. D) referiu-se àquela norma. E) saiu à noite.
 
-**10.** A ordem segura de análise é: A) acento → palavra feminina → verbo. B) proximidade → aparência. C) termo controlador → relação → complemento → marca. D) decorar frase → generalizar. E) escolher preposição → inventar regente.
+**10.** A ordem segura de análise é: A) termo controlador → relação → complemento → marca. B) proximidade → aparência. C) acento → palavra feminina → verbo. D) decorar frase → generalizar. E) escolher preposição → inventar regente.
 
 ## Folha de respostas
 
@@ -35,14 +35,13 @@ last_reviewed: 2026-08-04
 |---|---|---|---|---|---|---|---|---|---|---|
 | Resposta |  |  |  |  |  |  |  |  |  |  |
 
-## Gabarito
+??? success "Mostrar gabarito e comentários completos"
 
-| Questão | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Resposta | B | B | B | C | D | B | B | A | C | C |
+    | Questão | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+    |---|---|---|---|---|---|---|---|---|---|---|
+    | Resposta | B | E | D | C | D | E | D | A | C | A |
 
-??? success "Comentários completos"
-    **1 B:** *inclusas* concorda com *cópias*. **2 B:** *meio* intensificador é invariável. **3 B:** a locução com *haver* existencial fica singular. **4 C:** *fazer* temporal fica singular. **5 D:** *adequada a* + artigo. **6 B:** *visar a* no sentido de objetivar. **7 B:** *preferir X a Y*, com fusão antes de *a pressa*. **8 A:** *dirigir-se a* + artigo. **9 C:** pronome pessoal não recebe artigo. **10 C:** a marca é consequência da relação. As erradas flexionam impessoais, transferem regência ou inserem crase por aparência.
+    **1 B:** *inclusas* concorda com *cópias*. **2 E:** *meio* intensificador é invariável. **3 D:** a locução com *haver* existencial fica singular. **4 C:** *fazer* temporal fica singular. **5 D:** *adequada a* + artigo. **6 E:** *visar a* no sentido de objetivar. **7 D:** *preferir X a Y*, com fusão antes de *a pressa*. **8 A:** *dirigir-se a* + artigo. **9 C:** pronome pessoal não recebe artigo. **10 A:** a marca é consequência da relação. As erradas flexionam impessoais, transferem regência ou inserem crase por aparência.
 
 ## Diagnóstico
 

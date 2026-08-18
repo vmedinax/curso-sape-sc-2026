@@ -120,10 +120,8 @@ Justifique “a relação foi”, “havia dúvidas”, “deve haver”, “exi
 
 ### Questão 1
 
-**Habilidade:** aplicar núcleo do sujeito em contexto
 
 **Dificuldade:** fácil
-
 Assinale a concordância verbal adequada.
 
 A. Faltam dois documentos no processo.
@@ -133,6 +131,8 @@ D. Falta dois documento no processo.
 E. Faltam-se dois documentos no processo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar núcleo do sujeito em contexto
+
     **Resposta: A.**
 
     **A está certa:** O sujeito dois documentos leva o verbo ao plural.
@@ -149,10 +149,8 @@ E. Faltam-se dois documentos no processo.
 
 ### Questão 2
 
-**Habilidade:** aplicar verbos impessoais em contexto
 
 **Dificuldade:** média
-
 Assinale a forma correta com haver impessoal.
 
 A. Haviam três recursos pendentes.
@@ -162,6 +160,8 @@ D. Haviam três recurso pendente.
 E. Houveram-se três recursos pendentes.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar verbos impessoais em contexto
+
     **Resposta: B.**
 
     **A está errada:** “Haviam três recursos pendentes.” não satisfaz o critério cobrado. Haver com sentido de existir permanece no singular.
@@ -178,10 +178,8 @@ E. Houveram-se três recursos pendentes.
 
 ### Questão 3
 
-**Habilidade:** aplicar verbos impessoais em contexto
 
 **Dificuldade:** média
-
 Assinale a forma correta com fazer indicando tempo.
 
 A. Fazem dois anos que o setor mudou.
@@ -191,6 +189,8 @@ D. Faz dois ano que o setor mudaram.
 E. Fazem dois ano que o setor mudou.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar verbos impessoais em contexto
+
     **Resposta: C.**
 
     **A está errada:** “Fazem dois anos que o setor mudou.” não satisfaz o critério cobrado. Fazer temporal é impessoal e fica no singular.
@@ -207,10 +207,8 @@ E. Fazem dois ano que o setor mudou.
 
 ### Questão 4
 
-**Habilidade:** aplicar verbos pessoais em contexto
 
 **Dificuldade:** difícil
-
 Substituindo haver por existir, qual frase está adequada?
 
 A. Existe três recursos pendentes.
@@ -220,6 +218,8 @@ D. Existem três recursos pendentes.
 E. Existia três recursos pendentes ontem e permanecem.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar verbos pessoais em contexto
+
     **Resposta: D.**
 
     **A está errada:** “Existe três recursos pendentes.” não satisfaz o critério cobrado. Existir é pessoal e concorda com três recursos.
@@ -236,10 +236,8 @@ E. Existia três recursos pendentes ontem e permanecem.
 
 ### Questão 5
 
-**Habilidade:** aplicar sujeito composto em contexto
 
 **Dificuldade:** média
-
 Assinale a concordância adequada com sujeito composto anteposto.
 
 A. O diretor e a equipe analisou o caso.
@@ -249,6 +247,8 @@ D. O diretor e a equipe analisa o caso concluído.
 E. O diretor e a equipe analisaram o caso.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar sujeito composto em contexto
+
     **Resposta: E.**
 
     **A está errada:** “O diretor e a equipe analisou o caso.” não satisfaz o critério cobrado. O sujeito composto anteposto exige plural.
@@ -265,10 +265,8 @@ E. O diretor e a equipe analisaram o caso.
 
 ### Questão 6
 
-**Habilidade:** aplicar expressões quantitativas em contexto
 
 **Dificuldade:** fácil
-
 Assinale a frase adequada.
 
 A. Mais de um candidato faltou à prova.
@@ -278,6 +276,8 @@ D. Mais de um candidato faltastes à prova.
 E. Mais de um candidato faltarão ontem.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar expressões quantitativas em contexto
+
     **Resposta: A.**
 
     **A está certa:** Em regra, mais de um leva o verbo ao singular.
@@ -294,10 +294,8 @@ E. Mais de um candidato faltarão ontem.
 
 ### Questão 7
 
-**Habilidade:** aplicar pronome relativo que em contexto
 
 **Dificuldade:** média
-
 Complete: Fui eu que ___ o relatório.
 
 A. redigiu
@@ -307,6 +305,8 @@ D. redigiram
 E. redigiste
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar pronome relativo que em contexto
+
     **Resposta: B.**
 
     **A está errada:** “redigiu” não satisfaz o critério cobrado. Com que, o verbo concorda com o antecedente eu.
@@ -323,10 +323,8 @@ E. redigiste
 
 ### Questão 8
 
-**Habilidade:** aplicar pronome relativo quem em contexto
 
 **Dificuldade:** média
-
 Complete: Fui eu quem ___ o relatório.
 
 A. redigiram
@@ -336,6 +334,8 @@ D. redigiste
 E. redigirão
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar pronome relativo quem em contexto
+
     **Resposta: C.**
 
     **A está errada:** “redigiram” não satisfaz o critério cobrado. Com quem, a terceira pessoa do singular é a forma segura na construção.
@@ -352,10 +352,8 @@ E. redigirão
 
 ### Questão 9
 
-**Habilidade:** aplicar sujeito posposto em contexto
 
 **Dificuldade:** difícil
-
 Assinale a opção em que o verbo concorda com o sujeito posposto.
 
 A. Chegou ao setor os novos servidores.
@@ -365,6 +363,8 @@ D. Chegaram ao setor os novos servidores.
 E. Chegara ao setor os novos servidores ontem.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar sujeito posposto em contexto
+
     **Resposta: D.**
 
     **A está errada:** “Chegou ao setor os novos servidores.” não satisfaz o critério cobrado. A posição posterior não retira do termo sua função de sujeito plural.
@@ -381,10 +381,8 @@ E. Chegara ao setor os novos servidores ontem.
 
 ### Questão 10
 
-**Habilidade:** aplicar método SUJEITO em contexto
 
 **Dificuldade:** média
-
 Qual é o primeiro passo do método SUJEITO?
 
 A. Concordar com o termo imediatamente anterior.
@@ -394,6 +392,8 @@ D. Trocar haver por existir sem refazer a concordância.
 E. Localizar o verbo e perguntar quem pratica ou sofre o processo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar método SUJEITO em contexto
+
     **Resposta: E.**
 
     **A está errada:** “Concordar com o termo imediatamente anterior.” não satisfaz o critério cobrado. A identificação do sujeito antecede a flexão verbal.

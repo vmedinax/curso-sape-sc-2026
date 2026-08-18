@@ -137,15 +137,15 @@ As questões são autorais. O gabarito usa cada letra duas vezes, sem sequência
 
 ### Questão 1
 
-**Habilidade:** escolher *eu* ou *mim*
 
-**Dificuldade:** fácil — o pronome é sujeito do infinitivo
-
+**Dificuldade:** fácil
 Complete: “O arquivo é para ___ revisar.”
 
 A. mim. B. me. C. eu. D. comigo. E. lhe.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** escolher *eu* ou *mim*
+
     **Resposta: C.**
 
     **A está errada:** *mim* não pratica o infinitivo na norma-padrão. **B está errada:** pronome átono não exerce esse sujeito. **C está certa:** *eu* é sujeito de *revisar*. **D está errada:** *comigo* exige outra relação. **E está errada:** *lhe* é complemento indireto.
@@ -154,15 +154,15 @@ A. mim. B. me. C. eu. D. comigo. E. lhe.
 
 ### Questão 2
 
-**Habilidade:** aplicar concordância de tratamento
 
-**Dificuldade:** fácil — exige terceira pessoa
-
+**Dificuldade:** fácil
 Está adequada a concordância:
 
 A. “Vossa Senhoria encaminhareis vosso parecer.” B. “Vossa Senhoria encaminhará seu parecer.” C. “Vossa Senhoria encaminharás teu parecer.” D. “Vossa Senhoria encaminharei.” E. “Vossa Senhoria encaminhamos.”
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar concordância de tratamento
+
     **Resposta: B.**
 
     **A está errada:** usa segunda pessoa plural. **B está certa:** verbo e possessivo estão na terceira pessoa. **C está errada:** usa segunda pessoa singular. **D está errada:** usa primeira pessoa singular. **E está errada:** usa primeira pessoa plural.
@@ -171,15 +171,15 @@ A. “Vossa Senhoria encaminhareis vosso parecer.” B. “Vossa Senhoria encami
 
 ### Questão 3
 
-**Habilidade:** aplicar próclise com palavra negativa
 
-**Dificuldade:** fácil — há fator de atração explícito
-
+**Dificuldade:** fácil
 A colocação adequada é:
 
 A. “Não me informaram.” B. “Não informaram-me.” C. “Me não informaram” como única forma formal. D. “Não informar-me.” E. “Não me informaram-se.”
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar próclise com palavra negativa
+
     **Resposta: A.**
 
     **A está certa:** a palavra negativa exige próclise nesse contexto. **B está errada:** ignora a atração exercida por *não*. **C está errada:** além da ordem marcada, afirma exclusividade inexistente. **D está errada:** troca a forma verbal finita por infinitivo. **E está errada:** duplica pronomes sem função.
@@ -188,15 +188,15 @@ A. “Não me informaram.” B. “Não informaram-me.” C. “Me não informar
 
 ### Questão 4
 
-**Habilidade:** reconhecer forma oblíqua após preposição
 
-**Dificuldade:** fácil — não há infinitivo praticado pelo pronome
-
+**Dificuldade:** fácil
 Complete: “Este documento é para ___.”
 
 A. mim. B. eu. C. me revisar. D. lhe. E. nós mesmos revisar.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer forma oblíqua após preposição
+
     **Resposta: A.**
 
     **A está certa:** a preposição rege a forma oblíqua sem infinitivo praticado por ela. **B está errada:** *eu* seria sujeito de infinitivo. **C está errada:** a construção mistura forma átona e infinitivo. **D está errada:** *lhe* não completa essa relação. **E está errada:** a estrutura não se ajusta ao singular do contexto.
@@ -205,15 +205,15 @@ A. mim. B. eu. C. me revisar. D. lhe. E. nós mesmos revisar.
 
 ### Questão 5
 
-**Habilidade:** distinguir objeto direto e indireto pronominal
 
-**Dificuldade:** média — depende da função do complemento
-
+**Dificuldade:** média
 Na construção padrão, em “Vi o servidor” e “Entreguei o documento ao servidor”, o servidor pode ser retomado, respectivamente, por:
 
 A. *lhe* e *o*. B. *me* e *te*. C. *se* e *nos*. D. *eu* e *mim*. E. *o* e *lhe*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir objeto direto e indireto pronominal
+
     **Resposta: E.**
 
     **A está errada:** inverte objeto direto e indireto. **B está errada:** muda as pessoas do discurso. **C está errada:** não preserva os referentes. **D está errada:** são formas com outras funções. **E está certa:** *o* retoma objeto direto; *lhe*, objeto indireto.
@@ -222,15 +222,15 @@ A. *lhe* e *o*. B. *me* e *te*. C. *se* e *nos*. D. *eu* e *mim*. E. *o* e *lhe*
 
 ### Questão 6
 
-**Habilidade:** reconhecer ênclise
 
-**Dificuldade:** média — o pronome aparece depois do verbo
-
+**Dificuldade:** média
 Em “Informaram-me o resultado”, ocorre:
 
 A. próclise. B. mesóclise. C. ênclise. D. voz reflexiva. E. pronome reto.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer ênclise
+
     **Resposta: C.**
 
     **A está errada:** o pronome não vem antes do verbo. **B está errada:** não está dentro de forma futura. **C está certa:** o pronome aparece depois do verbo. **D está errada:** a ação não retorna ao sujeito. **E está errada:** *me* é pronome oblíquo átono.
@@ -239,15 +239,15 @@ A. próclise. B. mesóclise. C. ênclise. D. voz reflexiva. E. pronome reto.
 
 ### Questão 7
 
-**Habilidade:** reconhecer mesóclise
 
-**Dificuldade:** média — o pronome está no interior de futuro
-
+**Dificuldade:** média
 Em “Informar-me-ão o resultado”, ocorre:
 
 A. próclise. B. mesóclise. C. ênclise simples. D. interjeição. E. infinitivo pessoal.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer mesóclise
+
     **Resposta: B.**
 
     **A está errada:** o pronome não antecede toda a forma. **B está certa:** aparece no interior do futuro do presente. **C está errada:** não está apenas depois da forma completa. **D está errada:** há estrutura verbal. **E está errada:** *informarão* é futuro finito.
@@ -256,15 +256,15 @@ A. próclise. B. mesóclise. C. ênclise simples. D. interjeição. E. infinitiv
 
 ### Questão 8
 
-**Habilidade:** reconhecer atração por pronome relativo
 
-**Dificuldade:** difícil — exige identificar a estrutura subordinada
-
+**Dificuldade:** difícil
 Assinale a forma adequada.
 
 A. “O ato que publicou-se.” B. “O ato se que publicou.” C. “O ato que publicou se.” D. “O ato que se publicou.” E. “O ato que se publicar-se.”
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer atração por pronome relativo
+
     **Resposta: D.**
 
     **A está errada:** o relativo atrai o pronome. **B está errada:** separa relativo e verbo de forma inadequada. **C está errada:** omite o hífen e ignora atração. **D está certa:** *que* favorece próclise. **E está errada:** duplica o pronome.
@@ -273,15 +273,15 @@ A. “O ato que publicou-se.” B. “O ato se que publicou.” C. “O ato que 
 
 ### Questão 9
 
-**Habilidade:** distinguir *conosco* de *com nós*
 
-**Dificuldade:** média — exige reconhecer reforço expresso
-
+**Dificuldade:** média
 Assinale a construção adequada.
 
 A. “Ela falou com nós” em qualquer contexto formal. B. “Ela falou nós.” C. “Ela falou com conosco.” D. “Ela falou com nós mesmos.” E. “Ela falou eu.”
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir *conosco* de *com nós*
+
     **Resposta: D.**
 
     **A está errada:** sem reforço, prefere-se *conosco*. **B está errada:** falta preposição exigida. **C está errada:** duplica a preposição. **D está certa:** o reforço *mesmos* admite *com nós*. **E está errada:** pessoa e função não correspondem.
@@ -290,15 +290,15 @@ A. “Ela falou com nós” em qualquer contexto formal. B. “Ela falou nós.�
 
 ### Questão 10
 
-**Habilidade:** aplicar integralmente o método FICA
 
-**Dificuldade:** difícil — integra função, tratamento e atração
-
+**Dificuldade:** difícil
 Qual análise está correta?
 
 A. *Mim* pode ser sujeito de qualquer infinitivo. B. *Lhe* substitui qualquer complemento. C. Tratamento exige verbo na segunda pessoa. D. Pronome átono deve sempre iniciar a oração. E. Função, referente, concordância, regência e atração orientam a escolha.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar integralmente o método FICA
+
     **Resposta: E.**
 
     **A está errada:** sujeito de infinitivo usa forma reta. **B está errada:** a função e a regência limitam *lhe*. **C está errada:** tratamento concorda na terceira pessoa. **D está errada:** a escrita formal evita essa posição inicial. **E está certa:** reúne os critérios do método FICA.

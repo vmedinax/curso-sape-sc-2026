@@ -7,9 +7,7 @@ Todas as questões são **autorais no estilo de concurso**.
 ### Questão 1
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** patrimonialismo  
-**Dificuldade:** fácil — exige reconhecer a confusão entre público e privado
-
+**Dificuldade:** fácil
 Uma autoridade usa bens do órgão em benefício de sua família porque acredita que o cargo lhe dá propriedade sobre esses recursos.
 
 O caso apresenta traço:
@@ -25,6 +23,8 @@ D. patrimonialista.
 E. matricial.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** patrimonialismo
+
     **Resposta: D.**
 
     **Explicação simples:** a autoridade trata o patrimônio público como se fosse pessoal.
@@ -50,9 +50,7 @@ E. matricial.
 ### Questão 2
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** resposta burocrática  
-**Dificuldade:** média — exige relacionar problema e resposta
-
+**Dificuldade:** média
 Qual medida enfrenta mais diretamente uma administração baseada em favores pessoais?
 
 A. Definir cargos, competências e critérios impessoais de seleção.
@@ -66,6 +64,8 @@ D. Escolher servidores pela proximidade com a autoridade.
 E. Misturar recursos estatais e particulares.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** resposta burocrática
+
     **Resposta: A.**
 
     **Explicação simples:** critérios ligados à função substituem amizade e preferência pessoal.
@@ -91,9 +91,7 @@ E. Misturar recursos estatais e particulares.
 ### Questão 3
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** disfunção burocrática  
-**Dificuldade:** fácil — exige reconhecer formalidade sem finalidade
-
+**Dificuldade:** fácil
 Uma etapa deixou de proteger qualquer interesse público, mas continua sendo exigida apenas porque “sempre foi assim”. Isso representa:
 
 A. controle social.
@@ -107,6 +105,8 @@ D. participação direta.
 E. governança por resultados.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** disfunção burocrática
+
     **Resposta: C.**
 
     **Explicação simples:** o procedimento perdeu a utilidade e virou um fim em si mesmo.
@@ -134,9 +134,7 @@ E. governança por resultados.
 ### Questão 4
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** modelo gerencial  
-**Dificuldade:** média — exige reconhecer um conjunto de características
-
+**Dificuldade:** média
 Uma organização define resultados esperados, concede espaço limitado para gestores escolherem meios e cobra explicações sobre o desempenho.
 
 O conjunto se aproxima do modelo:
@@ -152,6 +150,8 @@ D. societal exclusivamente.
 E. gerencial.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** modelo gerencial
+
     **Resposta: E.**
 
     **Explicação simples:** resultado, autonomia limitada e responsabilidade aparecem juntos.
@@ -177,14 +177,12 @@ E. gerencial.
 ### Questão 5
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** resultados e legalidade  
-**Dificuldade:** difícil — exige rejeitar dois extremos
-
+**Dificuldade:** difícil
 Uma unidade atingiu a meta, mas usou um caminho proibido. Outra seguiu todos os passos, mas não verificou se entregou o resultado.
 
 Qual análise está correta?
 
-A. A primeira atuação é correta porque a meta foi atingida.
+A. A primeira atuação é correta porque a meta foi atingida, ainda que o caminho usado fosse proibido e incompatível com os limites legais.
 
 B. Resultado e legalidade precisam caminhar juntos; cumprir apenas um deles não resolve os dois casos.
 
@@ -195,6 +193,8 @@ D. O modelo gerencial permite afastar qualquer procedimento.
 E. O modelo burocrático proíbe avaliar entregas.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** resultados e legalidade
+
     **Resposta: B.**
 
     **Explicação simples:** alcançar a meta não corrige ilegalidade, e seguir etapas não dispensa olhar a entrega.
@@ -220,9 +220,7 @@ E. O modelo burocrático proíbe avaliar entregas.
 ### Questão 6
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** autonomia gerencial  
-**Dificuldade:** fácil — exige reconhecer o limite do conceito
-
+**Dificuldade:** fácil
 Autonomia gerencial significa:
 
 A. espaço para escolher meios dentro de objetivos, regras e acompanhamento.
@@ -236,6 +234,8 @@ D. ausência de prestação de contas.
 E. escolha de qualquer resultado pela chefia.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** autonomia gerencial
+
     **Resposta: A.**
 
     **Explicação simples:** o gestor pode organizar a execução, mas continua dentro dos limites públicos.
@@ -263,9 +263,7 @@ E. escolha de qualquer resultado pela chefia.
 ### Questão 7
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** informar, consultar e participar  
-**Dificuldade:** média — exige classificar o espaço oferecido
-
+**Dificuldade:** média
 Um órgão publica uma proposta, recebe manifestações durante vinte dias e explica depois quais contribuições foram aceitas ou rejeitadas.
 
 O caso descreve principalmente:
@@ -281,6 +279,8 @@ D. consulta com resposta sobre as contribuições.
 E. eliminação da competência estatal.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** informar, consultar e participar
+
     **Resposta: D.**
 
     **Explicação simples:** o órgão recebeu opiniões e explicou seu tratamento.
@@ -306,14 +306,12 @@ E. eliminação da competência estatal.
 ### Questão 8
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** limites da participação  
-**Dificuldade:** difícil — combina participação, direito e competência
-
+**Dificuldade:** difícil
 Em uma audiência, a maioria apoia medida que viola um direito protegido. A autoridade afirma que deve adotá-la porque “a participação sempre decide”.
 
 Assinale a alternativa correta.
 
-A. A maioria presente pode afastar qualquer regra.
+A. A maioria presente pode afastar qualquer regra e direito protegido, porque a participação transfere integralmente a responsabilidade estatal à audiência.
 
 B. Participação amplia o diálogo, mas não elimina direitos, competência e responsabilidade estatal.
 
@@ -324,6 +322,8 @@ D. O caso deixa de envolver Administração Pública.
 E. O modelo societal proíbe manifestação da sociedade.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** limites da participação
+
     **Resposta: B.**
 
     **Explicação simples:** ouvir e considerar contribuições não autoriza violar direitos.
@@ -351,9 +351,7 @@ E. O modelo societal proíbe manifestação da sociedade.
 ### Questão 9
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** governança e gestão  
-**Dificuldade:** média — exige separar direção e execução
-
+**Dificuldade:** média
 A direção superior define prioridades e acompanha riscos. As equipes organizam recursos e executam os projetos.
 
 As atividades correspondem, respectivamente, a:
@@ -369,6 +367,8 @@ D. gestão e governança.
 E. governança e gestão.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** governança e gestão
+
     **Resposta: E.**
 
     **Explicação simples:** a direção orienta e monitora; as equipes transformam o rumo em execução.
@@ -394,9 +394,7 @@ E. governança e gestão.
 ### Questão 10
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** ações e mecanismos de governança  
-**Dificuldade:** difícil — exige separar dois conjuntos de três elementos
-
+**Dificuldade:** difícil
 Assinale a alternativa que apresenta primeiro as ações essenciais da governança e depois seus mecanismos no referencial estudado.
 
 A. planejar, organizar e dirigir; pessoas, tarefas e ambiente.
@@ -410,6 +408,8 @@ D. centralizar, descentralizar e delegar; regra, cargo e registro.
 E. executar, arquivar e pagar; gestão, orçamento e protocolo.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** ações e mecanismos de governança
+
     **Resposta: C.**
 
     **Explicação simples:** um conjunto descreve o que a governança faz; o outro organiza como ela atua.
@@ -437,9 +437,7 @@ E. executar, arquivar e pagar; gestão, orçamento e protocolo.
 ### Questão 11
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** coexistência dos modelos  
-**Dificuldade:** difícil — exige combinar características sem tratar modelos como caixas
-
+**Dificuldade:** difícil
 Uma organização seleciona pessoas por critérios profissionais, acompanha metas e mantém um conselho com participação social.
 
 Qual análise está correta?
@@ -455,6 +453,8 @@ D. Somente um modelo pode existir em cada organização.
 E. O caso é patrimonialista porque há um conselho.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** coexistência dos modelos
+
     **Resposta: B.**
 
     **Explicação simples:** seleção profissional, metas e participação apontam para focos diferentes que convivem.
@@ -480,9 +480,7 @@ E. O caso é patrimonialista porque há um conselho.
 ### Questão 12
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** profissionalização  
-**Dificuldade:** fácil — exige reconhecer uma característica burocrática
-
+**Dificuldade:** fácil
 Escolher pessoas conforme as exigências do cargo, e não pela amizade com a autoridade, representa:
 
 A. patrimonialismo.
@@ -496,6 +494,8 @@ D. profissionalização burocrática.
 E. sistema fechado.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** profissionalização
+
     **Resposta: D.**
 
     **Explicação simples:** o critério está ligado à função, não à relação pessoal.
@@ -521,9 +521,7 @@ E. sistema fechado.
 ### Questão 13
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** Nova Gestão Pública  
-**Dificuldade:** média — exige reconhecer características sem aceitar exageros
-
+**Dificuldade:** média
 Assinale a alternativa compatível com a Nova Gestão Pública.
 
 A. Uso de metas e avaliação, com práticas de gestão adaptadas aos deveres públicos.
@@ -537,6 +535,8 @@ D. Proibição de acompanhar resultados.
 E. Substituição automática do cidadão pela figura de cliente.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** Nova Gestão Pública
+
     **Resposta: A.**
 
     **Explicação simples:** desempenho e avaliação podem ser usados sem abandonar as características próprias do Estado.
@@ -562,9 +562,7 @@ E. Substituição automática do cidadão pela figura de cliente.
 ### Questão 14
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** risco de uma meta ruim  
-**Dificuldade:** difícil — exige avaliar o efeito produzido pelo indicador
-
+**Dificuldade:** difícil
 Uma central mede apenas a quantidade de atendimentos. Para elevar o número, equipes encerram casos rapidamente, mesmo sem resolver a demanda.
 
 Qual conclusão é adequada?
@@ -580,6 +578,8 @@ D. A meta transforma a atuação em modelo societal.
 E. Uma medida mal escolhida pode melhorar o número e piorar a entrega pública.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** risco de uma meta ruim
+
     **Resposta: E.**
 
     **Explicação simples:** a equipe respondeu ao número medido, mas deixou de resolver o problema do usuário.
@@ -605,9 +605,7 @@ E. Uma medida mal escolhida pode melhorar o número e piorar a entrega pública.
 ### Questão 15
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** participação apenas aparente  
-**Dificuldade:** média — exige avaliar a utilidade do espaço participativo
-
+**Dificuldade:** média
 Um órgão realiza audiência depois de assinar a decisão final. Não informa limites, não registra contribuições e não explica o resultado.
 
 O caso indica:
@@ -623,6 +621,8 @@ D. autonomia gerencial bem definida.
 E. profissionalização burocrática.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** participação apenas aparente
+
     **Resposta: C.**
 
     **Explicação simples:** a sociedade foi chamada quando já não havia espaço claro de influência.
@@ -648,9 +648,7 @@ E. profissionalização burocrática.
 ### Questão 16
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** direcionar  
-**Dificuldade:** fácil — exige reconhecer uma ação de governança
-
+**Dificuldade:** fácil
 Definir prioridades, rumo e limites para a atuação da organização corresponde a:
 
 A. avaliar.
@@ -664,6 +662,8 @@ D. direcionar.
 E. consultar.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** direcionar
+
     **Resposta: D.**
 
     **Explicação simples:** a direção superior indica para onde a organização deve seguir.
@@ -689,9 +689,7 @@ E. consultar.
 ### Questão 17
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** mecanismos de governança  
-**Dificuldade:** fácil — exige lembrar o trio oficial estudado
-
+**Dificuldade:** fácil
 Qual conjunto apresenta os mecanismos de governança do referencial do TCU estudado?
 
 A. Informação, consulta e participação.
@@ -705,6 +703,8 @@ D. Eficiência, eficácia e efetividade.
 E. Entrada, transformação e saída.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** mecanismos de governança
+
     **Resposta: B.**
 
     **Explicação simples:** os três mecanismos organizam as práticas de governança.
@@ -730,14 +730,12 @@ E. Entrada, transformação e saída.
 ### Questão 18
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** accountability  
-**Dificuldade:** difícil — exige aplicar prestação de contas e transparência útil
-
+**Dificuldade:** difícil
 Uma direção publica milhares de linhas sem título ou explicação e afirma que isso basta para prestar contas. Não informa escolhas, metas nem resultados.
 
 Qual análise está correta?
 
-A. Qualquer volume de dados garante accountability completa.
+A. Qualquer volume de dados garante accountability completa, mesmo sem títulos, contexto, metas ou explicação das escolhas realizadas.
 
 B. Prestação de contas dispensa informação compreensível.
 
@@ -748,6 +746,8 @@ D. A direção não precisa apresentar resultados.
 E. Somente informações secretas permitem acompanhamento.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** accountability
+
     **Resposta: C.**
 
     **Explicação simples:** dados sem contexto não permitem entender decisões e resultados.
@@ -773,9 +773,7 @@ E. Somente informações secretas permitem acompanhamento.
 ### Questão 19
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** partes interessadas  
-**Dificuldade:** média — exige aplicar o conceito sem prometer atendimento automático
-
+**Dificuldade:** média
 Uma organização identifica cidadãos atendidos, servidores, municípios parceiros e fornecedores afetados por uma mudança.
 
 Esses grupos são:
@@ -786,11 +784,13 @@ B. gestores obrigatórios da atividade.
 
 C. membros da mesma hierarquia.
 
-D. pessoas sem relação com a decisão.
+D. pessoas sem relação com a decisão, porque somente autoridades e servidores da mesma hierarquia podem ser considerados no processo decisório.
 
 E. partes interessadas, cujas necessidades e efeitos devem ser considerados nos limites públicos.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** partes interessadas
+
     **Resposta: E.**
 
     **Explicação simples:** todos afetam ou são afetados pela atuação.
@@ -816,14 +816,12 @@ E. partes interessadas, cujas necessidades e efeitos devem ser considerados nos 
 ### Questão 20
 
 **Tipo:** Questão autoral no estilo de concurso  
-**Tema:** integração de governança e gestão  
-**Dificuldade:** fácil — exige reconhecer papéis complementares
-
+**Dificuldade:** fácil
 Assinale a alternativa correta.
 
 A. Governança orienta e acompanha; gestão organiza a execução e entrega resultados.
 
-B. Governança executa todas as tarefas e elimina a gestão.
+B. Governança executa todas as tarefas e elimina a gestão, pois direcionar e acompanhar significaria assumir diretamente cada rotina operacional.
 
 C. Gestão dispensa direção e prioridades.
 
@@ -832,6 +830,8 @@ D. Governança e gestão são palavras para a mesma atividade.
 E. Gestão existe apenas no setor privado.
 
 ??? question "Mostrar resposta e comentário"
+    **Tema cobrado:** integração de governança e gestão
+
     **Resposta: A.**
 
     **Explicação simples:** uma dá rumo e acompanha; a outra transforma o rumo em trabalho.

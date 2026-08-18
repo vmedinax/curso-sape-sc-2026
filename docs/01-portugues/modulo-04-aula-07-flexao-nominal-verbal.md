@@ -133,15 +133,15 @@ As questões são autorais. O gabarito usa cada letra duas vezes, sem sequência
 
 ### Questão 1
 
-**Habilidade:** reconhecer flexão nominal
 
-**Dificuldade:** fácil — as marcas são explícitas
-
+**Dificuldade:** fácil
 Em *servidoras*, há flexão de:
 
 A. tempo e modo. B. gênero e número. C. pessoa e voz. D. derivação prefixal. E. composição.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer flexão nominal
+
     **Resposta: B.**
 
     **A está errada:** são categorias verbais. **B está certa:** a forma marca feminino plural. **C está errada:** pessoa e voz também pertencem à análise verbal. **D está errada:** não há prefixo. **E está errada:** não se unem radicais.
@@ -150,15 +150,15 @@ A. tempo e modo. B. gênero e número. C. pessoa e voz. D. derivação prefixal.
 
 ### Questão 2
 
-**Habilidade:** aplicar infinitivo pessoal
 
-**Dificuldade:** média — o sujeito plural está expresso
-
+**Dificuldade:** média
 Complete: “É importante os setores ___ os dados.”
 
 A. revisarem. B. revisar. C. revisou. D. revisaria-se. E. revisado.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar infinitivo pessoal
+
     **Resposta: A.**
 
     **A está certa:** o infinitivo pessoal concorda com *os setores*. **B está errada:** não marca o sujeito plural expresso. **C está errada:** a forma finita não se encaixa na construção. **D está errada:** altera modo e estrutura. **E está errada:** particípio não completa o período.
@@ -167,15 +167,15 @@ A. revisarem. B. revisar. C. revisou. D. revisaria-se. E. revisado.
 
 ### Questão 3
 
-**Habilidade:** distinguir flexão de derivação
 
-**Dificuldade:** fácil — pede o critério central
-
+**Dificuldade:** fácil
 Flexão diferencia-se de derivação porque:
 
 A. sempre muda o sentido lexical. B. cria obrigatoriamente radical. C. adapta a mesma palavra ao contexto. D. só ocorre em verbos. E. não participa da concordância.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir flexão de derivação
+
     **Resposta: C.**
 
     **A está errada:** preservar a unidade lexical é central. **B está errada:** flexão não cria base nova. **C está certa:** ajusta a forma às relações gramaticais. **D está errada:** nomes também flexionam. **E está errada:** marcas flexionais realizam concordância.
@@ -184,15 +184,15 @@ A. sempre muda o sentido lexical. B. cria obrigatoriamente radical. C. adapta a 
 
 ### Questão 4
 
-**Habilidade:** distinguir gênero gramatical de sexo
 
-**Dificuldade:** média — exige evitar interpretação extralinguística
-
+**Dificuldade:** média
 Assinale a afirmação correta.
 
 A. Gênero gramatical é categoria da língua e não equivale sempre a sexo. B. Todo substantivo masculino nomeia ser masculino. C. *Mesa* possui sexo feminino. D. *Mapa* deveria ser feminino pela terminação. E. Gênero só aparece em pessoas.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir gênero gramatical de sexo
+
     **Resposta: A.**
 
     **A está certa:** gênero organiza concordância e classificação lexical. **B está errada:** objetos e conceitos também têm gênero. **C está errada:** o substantivo tem gênero, não sexo. **D está errada:** *o mapa* mostra que terminação isolada falha. **E está errada:** a categoria alcança nomes diversos.
@@ -201,15 +201,15 @@ A. Gênero gramatical é categoria da língua e não equivale sempre a sexo. B. 
 
 ### Questão 5
 
-**Habilidade:** interpretar valor de grau
 
-**Dificuldade:** média — o diminutivo não indica tamanho físico
-
+**Dificuldade:** média
 Em “Vamos tomar um cafezinho?”, *cafezinho* pode expressar:
 
 A. plural. B. tempo verbal. C. composição. D. pessoa gramatical. E. afetividade ou valor habitual, conforme o contexto.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** interpretar valor de grau
+
     **Resposta: E.**
 
     **A está errada:** a forma está no singular. **B está errada:** não é verbo. **C está errada:** não reúne radicais. **D está errada:** pessoa é categoria verbal ou pronominal. **E está certa:** o sufixo pode produzir efeitos além de tamanho.
@@ -218,15 +218,15 @@ A. plural. B. tempo verbal. C. composição. D. pessoa gramatical. E. afetividad
 
 ### Questão 6
 
-**Habilidade:** reconhecer concordância do particípio
 
-**Dificuldade:** média — exige relacionar forma e nome
-
+**Dificuldade:** média
 Em “medidas aprovadas”, a terminação de *aprovadas* sinaliza:
 
 A. masculino singular. B. infinitivo. C. feminino plural em concordância com *medidas*. D. futuro do presente. E. composição.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer concordância do particípio
+
     **Resposta: C.**
 
     **A está errada:** a terminação não é masculina singular. **B está errada:** o infinitivo é *aprovar*. **C está certa:** o particípio concorda com o sujeito paciente. **D está errada:** não é forma futura. **E está errada:** não há dois radicais.
@@ -235,15 +235,15 @@ A. masculino singular. B. infinitivo. C. feminino plural em concordância com *m
 
 ### Questão 7
 
-**Habilidade:** reconhecer comum de dois gêneros
 
-**Dificuldade:** média — a forma lexical não muda
-
+**Dificuldade:** média
 Em “o estudante” e “a estudante”, a indicação de gênero ocorre principalmente:
 
 A. pela troca do radical. B. pelo artigo, pois o substantivo mantém a forma. C. por tempo verbal. D. por composição. E. pela posição tônica.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer comum de dois gêneros
+
     **Resposta: B.**
 
     **A está errada:** *estudante* permanece igual. **B está certa:** o determinante marca o gênero contextual. **C está errada:** não há verbo analisado. **D está errada:** não se unem bases. **E está errada:** tonicidade não muda.
@@ -252,15 +252,15 @@ A. pela troca do radical. B. pelo artigo, pois o substantivo mantém a forma. C.
 
 ### Questão 8
 
-**Habilidade:** analisar plural de compostos
 
-**Dificuldade:** difícil — exige rejeitar regra universal
-
+**Dificuldade:** difícil
 O procedimento mais seguro para pluralizar composto é:
 
 A. flexionar sempre apenas o primeiro elemento. B. flexionar sempre todos. C. retirar o hífen. D. identificar classes e relação entre elementos e consultar o VOLP em dúvida lexical. E. escolher pela quantidade de sílabas.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** analisar plural de compostos
+
     **Resposta: D.**
 
     **A está errada:** estruturas diferentes exigem soluções diferentes. **B está errada:** nem todos os elementos variam em todo composto. **C está errada:** hífen não decide sozinho o plural. **D está certa:** usa estrutura e fonte oficial. **E está errada:** sílabas não determinam flexão.
@@ -269,15 +269,15 @@ A. flexionar sempre apenas o primeiro elemento. B. flexionar sempre todos. C. re
 
 ### Questão 9
 
-**Habilidade:** aplicar flexão verbal ao contexto
 
-**Dificuldade:** difícil — exige selecionar futuro do subjuntivo irregular
-
+**Dificuldade:** difícil
 Complete: “Se ele ___ o compromisso, o processo seguirá.”
 
 A. manter. B. manterá. C. mantia. D. manteria. E. mantiver.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar flexão verbal ao contexto
+
     **Resposta: E.**
 
     **A está errada:** o infinitivo não marca a condição pessoal. **B está errada:** futuro do indicativo não se ajusta após *se* condicional. **C está errada:** a forma não pertence ao padrão do verbo. **D está errada:** futuro do pretérito não completa a condição. **E está certa:** é futuro do subjuntivo de *manter*.
@@ -286,15 +286,15 @@ A. manter. B. manterá. C. mantia. D. manteria. E. mantiver.
 
 ### Questão 10
 
-**Habilidade:** aplicar integralmente o método MESMA
 
-**Dificuldade:** difícil — compara formação, flexão e concordância
-
+**Dificuldade:** difícil
 Qual análise está correta?
 
 A. *Servidoras* cria profissão nova. B. *Casinha* expressa sempre tamanho físico. C. *Aprovadas* não se relaciona com *medidas*. D. *Analisarem* pode marcar sujeito plural no infinitivo pessoal. E. Todo sufixo é flexional.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar integralmente o método MESMA
+
     **Resposta: D.**
 
     **A está errada:** há flexão da mesma unidade. **B está errada:** diminutivo pode ter valor afetivo. **C está errada:** a concordância liga as formas. **D está certa:** explicita quem realiza a ação. **E está errada:** muitos sufixos formam palavras.

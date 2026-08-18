@@ -185,9 +185,7 @@ Resolva as dez questões sem consultar a explicação. Todas são autorais e usa
 ### Questão 1
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** distinguir assunto e tema
-**Dificuldade:** fácil, porque exige reconhecer campo e recorte expressos
-
+**Dificuldade:** fácil
 Uma notícia hipotética relata a criação de faixas exclusivas e a redução do tempo de viagem dos ônibus. O tema é:
 
 A. cidades.
@@ -197,6 +195,8 @@ D. história das rodovias.
 E. apenas o número de passageiros.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir assunto e tema
+
     **Resposta:** B.
 
     **A:** é ampla demais e não delimita o transporte.
@@ -212,9 +212,7 @@ E. apenas o número de passageiros.
 ### Questão 2
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** formular ideia principal
-**Dificuldade:** média, porque é preciso integrar benefício e limite
-
+**Dificuldade:** média
 > O portal permitiu solicitar certidões sem deslocamento. Pessoas sem acesso digital continuam podendo fazer o pedido presencialmente.
 
 A ideia principal é:
@@ -226,6 +224,8 @@ D. o pedido digital ampliou o acesso sem eliminar o canal presencial.
 E. deslocamentos são sempre desnecessários.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** formular ideia principal
+
     **Resposta:** D.
 
     **A:** contradiz a continuidade do canal presencial.
@@ -241,9 +241,7 @@ E. deslocamentos são sempre desnecessários.
 ### Questão 3
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** separar centro e detalhe
-**Dificuldade:** média, porque um número chama mais atenção que a mensagem
-
+**Dificuldade:** média
 > Um relatório informa que 86 servidores participaram de oficinas. Em seguida, compara atendimentos antes e depois da formação e conclui que as orientações ficaram mais claras.
 
 Qual elemento funciona como detalhe de apoio?
@@ -255,6 +253,8 @@ D. A avaliação dos efeitos das oficinas.
 E. A capacitação de servidores.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** separar centro e detalhe
+
     **Resposta:** A.
 
     **A:** é um dado que apoia o relato, mas não resume o resultado analisado.
@@ -270,9 +270,7 @@ E. A capacitação de servidores.
 ### Questão 4
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** escolher título proporcional
-**Dificuldade:** difícil, porque o texto combina avanço e problema remanescente
-
+**Dificuldade:** difícil
 > A coleta seletiva foi ampliada para novos bairros e o volume reciclado cresceu. Ainda assim, algumas áreas não recebem o serviço semanalmente.
 
 O título mais adequado é:
@@ -284,6 +282,8 @@ D. Reciclagem: uma história concluída.
 E. Coleta seletiva avança, mas mantém falhas de frequência.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** escolher título proporcional
+
     **Resposta:** E.
 
     **A:** elimina o limite informado.
@@ -299,9 +299,7 @@ E. Coleta seletiva avança, mas mantém falhas de frequência.
 ### Questão 5
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** controlar abrangência
-**Dificuldade:** média, porque as alternativas variam do amplo ao específico
-
+**Dificuldade:** média
 > O aviso explica como estudantes podem renovar o cartão de transporte pelo aplicativo durante o mês de janeiro.
 
 Qual opção é ampla demais para funcionar como tema?
@@ -313,6 +311,8 @@ D. Uso do aplicativo para renovar o cartão.
 E. Renovação do cartão de transporte estudantil pelo aplicativo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** controlar abrangência
+
     **Resposta:** C.
 
     **A:** delimita uma operação do texto, embora seja menos completa.
@@ -328,9 +328,7 @@ E. Renovação do cartão de transporte estudantil pelo aplicativo.
 ### Questão 6
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** distinguir tema de ideia principal
-**Dificuldade:** média, porque ambas as opções podem ser verdadeiras
-
+**Dificuldade:** média
 > A matéria discute o trabalho remoto e afirma que regras claras de comunicação reduzem atrasos nas equipes.
 
 Qual alternativa apresenta o tema, e não a ideia principal?
@@ -342,6 +340,8 @@ D. O trabalho presencial deve acabar.
 E. Atrasos são inevitáveis.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir tema de ideia principal
+
     **Resposta:** B.
 
     **A:** é uma generalização não sustentada.
@@ -357,9 +357,7 @@ E. Atrasos são inevitáveis.
 ### Questão 7
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** aplicar o método ATI
-**Dificuldade:** difícil, porque exige classificar três formulações
-
+**Dificuldade:** difícil
 Um texto trata da substituição gradual de lâmpadas por modelos econômicos e da redução de consumo obtida. A sequência correta é:
 
 A. assunto: redução; tema: prédios; ideia: lâmpadas existem.
@@ -369,6 +367,8 @@ D. assunto: eficiência energética; tema: troca de lâmpadas e redução de con
 E. assunto: consumo; tema: redução; ideia: modelos são graduais.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar o método ATI
+
     **Resposta:** D.
 
     **A:** mistura efeito, local não informado e afirmação trivial.
@@ -384,9 +384,7 @@ E. assunto: consumo; tema: redução; ideia: modelos são graduais.
 ### Questão 8
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer título estreito
-**Dificuldade:** média, porque o detalhe aparece no início do texto
-
+**Dificuldade:** média
 > A reportagem começa com a história de uma usuária que esperou 20 minutos. Depois, analisa a redução geral das filas após mudanças no atendimento.
 
 Qual título é estreito demais?
@@ -398,6 +396,8 @@ D. Novas medidas no atendimento ao público.
 E. Filas diminuem após reorganização.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer título estreito
+
     **Resposta:** A.
 
     **A:** transforma o exemplo inicial no centro de toda a reportagem.
@@ -413,9 +413,7 @@ E. Filas diminuem após reorganização.
 ### Questão 9
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** rejeitar avaliação acrescentada
-**Dificuldade:** difícil, porque a avaliação parece compatível com o resultado
-
+**Dificuldade:** difícil
 > O comunicado informa que o sistema passou por atualização e que o tempo de resposta caiu de quatro para dois dias. Não há avaliação dos usuários.
 
 Qual título acrescenta julgamento ausente?
@@ -427,6 +425,8 @@ D. Mudança no sistema e prazo de resposta.
 E. Atualização brilhante transforma definitivamente o atendimento.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** rejeitar avaliação acrescentada
+
     **Resposta:** E.
 
     **A:** conserva fato e efeito.
@@ -442,9 +442,7 @@ E. Atualização brilhante transforma definitivamente o atendimento.
 ### Questão 10
 
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** integrar ideia principal e detalhes
-**Dificuldade:** difícil, porque exige selecionar a síntese que explica três dados
-
+**Dificuldade:** difícil
 > Uma escola pública abriu a biblioteca à noite, criou empréstimo aos fins de semana e ampliou o acervo digital. As medidas buscam permitir acesso a quem estuda ou trabalha durante o dia.
 
 Qual alternativa sintetiza a ideia principal?
@@ -456,6 +454,8 @@ D. O empréstimo ocorre somente aos domingos.
 E. Estudar durante o dia foi proibido.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** integrar ideia principal e detalhes
+
     **Resposta:** C.
 
     **A:** inventa substituição total.

@@ -315,13 +315,13 @@ C. descentralização;
 D. desconcentração;  
 E. subordinação interna.
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **C.** A divisão ocorreu dentro da mesma pessoa jurídica. Esse é o critério da desconcentração.
-2. **B.** O regime reúne ferramentas especiais e limites especiais. Nenhum interesse público autoriza liberdade total.
-3. **D.** A prerrogativa pertence à função e serve a uma finalidade pública. Órgão não possui personalidade própria, e entidade possui.
-4. **A.** O agente desviou a ferramenta de sua finalidade. Prerrogativa não é poder pessoal.
-5. **C.** A presença de outra pessoa jurídica indica descentralização.
+    1. **C.** A divisão ocorreu dentro da mesma pessoa jurídica. Esse é o critério da desconcentração.
+    2. **B.** O regime reúne ferramentas especiais e limites especiais. Nenhum interesse público autoriza liberdade total.
+    3. **D.** A prerrogativa pertence à função e serve a uma finalidade pública. Órgão não possui personalidade própria, e entidade possui.
+    4. **A.** O agente desviou a ferramenta de sua finalidade. Prerrogativa não é poder pessoal.
+    5. **C.** A presença de outra pessoa jurídica indica descentralização.
 
 ## Flashcards da aula
 

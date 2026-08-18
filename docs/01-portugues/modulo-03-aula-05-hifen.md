@@ -135,15 +135,15 @@ As questões são autorais. O gabarito usa cada letra duas vezes, sem sequência
 
 ### Questão 1
 
-**Habilidade:** aplicar o critério de vogais iguais
 
-**Dificuldade:** fácil — a fronteira é diretamente identificável
-
+**Dificuldade:** fácil
 A grafia correta é:
 
 A. *antiinflamatório*. B. *anti-inflamatório*. C. *anti inflamatório*. D. *antinflamatório*. E. *anti--inflamatório*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar o critério de vogais iguais
+
     **Resposta: B.**
 
     **A está errada:** elimina o hífen entre vogais iguais. **B está certa:** *anti-* termina em *i* e *inflamatório* começa por *i*. **C está errada:** os elementos não ficam separados por espaço. **D está errada:** suprime uma vogal da formação. **E está errada:** usa sinal duplicado inexistente.
@@ -152,15 +152,15 @@ A. *antiinflamatório*. B. *anti-inflamatório*. C. *anti inflamatório*. D. *an
 
 ### Questão 2
 
-**Habilidade:** aplicar duplicação de *s*
 
-**Dificuldade:** fácil — o segundo elemento começa por *s*
-
+**Dificuldade:** fácil
 A grafia correta é:
 
 A. *anti-social*. B. *antisocial*. C. *antissocial*. D. *anti social*. E. *anti-ssocial*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar duplicação de *s*
+
     **Resposta: C.**
 
     **A está errada:** não se mantém hífen nesse encontro. **B está errada:** falta duplicar o *s* para preservar o som. **C está certa:** os elementos se unem e a consoante é duplicada. **D está errada:** não há espaço entre os elementos. **E está errada:** a duplicação ocorre sem hífen.
@@ -169,15 +169,15 @@ A. *anti-social*. B. *antisocial*. C. *antissocial*. D. *anti social*. E. *anti-
 
 ### Questão 3
 
-**Habilidade:** reconhecer a necessidade de consulta
 
-**Dificuldade:** fácil — pergunta pelo limite do procedimento
-
+**Dificuldade:** fácil
 Deve ser consultado no VOLP o caso que:
 
 A. foi visto numa mensagem. B. parece mais bonito com hífen. C. tem palavra curta. D. permanece duvidoso após a análise. E. começa por vogal em qualquer formação.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer a necessidade de consulta
+
     **Resposta: D.**
 
     **A está errada:** uso informal não comprova grafia oficial. **B está errada:** preferência visual não é regra. **C está errada:** tamanho não decide o hífen. **D está certa:** a consulta resolve tratamentos próprios e dúvidas residuais. **E está errada:** a decisão depende das duas letras e da estrutura.
@@ -186,15 +186,15 @@ A. foi visto numa mensagem. B. parece mais bonito com hífen. C. tem palavra cur
 
 ### Questão 4
 
-**Habilidade:** aplicar o critério de vogais diferentes
 
-**Dificuldade:** fácil — as vogais de fronteira estão explícitas
-
+**Dificuldade:** fácil
 Assinale a forma correta.
 
 A. *auto-escola*. B. *auto escola*. C. *auto--escola*. D. *autoescola*. E. *aut-escola*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar o critério de vogais diferentes
+
     **Resposta: D.**
 
     **A está errada:** vogais diferentes normalmente se unem. **B está errada:** não se separa a formação por espaço. **C está errada:** não existe hífen duplo. **D está certa:** *o* e *e* são vogais diferentes na fronteira. **E está errada:** a vogal final do prefixo não é suprimida.
@@ -203,15 +203,15 @@ A. *auto-escola*. B. *auto escola*. C. *auto--escola*. D. *autoescola*. E. *aut-
 
 ### Questão 5
 
-**Habilidade:** reconhecer inicial *h*
 
-**Dificuldade:** média — exige aplicar o critério geral sem analogia indevida
-
+**Dificuldade:** média
 Qual forma está correta?
 
 A. *antihigiênico*. B. *anti higiênico*. C. *antiigiênico*. D. *antii-higiênico*. E. *anti-higiênico*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer inicial *h*
+
     **Resposta: E.**
 
     **A está errada:** a inicial *h* exige hífen no caso geral. **B está errada:** não se usa espaço. **C está errada:** elimina o *h* e duplica indevidamente o *i*. **D está errada:** acrescenta uma vogal. **E está certa:** preserva o *h* após o hífen.
@@ -220,15 +220,15 @@ A. *antihigiênico*. B. *anti higiênico*. C. *antiigiênico*. D. *antii-higiên
 
 ### Questão 6
 
-**Habilidade:** aplicar duplicação de *r*
 
-**Dificuldade:** média — exige unir e preservar o som forte
-
+**Dificuldade:** média
 A combinação *anti* + *racista* resulta em:
 
 A. *anti-racista*. B. *antirracista*. C. *antiracista*. D. *anti racista*. E. *anti-rracista*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar duplicação de *r*
+
     **Resposta: B.**
 
     **A está errada:** não se mantém o hífen após prefixo terminado em vogal. **B está certa:** os elementos se unem e o *r* é duplicado. **C está errada:** um só *r* alteraria o valor sonoro. **D está errada:** não se usa espaço. **E está errada:** duplicação e hífen não se combinam nesse caso.
@@ -237,15 +237,15 @@ A. *anti-racista*. B. *antirracista*. C. *antiracista*. D. *anti racista*. E. *a
 
 ### Questão 7
 
-**Habilidade:** reconhecer prefixo com tratamento próprio
 
-**Dificuldade:** média — exige separar regra especial da fronteira geral
-
+**Dificuldade:** média
 A grafia correta é:
 
 A. *vice-presidente*. B. *vicepresidente*. C. *vice presidente*. D. *visse-presidente*. E. *vice--presidente*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer prefixo com tratamento próprio
+
     **Resposta: A.**
 
     **A está certa:** *vice-* leva hífen nos usos previstos. **B está errada:** elimina o hífen obrigatório. **C está errada:** separa os elementos por espaço. **D está errada:** troca o prefixo por forma verbal. **E está errada:** duplica o sinal.
@@ -254,15 +254,15 @@ A. *vice-presidente*. B. *vicepresidente*. C. *vice presidente*. D. *visse-presi
 
 ### Questão 8
 
-**Habilidade:** reconhecer comportamento de *co-*
 
-**Dificuldade:** difícil — confronta a regra especial com vogais iguais
-
+**Dificuldade:** difícil
 Assinale a grafia vigente.
 
 A. *co-operar*. B. *co operar*. C. *coperar*. D. *co--operar*. E. *cooperar*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer comportamento de *co-*
+
     **Resposta: E.**
 
     **A está errada:** *co-* geralmente se une mesmo diante de *o*. **B está errada:** não se usa espaço. **C está errada:** uma das vogais é indevidamente retirada. **D está errada:** não existe hífen duplo. **E está certa:** corresponde ao tratamento próprio do prefixo.
@@ -271,15 +271,15 @@ A. *co-operar*. B. *co operar*. C. *coperar*. D. *co--operar*. E. *cooperar*.
 
 ### Questão 9
 
-**Habilidade:** aplicar o método PONTE
 
-**Dificuldade:** difícil — exige ordenar todas as etapas
-
+**Dificuldade:** difícil
 Qual procedimento é mais seguro?
 
 A. Identificar a estrutura, observar as letras de fronteira, testar o critério e consultar o VOLP se necessário. B. Copiar a grafia de qualquer palavra com o mesmo prefixo. C. Inserir hífen sempre que houver duas vogais. D. Usar o corretor como fonte final. E. Decidir apenas pela pronúncia.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar o método PONTE
+
     **Resposta: A.**
 
     **A está certa:** reproduz as etapas do método PONTE. **B está errada:** a inicial do segundo elemento pode mudar a decisão. **C está errada:** vogais diferentes normalmente se unem. **D está errada:** o VOLP é a fonte de verificação. **E está errada:** estrutura gráfica e regras próprias são indispensáveis.
@@ -288,15 +288,15 @@ A. Identificar a estrutura, observar as letras de fronteira, testar o critério 
 
 ### Questão 10
 
-**Habilidade:** integrar critérios diferentes
 
-**Dificuldade:** difícil — compara quatro fronteiras e um caso especial
-
+**Dificuldade:** difícil
 Qual conjunto está integralmente correto?
 
 A. *anti-inflamatório, auto-escola, anti-social*. B. *antiinflamatório, autoescola, antissocial*. C. *anti-inflamatório, autoescola, antissocial*. D. *anti-inflamatório, auto escola, anti-ssocial*. E. *anti inflamatório, autoescola, anti-social*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** integrar critérios diferentes
+
     **Resposta: C.**
 
     **A está errada:** *autoescola* e *antissocial* não usam hífen. **B está errada:** vogais iguais exigem hífen em *anti-inflamatório*. **C está certa:** aplica corretamente os três critérios. **D está errada:** espaço e combinação hífen-duplicação são inadequados. **E está errada:** separa a primeira formação e erra a última.

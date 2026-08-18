@@ -366,14 +366,14 @@ C. excesso de publicidade;
 D. criação de entidade indireta;  
 E. avocação regular.
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **B.** Competência reúne autoridade e responsabilidade atribuídas por norma. Não é liberdade pessoal.
-2. **C.** Delegação permite que outro exerça parte da competência dentro dos limites estabelecidos.
-3. **C.** No modelo federal citado, a avocação exige excepcionalidade, tempo limitado e justificativa relevante.
-4. **D.** A competência nasce e é limitada pela norma. Órgão não possui personalidade própria, e acordo informal não altera atribuição legal.
-5. **B.** Vinculação permite supervisão dentro da lei, mas não transforma a entidade em órgão subordinado.
-6. **B.** A unidade ultrapassou o assunto que podia decidir. Trata-se de limite em razão da matéria.
+    1. **B.** Competência reúne autoridade e responsabilidade atribuídas por norma. Não é liberdade pessoal.
+    2. **C.** Delegação permite que outro exerça parte da competência dentro dos limites estabelecidos.
+    3. **C.** No modelo federal citado, a avocação exige excepcionalidade, tempo limitado e justificativa relevante.
+    4. **D.** A competência nasce e é limitada pela norma. Órgão não possui personalidade própria, e acordo informal não altera atribuição legal.
+    5. **B.** Vinculação permite supervisão dentro da lei, mas não transforma a entidade em órgão subordinado.
+    6. **B.** A unidade ultrapassou o assunto que podia decidir. Trata-se de limite em razão da matéria.
 
 ## Flashcards da aula
 

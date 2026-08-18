@@ -125,9 +125,7 @@ As questões são autorais. Resolva antes de abrir os comentários. O gabarito u
 
 ### Questão 1
 
-**Habilidade:** reconhecer sentido figurado
-**Dificuldade:** fácil — há incompatibilidade clara com uma ação física
-
+**Dificuldade:** fácil
 Há sentido conotativo em:
 
 A. “A chave abriu a gaveta.”
@@ -137,6 +135,8 @@ D. “A sala tem duas portas.”
 E. “O arquivo está na mesa.”
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer sentido figurado
+
     **Resposta: C.**
 
     **A está errada:** chave e gaveta admitem abertura física no contexto.
@@ -153,9 +153,7 @@ E. “O arquivo está na mesa.”
 
 ### Questão 2
 
-**Habilidade:** explicar o efeito de uma imagem
-**Dificuldade:** média — exige parafrasear intensidade e volume
-
+**Dificuldade:** média
 Em “uma enxurrada de solicitações chegou ao setor”, a expressão destacada sugere:
 
 A. pequena quantidade organizada.
@@ -165,6 +163,8 @@ D. ausência de pedidos.
 E. ordem alfabética dos documentos.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** explicar o efeito de uma imagem
+
     **Resposta: B.**
 
     **A está errada:** *enxurrada* intensifica a quantidade, não a reduz.
@@ -181,9 +181,7 @@ E. ordem alfabética dos documentos.
 
 ### Questão 3
 
-**Habilidade:** aplicar o método LUPA
-**Dificuldade:** fácil — pede o procedimento básico
-
+**Dificuldade:** fácil
 Para decidir o sentido de uma palavra, o procedimento mais seguro é:
 
 A. isolá-la do período.
@@ -193,6 +191,8 @@ D. testar o contexto e uma paráfrase.
 E. presumir conotação em todo texto.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar o método LUPA
+
     **Resposta: D.**
 
     **A está errada:** o isolamento elimina as pistas que selecionam o sentido.
@@ -209,9 +209,7 @@ E. presumir conotação em todo texto.
 
 ### Questão 4
 
-**Habilidade:** reconhecer sentido denotativo
-**Dificuldade:** fácil — a cena admite leitura física direta
-
+**Dificuldade:** fácil
 Assinale a frase em que *raiz* está em sentido denotativo.
 
 A. “A raiz da árvore rompeu a calçada.”
@@ -221,6 +219,8 @@ D. “O projeto criou raízes no setor.”
 E. “A mudança cortou antigas raízes.”
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer sentido denotativo
+
     **Resposta: A.**
 
     **A está certa:** *raiz* nomeia a parte física da árvore.
@@ -237,9 +237,7 @@ E. “A mudança cortou antigas raízes.”
 
 ### Questão 5
 
-**Habilidade:** produzir paráfrase contextual
-**Dificuldade:** média — exige conservar o sentido sem literalizar
-
+**Dificuldade:** média
 Em “a notícia acendeu o debate”, a melhor paráfrase de *acendeu* é:
 
 A. incendiou fisicamente a sala.
@@ -249,6 +247,8 @@ D. ocultou o tema.
 E. iniciou ou intensificou a discussão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** produzir paráfrase contextual
+
     **Resposta: E.**
 
     **A está errada:** não há pista de fogo real.
@@ -265,9 +265,7 @@ E. iniciou ou intensificou a discussão.
 
 ### Questão 6
 
-**Habilidade:** preservar intensidade em paráfrase
-**Dificuldade:** difícil — alternativas próximas mudam o grau da afirmação
-
+**Dificuldade:** difícil
 A frase “a equipe estava afundada em tarefas” indica que a equipe:
 
 A. trabalhava dentro da água.
@@ -277,6 +275,8 @@ D. havia concluído todas as tarefas.
 E. organizava documentos por profundidade.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** preservar intensidade em paráfrase
+
     **Resposta: C.**
 
     **A está errada:** literaliza uma imagem incompatível com *tarefas*.
@@ -293,9 +293,7 @@ E. organizava documentos por profundidade.
 
 ### Questão 7
 
-**Habilidade:** distinguir assunto de equivalência de sentido
-**Dificuldade:** difícil — exige perceber alteração avaliativa
-
+**Dificuldade:** difícil
 Considere: “A medida abriu uma possibilidade” e “A medida escancarou uma oportunidade”. As frases tratam do mesmo assunto, mas não são plenamente equivalentes porque a segunda:
 
 A. elimina qualquer oportunidade.
@@ -305,6 +303,8 @@ D. impede avaliação contextual.
 E. acrescenta maior intensidade à abertura sugerida.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir assunto de equivalência de sentido
+
     **Resposta: E.**
 
     **A está errada:** as duas frases apresentam uma oportunidade.
@@ -321,9 +321,7 @@ E. acrescenta maior intensidade à abertura sugerida.
 
 ### Questão 8
 
-**Habilidade:** reconhecer dependência contextual
-**Dificuldade:** média — a mesma forma admite leituras diferentes
-
+**Dificuldade:** média
 Sobre a frase “o processo está parado”, é correto afirmar que:
 
 A. ela sempre descreve um objeto fisicamente imóvel.
@@ -333,6 +331,8 @@ D. não existe paráfrase possível.
 E. o sentido é decidido apenas pelo dicionário.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer dependência contextual
+
     **Resposta: B.**
 
     **A está errada:** *processo* pode designar um procedimento sem andamento.
@@ -349,9 +349,7 @@ E. o sentido é decidido apenas pelo dicionário.
 
 ### Questão 9
 
-**Habilidade:** explicar efeito conotativo em texto institucional
-**Dificuldade:** média — exige separar imagem e avaliação
-
+**Dificuldade:** média
 No enunciado “o atendimento é a porta de entrada do serviço”, a expressão destaca:
 
 A. a função inicial de acesso ao serviço.
@@ -361,6 +359,8 @@ D. a obrigação de entrada física.
 E. o encerramento do atendimento.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** explicar efeito conotativo em texto institucional
+
     **Resposta: A.**
 
     **A está certa:** *porta de entrada* apresenta o atendimento como primeiro acesso.
@@ -377,9 +377,7 @@ E. o encerramento do atendimento.
 
 ### Questão 10
 
-**Habilidade:** aplicar LUPA a uma expressão nova
-**Dificuldade:** difícil — exige reconstruir todo o procedimento
-
+**Dificuldade:** difícil
 Um comunicado afirma: “A atualização trouxe fôlego ao atendimento”. Qual análise é adequada?
 
 A. *Fôlego* só pode indicar respiração física.
@@ -389,6 +387,8 @@ D. A expressão sugere recuperação de capacidade ou alívio no atendimento.
 E. A palavra não pode ser interpretada porque aparece em texto institucional.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar LUPA a uma expressão nova
+
     **Resposta: D.**
 
     **A está errada:** o contexto permite transferência do sentido físico.

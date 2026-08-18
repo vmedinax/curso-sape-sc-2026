@@ -212,9 +212,7 @@ Resolva as dez questões autorais antes de abrir os comentários.
 
 ### Questão 1
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer gênero
-**Dificuldade:** fácil, porque finalidade e conteúdo são típicos
-
+**Dificuldade:** fácil
 Um documento registra participantes, assuntos tratados e decisões de uma reunião. O gênero é:
 
 A. receita.
@@ -224,6 +222,8 @@ D. conto.
 E. tutorial.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer gênero
+
     **Resposta:** B.
     **A:** orienta preparo, não registra reunião.
     **B:** cumpre a finalidade social descrita.
@@ -236,9 +236,7 @@ E. tutorial.
 
 ### Questão 2
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer injunção
-**Dificuldade:** fácil, porque há sequência de comandos
-
+**Dificuldade:** fácil
 > Clique em “Enviar”, confira os dados e guarde o protocolo.
 
 Predomina:
@@ -250,6 +248,8 @@ D. injunção.
 E. exposição histórica.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer injunção
+
     **Resposta:** D.
     **A:** não conta ações já ocorridas.
     **B:** não caracteriza objeto.
@@ -262,9 +262,7 @@ E. exposição histórica.
 
 ### Questão 3
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** distinguir gênero e tipo
-**Dificuldade:** média, porque combina os dois níveis
-
+**Dificuldade:** média
 Uma notícia relata a ordem de acontecimentos de um resgate. É correto afirmar:
 
 A. notícia é gênero e a sequência pode ser narrativa.
@@ -274,6 +272,8 @@ D. notícia não pode narrar.
 E. todo gênero admite um único tipo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir gênero e tipo
+
     **Resposta:** A.
     **A:** separa forma social e organização do trecho.
     **B:** mistura níveis diferentes.
@@ -286,9 +286,7 @@ E. todo gênero admite um único tipo.
 
 ### Questão 4
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer descrição
-**Dificuldade:** média, porque há verbo de estado e localização
-
+**Dificuldade:** média
 > O arquivo ocupa duas salas, possui estantes metálicas e mantém os documentos raros no espaço climatizado.
 
 Predomina:
@@ -300,6 +298,8 @@ D. exposição de tese.
 E. descrição.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer descrição
+
     **Resposta:** E.
     **A:** não orienta ação.
     **B:** não defende posição.
@@ -312,9 +312,7 @@ E. descrição.
 
 ### Questão 5
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** distinguir exposição e argumentação
-**Dificuldade:** média, porque o assunto é o mesmo nas opções
-
+**Dificuldade:** média
 Qual trecho é expositivo?
 
 A. “O portal deve ser ampliado porque facilita o acesso.”
@@ -324,6 +322,8 @@ D. “O portal foi aberto e depois falhou.”
 E. “O portal é azul e possui dois menus.”
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir exposição e argumentação
+
     **Resposta:** C.
     **A:** defende ampliação com argumento.
     **B:** orienta uma ação.
@@ -336,9 +336,7 @@ E. “O portal é azul e possui dois menus.”
 
 ### Questão 6
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer mistura de tipos
-**Dificuldade:** difícil, porque o gênero combina informação e orientação
-
+**Dificuldade:** difícil
 > O sistema ficará indisponível no domingo. Salve seus arquivos até sábado e retome o envio na segunda-feira.
 
 O comunicado combina principalmente:
@@ -350,6 +348,8 @@ D. narração e argumentação.
 E. apenas descrição.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer mistura de tipos
+
     **Resposta:** C.
     **A:** não caracteriza nem conta sequência passada.
     **B:** não há tese.
@@ -362,9 +362,7 @@ E. apenas descrição.
 
 ### Questão 7
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer narração
-**Dificuldade:** fácil, porque há mudança temporal explícita
-
+**Dificuldade:** fácil
 > Às 8h, a equipe abriu o posto. Dez minutos depois, iniciou a entrega de senhas.
 
 Predomina:
@@ -376,6 +374,8 @@ D. argumentação.
 E. exposição conceitual.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer narração
+
     **Resposta:** A.
     **A:** organiza acontecimentos em sequência temporal.
     **B:** não caracteriza um estado estático.
@@ -388,9 +388,7 @@ E. exposição conceitual.
 
 ### Questão 8
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** aplicar FCO
-**Dificuldade:** difícil, porque gênero e tipo precisam ser combinados
-
+**Dificuldade:** difícil
 > Prezada Diretoria, solicitamos manutenção do elevador, que apresentou três falhas nesta semana.
 
 Qual análise é adequada?
@@ -402,6 +400,8 @@ D. É ofício cuja finalidade principal é solicitar providência, apoiada por i
 E. É conto argumentativo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar FCO
+
     **Resposta:** D.
     **A:** não há preparo de alimento.
     **B:** a circulação e o destinatário não configuram notícia.
@@ -414,9 +414,7 @@ E. É conto argumentativo.
 
 ### Questão 9
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** respeitar alcance do comando
-**Dificuldade:** difícil, porque a abertura difere do restante
-
+**Dificuldade:** difícil
 Uma reportagem abre narrando o caso de uma família e depois dedica cinco parágrafos a explicar dados e causas. Sobre o texto inteiro, é correto afirmar:
 
 A. A primeira cena torna todo o texto narrativo.
@@ -426,6 +424,8 @@ D. A explicação de causas é injunção.
 E. Um texto não pode combinar tipos.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** respeitar alcance do comando
+
     **Resposta:** B.
     **A:** ignora a organização da maior parte.
     **B:** reconhece combinação e predominância global.
@@ -438,9 +438,7 @@ E. Um texto não pode combinar tipos.
 
 ### Questão 10
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** integrar os cinco tipos
-**Dificuldade:** difícil, porque exige comparar operações próximas
-
+**Dificuldade:** difícil
 Qual associação está correta?
 
 A. narração — orientar etapas.
@@ -450,6 +448,8 @@ D. argumentação — apenas listar características.
 E. injunção — dirigir uma ação do leitor.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** integrar os cinco tipos
+
     **Resposta:** E.
     **A:** orientar etapas corresponde à injunção.
     **B:** defender tese corresponde à argumentação.

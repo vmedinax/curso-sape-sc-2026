@@ -273,11 +273,11 @@ C. Resultado autoriza ignorar a legalidade.
 D. Uma iniciativa deve possuir ligação clara com um objetivo.  
 E. Quantidade de reuniões prova impacto.
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **C.** O relatório é um produto direto da atividade.
-2. **A.** A redução de erros é uma mudança observada depois do uso.
-3. **D.** Essa ligação demonstra alinhamento estratégico.
+    1. **C.** O relatório é um produto direto da atividade.
+    2. **A.** A redução de erros é uma mudança observada depois do uso.
+    3. **D.** Essa ligação demonstra alinhamento estratégico.
 
 ## Checklist
 

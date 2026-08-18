@@ -240,11 +240,11 @@ C. Controle social significa controle estatal da sociedade.
 D. Participação pode conviver com regras, direitos e responsabilidade estatal.  
 E. Modelo societal proíbe avaliação de resultados.
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **B.** Participação e cidadania são o foco do modelo societal.
-2. **A.** O fluxo apresentado é do órgão para o público, sem espaço de contribuição.
-3. **D.** Participação amplia o diálogo, mas não apaga limites e deveres públicos.
+    1. **B.** Participação e cidadania são o foco do modelo societal.
+    2. **A.** O fluxo apresentado é do órgão para o público, sem espaço de contribuição.
+    3. **D.** Participação amplia o diálogo, mas não apaga limites e deveres públicos.
 
 ## Checklist
 

@@ -120,10 +120,8 @@ Monte uma tabela com remetente, destinatário, finalidade e partes de cada comun
 
 ### Questão 1
 
-**Habilidade:** reconhecer identificação do expediente em comunicação autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **identificação do expediente**?
 
 A. OFÍCIO Nº 12/2026/SETOR
@@ -133,6 +131,8 @@ D. Assunto: Convocação para reunião
 E. Senhora Diretora,
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer identificação do expediente em comunicação autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** O cabeçalho identifica espécie, número, ano e unidade.
@@ -149,10 +149,8 @@ E. Senhora Diretora,
 
 ### Questão 2
 
-**Habilidade:** reconhecer local e data em comunicação autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **local e data**?
 
 A. OFÍCIO Nº 12/2026/SETOR
@@ -162,6 +160,8 @@ D. Assunto: Convocação para reunião
 E. Senhora Diretora,
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer local e data em comunicação autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** o trecho exemplifica identificação do expediente, pois o cabeçalho identifica espécie, número, ano e unidade; não exemplifica local e data.
@@ -178,10 +178,8 @@ E. Senhora Diretora,
 
 ### Questão 3
 
-**Habilidade:** reconhecer endereçamento em comunicação autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **endereçamento**?
 
 A. OFÍCIO Nº 12/2026/SETOR
@@ -191,6 +189,8 @@ D. Assunto: Convocação para reunião
 E. Senhora Diretora,
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer endereçamento em comunicação autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** o trecho exemplifica identificação do expediente, pois o cabeçalho identifica espécie, número, ano e unidade; não exemplifica endereçamento.
@@ -207,10 +207,8 @@ E. Senhora Diretora,
 
 ### Questão 4
 
-**Habilidade:** reconhecer assunto em comunicação autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **assunto**?
 
 A. OFÍCIO Nº 12/2026/SETOR
@@ -220,6 +218,8 @@ D. Assunto: Convocação para reunião
 E. Senhora Diretora,
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer assunto em comunicação autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** o trecho exemplifica identificação do expediente, pois o cabeçalho identifica espécie, número, ano e unidade; não exemplifica assunto.
@@ -236,10 +236,8 @@ E. Senhora Diretora,
 
 ### Questão 5
 
-**Habilidade:** reconhecer vocativo em comunicação autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **vocativo**?
 
 A. OFÍCIO Nº 12/2026/SETOR
@@ -249,6 +247,8 @@ D. Assunto: Convocação para reunião
 E. Senhora Diretora,
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer vocativo em comunicação autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** o trecho exemplifica identificação do expediente, pois o cabeçalho identifica espécie, número, ano e unidade; não exemplifica vocativo.
@@ -265,10 +265,8 @@ E. Senhora Diretora,
 
 ### Questão 6
 
-**Habilidade:** reconhecer corpo do texto em comunicação autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **corpo do texto**?
 
 A. Informo que a reunião ocorrerá em 10 de agosto, às 14 horas.
@@ -278,6 +276,8 @@ D. À Senhora Diretora de Gestão de Pessoas
 E. Assunto: Convocação para reunião
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer corpo do texto em comunicação autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** O conteúdo apresenta a comunicação com clareza.
@@ -294,10 +294,8 @@ E. Assunto: Convocação para reunião
 
 ### Questão 7
 
-**Habilidade:** reconhecer fecho em comunicação autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **fecho**?
 
 A. OFÍCIO Nº 12/2026/SETOR
@@ -307,6 +305,8 @@ D. À Senhora Diretora de Gestão de Pessoas
 E. Assunto: Convocação para reunião
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer fecho em comunicação autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** o trecho exemplifica identificação do expediente, pois o cabeçalho identifica espécie, número, ano e unidade; não exemplifica fecho.
@@ -323,10 +323,8 @@ E. Assunto: Convocação para reunião
 
 ### Questão 8
 
-**Habilidade:** reconhecer identificação do signatário em comunicação autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **identificação do signatário**?
 
 A. OFÍCIO Nº 12/2026/SETOR
@@ -337,6 +335,8 @@ D. À Senhora Diretora de Gestão de Pessoas
 E. Assunto: Convocação para reunião
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer identificação do signatário em comunicação autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** o trecho exemplifica identificação do expediente, pois o cabeçalho identifica espécie, número, ano e unidade; não exemplifica identificação do signatário.
@@ -353,10 +353,8 @@ E. Assunto: Convocação para reunião
 
 ### Questão 9
 
-**Habilidade:** reconhecer assunto de correio eletrônico em comunicação autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **assunto de correio eletrônico**?
 
 A. OFÍCIO Nº 12/2026/SETOR
@@ -366,6 +364,8 @@ D. Assunto: Alteração do horário de atendimento
 E. Assunto: Convocação para reunião
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer assunto de correio eletrônico em comunicação autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** o trecho exemplifica identificação do expediente, pois o cabeçalho identifica espécie, número, ano e unidade; não exemplifica assunto de correio eletrônico.
@@ -382,10 +382,8 @@ E. Assunto: Convocação para reunião
 
 ### Questão 10
 
-**Habilidade:** reconhecer anexo mencionado em comunicação autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **anexo mencionado**?
 
 A. OFÍCIO Nº 12/2026/SETOR
@@ -395,6 +393,8 @@ D. Assunto: Convocação para reunião
 E. Encaminho, em anexo, o relatório de atividades.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer anexo mencionado em comunicação autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** o trecho exemplifica identificação do expediente, pois o cabeçalho identifica espécie, número, ano e unidade; não exemplifica anexo mencionado.

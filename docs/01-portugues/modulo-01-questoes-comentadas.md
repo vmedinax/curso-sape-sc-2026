@@ -12,37 +12,47 @@ As questões abaixo foram **adaptadas**: o texto-base foi resumido e as alternat
 !!! info "O que esta amostra demonstra"
     Há três ocorrências verificadas, em dois concursos, de localização de informação explícita. Isso justifica treinar a operação, mas não autoriza afirmar que ela seja predominante em toda prova da FEPESE.
 
-## Questão 1 — participação nas exportações
+## Questão 1
 
-**Fonte:** FEPESE, InvestSC, Concurso Público, Edital nº 003/2026, prova S1 — Agente/Analista Administrativo, questão 3, aplicação em 3 maio 2026. Gabarito definitivo retificado: D. **Adaptação pedagógica.**
+**Fonte:** FEPESE, InvestSC, Concurso Público, Edital nº 003/2026, prova S1 — Agente/Analista Administrativo, questão 3, aplicação em 3 maio 2026. **Adaptação pedagógica.**
 
-O texto informa que Santa Catarina exportou diferentes grupos de produtos e compara a participação de cada um no valor exportado. De acordo com o texto adaptado, qual grupo respondeu pela maior parcela?
+O texto adaptado informa que Santa Catarina exportou diferentes grupos de produtos. Os feijões secos responderam pela maior parcela do valor exportado, seguidos por preparações alimentícias, produtos de panificação, cereais e farinhas.
+
+De acordo com o texto adaptado, qual grupo respondeu pela maior parcela?
 
 A) cereais. B) farinha. C) preparações alimentícias. D) feijões secos. E) produtos de panificação.
 
 ??? success "Resposta e comentário"
+    **Gabarito oficial definitivo retificado:** D.
+
     **D.** O texto atribui aos feijões secos a maior parcela do valor. A, B, C e E citam categorias do mesmo contexto, mas não a liderança informada. **Habilidade:** localizar e comparar dado explícito.
 
-## Questão 2 — requisitos de acesso ao mercado
+## Questão 2
 
-**Fonte:** FEPESE, InvestSC, Concurso Público, Edital nº 003/2026, prova S1 — Agente/Analista Administrativo, questão 4, aplicação em 3 maio 2026. Gabarito definitivo retificado: E. **Adaptação pedagógica.**
+**Fonte:** FEPESE, InvestSC, Concurso Público, Edital nº 003/2026, prova S1 — Agente/Analista Administrativo, questão 4, aplicação em 3 maio 2026. **Adaptação pedagógica.**
 
-Segundo o texto adaptado, o acesso ao mercado mencionado dependia do cumprimento de quais requisitos?
+Segundo o texto adaptado, os produtores encontraram oportunidades comerciais, mas o acesso ao mercado dependia do cumprimento de requisitos fitossanitários e de segurança dos alimentos.
+
+O acesso ao mercado dependia do cumprimento de quais requisitos?
 
 A) apenas comerciais. B) somente ambientais. C) tributários e cambiais. D) trabalhistas e municipais. E) fitossanitários e de segurança dos alimentos.
 
 ??? success "Resposta e comentário"
+    **Gabarito oficial definitivo retificado:** E.
+
     **E.** É a dupla de requisitos expressamente indicada. A a D substituem a informação por requisitos plausíveis no mundo, mas ausentes no texto. **Armadilha:** escolher conhecimento externo.
 
-## Questão 3 — perfil atribuído a um candidato
+## Questão 3
 
-**Fonte:** FEPESE, CISAMOSC, Concurso Público, Edital nº 001/2025, prova M1 — Analista Administrativo, questão 2, aplicação indicada no caderno em 30 nov. 2025. Gabarito definitivo: A. **Adaptação pedagógica.**
+**Fonte:** FEPESE, CISAMOSC, Concurso Público, Edital nº 001/2025, prova M1 — Analista Administrativo, questão 2, aplicação indicada no caderno em 30 nov. 2025. **Adaptação pedagógica.**
 
 Em um diálogo humorístico, a esposa afirma que o marido tem perfil de candidato porque ele “tem presença” e “fala tão bonito”. A justificativa apresentada corresponde a alguém que:
 
 A) impressiona visualmente e se expressa bem. B) domina orçamento público. C) conhece toda a legislação. D) já exerceu mandato. E) apresenta propostas detalhadas.
 
 ??? success "Resposta e comentário"
+    **Gabarito oficial definitivo:** A.
+
     **A.** A alternativa parafraseia as duas características declaradas. B a E poderiam ser qualidades de um candidato, mas não são as razões dadas no texto. **Habilidade:** reconhecer equivalência de sentido.
 
 ## Diagnóstico

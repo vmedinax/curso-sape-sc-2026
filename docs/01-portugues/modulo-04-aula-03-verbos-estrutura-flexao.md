@@ -138,15 +138,15 @@ As questões são autorais. O gabarito usa cada letra duas vezes, sem sequência
 
 ### Questão 1
 
-**Habilidade:** reconhecer pessoa, número e tempo
 
-**Dificuldade:** fácil — a forma possui terminação regular
-
+**Dificuldade:** fácil
 *Analisaremos* está na:
 
 A. primeira pessoa do plural do futuro do presente. B. terceira pessoa singular do passado. C. segunda pessoa plural do presente. D. forma nominal. E. voz obrigatoriamente passiva.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer pessoa, número e tempo
+
     **Resposta: A.**
 
     **A está certa:** a forma equivale a “nós analisaremos”. **B está errada:** pessoa, número e tempo não correspondem. **C está errada:** não indica “vós” nem presente. **D está errada:** é forma finita. **E está errada:** voz depende da construção, não dessa forma isolada.
@@ -155,15 +155,15 @@ A. primeira pessoa do plural do futuro do presente. B. terceira pessoa singular 
 
 ### Questão 2
 
-**Habilidade:** reconhecer forma nominal
 
-**Dificuldade:** fácil — o sufixo de gerúndio está explícito
-
+**Dificuldade:** fácil
 É forma nominal:
 
 A. *revisamos*. B. *revisarei*. C. *revisando*. D. *revisávamos*. E. *revisem*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer forma nominal
+
     **Resposta: C.**
 
     **A está errada:** é forma finita, cuja leitura temporal depende do contexto. **B está errada:** indica futuro e primeira pessoa singular. **C está certa:** é gerúndio. **D está errada:** é pretérito imperfeito e primeira pessoa plural. **E está errada:** pode ser subjuntivo ou imperativo conforme o contexto.
@@ -172,15 +172,15 @@ A. *revisamos*. B. *revisarei*. C. *revisando*. D. *revisávamos*. E. *revisem*.
 
 ### Questão 3
 
-**Habilidade:** reconhecer locução verbal
 
-**Dificuldade:** média — exige integrar auxiliar e particípio
-
+**Dificuldade:** média
 Em “os atos foram publicados”, há:
 
 A. dois predicados independentes obrigatórios. B. locução verbal com auxiliar e particípio. C. apenas substantivos. D. infinitivo. E. interjeição.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer locução verbal
+
     **Resposta: B.**
 
     **A está errada:** os dois termos formam uma unidade verbal. **B está certa:** *foram* auxilia o particípio *publicados*. **C está errada:** as palavras destacadas são verbais. **D está errada:** *publicados* é particípio. **E está errada:** não há expressão emotiva independente.
@@ -189,15 +189,15 @@ A. dois predicados independentes obrigatórios. B. locução verbal com auxiliar
 
 ### Questão 4
 
-**Habilidade:** reconhecer radical verbal
 
-**Dificuldade:** fácil — compara formas da mesma família flexional
-
+**Dificuldade:** fácil
 Em *reviso*, *revisávamos* e *revisaremos*, a parte que concentra o sentido lexical é:
 
 A. *-mos*. B. *-va-*. C. *-re-*. D. *revis-*. E. apenas a última vogal.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer radical verbal
+
     **Resposta: D.**
 
     **A está errada:** marca pessoa e número em algumas formas. **B está errada:** participa da informação temporal. **C está errada:** não é a base comum completa. **D está certa:** permanece nas formas e recupera o verbo. **E está errada:** a vogal final não concentra o sentido lexical.
@@ -206,15 +206,15 @@ A. *-mos*. B. *-va-*. C. *-re-*. D. *revis-*. E. apenas a última vogal.
 
 ### Questão 5
 
-**Habilidade:** reconhecer infinitivo
 
-**Dificuldade:** fácil — a terminação identifica a forma nominal
-
+**Dificuldade:** fácil
 Qual alternativa apresenta infinitivo?
 
 A. *estudo*. B. *estudando*. C. *estudado*. D. *estudaremos*. E. *estudar*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer infinitivo
+
     **Resposta: E.**
 
     **A está errada:** é forma finita. **B está errada:** é gerúndio. **C está errada:** é particípio. **D está errada:** indica futuro e primeira pessoa plural. **E está certa:** termina em *-ar* e nomeia o verbo.
@@ -223,15 +223,15 @@ A. *estudo*. B. *estudando*. C. *estudado*. D. *estudaremos*. E. *estudar*.
 
 ### Questão 6
 
-**Habilidade:** reconhecer verbo irregular
 
-**Dificuldade:** média — exige comparar formas do paradigma
-
+**Dificuldade:** média
 O par *faço/fiz* exemplifica verbo irregular porque:
 
 A. apresenta alteração relevante no radical ou no paradigma esperado. B. não possui qualquer organização. C. só admite duas formas. D. nunca indica pessoa. E. é sempre auxiliar.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer verbo irregular
+
     **Resposta: A.**
 
     **A está certa:** as formas alteram a base esperada. **B está errada:** irregularidade não significa ausência de padrão. **C está errada:** o verbo possui amplo paradigma. **D está errada:** *faço* e *fiz* indicam primeira pessoa. **E está errada:** *fazer* pode ser verbo principal.
@@ -240,15 +240,15 @@ A. apresenta alteração relevante no radical ou no paradigma esperado. B. não 
 
 ### Questão 7
 
-**Habilidade:** identificar vogal temática
 
-**Dificuldade:** média — exige decompor o infinitivo
-
+**Dificuldade:** média
 Em *revisar*, a vogal que indica a primeira conjugação é:
 
 A. *e*. B. *i*. C. *a*. D. *r*. E. *s*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** identificar vogal temática
+
     **Resposta: C.**
 
     **A está errada:** não é a vogal temática da forma. **B está errada:** integra o radical *revis-*. **C está certa:** *-a-* antecede a terminação do infinitivo e marca a primeira conjugação. **D está errada:** pertence à terminação do infinitivo. **E está errada:** integra o radical.
@@ -257,15 +257,15 @@ A. *e*. B. *i*. C. *a*. D. *r*. E. *s*.
 
 ### Questão 8
 
-**Habilidade:** reconhecer ambiguidade de forma verbal
 
-**Dificuldade:** difícil — exige recorrer ao contexto
-
+**Dificuldade:** difícil
 A forma *revisem* pode ser interpretada como subjuntivo ou imperativo. O que decide a leitura?
 
 A. o número de letras. B. a presença de acento. C. a classe do substantivo anterior. D. a ordem alfabética. E. o contexto da frase.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer ambiguidade de forma verbal
+
     **Resposta: E.**
 
     **A está errada:** extensão não seleciona modo. **B está errada:** a forma não depende de acento gráfico. **C está errada:** um nome isolado não decide. **D está errada:** ordem alfabética é irrelevante. **E está certa:** a intenção e a estrutura distinguem desejo, hipótese ou comando.
@@ -274,15 +274,15 @@ A. o número de letras. B. a presença de acento. C. a classe do substantivo ant
 
 ### Questão 9
 
-**Habilidade:** aplicar o método RITMO
 
-**Dificuldade:** difícil — exige integrar estrutura e contexto
-
+**Dificuldade:** difícil
 Qual sequência corresponde ao método de análise da aula?
 
 A. Contexto, tamanho, acento e classe nominal. B. Radical, informação de tempo e modo, terminação, forma ou locução e contexto. C. Terminação, ortografia e número de letras. D. Radical, artigo, numeral e adjetivo. E. Apenas procurar o auxiliar.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar o método RITMO
+
     **Resposta: B.**
 
     **A está errada:** inclui critérios irrelevantes e omite pessoa. **B está certa:** reproduz RITMO da base ao contexto. **C está errada:** não recupera as informações verbais. **D está errada:** aplica categorias nominais. **E está errada:** nem toda forma integra locução.
@@ -291,15 +291,15 @@ A. Contexto, tamanho, acento e classe nominal. B. Radical, informação de tempo
 
 ### Questão 10
 
-**Habilidade:** analisar forma verbal completa
 
-**Dificuldade:** difícil — combina verbo de origem, pessoa, número e tempo
-
+**Dificuldade:** difícil
 *Estudaremos* corresponde a:
 
 A. infinitivo impessoal. B. terceira pessoa plural do presente. C. primeira pessoa singular do passado. D. primeira pessoa plural do futuro do presente. E. particípio.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** analisar forma verbal completa
+
     **Resposta: D.**
 
     **A está errada:** o infinitivo é *estudar*. **B está errada:** não indica presente nem “eles”. **C está errada:** não indica passado nem singular. **D está certa:** equivale a “nós estudaremos”. **E está errada:** o particípio é *estudado*.

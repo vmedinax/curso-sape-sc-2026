@@ -33,14 +33,14 @@ last_reviewed: 2026-08-04
 
 **10.** Quanto à tipologia, predomina: A) narração literária. B) descrição física. C) injunção exclusiva. D) exposição com movimento argumentativo. E) diálogo teatral.
 
-## Gabarito
+??? success "Mostrar gabarito e comentários"
+    | Questão | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+    |---|---|---|---|---|---|---|---|---|---|
+    | Resposta | B | C | A | D | B | E | A | C | B | D |
 
-| Questão | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Resposta | B | C | A | D | B | E | A | C | B | D |
-
-??? success "Comentários"
     **1 B:** recupera a primeira frase; as demais alteram objeto ou frequência. **2 C:** *continua disponível* preserva a íntegra. **3 A:** abrange o campo do texto. **4 D:** reúne iniciativa, resultado e cautela. **5 B:** a ressalva demonstra cautela. **6 E:** *todos/todas* amplia o dado. **7 A:** *continua* pressupõe estado anterior. **8 C:** descreve as três funções do trecho. **9 B:** essas razões aparecem antes de *portanto*. **10 D:** o texto apresenta informações e sustenta uma recomendação; não é sequência injuntiva exclusiva.
+
+    **Se errou, revise:** questões 1–2, informação explícita; 3–4, assunto e ideia principal; 5–6, inferência e extrapolação; 7, pressuposto; 8 e 10, finalidade e tipologia; 9, tese e argumento.
 
 ## Desempenho
 

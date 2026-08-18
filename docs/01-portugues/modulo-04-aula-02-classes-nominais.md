@@ -129,15 +129,15 @@ As questões são autorais. O gabarito usa cada letra duas vezes, sem sequência
 
 ### Questão 1
 
-**Habilidade:** reconhecer adjetivo relacional
 
-**Dificuldade:** fácil — a palavra acompanha um substantivo
-
+**Dificuldade:** fácil
 Em “medida administrativa”, *administrativa* é:
 
 A. substantivo. B. artigo. C. numeral. D. adjetivo. E. verbo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adjetivo relacional
+
     **Resposta: D.**
 
     **A está errada:** *medida* é o núcleo nomeador. **B está errada:** não determina o substantivo. **C está errada:** não quantifica nem ordena. **D está certa:** relaciona a medida à Administração. **E está errada:** não expressa processo nem se flexiona verbalmente.
@@ -146,15 +146,15 @@ A. substantivo. B. artigo. C. numeral. D. adjetivo. E. verbo.
 
 ### Questão 2
 
-**Habilidade:** reconhecer numeral ordinal
 
-**Dificuldade:** fácil — a palavra indica posição numa sequência
-
+**Dificuldade:** fácil
 Em “a segunda etapa”, *segunda* é:
 
 A. numeral ordinal. B. artigo. C. advérbio. D. preposição. E. interjeição.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer numeral ordinal
+
     **Resposta: A.**
 
     **A está certa:** indica ordem. **B está errada:** *a* é o artigo. **C está errada:** não modifica verbo ou adjetivo. **D está errada:** não liga termos. **E está errada:** não expressa reação independente.
@@ -163,15 +163,15 @@ A. numeral ordinal. B. artigo. C. advérbio. D. preposição. E. interjeição.
 
 ### Questão 3
 
-**Habilidade:** reconhecer emprego substantivo
 
-**Dificuldade:** média — a mesma forma pode ser adjetivo em outro contexto
-
+**Dificuldade:** média
 Em “O público entrou”, *público* funciona como:
 
 A. artigo. B. substantivo. C. adjetivo. D. numeral. E. conjunção.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer emprego substantivo
+
     **Resposta: B.**
 
     **A está errada:** *o* é o artigo. **B está certa:** *público* é o núcleo nomeador do grupo. **C está errada:** seria adjetivo em “serviço público”. **D está errada:** não há quantidade ou ordem. **E está errada:** não conecta orações.
@@ -180,15 +180,15 @@ A. artigo. B. substantivo. C. adjetivo. D. numeral. E. conjunção.
 
 ### Questão 4
 
-**Habilidade:** localizar núcleo nominal
 
-**Dificuldade:** fácil — o grupo possui um nome central explícito
-
+**Dificuldade:** fácil
 Em “os dois novos relatórios”, o núcleo é:
 
 A. *os*. B. *dois*. C. *novos*. D. todo o grupo sem palavra central. E. *relatórios*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** localizar núcleo nominal
+
     **Resposta: E.**
 
     **A está errada:** é artigo. **B está errada:** é numeral. **C está errada:** é adjetivo. **D está errada:** o grupo se organiza em torno de um nome. **E está certa:** nomeia os documentos e recebe os acompanhantes.
@@ -197,15 +197,15 @@ A. *os*. B. *dois*. C. *novos*. D. todo o grupo sem palavra central. E. *relató
 
 ### Questão 5
 
-**Habilidade:** distinguir artigo de numeral
 
-**Dificuldade:** difícil — a mesma forma exige interpretação contextual
-
+**Dificuldade:** difícil
 Em “Recebi um relatório; preciso de mais um”, o segundo *um* tem valor predominante de:
 
 A. artigo definido. B. adjetivo. C. numeral. D. advérbio. E. preposição.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir artigo de numeral
+
     **Resposta: C.**
 
     **A está errada:** *um* não é artigo definido. **B está errada:** não caracteriza o relatório. **C está certa:** a oposição quantitativa indica uma unidade adicional. **D está errada:** não modifica verbo. **E está errada:** não cria relação entre termos.
@@ -214,15 +214,15 @@ A. artigo definido. B. adjetivo. C. numeral. D. advérbio. E. preposição.
 
 ### Questão 6
 
-**Habilidade:** reconhecer substantivação contextual
 
-**Dificuldade:** média — exige analisar o artigo e o núcleo
-
+**Dificuldade:** média
 Em “o novo chamou atenção”, *novo*:
 
 A. nunca deixa de ser acompanhante. B. foi empregado como núcleo substantivado. C. tornou-se verbo. D. é numeral ordinal. E. é preposição.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer substantivação contextual
+
     **Resposta: B.**
 
     **A está errada:** o artigo permite que a forma ocupe o núcleo. **B está certa:** *novo* nomeia a pessoa ou coisa nova no contexto. **C está errada:** não expressa processo. **D está errada:** não indica ordem. **E está errada:** não liga termos.
@@ -231,15 +231,15 @@ A. nunca deixa de ser acompanhante. B. foi empregado como núcleo substantivado.
 
 ### Questão 7
 
-**Habilidade:** reconhecer artigo definido e indefinido
 
-**Dificuldade:** média — exige acompanhar a progressão referencial
-
+**Dificuldade:** média
 Em “Um servidor procurou a chefia. O servidor voltou”, a troca de *um* por *o* indica que:
 
 A. o referente passa de não identificado a identificável no texto. B. o segundo termo virou numeral. C. *servidor* deixou de ser substantivo. D. o artigo definido expressa quantidade. E. não houve mudança de efeito.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer artigo definido e indefinido
+
     **Resposta: A.**
 
     **A está certa:** a primeira menção introduz; a segunda retoma. **B está errada:** *o* não é numeral. **C está errada:** *servidor* continua núcleo nominal. **D está errada:** o artigo determina o referente. **E está errada:** a identificabilidade mudou.
@@ -248,15 +248,15 @@ A. o referente passa de não identificado a identificável no texto. B. o segund
 
 ### Questão 8
 
-**Habilidade:** separar numeral de adjetivo
 
-**Dificuldade:** média — dois acompanhantes contribuem de modos diferentes
-
+**Dificuldade:** média
 Em “três mensagens urgentes”, *três* e *urgentes* são, respectivamente:
 
 A. artigo e numeral. B. adjetivo e substantivo. C. pronome e verbo. D. numeral e adjetivo. E. substantivo e artigo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** separar numeral de adjetivo
+
     **Resposta: D.**
 
     **A está errada:** *três* quantifica, não determina como artigo. **B está errada:** inverte e altera as classes. **C está errada:** nenhuma forma substitui nome ou expressa processo. **D está certa:** uma quantifica; a outra caracteriza. **E está errada:** *mensagens* é o substantivo.
@@ -265,15 +265,15 @@ A. artigo e numeral. B. adjetivo e substantivo. C. pronome e verbo. D. numeral e
 
 ### Questão 9
 
-**Habilidade:** reconhecer adjetivo em oposição a substantivo
 
-**Dificuldade:** difícil — compara a mesma forma em dois grupos
-
+**Dificuldade:** difícil
 Em “o público aguardou” e “o serviço público funcionou”, *público* é, respectivamente:
 
 A. artigo e pronome. B. adjetivo e substantivo. C. substantivo e adjetivo. D. numeral e advérbio. E. verbo e preposição.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer adjetivo em oposição a substantivo
+
     **Resposta: C.**
 
     **A está errada:** não determina nem substitui nome. **B está errada:** inverte os usos. **C está certa:** primeiro é núcleo; depois caracteriza *serviço*. **D está errada:** não quantifica nem modifica verbo. **E está errada:** não expressa ação nem conecta termos.
@@ -282,15 +282,15 @@ A. artigo e pronome. B. adjetivo e substantivo. C. substantivo e adjetivo. D. nu
 
 ### Questão 10
 
-**Habilidade:** aplicar integralmente o método NADA
 
-**Dificuldade:** difícil — exige classificar quatro elementos de um grupo
-
+**Dificuldade:** difícil
 Em “as três medidas administrativas urgentes”, a análise correta é:
 
 A. *as* numeral; *três* artigo; *medidas* adjetivo; demais substantivos. B. todas as palavras são adjetivos. C. *as* pronome; *três* advérbio; *medidas* verbo. D. não há núcleo nominal. E. *medidas* é núcleo; *as* determina; *três* quantifica; *administrativas* e *urgentes* caracterizam.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar integralmente o método NADA
+
     **Resposta: E.**
 
     **A está errada:** troca todas as contribuições. **B está errada:** o grupo contém artigo, numeral, substantivo e adjetivos. **C está errada:** nenhuma classificação corresponde ao uso. **D está errada:** *medidas* organiza o grupo. **E está certa:** aplica núcleo, artigo, descrição e aritmética.

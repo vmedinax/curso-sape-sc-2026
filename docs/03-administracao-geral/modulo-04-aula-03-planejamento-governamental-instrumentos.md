@@ -251,11 +251,11 @@ C. substitui o PPA
 D. possui vigência obrigatória de quatro anos  
 E. elimina a necessidade de LDO
 
-## Gabarito comentado
+??? success "Mostrar gabarito comentado"
 
-1. **C.** Essa é a função constitucional geral do PPA.
-2. **A.** A LDO liga o planejamento mais amplo ao orçamento anual.
-3. **B.** A LOA trabalha com receitas estimadas e despesas fixadas para o exercício.
+    1. **C.** Essa é a função constitucional geral do PPA.
+    2. **A.** A LDO liga o planejamento mais amplo ao orçamento anual.
+    3. **B.** A LOA trabalha com receitas estimadas e despesas fixadas para o exercício.
 
 ## Checklist
 

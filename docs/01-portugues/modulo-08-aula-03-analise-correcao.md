@@ -114,10 +114,8 @@ Reescreva uma solicitação vaga, acrescente assunto informativo e corrija um pr
 
 ### Questão 1
 
-**Habilidade:** reconhecer correção de vagueza em comunicação autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **correção de vagueza**?
 
 A. A reunião ocorrerá em 12 de agosto, às 9 horas, na sala 3.
@@ -127,6 +125,8 @@ D. A diretora comunicou à servidora: o pedido da servidora foi deferido.
 E. Vossa Senhoria encaminhará seu parecer.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer correção de vagueza em comunicação autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** A versão substitui referências vagas por dados verificáveis.
@@ -143,10 +143,8 @@ E. Vossa Senhoria encaminhará seu parecer.
 
 ### Questão 2
 
-**Habilidade:** reconhecer correção de prolixidade em comunicação autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **correção de prolixidade**?
 
 A. A reunião ocorrerá em 12 de agosto, às 9 horas, na sala 3.
@@ -156,6 +154,8 @@ D. A diretora comunicou à servidora: o pedido da servidora foi deferido.
 E. Vossa Senhoria encaminhará seu parecer.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer correção de prolixidade em comunicação autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** o trecho exemplifica correção de vagueza, pois a versão substitui referências vagas por dados verificáveis; não exemplifica correção de prolixidade.
@@ -172,10 +172,8 @@ E. Vossa Senhoria encaminhará seu parecer.
 
 ### Questão 3
 
-**Habilidade:** reconhecer correção de informalidade em comunicação autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **correção de informalidade**?
 
 A. A reunião ocorrerá em 12 de agosto, às 9 horas, na sala 3.
@@ -185,6 +183,8 @@ D. A diretora comunicou à servidora: o pedido da servidora foi deferido.
 E. Vossa Senhoria encaminhará seu parecer.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer correção de informalidade em comunicação autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** o trecho exemplifica correção de vagueza, pois a versão substitui referências vagas por dados verificáveis; não exemplifica correção de informalidade.
@@ -201,10 +201,8 @@ E. Vossa Senhoria encaminhará seu parecer.
 
 ### Questão 4
 
-**Habilidade:** reconhecer correção de ambiguidade em comunicação autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **correção de ambiguidade**?
 
 A. A reunião ocorrerá em 12 de agosto, às 9 horas, na sala 3.
@@ -214,6 +212,8 @@ D. A diretora comunicou à servidora: o pedido da servidora foi deferido.
 E. Vossa Senhoria encaminhará seu parecer.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer correção de ambiguidade em comunicação autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** o trecho exemplifica correção de vagueza, pois a versão substitui referências vagas por dados verificáveis; não exemplifica correção de ambiguidade.
@@ -230,10 +230,8 @@ E. Vossa Senhoria encaminhará seu parecer.
 
 ### Questão 5
 
-**Habilidade:** reconhecer concordância com tratamento em comunicação autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **concordância com tratamento**?
 
 A. A reunião ocorrerá em 12 de agosto, às 9 horas, na sala 3.
@@ -243,6 +241,8 @@ D. A diretora comunicou à servidora: o pedido da servidora foi deferido.
 E. Vossa Senhoria encaminhará seu parecer.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer concordância com tratamento em comunicação autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** o trecho exemplifica correção de vagueza, pois a versão substitui referências vagas por dados verificáveis; não exemplifica concordância com tratamento.
@@ -259,10 +259,8 @@ E. Vossa Senhoria encaminhará seu parecer.
 
 ### Questão 6
 
-**Habilidade:** reconhecer uniformidade de tratamento em comunicação autossuficiente
 
 **Dificuldade:** fácil
-
 Qual alternativa exemplifica corretamente **uniformidade de tratamento**?
 
 A. Senhora Diretora, solicito que encaminhe seu parecer.
@@ -272,6 +270,8 @@ D. Informamos que o pedido foi recebido.
 E. A diretora comunicou à servidora: o pedido da servidora foi deferido.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer uniformidade de tratamento em comunicação autossuficiente
+
     **Resposta: A.**
 
     **A está certa:** Vocativo, verbo e possessivo mantêm a mesma pessoa.
@@ -288,10 +288,8 @@ E. A diretora comunicou à servidora: o pedido da servidora foi deferido.
 
 ### Questão 7
 
-**Habilidade:** reconhecer assunto informativo em comunicação autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **assunto informativo**?
 
 A. A reunião ocorrerá em 12 de agosto, às 9 horas, na sala 3.
@@ -301,6 +299,8 @@ D. Informamos que o pedido foi recebido.
 E. A diretora comunicou à servidora: o pedido da servidora foi deferido.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer assunto informativo em comunicação autossuficiente
+
     **Resposta: B.**
 
     **A está errada:** o trecho exemplifica correção de vagueza, pois a versão substitui referências vagas por dados verificáveis; não exemplifica assunto informativo.
@@ -317,10 +317,8 @@ E. A diretora comunicou à servidora: o pedido da servidora foi deferido.
 
 ### Questão 8
 
-**Habilidade:** reconhecer paralelismo em comunicação autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **paralelismo**?
 
 A. A reunião ocorrerá em 12 de agosto, às 9 horas, na sala 3.
@@ -330,6 +328,8 @@ D. Informamos que o pedido foi recebido.
 E. A diretora comunicou à servidora: o pedido da servidora foi deferido.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer paralelismo em comunicação autossuficiente
+
     **Resposta: C.**
 
     **A está errada:** o trecho exemplifica correção de vagueza, pois a versão substitui referências vagas por dados verificáveis; não exemplifica paralelismo.
@@ -346,10 +346,8 @@ E. A diretora comunicou à servidora: o pedido da servidora foi deferido.
 
 ### Questão 9
 
-**Habilidade:** reconhecer revisão de referência em comunicação autossuficiente
 
 **Dificuldade:** difícil
-
 Qual alternativa exemplifica corretamente **revisão de referência**?
 
 A. A reunião ocorrerá em 12 de agosto, às 9 horas, na sala 3.
@@ -359,6 +357,8 @@ D. O relatório foi anexado ao processo, que seguirá para decisão.
 E. A diretora comunicou à servidora: o pedido da servidora foi deferido.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer revisão de referência em comunicação autossuficiente
+
     **Resposta: D.**
 
     **A está errada:** o trecho exemplifica correção de vagueza, pois a versão substitui referências vagas por dados verificáveis; não exemplifica revisão de referência.
@@ -375,10 +375,8 @@ E. A diretora comunicou à servidora: o pedido da servidora foi deferido.
 
 ### Questão 10
 
-**Habilidade:** reconhecer revisão final completa em comunicação autossuficiente
 
 **Dificuldade:** média
-
 Qual alternativa exemplifica corretamente **revisão final completa**?
 
 A. A reunião ocorrerá em 12 de agosto, às 9 horas, na sala 3.
@@ -388,6 +386,8 @@ D. A diretora comunicou à servidora: o pedido da servidora foi deferido.
 E. Após corrigir conteúdo, estrutura e linguagem, a equipe conferiu destinatário e anexos.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer revisão final completa em comunicação autossuficiente
+
     **Resposta: E.**
 
     **A está errada:** o trecho exemplifica correção de vagueza, pois a versão substitui referências vagas por dados verificáveis; não exemplifica revisão final completa.

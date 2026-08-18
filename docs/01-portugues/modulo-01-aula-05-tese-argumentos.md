@@ -190,9 +190,7 @@ Resolva as dez questões autorais sem consultar a aula.
 
 ### Questão 1
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** identificar argumento
-**Dificuldade:** fácil, porque a razão vem após *porque*
-
+**Dificuldade:** fácil
 “A sinalização deve ser revista, porque visitantes ainda se perdem.” A segunda oração funciona como:
 
 A. exemplo isolado.
@@ -202,6 +200,8 @@ D. condição.
 E. conclusão.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** identificar argumento
+
     **Resposta:** B.
     **A:** não apresenta um caso particular.
     **B:** oferece a razão para a revisão.
@@ -214,9 +214,7 @@ E. conclusão.
 
 ### Questão 2
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer refutação
-**Dificuldade:** média, porque a objeção é plausível
-
+**Dificuldade:** média
 > Alguns alegam que o novo canal custa caro; porém, a redução de retrabalho compensa o investimento.
 
 A segunda parte funciona como:
@@ -228,6 +226,8 @@ D. refutação.
 E. pergunta.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer refutação
+
     **Resposta:** D.
     **A:** o tema é mais amplo que a resposta à objeção.
     **B:** não caracteriza um objeto.
@@ -240,9 +240,7 @@ E. pergunta.
 
 ### Questão 3
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** distinguir tese e tema
-**Dificuldade:** média, porque duas alternativas compartilham vocabulário
-
+**Dificuldade:** média
 Em um texto que defende ciclovias conectadas, qual opção pode funcionar como tese?
 
 A. A cidade deve conectar os trechos de ciclovia para tornar os trajetos mais seguros.
@@ -252,6 +250,8 @@ D. Um mapa das vias.
 E. Três bairros.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir tese e tema
+
     **Resposta:** A.
     **A:** formula uma posição passível de defesa.
     **B:** nomeia assunto amplo.
@@ -264,9 +264,7 @@ E. Três bairros.
 
 ### Questão 4
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer dado de apoio
-**Dificuldade:** média, porque o número aparece junto da conclusão
-
+**Dificuldade:** média
 > O treinamento deve continuar porque reduz falhas. Após a primeira turma, erros de cadastro caíram de 30 para 12.
 
 O trecho “de 30 para 12” é:
@@ -278,6 +276,8 @@ D. o assunto geral.
 E. um dado que apoia o argumento.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer dado de apoio
+
     **Resposta:** E.
     **A:** a tese é a continuidade do treinamento.
     **B:** o número favorece a posição.
@@ -290,9 +290,7 @@ E. um dado que apoia o argumento.
 
 ### Questão 5
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** identificar contra-argumento
-**Dificuldade:** média, porque o autor o apresenta antes de responder
-
+**Dificuldade:** média
 > Embora a digitalização exija adaptação inicial, ela reduz etapas repetitivas.
 
 A oração inicial apresenta:
@@ -304,6 +302,8 @@ D. exemplo de redução.
 E. ordem ao leitor.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** identificar contra-argumento
+
     **Resposta:** C.
     **A:** não conclui o raciocínio.
     **B:** a direção defendida aparece na redução de etapas.
@@ -316,9 +316,7 @@ E. ordem ao leitor.
 
 ### Questão 6
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** formular tese global
-**Dificuldade:** difícil, porque há razões e exemplo concorrentes
-
+**Dificuldade:** difícil
 > Filas longas dificultam o acesso ao serviço. O agendamento distribui a demanda ao longo do dia. Em uma unidade, a espera média caiu após sua adoção. Por isso, o agendamento deve ser ampliado.
 
 A tese é:
@@ -330,6 +328,8 @@ D. A demanda ocorre ao longo do dia.
 E. Todo usuário prefere aplicativos.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** formular tese global
+
     **Resposta:** B.
     **A:** é uma constatação usada no problema.
     **B:** formula a posição concluída pelas razões.
@@ -342,9 +342,7 @@ E. Todo usuário prefere aplicativos.
 
 ### Questão 7
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** distinguir exemplo de argumento
-**Dificuldade:** fácil, porque há marca de exemplificação
-
+**Dificuldade:** fácil
 > A comunicação clara reduz dúvidas. Por exemplo, instruções com etapas numeradas diminuem perguntas sobre o preenchimento.
 
 A segunda frase é:
@@ -356,6 +354,8 @@ D. uma pergunta retórica.
 E. um contra-argumento.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir exemplo de argumento
+
     **Resposta:** A.
     **A:** apresenta um caso da clareza aplicada.
     **B:** favorece, não contraria, a primeira ideia.
@@ -368,9 +368,7 @@ E. um contra-argumento.
 
 ### Questão 8
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** aplicar TRAÇO
-**Dificuldade:** difícil, porque exige reconstruir quatro funções
-
+**Dificuldade:** difícil
 > A biblioteca deve ampliar o horário. Muitos estudantes trabalham durante o dia. O custo aumentará, mas parcerias podem cobrir parte da despesa. Assim, um projeto-piloto noturno é recomendável.
 
 Qual análise é correta?
@@ -382,6 +380,8 @@ D. O texto apresenta tese, razão, objeção, resposta e conclusão prática.
 E. Não existe argumentação.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar TRAÇO
+
     **Resposta:** D.
     **A:** a frase justifica a ampliação.
     **B:** o custo é objeção.
@@ -394,9 +394,7 @@ E. Não existe argumentação.
 
 ### Questão 9
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** reconhecer função de conclusão
-**Dificuldade:** média, porque a conclusão também contém recomendação
-
+**Dificuldade:** média
 > Os testes reduziram erros e o custo permaneceu dentro do previsto. Portanto, o projeto deve continuar.
 
 O último período:
@@ -408,6 +406,8 @@ D. descreve a aparência do projeto.
 E. narra fato sem relação.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer função de conclusão
+
     **Resposta:** C.
     **A:** há uma posição completa.
     **B:** não introduz objeção; favorece a continuidade do projeto.
@@ -420,9 +420,7 @@ E. narra fato sem relação.
 
 ### Questão 10
 **Tipo:** questão autoral no estilo de concurso
-**Habilidade:** integrar tese e refutação
-**Dificuldade:** difícil, porque a objeção repete o tema central
-
+**Dificuldade:** difícil
 > Há quem considere desnecessária a linguagem simples em documentos técnicos. Contudo, o rigor não depende de frases obscuras; requisitos precisos podem ser explicados com clareza. Por isso, a revisão da linguagem deve preservar os termos técnicos e simplificar a redação.
 
 Qual alternativa representa a posição do texto?
@@ -434,6 +432,8 @@ D. A objeção à clareza é aceita integralmente.
 E. Clareza e precisão podem coexistir na revisão dos documentos.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** integrar tese e refutação
+
     **Resposta:** E.
     **A:** a conclusão manda preservar termos técnicos.
     **B:** o texto defende requisitos precisos.

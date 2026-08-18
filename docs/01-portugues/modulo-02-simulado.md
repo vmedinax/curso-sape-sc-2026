@@ -15,21 +15,21 @@ last_reviewed: 2026-08-04
 
 **1.** O uso de “labirinto” é: A) denotativo. B) conotativo. C) regional obrigatório. D) erro ortográfico. E) termo jurídico.
 
-**2.** A imagem do labirinto destaca: A) corredores reais. B) beleza do prédio. C) dificuldade de localização. D) rapidez absoluta. E) tamanho da equipe.
+**2.** A imagem do labirinto destaca: A) corredores reais. B) beleza do prédio. C) rapidez absoluta. D) dificuldade de localização. E) tamanho da equipe.
 
-**3.** “Cria uma ponte” indica: A) obra física. B) aproximação entre informação e usuário. C) fim de todo obstáculo. D) mudança de prédio. E) contratação.
+**3.** “Cria uma ponte” indica: A) obra física. B) contratação. C) fim de todo obstáculo. D) mudança de prédio. E) aproximação entre informação e usuário.
 
 **4.** A figura presente em “cria uma ponte” é principalmente: A) metáfora. B) eufemismo. C) antítese. D) hipérbole. E) comparação explícita.
 
-**5.** *Contudo* introduz: A) causa. B) finalidade. C) contraste. D) condição. E) enumeração.
+**5.** *Contudo* introduz: A) causa. B) finalidade. C) condição. D) contraste. E) enumeração.
 
-**6.** *Essa mudança* retoma: A) apenas o apelido. B) explicação dos termos no novo contexto. C) corredores. D) avisos futuros apenas. E) abreviações regionais.
+**6.** *Essa mudança* retoma: A) apenas o apelido. B) abreviações regionais. C) corredores. D) avisos futuros apenas. E) explicação dos termos no novo contexto.
 
 **7.** A opção por substituir abreviações internas considera principalmente: A) adequação ao público. B) variação histórica. C) metáfora. D) rima. E) pronúncia regional.
 
-**8.** O texto é coerente ao afirmar que a mudança: A) resolve tudo. B) nada altera. C) ajuda sem eliminar todos os obstáculos. D) impede explicações. E) retira termos indispensáveis.
+**8.** O texto é coerente ao afirmar que a mudança: A) resolve tudo. B) nada altera. C) impede explicações. D) ajuda sem eliminar todos os obstáculos. E) retira termos indispensáveis.
 
-**9.** Formalidade, segundo o caso, é compatível com: A) obscuridade. B) clareza para o destinatário. C) abreviação incompreensível. D) palavras raras obrigatórias. E) ausência de finalidade.
+**9.** Formalidade, segundo o caso, é compatível com: A) obscuridade. B) ausência de finalidade. C) abreviação incompreensível. D) palavras raras obrigatórias. E) clareza para o destinatário.
 
 **10.** A ideia que integra o texto é: A) linguagem técnica deve desaparecer. B) toda mensagem deve ser informal. C) escolhas adequadas podem tornar informação administrativa mais acessível. D) figuras são proibidas. E) usuários conhecem abreviações internas.
 
@@ -39,14 +39,12 @@ last_reviewed: 2026-08-04
 |---|---|---|---|---|---|---|---|---|---|---|
 | Resposta |  |  |  |  |  |  |  |  |  |  |
 
-## Gabarito
+??? success "Mostrar gabarito e comentários completos"
+    | Questão | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+    |---|---|---|---|---|---|---|---|---|---|---|
+    | Resposta | B | D | E | A | D | E | A | D | E | C |
 
-| Questão | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Resposta | B | C | B | A | C | B | A | C | B | C |
-
-??? success "Comentários completos"
-    **1 B:** a leitura física é negada. **2 C:** o próprio texto oferece a paráfrase. **3 B:** a ponte aproxima duas partes. **4 A:** a aproximação ocorre sem conectivo comparativo. **5 C:** opõe limite e benefício. **6 B:** resume a manutenção com explicação. **7 A:** o público controla a escolha. **8 C:** preserva a ressalva. **9 B:** formalidade e clareza convivem. **10 C:** reúne adequação, explicação e acesso. As alternativas restantes literalizam imagens, absolutizam conclusões ou contradizem informações expressas.
+    **1 B:** a leitura física é negada. **2 D:** o próprio texto oferece a paráfrase. **3 E:** a ponte aproxima duas partes. **4 A:** a aproximação ocorre sem conectivo comparativo. **5 D:** opõe limite e benefício. **6 E:** resume a manutenção com explicação. **7 A:** o público controla a escolha. **8 D:** preserva a ressalva. **9 E:** formalidade e clareza convivem. **10 C:** reúne adequação, explicação e acesso. As alternativas restantes literalizam imagens, absolutizam conclusões ou contradizem informações expressas.
 
 ## Diagnóstico
 

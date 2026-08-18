@@ -4,8 +4,7 @@ As dez questões são autorais e não repetem os enunciados do banco comentado.
 
 ## Questão 1
 
-**Dificuldade:** fácil — exige reconhecer um traço patrimonialista
-
+**Dificuldade:** fácil
 Uma chefia distribui funções públicas como recompensa a aliados pessoais, sem considerar os critérios do cargo. O comportamento é:
 
 A. societal.
@@ -27,11 +26,10 @@ E. matricial.
 
 ## Questão 2
 
-**Dificuldade:** média — exige separar contribuição e disfunção burocrática
-
+**Dificuldade:** média
 Assinale a alternativa correta.
 
-A. Toda regra formal é uma disfunção.
+A. Toda regra formal é uma disfunção, ainda que proteja a impessoalidade e permita conferir posteriormente os critérios usados.
 B. Impessoalidade favorece o uso pessoal do cargo.
 C. Registros impedem qualquer controle.
 D. Profissionalização significa escolha por amizade.
@@ -50,8 +48,7 @@ E. Regras podem proteger a impessoalidade, mas formalidade sem finalidade pode v
 
 ## Questão 3
 
-**Dificuldade:** difícil — combina autonomia, resultado e responsabilidade
-
+**Dificuldade:** difícil
 Uma gerente pode escolher como distribuir a equipe, dentro de limites definidos. Ela deve demonstrar depois os resultados e explicar suas escolhas.
 
 O caso reúne:
@@ -75,8 +72,7 @@ E. estrutura informal e sistema fechado.
 
 ## Questão 4
 
-**Dificuldade:** média — exige reconhecer Nova Gestão Pública sem exagero
-
+**Dificuldade:** média
 Qual proposta é compatível com a Nova Gestão Pública?
 
 A. Usar avaliação de desempenho e metas, adaptadas às finalidades e regras públicas.
@@ -98,14 +94,13 @@ E. Impedir qualquer autonomia de gestão.
 
 ## Questão 5
 
-**Dificuldade:** difícil — exige separar consulta e decisão
-
+**Dificuldade:** difícil
 Um conselho apresenta propostas. A autoridade analisa as contribuições, rejeita uma opção proibida e explica publicamente sua decisão.
 
 Qual análise está correta?
 
 A. A participação eliminou a competência da autoridade.
-B. A proposta do conselho sempre deve prevalecer.
+B. A proposta do conselho sempre deve prevalecer, mesmo quando viola regra ou direito protegido, porque a participação substitui a competência da autoridade.
 C. Rejeitar uma proposta transforma o caso em patrimonialismo.
 D. Participação e responsabilidade estatal foram preservadas dentro dos limites jurídicos.
 E. O caso não possui participação.
@@ -123,8 +118,7 @@ E. O caso não possui participação.
 
 ## Questão 6
 
-**Dificuldade:** fácil — exige reconhecer controle social
-
+**Dificuldade:** fácil
 Cidadãos acompanham dados de um programa e cobram explicações sobre os resultados. Isso é:
 
 A. controle patrimonial.
@@ -146,8 +140,7 @@ E. estrutura funcional.
 
 ## Questão 7
 
-**Dificuldade:** média — exige reconhecer a sequência de governança
-
+**Dificuldade:** média
 A direção examina riscos, define prioridades e acompanha a atuação das equipes. A sequência é:
 
 A. avaliar, direcionar e monitorar.
@@ -169,8 +162,7 @@ E. planejar, descentralizar e delegar.
 
 ## Questão 8
 
-**Dificuldade:** difícil — combina liderança, estratégia e controle
-
+**Dificuldade:** difícil
 Uma organização define papéis e conduta da direção, escolhe objetivos a partir das necessidades públicas e acompanha riscos e prestação de contas.
 
 Os três movimentos correspondem a:
@@ -194,11 +186,10 @@ E. entrada, transformação e saída.
 
 ## Questão 9
 
-**Dificuldade:** média — exige aplicar transparência útil
-
+**Dificuldade:** média
 Qual situação favorece melhor a prestação de contas?
 
-A. Publicar dados sem título ou explicação.
+A. Publicar dados sem título ou explicação, pois o volume disponibilizado seria suficiente para demonstrar resultados e justificar escolhas públicas.
 B. Informar somente que “deu tudo certo”.
 C. Esconder metas para evitar cobrança.
 D. Apresentar apenas o volume de documentos.
@@ -217,8 +208,7 @@ E. Explicar escolhas, metas, resultados e limites com informação compreensíve
 
 ## Questão 10
 
-**Dificuldade:** fácil — exige separar governança e gestão
-
+**Dificuldade:** fácil
 Assinale a alternativa correta.
 
 A. Gestão elimina a necessidade de direção.

@@ -139,15 +139,15 @@ As questões são autorais. O gabarito usa cada letra duas vezes, sem sequência
 
 ### Questão 1
 
-**Habilidade:** reconhecer hiato
 
-**Dificuldade:** fácil — a separação silábica evidencia o encontro
-
+**Dificuldade:** fácil
 Apresenta hiato:
 
 A. *pai*. B. *céu*. C. *saída*. D. *quadro*. E. *muito*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer hiato
+
     **Resposta: C.**
 
     **A está errada:** *pai* mantém os sons vocálicos na mesma sílaba. **B está errada:** *céu* contém ditongo. **C está certa:** sa-í-da separa os dois núcleos vocálicos. **D está errada:** *qua* permanece na mesma sílaba. **E está errada:** a análise usual mantém o encontro na mesma sílaba.
@@ -156,15 +156,15 @@ A. *pai*. B. *céu*. C. *saída*. D. *quadro*. E. *muito*.
 
 ### Questão 2
 
-**Habilidade:** reconhecer dígrafo consonantal
 
-**Dificuldade:** fácil — exige relacionar duas letras a um som
-
+**Dificuldade:** fácil
 Em *chave*, *ch* é:
 
 A. hiato. B. encontro consonantal com dois sons. C. tritongo. D. dígrafo. E. ditongo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer dígrafo consonantal
+
     **Resposta: D.**
 
     **A está errada:** hiato envolve vogais em sílabas diferentes. **B está errada:** *ch* representa um fonema. **C está errada:** tritongo reúne três sons vocálicos. **D está certa:** duas letras representam um único som consonantal. **E está errada:** ditongo é encontro vocálico.
@@ -173,15 +173,15 @@ A. hiato. B. encontro consonantal com dois sons. C. tritongo. D. dígrafo. E. di
 
 ### Questão 3
 
-**Habilidade:** distinguir encontro consonantal de dígrafo
 
-**Dificuldade:** média — exige usar a relação entre grafia e som
-
+**Dificuldade:** média
 A diferença essencial entre encontro consonantal e dígrafo está:
 
 A. na quantidade de sílabas. B. na relação entre letras e sons. C. na presença de acento. D. no tamanho da palavra. E. na posição tônica.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** distinguir encontro consonantal de dígrafo
+
     **Resposta: B.**
 
     **A está errada:** ambos podem ocorrer em palavras com diferentes números de sílabas. **B está certa:** o encontro conserva sons; o dígrafo reúne letras para um fonema. **C está errada:** acento gráfico não define nenhum dos casos. **D está errada:** extensão é irrelevante. **E está errada:** tonicidade é outra análise.
@@ -190,15 +190,15 @@ A. na quantidade de sílabas. B. na relação entre letras e sons. C. na presen�
 
 ### Questão 4
 
-**Habilidade:** reconhecer ditongo
 
-**Dificuldade:** fácil — os sons permanecem em uma sílaba
-
+**Dificuldade:** fácil
 Qual palavra contém ditongo?
 
 A. *pai*. B. *saída*. C. *cooperar*. D. *país*. E. *baú*.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer ditongo
+
     **Resposta: A.**
 
     **A está certa:** *pai* possui vogal e semivogal na mesma sílaba. **B está errada:** sa-í-da contém hiato. **C está errada:** co-o-pe-rar separa os núcleos iniciais. **D está errada:** pa-ís contém hiato. **E está errada:** ba-ú também separa as vogais.
@@ -207,15 +207,15 @@ A. *pai*. B. *saída*. C. *cooperar*. D. *país*. E. *baú*.
 
 ### Questão 5
 
-**Habilidade:** reconhecer tritongo
 
-**Dificuldade:** média — exige identificar três sons numa sílaba
-
+**Dificuldade:** média
 Em *Paraguai*, o grupo final *uai* forma:
 
 A. hiato. B. encontro consonantal. C. dígrafo. D. ditongo. E. tritongo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer tritongo
+
     **Resposta: E.**
 
     **A está errada:** os sons não se distribuem por sílabas diferentes. **B está errada:** o grupo é vocálico. **C está errada:** não há duas letras para um único fonema consonantal. **D está errada:** há três elementos vocálicos, não dois. **E está certa:** semivogal, vogal e semivogal ficam na mesma sílaba.
@@ -224,15 +224,15 @@ A. hiato. B. encontro consonantal. C. dígrafo. D. ditongo. E. tritongo.
 
 ### Questão 6
 
-**Habilidade:** reconhecer encontro consonantal
 
-**Dificuldade:** fácil — as consoantes preservam seus sons
-
+**Dificuldade:** fácil
 Em *prato*, *pr* representa:
 
 A. encontro consonantal. B. dígrafo vocálico. C. dígrafo consonantal. D. hiato. E. tritongo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer encontro consonantal
+
     **Resposta: A.**
 
     **A está certa:** *p* e *r* mantêm sons distintos. **B está errada:** o grupo é consonantal. **C está errada:** duas letras não se unem num único fonema. **D está errada:** hiato envolve vogais. **E está errada:** tritongo também envolve sons vocálicos.
@@ -241,15 +241,15 @@ A. encontro consonantal. B. dígrafo vocálico. C. dígrafo consonantal. D. hiat
 
 ### Questão 7
 
-**Habilidade:** analisar dígrafo separável
 
-**Dificuldade:** difícil — exige abandonar a regra falsa da inseparabilidade
-
+**Dificuldade:** difícil
 Em *carro*, *rr* é dígrafo embora as letras se separem em car-ro porque:
 
 A. toda consoante duplicada produz dois fonemas. B. a separação silábica é o único critério. C. *rr* representa um único fonema na palavra. D. a palavra é paroxítona. E. existe encontro vocálico.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** analisar dígrafo separável
+
     **Resposta: C.**
 
     **A está errada:** em *rr*, duas letras representam um som. **B está errada:** a relação entre letras e fonemas é decisiva. **C está certa:** a unidade sonora justifica o dígrafo. **D está errada:** tonicidade não define dígrafo. **E está errada:** o grupo analisado é consonantal.
@@ -258,15 +258,15 @@ A. toda consoante duplicada produz dois fonemas. B. a separação silábica é o
 
 ### Questão 8
 
-**Habilidade:** reconhecer dígrafo vocálico na análise escolar
 
-**Dificuldade:** difícil — exige observar a nasalização
-
+**Dificuldade:** difícil
 Na análise escolar de *campo*, a sequência *am* pode ser tratada como dígrafo vocálico porque:
 
 A. há duas sílabas tônicas. B. *m* contribui para nasalizar a vogal. C. *a* e *m* são duas vogais. D. o grupo forma tritongo. E. as letras representam dois sons consonantais.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** reconhecer dígrafo vocálico na análise escolar
+
     **Resposta: B.**
 
     **A está errada:** a palavra possui uma tônica principal. **B está certa:** o *m* marca a nasalidade da vogal nessa posição. **C está errada:** *m* é consoante gráfica. **D está errada:** não há três sons vocálicos. **E está errada:** o grupo não reúne duas consoantes.
@@ -275,15 +275,15 @@ A. há duas sílabas tônicas. B. *m* contribui para nasalizar a vogal. C. *a* e
 
 ### Questão 9
 
-**Habilidade:** aplicar o método SOL
 
-**Dificuldade:** média — exige seguir o procedimento completo
-
+**Dificuldade:** média
 Qual procedimento é mais seguro para classificar um encontro?
 
 A. Contar letras e encerrar a análise. B. Procurar acento gráfico. C. Escolher pela aparência. D. Separar sílabas, ouvir os sons e ligar o resultado ao conceito. E. Considerar toda sequência de vogais um ditongo.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar o método SOL
+
     **Resposta: D.**
 
     **A está errada:** letras e fonemas não têm relação de um para um. **B está errada:** acento não decide o tipo de encontro. **C está errada:** aparência pode confundir hiato e ditongo. **D está certa:** corresponde ao método SOL. **E está errada:** vogais próximas podem formar hiato.
@@ -292,15 +292,15 @@ A. Contar letras e encerrar a análise. B. Procurar acento gráfico. C. Escolher
 
 ### Questão 10
 
-**Habilidade:** integrar separação silábica e análise sonora
 
-**Dificuldade:** difícil — compara fenômenos próximos
-
+**Dificuldade:** difícil
 Assinale a afirmação correta.
 
 A. Todo dígrafo permanece na mesma sílaba. B. Todo encontro consonantal representa um som. C. Hiato mantém vogais na mesma sílaba. D. Ditongo sempre ocupa duas sílabas. E. A separação ajuda, mas a quantidade de sons é indispensável para reconhecer dígrafos.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** integrar separação silábica e análise sonora
+
     **Resposta: E.**
 
     **A está errada:** *rr* e *ss* se separam. **B está errada:** encontro consonantal preserva sons distintos. **C está errada:** hiato separa os núcleos. **D está errada:** ditongo ocorre numa sílaba. **E está certa:** o diagnóstico combina divisão e relação entre letras e fonemas.

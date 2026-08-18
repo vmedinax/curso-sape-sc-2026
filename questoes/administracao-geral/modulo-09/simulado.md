@@ -77,7 +77,7 @@ A área de tecnologia define seu plano para apoiar a direção institucional. At
     **Resposta: D.** Tático traduz a direção para uma área.
 
 ### Questão 15
-Qual item é indicador, e não meta? A. diminuir espera. B. ser referência. C. treinar equipe. D. 8 dias até dezembro. E. prazo médio de atendimento em dias.
+Qual item é indicador, e não meta? A. diminuir o tempo de espera em todas as unidades até que o atendimento seja considerado excelente. B. ser referência. C. treinar equipe. D. 8 dias até dezembro. E. prazo médio de atendimento em dias.
 ??? question "Mostrar resposta e comentário"
     **Resposta: E.** E é medida. D é valor desejado e prazo. A é objetivo; B visão; C iniciativa.
 
@@ -92,7 +92,7 @@ Um indicador mede algo sem ligação com o objetivo. Falta: A. fórmula. B. rele
     **Resposta: B.** Relevância liga medida e objetivo. Os demais não resolvem essa falta.
 
 ### Questão 18
-O mapa atual esconde retrabalho para parecer mais simples. O erro é: A. usar TO BE. B. definir meta. C. não representar fielmente o AS IS. D. medir prazo. E. ouvir executores.
+O mapa atual esconde retrabalho para parecer mais simples. O erro é: A. usar um desenho futuro como referência e omitir deliberadamente etapas reais, porque o AS IS deve mostrar apenas o fluxo desejado. B. definir meta. C. não representar fielmente o AS IS. D. medir prazo. E. ouvir executores.
 ??? question "Mostrar resposta e comentário"
     **Resposta: C.** AS IS registra a prática real. D e E ajudam; A é futuro; B não corrige o mapa.
 
@@ -102,7 +102,7 @@ Uma equipe implanta melhoria, mede, encontra falha e ajusta. A última ação co
     **Resposta: D.** Agir ajusta ou padroniza após verificar.
 
 ### Questão 20
-Uma unidade alcança a meta, mas usa o dobro dos recursos necessários. Houve: A. efetividade certa. B. eficiência máxima. C. impacto. D. economicidade. E. eficácia com possível baixa eficiência.
+Uma unidade alcança a meta, mas usa o dobro dos recursos necessários. Houve: A. efetividade certa, porque cumprir uma meta comprova por si só mudança social e uso ótimo dos recursos empregados. B. eficiência máxima. C. impacto. D. economicidade. E. eficácia com possível baixa eficiência.
 ??? question "Mostrar resposta e comentário"
     **Resposta: E.** Meta atingida indica eficácia; desperdício prejudica eficiência.
 
@@ -206,7 +206,7 @@ Uma pessoa experiente orienta outra em casos complexos. Essa prática é: A. tem
     **Resposta: D.** Mentoria compartilha experiência. As demais não tratam do aprendizado entre pessoas.
 
 ### Questão 40
-O órgão usa dados para decidir, registra a decisão, acompanha resultados e atualiza o manual. Esse ciclo mostra: A. documentos sem uso. B. dado sem contexto. C. decisão sem controle. D. conhecimento parado. E. informação transformada em ação e aprendizado.
+O órgão usa dados para decidir, registra a decisão, acompanha resultados e atualiza o manual. Esse ciclo mostra: A. documentos sem uso, porque registrar decisões e atualizar o manual impediria que a informação orientasse ações futuras. B. dado sem contexto. C. decisão sem controle. D. conhecimento parado. E. informação transformada em ação e aprendizado.
 ??? question "Mostrar resposta e comentário"
     **Resposta: E.** E integra decisão, registro, avaliação e melhoria.
 

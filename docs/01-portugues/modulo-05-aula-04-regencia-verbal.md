@@ -118,10 +118,8 @@ Construa frases com *assistir*, *aspirar* e *visar* em dois sentidos; depois jus
 
 ### Questão 1
 
-**Habilidade:** aplicar regência de assistir em contexto
 
 **Dificuldade:** fácil
-
 Assinale a regência adequada de assistir no sentido de ver.
 
 A. Os candidatos assistiram à palestra.
@@ -131,6 +129,8 @@ D. Os candidatos assistiram da palestra.
 E. Os candidatos assistiram pela palestra.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar regência de assistir em contexto
+
     **Resposta: A.**
 
     **A está certa:** No sentido de ver, assistir rege a; com artigo feminino, ocorre crase.
@@ -147,10 +147,8 @@ E. Os candidatos assistiram pela palestra.
 
 ### Questão 2
 
-**Habilidade:** aplicar regência de obedecer em contexto
 
 **Dificuldade:** média
-
 Assinale a construção adequada com obedecer.
 
 A. Os servidores obedeceram as normas.
@@ -160,6 +158,8 @@ D. Os servidores obedeceram com as normas.
 E. Os servidores obedeceram pelas normas.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar regência de obedecer em contexto
+
     **Resposta: B.**
 
     **A está errada:** “Os servidores obedeceram as normas.” não satisfaz o critério cobrado. Obedecer rege a, que se funde ao artigo as.
@@ -176,10 +176,8 @@ E. Os servidores obedeceram pelas normas.
 
 ### Questão 3
 
-**Habilidade:** aplicar mudança de sentido e regência em contexto
 
 **Dificuldade:** média
-
 No sentido de desejar, complete: O candidato aspira ___ cargo.
 
 A. o
@@ -189,6 +187,8 @@ D. no
 E. pelo
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar mudança de sentido e regência em contexto
+
     **Resposta: C.**
 
     **A está errada:** “o” não satisfaz o critério cobrado. Aspirar no sentido de desejar rege a.
@@ -205,10 +205,8 @@ E. pelo
 
 ### Questão 4
 
-**Habilidade:** aplicar regência de implicar em contexto
 
 **Dificuldade:** difícil
-
 No sentido de acarretar, assinale a forma adequada.
 
 A. A omissão implicará em sanção.
@@ -218,6 +216,8 @@ D. A omissão implicará sanção.
 E. A omissão implicará da sanção.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar regência de implicar em contexto
+
     **Resposta: D.**
 
     **A está errada:** “A omissão implicará em sanção.” não satisfaz o critério cobrado. Implicar no sentido de acarretar é transitivo direto.
@@ -234,10 +234,8 @@ E. A omissão implicará da sanção.
 
 ### Questão 5
 
-**Habilidade:** aplicar regência de preferir em contexto
 
 **Dificuldade:** média
-
 Assinale a construção adequada com preferir.
 
 A. Prefiro mais revisão cuidadosa do que correção apressada.
@@ -247,6 +245,8 @@ D. Prefiro revisão cuidadosa sobre a correção apressada.
 E. Prefiro revisão cuidadosa a correção apressada.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar regência de preferir em contexto
+
     **Resposta: E.**
 
     **A está errada:** “Prefiro mais revisão cuidadosa do que correção apressada.” não satisfaz o critério cobrado. Preferir estabelece a relação preferir X a Y, sem mais.
@@ -263,10 +263,8 @@ E. Prefiro revisão cuidadosa a correção apressada.
 
 ### Questão 6
 
-**Habilidade:** aplicar regência de informar em contexto
 
 **Dificuldade:** fácil
-
 Assinale uma estrutura válida com informar.
 
 A. Informei o resultado ao candidato.
@@ -276,6 +274,8 @@ D. Informei no candidato o resultado.
 E. Informei pelo resultado ao candidato.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar regência de informar em contexto
+
     **Resposta: A.**
 
     **A está certa:** É válida a estrutura informar algo a alguém.
@@ -292,10 +292,8 @@ E. Informei pelo resultado ao candidato.
 
 ### Questão 7
 
-**Habilidade:** aplicar regência de chegar em contexto
 
 **Dificuldade:** média
-
 Assinale a forma adequada.
 
 A. O servidor chegou no setor às oito horas como única forma padrão.
@@ -305,6 +303,8 @@ D. O servidor chegou pelo setor às oito horas.
 E. O servidor chegou sob o setor às oito horas.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar regência de chegar em contexto
+
     **Resposta: B.**
 
     **A está errada:** “O servidor chegou no setor às oito horas como única forma padrão.” não satisfaz o critério cobrado. Na norma-padrão formal, chegar rege a para indicar destino.
@@ -321,10 +321,8 @@ E. O servidor chegou sob o setor às oito horas.
 
 ### Questão 8
 
-**Habilidade:** aplicar regência de visar em contexto
 
 **Dificuldade:** média
-
 No sentido de visar a um objetivo, assinale a opção adequada.
 
 A. A medida visa a eficiência.
@@ -334,6 +332,8 @@ D. A medida visa com a eficiência.
 E. A medida visa pela eficiência.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar regência de visar em contexto
+
     **Resposta: C.**
 
     **A está errada:** “A medida visa a eficiência.” não satisfaz o critério cobrado. Visar no sentido de almejar rege a; eficiência admite artigo.
@@ -350,10 +350,8 @@ E. A medida visa pela eficiência.
 
 ### Questão 9
 
-**Habilidade:** aplicar sentido e regência de assistir em contexto
 
 **Dificuldade:** difícil
-
 Em 'O médico assistiu o paciente', assistir significa:
 
 A. ver ou presenciar
@@ -363,6 +361,8 @@ D. prestar assistência
 E. acarretar
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar sentido e regência de assistir em contexto
+
     **Resposta: D.**
 
     **A está errada:** “ver ou presenciar” não satisfaz o critério cobrado. No sentido de prestar assistência, assistir admite objeto direto.
@@ -379,10 +379,8 @@ E. acarretar
 
 ### Questão 10
 
-**Habilidade:** aplicar método VERBO em contexto
 
 **Dificuldade:** média
-
 Qual etapa inicia o método VERBO?
 
 A. Inserir uma preposição por sonoridade.
@@ -392,6 +390,8 @@ D. Manter sempre a mesma regência em todos os sentidos.
 E. Verificar o sentido do verbo no contexto.
 
 ??? question "Mostrar resposta e comentário"
+    **Habilidade cobrada:** aplicar método VERBO em contexto
+
     **Resposta: E.**
 
     **A está errada:** “Inserir uma preposição por sonoridade.” não satisfaz o critério cobrado. A mudança de sentido pode alterar a regência.
